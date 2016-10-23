@@ -1,0 +1,55 @@
+{
+	"projectName": "PHP USERGROUP DRESDEN e.V.",
+	"baseUrl": "https://php-usergroup-dresden.github.io",
+	"outputDir": "./docs",
+	"contentsDir": "./contents/",
+	"replacements": {
+		"@website_version@": "v0.1.0",
+		"@imprint_url@": "https://dunkelfrosch.com/show/me/phpugdd/imprint",
+		"@privacy_url@": "https://dunkelfrosch.com/show/me/phpugdd/privacy",
+		"@github_url@": "https://github.com/php-usergroup-dresden",
+		"@twitter_url@": "https://twitter.com/phpugdd",
+		"@facebook_url@": "https://www.facebook.com/PHP-USERGROUP-DRESDEN-1623896237827037",
+		"@xing_url@": "https://www.xing.com/communities/groups/php-usergroup-dresden-bac6-1084388",
+		"@gitter_url@": "https://gitter.im/php-usergroup-dresden/phpugdd",
+		"@slackteam_url": "https://phpugdd.slack.com",
+		"@contact_email": "info@phpug-dresden.org",
+		"@board_member@": "Holger Woltersdorf, Marcel Führer, Patrick Pächnatz",
+		"@twitter_handle@": "@phpugdd"
+	},
+	"pages": {
+		"/index.html": {
+			"pageLevel": 1,
+			"navName": "Home",
+			"pageTitle": "Coming soon",
+			"description": "Website of the PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"PHP",
+				"USERGROUP",
+				"DRESDEN",
+				"Website"
+			],
+			"contentType": "html",
+			"renderer": "twig",
+			"template": "coming-soon.twig",
+			"contentFile": "",
+			"children": []
+		},
+		"/404.html": {
+			"pageLevel": 1,
+			"navName": "Not Found",
+			"pageTitle": "404 - Not Found",
+			"description": "The page you requested was not found.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [],
+			"contentType": "html",
+			"renderer": "twig",
+			"template": "templates/404.twig",
+			"contentFile": "",
+			"children": []
+		}
+	}
+}

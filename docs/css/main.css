@@ -1,3 +1,11 @@
 * html, body {
 	font-family: "robotoregular", Helvetica, Arial, sans-serif;
 }
+
+.blockspace {
+	margin: 15px 0;
+}
+
+#footer .icons {
+	font-size: x-large;
+}

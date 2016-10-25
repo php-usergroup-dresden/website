@@ -1,3 +1,22 @@
 {% extends "templates/theme.twig" %}
 
-{% block content %}{{ content|raw }}{% endblock %}
+{% block content %}
+
+	<div class="row blockspace">
+		<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
+			<a href="{{ pages.getBaseUrl ~ '/' }}">
+				<img src="{{ pages.getBaseUrl ~ '/images/logo.png' }}" class="img-responsive" alt="{{ pages.getProjectName }}">
+			</a>
+		</div>
+		<div class="col-xs-8 col-sm-8 col-md-9 col-lg-9">
+			<h1>{{ pages.getProjectName }} <span class="small">[VR 9725]</span></h1>
+
+			<hr class="blockspace">
+
+			{{ content|raw }}
+
+
+		</div>
+	</div>
+
+{% endblock %}

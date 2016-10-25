@@ -1,12 +1,11 @@
 {
 	"projectName": "PHP USERGROUP DRESDEN e.V.",
 	"baseUrl": "https://php-usergroup-dresden.github.io/website",
+	"baseUrlDev": "http://127.0.0.1:8088",
 	"outputDir": "./docs",
 	"contentsDir": "./contents/",
 	"replacements": {
 		"@website_version@": "v0.1.0",
-		"@imprint_url@": "https://dunkelfrosch.com/show/me/phpugdd/imprint",
-		"@privacy_url@": "https://dunkelfrosch.com/show/me/phpugdd/privacy",
 		"@github_url@": "https://github.com/php-usergroup-dresden",
 		"@twitter_url@": "https://twitter.com/phpugdd",
 		"@facebook_url@": "https://www.facebook.com/PHP-USERGROUP-DRESDEN-1623896237827037",
@@ -49,6 +48,34 @@
 			"renderer": "twig",
 			"template": "templates/404.twig",
 			"contentFile": "",
+			"children": []
+		},
+		"/imprint.html": {
+			"pageLevel": 1,
+			"navName": "Impressum",
+			"pageTitle": "Impressum",
+			"description": "Impressum des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "imprint.md",
+			"children": []
+		},
+		"/privacy.html": {
+			"pageLevel": 1,
+			"navName": "Datenschutz",
+			"pageTitle": "Datenschutzerklärung",
+			"description": "Datenschutzerklärung des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "privacy.md",
 			"children": []
 		}
 	}

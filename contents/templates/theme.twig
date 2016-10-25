@@ -32,6 +32,9 @@
     ]
   }
 }
+
+
+
 	</script>
 	<meta property="article:author" content="@xing_url@"/>
 	<meta property="article:publisher" content="@xing_url@"/>
@@ -88,6 +91,45 @@
 	<div class="container">
 
 		{% block content %}{% endblock %}
+
+	</div><!--/.container-->
+
+	<div class="container" id="footer">
+
+		<hr class="blockspace">
+
+		<div class="row blockspace icons">
+			<div class="col-xs-2 text-center">
+				<a href="@github_url@" title="PHP USERGROUP DRESDEN e.V. at github"><i class="fa fa-github"></i></a>
+			</div>
+			<div class="col-xs-2 text-center">
+				<a href="@twitter_url@" title="PHP USERGROUP DRESDEN e.V. at twitter"><i class="fa fa-twitter"></i></a>
+			</div>
+			<div class="col-xs-2 text-center">
+				<a href="@facebook_url@" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-facebook"></i></a>
+			</div>
+			<div class="col-xs-2 text-center">
+				<a href="@xing_url@" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-xing"></i></a>
+			</div>
+			<div class="col-xs-2 text-center">
+				<a href="@gitter_url@" title="PHP USERGROUP DRESDEN e.V. at gitter"><i class="fa fa-commenting"></i></a>
+			</div>
+			<div class="col-xs-2 text-center">
+				<a href="@slackteam_url@" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa fa-slack"></i></a>
+			</div>
+		</div>
+
+		<div class="row blockspace">
+			<div class="col-xs-12 text-center small text-muted">
+				&copy; {{ 'now'|date('Y') }} PHP USERGROUP DRESDEN e.V.
+				&middot;
+				<a href="{{ pages.getBaseUrl ~ '/imprint.html' }}">Impressum</a>
+				&middot;
+				<a href="{{ pages.getBaseUrl ~ '/privacy.html' }}">Datenschutz</a>
+				&middot;
+				Letzte Änderung: {{ 'now'|date('d.m.Y H:i') }}
+			</div>
+		</div>
 
 	</div><!--/.container-->
 

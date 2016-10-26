@@ -1,15 +1,15 @@
 {% extends "templates/theme.twig" %}
 
 {% block frontmatter %}{% endblock %}
-{% macro subTree(loopPage, pages, breadCrumb) %}
+{% macro subTree(loopPage, project, breadCrumb) %}
 	{% set isActive = (loopPage.getUri in breadCrumb|keys) %}
 	<li{% if isActive %} class="active"{% endif %}>
-		<a href="{{ pages.getBaseUrl ~ loopPage.getUri }}">{{ loopPage.getNavName }}</a>
+		<a href="{{ project.getUrl(loopPage.getUri) }}">{{ loopPage.getNavName }}</a>
 		{% if loopPage.hasChildren and isActive %}
 			<ul class="nav">
 				{% import _self as nav %}
-				{% for child in pages.getChildrenOf(loopPage) %}
-					{{ nav.subTree(child, pages, breadCrumb) }}
+				{% for child in project.getChildrenOf(loopPage) %}
+					{{ nav.subTree(child, project, breadCrumb) }}
 				{% endfor %}
 			</ul>
 		{% endif %}
@@ -21,23 +21,23 @@
 
 	<div class="row blockspace">
 		<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
-			<a href="{{ pages.getBaseUrl ~ '/' }}">
-				<img src="{{ pages.getBaseUrl ~ '/images/logo.png' }}" id="brandimg" class="img-responsive" alt="{{ pages.getProjectName }}">
+			<a href="{{ project.getUrl('/') }}">
+				<img src="{{ project.getUrl('/images/logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
 			</a>
 
 			<!-- sidebar -->
 			<nav id="sidebar" role="navigation">
 
-				<a href="{{ pages.getBaseUrl ~ '/become-member.html' }}" title="Mitglied werden" class="btn btn-block btn-success btn-lg text-uppercase">
+				<a href="{{ project.getUrl('/become-member.html') }}" title="Mitglied werden" class="btn btn-block btn-success btn-lg text-uppercase">
 					Mitglied werden
 				</a>
 
 				<hr class="blockspace">
 
 				<ul class="nav">
-					{% for loopPage in pages.getPageConfigsAtLevel(2) %}
+					{% for loopPage in project.getPageConfigsAtLevel(2) %}
 
-						{{ nav.subTree(loopPage, pages, breadCrumb) }}
+						{{ nav.subTree(loopPage, project, breadCrumb) }}
 
 					{% endfor %}
 				</ul>
@@ -46,7 +46,7 @@
 		</div>
 		<div class="col-xs-8 col-sm-8 col-md-9 col-lg-9">
 
-			<h1>{{ pages.getProjectName }} <span class="small">[VR 9725]</span></h1>
+			<h1>{{ project.getName }} <span class="small">[VR 9725]</span></h1>
 
 			<hr class="blockspace">
 
@@ -57,7 +57,7 @@
 						{% for uri, title in breadCrumb %}
 							{% if not loop.last %}
 								<li>
-									<a href="{{ pages.getBaseUrl ~ uri }}">{{ title }}</a>
+									<a href="{{ project.getUrl(uri) }}">{{ title }}</a>
 								</li>
 							{% else %}
 								<li class="active">{{ title }}</li>

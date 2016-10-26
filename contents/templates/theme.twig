@@ -2,12 +2,12 @@
 <!doctype html>
 <html lang="en">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
-	<base href="{{ pages.getBaseUrl }}">
+	<base href="{{ project.getBaseUrl }}">
 	<meta charset="utf-8"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<title>{{ page.getPageTitle }} | {{ pages.getProjectName }}</title>
+	<title>{{ page.getPageTitle }} | {{ project.getName }}</title>
 	<meta name="description" content="Coming Soon">
 	<meta name="keywords" content="{{ page.getTags|join(', ') }}">
 	<meta name="HandheldFriendly" content="True"/>
@@ -22,8 +22,8 @@
   "@context" : "http://schema.org",
   "@type": "Person",
   "name": "PHP USERGROUP DRESDEN e.V.",
-  "image": "{{ pages.getBaseUrl ~ page.getImageUrl }}",
-  "url": "{{ pages.getBaseUrl }}",
+  "image": "{{ project.getUrl(page.getImageUrl) }}",
+  "url": "{{ project.getBaseUrl }}",
   "sameAs" : [
       "@twitter_url@",
       "@xing_url@",
@@ -33,55 +33,53 @@
     ]
   }
 }
-
-
 	</script>
 	<meta property="article:author" content="@xing_url@"/>
 	<meta property="article:publisher" content="@xing_url@"/>
 
-	<link rel="apple-touch-icon" sizes="57x57" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-57x57.png' }}">
-	<link rel="apple-touch-icon" sizes="60x60" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-60x60.png' }}">
-	<link rel="apple-touch-icon" sizes="72x72" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-72x72.png' }}">
-	<link rel="apple-touch-icon" sizes="76x76" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-76x76.png' }}">
-	<link rel="apple-touch-icon" sizes="114x114" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-114x114.png' }}">
-	<link rel="apple-touch-icon" sizes="120x120" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-120x120.png' }}">
-	<link rel="apple-touch-icon" sizes="144x144" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-144x144.png' }}">
-	<link rel="apple-touch-icon" sizes="152x152" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-152x152.png' }}">
-	<link rel="apple-touch-icon" sizes="180x180" href="{{ pages.getBaseUrl ~ '/images/favicons/apple-icon-180x180.png' }}">
-	<link rel="icon" type="image/png" sizes="192x192" href="{{ pages.getBaseUrl ~ '/images/favicons/android-icon-192x192.png' }}">
-	<link rel="icon" type="image/png" sizes="32x32" href="{{ pages.getBaseUrl ~ '/images/favicons/favicon-32x32.png' }}">
-	<link rel="icon" type="image/png" sizes="96x96" href="{{ pages.getBaseUrl ~ '/images/favicons/favicon-96x96.png' }}">
-	<link rel="icon" type="image/png" sizes="16x16" href="{{ pages.getBaseUrl ~ '/images/favicons/favicon-16x16.png' }}">
+	<link rel="apple-touch-icon" sizes="57x57" href="{{ project.getUrl('/images/favicons/apple-icon-57x57.png') }}">
+	<link rel="apple-touch-icon" sizes="60x60" href="{{ project.getUrl('/images/favicons/apple-icon-60x60.png') }}">
+	<link rel="apple-touch-icon" sizes="72x72" href="{{ project.getUrl('/images/favicons/apple-icon-72x72.png') }}">
+	<link rel="apple-touch-icon" sizes="76x76" href="{{ project.getUrl('/images/favicons/apple-icon-76x76.png') }}">
+	<link rel="apple-touch-icon" sizes="114x114" href="{{ project.getUrl('/images/favicons/apple-icon-114x114.png') }}">
+	<link rel="apple-touch-icon" sizes="120x120" href="{{ project.getUrl('/images/favicons/apple-icon-120x120.png') }}">
+	<link rel="apple-touch-icon" sizes="144x144" href="{{ project.getUrl('/images/favicons/apple-icon-144x144.png') }}">
+	<link rel="apple-touch-icon" sizes="152x152" href="{{ project.getUrl('/images/favicons/apple-icon-152x152.png') }}">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ project.getUrl('/images/favicons/apple-icon-180x180.png') }}">
+	<link rel="icon" type="image/png" sizes="192x192" href="{{ project.getUrl('/images/favicons/android-icon-192x192.png') }}">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ project.getUrl('/images/favicons/favicon-32x32.png') }}">
+	<link rel="icon" type="image/png" sizes="96x96" href="{{ project.getUrl('/images/favicons/favicon-96x96.png') }}">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ project.getUrl('/images/favicons/favicon-16x16.png') }}">
 	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="{{ pages.getBaseUrl ~ '/images/favicons/ms-icon-144x144.png' }}">
+	<meta name="msapplication-TileImage" content="{{ project.getUrl('/images/favicons/ms-icon-144x144.png') }}">
 	<meta name="theme-color" content="#ffffff">
 
-	<link rel="canonical" href="{{ pages.getBaseUrl ~ page.getUri }}"/>
+	<link rel="canonical" href="{{ project.getUrl(page.getUri) }}"/>
 	<meta name="referrer" content="origin"/>
 
-	<meta property="og:site_name" content="{{ pages.getProjectName }}"/>
+	<meta property="og:site_name" content="{{ project.getName }}"/>
 	<meta property="og:type" content="article"/>
-	<meta property="og:title" content="{{ page.getPageTitle }} | {{ pages.getProjectName }}"/>
+	<meta property="og:title" content="{{ page.getPageTitle }} | {{ project.getName }}"/>
 	<meta property="og:description" content="{{ page.getDescription }}"/>
-	<meta property="og:url" content="{{ pages.getBaseUrl }}"/>
-	<meta property="og:image" content="{{ pages.getBaseUrl ~ page.getImageUrl }}"/>
+	<meta property="og:url" content="{{ project.getBaseUrl }}"/>
+	<meta property="og:image" content="{{ project.getUrl(page.getImageUrl) }}"/>
 	<meta property="article:published_time" content="{{ 'now'|date('c') }}"/>
 	<meta property="article:modified_time" content="{{ 'now'|date('c') }}"/>
 	{% for tag in page.getTags %}
 		<meta property="article:tag" content="{{ tag }}"/>
 	{% endfor %}
 	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:title" content="{{ page.getPageTitle }} | {{ pages.getProjectName }}"/>
+	<meta name="twitter:title" content="{{ page.getPageTitle }} | {{ project.getName }}"/>
 	<meta name="twitter:description" content="{{ page.getDescription }}"/>
-	<meta name="twitter:url" content="{{ pages.getBaseUrl ~ page.getUri }}"/>
-	<meta name="twitter:image:src" content="{{ pages.getBaseUrl ~ page.getImageUrl }}"/>
+	<meta name="twitter:url" content="{{ project.getUrl(page.getUri ) }}"/>
+	<meta name="twitter:image:src" content="{{ project.getUrl(page.getImageUrl) }}"/>
 
 	<meta name="generator" content="IceHawk Static Page Generator"/>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<link rel="stylesheet" href="{{ pages.getBaseUrl ~ '/css/webfonts.css' }}">
-	<link rel="stylesheet" href="{{ pages.getBaseUrl ~ '/css/main.css' }}">
+	<link rel="stylesheet" href="{{ project.getUrl('/css/webfonts.css') }}">
+	<link rel="stylesheet" href="{{ project.getUrl('/css/main.css') }}">
 	<script src="https://use.fontawesome.com/12e03fffec.js" async="async"></script>
 </head>
 <body>
@@ -121,13 +119,15 @@
 
 		<div class="row blockspace">
 			<div class="col-xs-12 text-center small text-muted">
+				@website_version@
+				&middot;
 				&copy; {{ 'now'|date('Y') }} PHP USERGROUP DRESDEN e.V.
 				&middot;
-				<a href="{{ pages.getBaseUrl ~ '/statutes.html' }}">Satzung</a>
+				<a href="{{ project.getUrl('/statutes.html') }}">Satzung</a>
 				&middot;
-				<a href="{{ pages.getBaseUrl ~ '/imprint.html' }}">Impressum</a>
+				<a href="{{ project.getUrl('/imprint.html') }}">Impressum</a>
 				&middot;
-				<a href="{{ pages.getBaseUrl ~ '/privacy.html' }}">Datenschutz</a>
+				<a href="{{ project.getUrl('/privacy.html') }}">Datenschutz</a>
 				&middot;
 				Letzte Änderung: {{ 'now'|date('d.m.Y H:i') }}
 			</div>
@@ -139,7 +139,7 @@
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="{{ pages.getBaseUrl ~ '/js/main.js' }}"></script>
+<script type="text/javascript" src="{{ project.getUrl('/js/main.js') }}"></script>
 {% block javascripts %}{% endblock %}
 </body>
 </html>

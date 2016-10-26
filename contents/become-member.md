@@ -33,7 +33,7 @@ orga`[at]`phpug-dresden`[dot]`org
 --- 
 
 <div class="text-center">
-	<a href="@base_url@/downloads/Mitgliedsantrag.pdf" target="_blank" title="Mitgliedsantrag des PHP USERGROUP DRESDEN e.V." class="btn btn-success btn-lg">
+	<a href="@baseUrl@/downloads/Mitgliedsantrag.pdf" target="_blank" title="Mitgliedsantrag des PHP USERGROUP DRESDEN e.V." class="btn btn-success btn-lg">
 		<i class="fa fa-file-pdf-o"></i> Mitgliedsantrag herunterladen
 	</a>
 </div>

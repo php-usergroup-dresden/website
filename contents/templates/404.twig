@@ -1,4 +1,9 @@
 {% extends "templates/theme.twig" %}
+{% block frontmatter %}
+	--
+	Permalink: /404.html
+	--
+{% endblock %}
 {% block content %}
 
 	<div class="text-center">
@@ -6,14 +11,16 @@
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 
-		<img src="{{ pages.getBaseUrl ~ '/images/logo_500x500.png' }}" alt="PHP USERGROUP DRESDEN e.V.">
-
-		<h1>Woops! - 404 Not Found</h1>
+		<h2>Woops! - 404 Not Found</h2>
 
 		<p>&nbsp;</p>
 		<p class="text-center">
-			The page you requested was not found.
+			Deine gesuchte Seite gibt es hier wohl nicht.
 		</p>
+		<p>&nbsp;</p>
+		<h4 class="text-center">
+			<a href="{{ project.getUrl('/') }}" title="Zur Startseite">Zur Startseite</a>
+		</h4>
 		<p>&nbsp;</p>
 	</div>
 

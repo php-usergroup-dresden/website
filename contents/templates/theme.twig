@@ -1,4 +1,19 @@
 {% block frontmatter %}{% endblock %}
+{% macro subTree(loopPage, project, breadCrumb) %}
+	{% set isActive = (loopPage.getUri in breadCrumb|keys) %}
+	<li{% if isActive %} class="active"{% endif %}>
+		<a href="{{ project.getUrl(loopPage.getUri) }}">{{ loopPage.getNavName }}</a>
+		{% if loopPage.hasChildren and isActive %}
+			<ul class="nav">
+				{% import _self as nav %}
+				{% for child in project.getChildrenOf(loopPage) %}
+					{{ nav.subTree(child, project, breadCrumb) }}
+				{% endfor %}
+			</ul>
+		{% endif %}
+	</li>
+{% endmacro subTree %}
+{% import _self as nav %}
 <!doctype html>
 <html lang="en">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
@@ -33,6 +48,9 @@
     ]
   }
 }
+
+
+
 	</script>
 	<meta property="article:author" content="@xing_url@"/>
 	<meta property="article:publisher" content="@xing_url@"/>
@@ -88,34 +106,91 @@
 
 	<div class="container">
 
-		{% block content %}{% endblock %}
+		<div class="row blockspace">
+			<div class="col-xs-4 col-sm-4 col-md-3 col-lg-3">
+				<a href="{{ project.getUrl('/') }}">
+					<img src="{{ project.getUrl('/images/logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
+				</a>
+
+				<!-- sidebar -->
+				<nav id="sidebar" role="navigation">
+
+					<a href="{{ project.getUrl('/become-member.html') }}" title="Mitglied werden" class="btn btn-block btn-success btn-lg text-uppercase">
+						<i class="fa fa-hand-peace-o"></i> Mitglied werden
+					</a>
+
+					<hr class="blockspace">
+
+					<ul class="nav">
+						{% for loopPage in project.getPageConfigsAtLevel(2) %}
+
+							{{ nav.subTree(loopPage, project, breadCrumb) }}
+
+						{% endfor %}
+					</ul>
+				</nav>
+
+				<hr class="blockspace">
+
+				<div id="socialmedia">
+					<div class="row">
+						<div class="col-xs-4 text-center">
+							<a href="@github_url@" title="PHP USERGROUP DRESDEN e.V. at github"><i class="fa fa-github"></i></a>
+						</div>
+						<div class="col-xs-4 text-center">
+							<a href="@twitter_url@" title="PHP USERGROUP DRESDEN e.V. at twitter"><i class="fa fa-twitter"></i></a>
+						</div>
+						<div class="col-xs-4 text-center">
+							<a href="@facebook_url@" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-facebook"></i></a>
+						</div>
+						<div class="col-xs-4 text-center">
+							<a href="@xing_url@" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-xing"></i></a>
+						</div>
+						<div class="col-xs-4 text-center">
+							<a href="@gitter_url@" title="PHP USERGROUP DRESDEN e.V. at gitter"><i class="fa fa-commenting"></i></a>
+						</div>
+						<div class="col-xs-4 text-center">
+							<a href="@slackteam_url@" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa fa-slack"></i></a>
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<div class="col-xs-8 col-sm-8 col-md-9 col-lg-9">
+
+				<h1>{{ project.getName }} <span class="small">[VR 9725]</span></h1>
+
+				<hr class="blockspace">
+
+				<div class="row hidden-xs hidden-sm">
+
+					<div class="col-md-12 col-lg-12">
+						<ul class="breadcrumb hidden-xs hidden-sm">
+							{% for uri, title in breadCrumb %}
+								{% if not loop.last %}
+									<li>
+										<a href="{{ project.getUrl(uri) }}">{{ title }}</a>
+									</li>
+								{% else %}
+									<li class="active">{{ title }}</li>
+								{% endif %}
+							{% endfor %}
+						</ul>
+					</div>
+
+				</div>
+
+				{% block content %}{% endblock %}
+
+			</div>
+		</div>
+
 
 	</div><!--/.container-->
 
 	<div class="container" id="footer">
 
 		<hr class="blockspace">
-
-		<div class="row blockspace icons">
-			<div class="col-xs-2 text-center">
-				<a href="@github_url@" title="PHP USERGROUP DRESDEN e.V. at github"><i class="fa fa-github"></i></a>
-			</div>
-			<div class="col-xs-2 text-center">
-				<a href="@twitter_url@" title="PHP USERGROUP DRESDEN e.V. at twitter"><i class="fa fa-twitter"></i></a>
-			</div>
-			<div class="col-xs-2 text-center">
-				<a href="@facebook_url@" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-facebook"></i></a>
-			</div>
-			<div class="col-xs-2 text-center">
-				<a href="@xing_url@" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-xing"></i></a>
-			</div>
-			<div class="col-xs-2 text-center">
-				<a href="@gitter_url@" title="PHP USERGROUP DRESDEN e.V. at gitter"><i class="fa fa-commenting"></i></a>
-			</div>
-			<div class="col-xs-2 text-center">
-				<a href="@slackteam_url@" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa fa-slack"></i></a>
-			</div>
-		</div>
 
 		<div class="row blockspace">
 			<div class="col-xs-12 text-center small text-muted">

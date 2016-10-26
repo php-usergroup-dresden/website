@@ -2,18 +2,67 @@
 	font-family: "robotoregular", Helvetica, Arial, sans-serif;
 }
 
+a {
+	color: #f47c20;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #d16920;
+	text-decoration: none;
+}
+
+.fa.fa-github {
+	color: #505050;
+}
+
+.fa.fa-twitter {
+	color: #4a9ee9;
+}
+
+.fa.fa-facebook {
+	color: #415993;
+}
+
+.fa.fa-xing {
+	color: #2a6366;
+}
+
+.fa.fa-commenting {
+	color: #ce2d55;
+}
+
+.fa.fa-slack {
+	color: #e1ab3b;
+}
+
 #brandimg {
 	margin: 0 auto;
 }
 
 .blockspace {
+	margin: 25px 0;
+}
+
+.orgamember {
 	margin: 15px 0;
 }
 
-#footer .icons {
-	font-size: x-large;
+.sponsor {
+	margin: 15px 0;
 }
 
 #sidebar {
 	margin: 20px 0;
+}
+
+#sidebar .nav > li.active > a {
+	background-color: #eeeeee;
+}
+
+#socialmedia a {
+	font-size: x-large;
+	margin: 15px 0;
+	display: inline-block;
 }

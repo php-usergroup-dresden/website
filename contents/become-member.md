@@ -28,7 +28,7 @@ Fetscherstr. 36
 
 **E-Mailadresse:**
 
-orga`[at]`phpug-dresden`[dot]`org
+orga<kbd>at</kbd>phpug-dresden<kbd>dot</kbd>org 
 
 --- 
 

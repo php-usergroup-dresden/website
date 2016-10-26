@@ -19,7 +19,7 @@
 		"/index.html": {
 			"pageLevel": 1,
 			"navName": "Home",
-			"pageTitle": "Coming soon",
+			"pageTitle": "Home",
 			"description": "Website of the PHP USERGROUP DRESDEN e.V.",
 			"language": "en",
 			"imageUrl": "/images/logo.png",
@@ -27,12 +27,17 @@
 				"PHP",
 				"USERGROUP",
 				"DRESDEN",
-				"Website"
+				"Website",
+				"Zweck",
+				"Orga",
+				"Team",
+				"Sponsoren",
+				"Downloads"
 			],
 			"contentType": "markdown",
 			"renderer": "twig",
 			"template": "templates/page.twig",
-			"contentFile": "coming-soon.md",
+			"contentFile": "home.md",
 			"children": [
 				"/statutes.html",
 				"/imprint.html",

@@ -4,7 +4,7 @@
 {% macro subTree(loopPage, pages, breadCrumb) %}
 	{% set isActive = (loopPage.getUri in breadCrumb|keys) %}
 	<li{% if isActive %} class="active"{% endif %}>
-		<a href="{{ loopPage.getUri }}">{{ loopPage.getNavName }}</a>
+		<a href="{{ pages.getBaseUrl ~ loopPage.getUri }}">{{ loopPage.getNavName }}</a>
 		{% if loopPage.hasChildren and isActive %}
 			<ul class="nav">
 				{% import _self as nav %}

@@ -49,7 +49,7 @@
 					<ul class="breadcrumb hidden-xs hidden-sm">
 						{% for uri, title in breadCrumb %}
 							<li{% if loop.last %} class="active"{% endif %}>
-								<a href="{{ uri }}">{{ title }}</a>
+								<a href="{{ pages.getBaseUrl ~ uri }}">{{ title }}</a>
 							</li>
 						{% endfor %}
 					</ul>

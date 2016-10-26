@@ -1,5 +1,22 @@
 {% extends "templates/theme.twig" %}
 
+{% block frontmatter %}{% endblock %}
+{% macro subTree(loopPage, pages, breadCrumb) %}
+	{% set isActive = (loopPage.getUri in breadCrumb|keys) %}
+	<li{% if isActive %} class="active"{% endif %}>
+		<a href="{{ loopPage.getUri }}">{{ loopPage.getNavName }}</a>
+		{% if loopPage.hasChildren and isActive %}
+			<ul class="nav">
+				{% import _self as nav %}
+				{% for child in pages.getChildrenOf(loopPage) %}
+					{{ nav.subTree(child, pages, breadCrumb) }}
+				{% endfor %}
+			</ul>
+		{% endif %}
+	</li>
+{% endmacro subTree %}
+{% import _self as nav %}
+
 {% block content %}
 
 	<div class="row blockspace">
@@ -7,11 +24,38 @@
 			<a href="{{ pages.getBaseUrl ~ '/' }}">
 				<img src="{{ pages.getBaseUrl ~ '/images/logo.png' }}" class="img-responsive" alt="{{ pages.getProjectName }}">
 			</a>
+
+			<!-- sidebar -->
+			<nav id="sidebar" role="navigation">
+				<ul class="nav">
+					{% for loopPage in pages.getPageConfigsAtLevel(2) %}
+
+						{{ nav.subTree(loopPage, pages, breadCrumb) }}
+
+					{% endfor %}
+				</ul>
+			</nav>
+
 		</div>
 		<div class="col-xs-8 col-sm-8 col-md-9 col-lg-9">
+
 			<h1>{{ pages.getProjectName }} <span class="small">[VR 9725]</span></h1>
 
 			<hr class="blockspace">
+
+			<div class="row hidden-xs hidden-sm">
+
+				<div class="col-md-12 col-lg-12">
+					<ul class="breadcrumb hidden-xs hidden-sm">
+						{% for uri, title in breadCrumb %}
+							<li{% if loop.last %} class="active"{% endif %}>
+								<a href="{{ uri }}">{{ title }}</a>
+							</li>
+						{% endfor %}
+					</ul>
+				</div>
+
+			</div>
 
 			{{ content|raw }}
 

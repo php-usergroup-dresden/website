@@ -30,11 +30,15 @@
 				"DRESDEN",
 				"Website"
 			],
-			"contentType": "html",
+			"contentType": "markdown",
 			"renderer": "twig",
-			"template": "coming-soon.twig",
-			"contentFile": "",
-			"children": []
+			"template": "templates/page.twig",
+			"contentFile": "coming-soon.md",
+			"children": [
+				"/statutes.html",
+				"/imprint.html",
+				"/privacy.html"
+			]
 		},
 		"/404.html": {
 			"pageLevel": 1,
@@ -50,14 +54,42 @@
 			"contentFile": "",
 			"children": []
 		},
+		"/statutes.html": {
+			"pageLevel": 2,
+			"navName": "Satzung",
+			"pageTitle": "Satzung",
+			"description": "Satzung des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Satzung",
+				"Vorstand",
+				"Mitgliedschaft",
+				"Zweck",
+				"Gründung",
+				"Organe",
+				"Mitgliederversammlung",
+				"Datenschutz",
+				"Auflösung",
+				"Mitglieder"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "statutes.md",
+			"children": []
+		},
 		"/imprint.html": {
-			"pageLevel": 1,
+			"pageLevel": 2,
 			"navName": "Impressum",
 			"pageTitle": "Impressum",
 			"description": "Impressum des PHP USERGROUP DRESDEN e.V.",
 			"language": "en",
 			"imageUrl": "/images/logo.png",
-			"tags": [],
+			"tags": [
+				"Kontakt",
+				"Impressum"
+			],
 			"contentType": "markdown",
 			"renderer": "twig",
 			"template": "templates/page.twig",
@@ -65,13 +97,20 @@
 			"children": []
 		},
 		"/privacy.html": {
-			"pageLevel": 1,
+			"pageLevel": 2,
 			"navName": "Datenschutz",
 			"pageTitle": "Datenschutzerklärung",
 			"description": "Datenschutzerklärung des PHP USERGROUP DRESDEN e.V.",
 			"language": "en",
 			"imageUrl": "/images/logo.png",
-			"tags": [],
+			"tags": [
+				"Datenschutz",
+				"Facebook",
+				"Twitter",
+				"Xing",
+				"Mailchimp",
+				"Gitter"
+			],
 			"contentType": "markdown",
 			"renderer": "twig",
 			"template": "templates/page.twig",

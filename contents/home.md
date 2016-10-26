@@ -157,3 +157,27 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
     </div>
     <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
 </div>
+
+<hr class="blockspace">
+
+## Kooperationen
+
+<div class="row blockspace">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="coop">
+			<img src="@baseUrl@/images/coops/php-magazin.jpg" alt="PHP Magazin" class="img-responsive">
+		</div>
+    </div>
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="coop">
+			<img src="@baseUrl@/images/coops/mitp.jpg" alt="mitp Verlag" class="img-responsive">
+		</div>
+	</div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="coop">
+			<a href="https://www.queo.de" target="_blank">
+				<img src="@baseUrl@/images/coops/oreilly.jpg" alt="O'Reilly Verlag" class="img-responsive">
+			</a>
+		</div>
+    </div>
+</div>

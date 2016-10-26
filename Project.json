@@ -11,6 +11,7 @@
 		"@xing_url@": "https://www.xing.com/communities/groups/php-usergroup-dresden-bac6-1084388",
 		"@gitter_url@": "https://gitter.im/php-usergroup-dresden/phpugdd",
 		"@slackteam_url": "https://phpugdd.slack.com",
+		"@meetup_url@": "http://www.meetup.com/PHP-USERGROUP-DRESDEN/",
 		"@contact_email": "info@phpug-dresden.org",
 		"@board_member@": "Holger Woltersdorf, Marcel Führer, Patrick Pächnatz",
 		"@twitter_handle@": "@phpugdd"
@@ -39,6 +40,7 @@
 			"template": "templates/page.twig",
 			"contentFile": "home.md",
 			"children": [
+				"/sponsoring.html",
 				"/statutes.html",
 				"/imprint.html",
 				"/privacy.html"
@@ -74,6 +76,42 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "become-member.md",
+			"children": []
+		},
+		"/events.html": {
+			"pageLevel": 2,
+			"navName": "Events",
+			"pageTitle": "Events",
+			"description": "Meetups des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Meeting",
+				"Meetup",
+				"Treffen",
+				"Event"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "events.md",
+			"children": []
+		},
+		"/sponsoring.html": {
+			"pageLevel": 2,
+			"navName": "Sponsoring",
+			"pageTitle": "Sponsor werden",
+			"description": "Sponsor des PHP USERGROUP DRESDEN e.V. werden",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Sponsoring",
+				"Spenden"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "sponsoring.md",
 			"children": []
 		},
 		"/statutes.html": {

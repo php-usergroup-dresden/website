@@ -1,7 +1,6 @@
 {
 	"name": "PHP USERGROUP DRESDEN e.V.",
 	"baseUrl": "https://php-usergroup-dresden.github.io/website",
-	"baseUrlDev": "http://127.0.0.1:8088/docs",
 	"outputDir": "./docs",
 	"contentsDir": "./contents/",
 	"replacements": {

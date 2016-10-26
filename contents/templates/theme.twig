@@ -1,4 +1,3 @@
-{% block frontmatter %}{% endblock %}
 {% macro subTree(loopPage, project, breadCrumb) %}
 	{% set isActive = (loopPage.getUri in breadCrumb|keys) %}
 	<li{% if isActive %} class="active"{% endif %}>

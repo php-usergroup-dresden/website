@@ -1,10 +1,12 @@
 {
 	"projectName": "PHP USERGROUP DRESDEN e.V.",
 	"baseUrl": "https://php-usergroup-dresden.github.io/website",
-	"baseUrlDev": "http://127.0.0.1:8088",
+	"baseUrlDev": "http://127.0.0.1:8088/docs",
 	"outputDir": "./docs",
 	"contentsDir": "./contents/",
 	"replacements": {
+		"@base_url@": "https://php-usergroup-dresden.github.io/website",
+		"@base_url_dev@": "http://127.0.0.1:8088/docs",
 		"@website_version@": "v0.1.0",
 		"@github_url@": "https://github.com/php-usergroup-dresden",
 		"@twitter_url@": "https://twitter.com/phpugdd",
@@ -52,6 +54,24 @@
 			"renderer": "twig",
 			"template": "templates/404.twig",
 			"contentFile": "",
+			"children": []
+		},
+		"/become-member.html": {
+			"pageLevel": 1,
+			"navName": "Mitglied werden",
+			"pageTitle": "Mitglied werden",
+			"description": "Mitglied des PHP USERGROUP DRESDEN e.V. werden",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Antrag",
+				"Mitglied",
+				"Vorteile"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "become-member.md",
 			"children": []
 		},
 		"/statutes.html": {

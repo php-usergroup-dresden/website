@@ -2,6 +2,7 @@
 <!doctype html>
 <html lang="en">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+	<base href="{{ pages.getBaseUrl }}">
 	<meta charset="utf-8"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -34,7 +35,6 @@
 }
 
 
-
 	</script>
 	<meta property="article:author" content="@xing_url@"/>
 	<meta property="article:publisher" content="@xing_url@"/>
@@ -56,7 +56,7 @@
 	<meta name="msapplication-TileImage" content="{{ pages.getBaseUrl ~ '/images/favicons/ms-icon-144x144.png' }}">
 	<meta name="theme-color" content="#ffffff">
 
-	<link rel="canonical" href="{{ pages.getBaseUrl }}"/>
+	<link rel="canonical" href="{{ pages.getBaseUrl ~ page.getUri }}"/>
 	<meta name="referrer" content="origin"/>
 
 	<meta property="og:site_name" content="{{ pages.getProjectName }}"/>
@@ -139,7 +139,7 @@
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="{{ pages.getBaseUrl ~ '/js/main.js' }}"></script>
 {% block javascripts %}{% endblock %}
 </body>
 </html>

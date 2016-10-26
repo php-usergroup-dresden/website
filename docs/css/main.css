@@ -2,6 +2,10 @@
 	font-family: "robotoregular", Helvetica, Arial, sans-serif;
 }
 
+#brandimg {
+	margin: 0 auto;
+}
+
 .blockspace {
 	margin: 15px 0;
 }

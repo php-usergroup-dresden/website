@@ -1,5 +1,11 @@
 ## IMPRESSUM
 
+<span class="pull-right">
+	<a href="@baseUrl@/downloads/Impressum.pdf" target="_blank" title="Download als PDF">
+		<i class="fa fa-file-pdf-o"></i> Als PDF herunterladen
+	</a>
+</span>
+
 ### Angaben gemäß § 5 TMG
 
 PHP USERGROUP DRESDEN e. V.  

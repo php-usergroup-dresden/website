@@ -53,6 +53,10 @@ a:active {
 	margin: 15px 0;
 }
 
+.orgamember h4 {
+	font-size: larger;
+}
+
 .sponsor {
 	margin: 15px 0;
 }
@@ -62,10 +66,16 @@ a:active {
 }
 
 #sidebar {
-	margin: 20px 0;
+	height: 100%;
+	padding-right: 0;
+	padding-top: 30px;
 }
 
-#sidebar .nav > li.active > a {
+#sidebar nav {
+	margin: 0 10px;
+}
+
+#sidenav .nav > li.active > a {
 	background-color: #eeeeee;
 }
 
@@ -73,4 +83,49 @@ a:active {
 	font-size: x-large;
 	margin: 15px 0;
 	display: inline-block;
+}
+
+/* collapsed sidebar styles */
+@media screen and (max-width: 767px) {
+
+	#mainstage > h1 {
+		font-size: x-large;
+	}
+
+	.row-offcanvas {
+		position: relative;
+		-webkit-transition: all 0.25s ease-out;
+		-moz-transition: all 0.25s ease-out;
+		transition: all 0.25s ease-out;
+	}
+
+	.row-offcanvas-right .sidebar-offcanvas {
+		right: -50.0%;
+	}
+
+	.row-offcanvas-left .sidebar-offcanvas {
+		left: -50.0%;
+	}
+
+	.row-offcanvas-right.active {
+		right: 50.0%;
+	}
+
+	.row-offcanvas-left.active {
+		left: 50.0%;
+	}
+
+	.sidebar-offcanvas {
+		position: absolute;
+		top: 0;
+		width: 50.0%;
+	}
+
+    .btn {
+	    font-size: small;
+    }
+
+    #sidenav > .btn.blockspace {
+	    margin-top: 0;
+    }
 }

@@ -118,6 +118,9 @@
 					<hr class="blockspace">
 
 					<ul class="nav">
+						<li class="hidden-sm hidden-md hidden-lg">
+							<a href="{{ project.getUrl('/') }}" title="Home">Home</a>
+							</li>
 						{% for loopPage in project.getPageConfigsAtLevel(2) %}
 
 							{{ nav.subTree(loopPage, project, breadCrumb) }}

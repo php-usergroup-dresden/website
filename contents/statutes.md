@@ -1,5 +1,11 @@
 ## Satzung
 
+<span class="pull-right">
+	<a href="@baseUrl@/downloads/Vereinssatzung.pdf" target="_blank" title="Download als PDF">
+		<i class="fa fa-file-pdf-o"></i> Als PDF herunterladen
+	</a>
+</span>
+
 ### § 1 Name, Sitz und Geschäftsjahr
 
 Der Verein führt den Namen "PHP USERGROUP DRESDEN". Er soll in das Vereinsregister eingetragen werden und führt nach der Eintragung den Zusatz "e.V." im Namen

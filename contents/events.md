@@ -19,6 +19,11 @@
 	</div>
 </div>
 
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
+Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
 ### Vergange Events
 
 &nbsp;

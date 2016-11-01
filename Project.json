@@ -40,6 +40,8 @@
 			"template": "templates/page.twig",
 			"contentFile": "home.md",
 			"children": [
+				"/events.html",
+				"/call-for-papers.html",
 				"/sponsoring.html",
 				"/statutes.html",
 				"/imprint.html",
@@ -95,6 +97,26 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "events.md",
+			"children": []
+		},
+		"/call-for-papers.html": {
+			"pageLevel": 2,
+			"navName": "Call for Papers",
+			"pageTitle": "Call for Papers (CFP)",
+			"description": "Call for Papers (CFP) des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Papers",
+				"Meetup",
+				"Vortrag",
+				"Talk",
+				"Slides"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "call-for-papers.md",
 			"children": []
 		},
 		"/sponsoring.html": {

@@ -85,6 +85,10 @@ a:active {
 	display: inline-block;
 }
 
+#swk {
+	padding: 10px 20px;
+}
+
 /* collapsed sidebar styles */
 @media screen and (max-width: 767px) {
 

@@ -93,6 +93,7 @@
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/webfonts.css') }}">
+	<link rel="stylesheet" href="{{ project.getUrl('/css/twemoji-awesome.css') }}">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/main.css') }}">
 	<script src="https://use.fontawesome.com/e89ed69fdb.js" async="async"></script>
 </head>
@@ -108,7 +109,11 @@
 				<!-- sidebar -->
 				<nav id="sidenav">
 					<a href="{{ project.getUrl('/') }}" class="hidden-xs hidden-sm">
-						<img src="{{ project.getUrl('/images/logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
+						{% if ('now'|date('m')) in [11,12] %}
+							<img src="{{ project.getUrl('/images/logo-xmas.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
+						{% else %}
+							<img src="{{ project.getUrl('/images/logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
+						{% endif %}
 					</a>
 
 					<a href="{{ project.getUrl('/become-member.html') }}" title="Mitglied werden" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
@@ -143,9 +148,6 @@
 							</div>
 							<div class="col-xs-4 text-center">
 								<a href="@xing_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-xing"></i></a>
-							</div>
-							<div class="col-xs-4 text-center">
-								<a href="@gitter_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at gitter"><i class="fa fa-github-square"></i></a>
 							</div>
 							<div class="col-xs-4 text-center">
 								<a href="@slackteam_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa fa-slack"></i></a>

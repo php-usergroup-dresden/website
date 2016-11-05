@@ -100,6 +100,27 @@
 			"contentFile": "events.md",
 			"children": []
 		},
+		"/events/2016/x-mas-issue-bash.html": {
+			"pageLevel": 2,
+			"navName": "X-Mas Issue Bash",
+			"pageTitle": "X-Mas Issue Bash 2016",
+			"description": "Der X-Mas Issue Bash 2016 des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"X-Mas",
+				"Issue",
+				"Bash",
+				"GitHub",
+				"Open Source",
+				"Contributing"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "events/2016/x-mas-issue-bash.md",
+			"children": []
+		},
 		"/call-for-papers.html": {
 			"pageLevel": 2,
 			"navName": "Call for Papers",

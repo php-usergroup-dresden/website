@@ -42,6 +42,7 @@
 			"children": [
 				"/events.html",
 				"/call-for-papers.html",
+				"/newsletter-archive.html",
 				"/sponsoring.html",
 				"/statutes.html",
 				"/imprint.html",
@@ -134,6 +135,26 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "sponsoring.md",
+			"children": []
+		},
+		"/newsletter-archive.html": {
+			"pageLevel": 2,
+			"navName": "Newsletter Archiv",
+			"pageTitle": "Newsletter Archiv",
+			"description": "Newsletter Archiv des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Newsletter",
+				"Archive",
+				"Meetups",
+				"Events",
+				"News"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "newsletter-archive.md",
 			"children": []
 		},
 		"/statutes.html": {

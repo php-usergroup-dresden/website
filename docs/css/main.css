@@ -41,6 +41,10 @@ a:active {
 	color: #e1ab3b;
 }
 
+.fa.fa-youtube {
+	color: #000000;
+}
+
 #brandimg {
 	margin: 0 auto;
 }
@@ -65,6 +69,11 @@ a:active {
 	margin: 15px 0;
 }
 
+.img-inline {
+	display: inline-block;
+	margin: 5px;
+}
+
 #sidebar {
 	height: 100%;
 	padding-right: 0;
@@ -75,8 +84,18 @@ a:active {
 	margin: 0 10px;
 }
 
+#sidebar nav > li > ul {
+	margin: 5px 0;
+}
+
 #sidenav .nav > li.active > a {
-	background-color: #eeeeee;
+	background-color: #f6f6f6;
+}
+
+#sidenav .nav > li > ul > li {
+	font-size: smaller;
+	padding-left: 15px;
+	border-top: 1px solid #eee;
 }
 
 #socialmedia a {

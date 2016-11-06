@@ -12,6 +12,7 @@
 		"@gitter_url@": "https://gitter.im/php-usergroup-dresden/phpugdd",
 		"@slackteam_url@": "https://slackinvite.me/to/phpugdd",
 		"@meetup_url@": "http://www.meetup.com/PHP-USERGROUP-DRESDEN/",
+		"@youtube_url@": "https://www.youtube.com/channel/UC9RvlzszDfeZ_ILq0JSNHZQ",
 		"@contact_email@": "info@phpug-dresden.org",
 		"@board_member@": "Holger Woltersdorf, Marcel Führer, Patrick Pächnatz",
 		"@twitter_handle@": "@phpugdd"
@@ -98,7 +99,9 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "events.md",
-			"children": []
+			"children": [
+				"/events/2016/php-developer-day.html"
+			]
 		},
 		"/events/2016/x-mas-issue-bash.html": {
 			"pageLevel": 3,
@@ -119,6 +122,28 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "events/2016/x-mas-issue-bash.md",
+			"children": []
+		},
+		"/events/2016/php-developer-day.html": {
+			"pageLevel": 3,
+			"navName": "PHP Developer Day 2016",
+			"pageTitle": "PHP Developer Day 2016",
+			"description": "Der PHP Developer Day 2016 des PHP USERGROUP DRESDEN e.V.",
+			"language": "en",
+			"imageUrl": "/images/phpdd16-logo.jpg",
+			"tags": [
+				"PHP Developer Day",
+				"Scheune",
+				"Dresden",
+				"Neustadt",
+				"Meetup",
+				"Talks",
+				"Speaker"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "events/2016/php-developer-day.md",
 			"children": []
 		},
 		"/call-for-papers.html": {

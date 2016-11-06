@@ -28,7 +28,7 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 
 &nbsp;
 
-#### PHP Developer Day am 24. September 2016
+#### [PHP Developer Day am 24. September 2016](@baseUrl@/events/2016/php-developer-day.html)
   
 Vorträge:
 
@@ -39,6 +39,8 @@ Vorträge:
 * Bernhard Schussek: "Forms Do's and Don'ts"
 * Sebastian Heuer: "A Developers Survival Guide for the Microservice Era"
 * Sandro Keil: "The Way to hassle free Docker PHP Web Stack Deployments"
+
+[mehr lesen...](@baseUrl@/events/2016/php-developer-day.html) oder [<i class="fa fa-youtube"></i> Videos ansehen](https://www.youtube.com/playlist?list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O)
 
 &nbsp;
 

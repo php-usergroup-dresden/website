@@ -130,4 +130,4 @@ Genug Potenzial haben wir! Folgt uns und werdet Teil dieser Bewegung.
 <img src="@baseUrl@/images/events/phpdd16/Gloreiche_Halunken-1024x768.jpg" class="img-inline img-responsive" alt="PHP Developer Day 2016">
 
 
-### [Werde Teil der Bewegung - jetzt Mitglied werden!](@baseUrl/become-member.html)
+### [Werde Teil der Bewegung - jetzt Mitglied werden!](@baseUrl@/become-member.html)

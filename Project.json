@@ -101,7 +101,8 @@
 			"contentFile": "events.md",
 			"children": [
 				"/events/2016/x-mas-issue-bash.html",
-				"/events/2016/php-developer-day.html"
+				"/events/2016/php-developer-day.html",
+				"/events/2015/php-developer-day.html"
 			]
 		},
 		"/events/2016/x-mas-issue-bash.html": {
@@ -145,6 +146,27 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "events/2016/php-developer-day.md",
+			"children": []
+		},
+		"/events/2015/php-developer-day.html": {
+			"pageLevel": 3,
+			"navName": "PHP Developer Day 2015",
+			"pageTitle": "PHP Developer Day 2015",
+			"description": "Der move:elevator PHP Developer Day 2015",
+			"language": "en",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"PHP Developer Day",
+				"Orpheum",
+				"Dresden",
+				"Meetup",
+				"Talks",
+				"Speaker"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "events/2015/php-developer-day.md",
 			"children": []
 		},
 		"/call-for-papers.html": {

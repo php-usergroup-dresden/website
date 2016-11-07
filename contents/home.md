@@ -7,6 +7,19 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
  
 <hr class="blockspace">
  
+### Nächstes Event
+
+&nbsp;
+
+#### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
+
+* Kurzer Vortag zum Thema: Open Source Contributing Workflow
+* Hands-on-Code Session mit vorhandenen Issues der Teilnehmer
+
+[Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html) | [Anmelden](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/)
+
+<hr class="blockspace">
+ 
 ## Das Orga-Team
 
 <div class="row blockspace">

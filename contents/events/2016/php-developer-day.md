@@ -130,4 +130,90 @@ Genug Potenzial haben wir! Folgt uns und werdet Teil dieser Bewegung.
 <img src="@baseUrl@/images/events/phpdd16/Gloreiche_Halunken-1024x768.jpg" class="img-inline img-responsive" alt="PHP Developer Day 2016">
 
 
-### [Werde Teil der Bewegung - jetzt Mitglied werden!](@baseUrl@/become-member.html)
+<h3 class="text-center">
+	<a href="@baseUrl@/become-member.html" title="Werde Teil der Bewegung - jetzt Mitglied werden!">
+		Werde Teil der Bewegung - jetzt Mitglied werden!
+	</a>
+</h3>
+
+<hr class="blockspace">
+
+## Speaker und Vorträge
+
+<div class="row blockspace">
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Tommy_Muehle.png" class="img-responsive">
+		<h4>Tommy Mühle</h4>
+		<a href="https://www.youtube.com/watch?v=3kD9t0GVGGY&index=2&list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O" target="_blank" title="Library Discovery - Stop reinventing the wheel">
+			<i class="fa fa-youtube"></i> Library Discovery<br>Stop reinventing the wheel
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Sebastian_Heuer.jpg" class="img-responsive">
+		<h4>Sebastian Heuer</h4>
+		<a href="https://speakerdeck.com/belanur/a-developers-survival-guide-for-the-microservice-era" target="_blank" title="A Developer's Survival Guide for the Microservice Era">
+			<i class="fa fa-file-powerpoint-o"></i> A Developer's Survival Guide<br>for the Microservice Era
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Benjamin_Cremer.png" class="img-responsive">
+		<h4>Benjamin Cremer</h4>
+		<a href="http://talks.benjamin-cremer.de/php-developer-day-2016/index.html#/" target="_blank" title="Deploy Shopware to the Cloud">
+			<i class="fa fa-file-powerpoint-o"></i> Deploy Shopware<br>to the Cloud
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Holger_Woltersdorf.png" class="img-responsive">
+		<h4>Holger Woltersdorf</h4>
+		<a href="http://www.slideshare.net/HolgerWoltersdorf/divide-and-conquer-2-years-of-cqrs-in-production" target="_blank" title="Divide and Conquer - 2 Years of CQRS in Production">
+			<i class="fa fa-slideshare"></i> Divide and Conquer<br>2 Years of CQRS in Production
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Patrick_Paechnatz.jpg" class="img-responsive">
+		<h4>Patrick Pächnatz</h4>
+		<a href="http://de.slideshare.net/PatrickPaechnatz/jenkins-acceleration" target="_blank" title="Jenkins Acceleration">
+			<i class="fa fa-slideshare"></i> Jenkins<br>Acceleration
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Bernhard_Schussek.png" class="img-responsive">
+		<h4>Bernhard Schussek</h4>
+		<a href="https://speakerdeck.com/webmozart/symfony2-forms-dos-and-donts" target="_blank" title="Symfony2 Forms Do's and Don'ts">
+			<i class="fa fa-file-powerpoint-o"></i> Symfony2 Forms<br>Do's and Don'ts
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
+		<img src="@baseUrl@/images/speakers/Sandro_Keil.jpg" class="img-responsive">
+		<h4>Sandro Keil</h4>
+		<a href="https://sandro-keil.de/slides/the-way-to-hassle-free-docker-php-web-stack-deployments/#/" target="_blank" title="The Way to Hassle Free Docker PHP Webstack Deployments">
+			<i class="fa fa-file-powerpoint-o"></i> The Way to Hassle Free<br>Docker PHP Webstack Deployments
+		</a>
+	</div>
+</div>
+
+<hr class="blockspace">
+
+## Sponsoren
+
+<img src="@baseUrl@/images/sponsors/moveelevator.jpg" class="img-resposive pull-right img-inline">
+move:elevator ist eine innovative Full-Service-­Werbeagentur, die in den vergangenen zehn Jahren kontinuierlich und gesund gewachsen ist. 
+An unseren Standorten Dresden und Oberhausen betreuen rund 60 Kollegen der Digital-Unit Kunden wie Coca­-Cola, die IKK, Signal Iduna und Sky.
+
+Wir entwickeln High­-End-­Lösungen in allen Facetten: von einfachen Microsites über Corporate Websites und eCommerce-Lösungen bis hin zu hoch 
+komplexen Business Solutions und mobilen Anwendungen.
+
+&nbsp;
+
+<img src="@baseUrl@/images/sponsors/shopware.jpg" class="img-resposive pull-left img-inline">
+Die shopware AG ist einer der führenden Shopsystem-Hersteller in Deutschland. Als unabhängiges und eigenkapitalfinanziertes Unternehmen entwickeln 
+wir qualitativ hochwertige Software direkt an unserem Standort und arbeiten dazu besonders eng mit unseren Kunden und Partnern zusammen.
+
+&nbsp;
+
+&nbsp;
+
+<img src="@baseUrl@/images/coops/mitp.jpg" class="img-resposive pull-right img-inline">
+Der mitp-Verlag ist einer der führenden IT-Fachbuchverlage aus Deutschland. Wir gehören weder zu einer Verlagsgruppe noch zu einem anderen großen 
+Unternehmen und sind deshalb vollkommen unabhängig. mitp
+

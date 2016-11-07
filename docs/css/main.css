@@ -53,6 +53,14 @@ a:active {
 	margin: 25px 0;
 }
 
+.speaker {
+	margin-top: 15px;
+}
+
+.speaker > img {
+	margin: 0 auto;
+}
+
 .orgamember {
 	margin: 15px 0;
 }

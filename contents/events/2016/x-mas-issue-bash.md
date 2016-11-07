@@ -1,10 +1,10 @@
 # X-Mas Issue Bash 2016
 
-<a href="@meetup_url@" title="Jetzt anmelden zum X-Mas Bash 2016" class="btn btn-success pull-right">
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/" title="Jetzt anmelden zum X-Mas Bash 2016" class="btn btn-success pull-right">
 	<i class="fa fa-snowflake-o"></i> YES, Ich bin dabei! <i class="fa fa-snowflake-o"></i>
 </a>
 
-**Wann?** Am 09. Dezember 2016 ab 18:30 Uhr  
+**Wann?** Am 09. Dezember 2016 ab 17:00 Uhr  
 **Wo?** Bei [Cloudsters Dresden](http://dresden.cloudsters.net), Bautzner Str. 22, 01099 Dresden, [<i class="fa fa-map-marker"></i> Karte](https://goo.gl/maps/r4qppH2zbqB2)
 
 <hr class="blockspace">
@@ -43,7 +43,7 @@ Dies soll auch die vermeidlich hohe Einstiegshürde, als Contributor in Open Sou
 Für Open Source Neulinge oder all diejenigen, die schon immer gern etwas contributen wollten, aber nicht mit dem Open Source "Workflow" vertraut sind, 
 bieten wir eine kleine Einführung in die Best Practices und Erfahrungen beim Contributen in Open Source Projekte an (Git&GitHub). 
 
-Dies soll euch als kleine Einleitung in Abend dienen, euch zeigen, dass eure Mitwirkung einfach, wichtig und einfach wichtig ist.
+Dies soll euch als kleine Einleitung in den Abend dienen, euch zeigen, dass eure Mitwirkung einfach, wichtig und einfach wichtig ist.
   
 <hr class="blockquote">
   
@@ -68,10 +68,14 @@ Um [@Ocramius](https://twitter.com/Ocramius) zu zitieren:
 Da wir nur begrenzt Platz haben und bzgl. Stromversorgung, Essen und Getränken etwas planen können müssen, 
 meldet euch bitte **bis zum 06. Dezember (_Nikolaus_ - einfacher zu merken)** für unseren X-Mas Issue Bash auf Meetup.com an.
 
+Um etwas mehr Zeit für den Hands-on-Code Teil zu haben, beginnen wir schon um 17:00 Uhr und planen ein Open End. 
+Aber auch wer erst später dazu kommt, kann sich einfach dazusetzen und los legen. Den "Vortrag" werden wir machen, 
+wenn wir das Gefühl haben, dass alle da sind.
+
 <div class="row blockspace">
 	<div class="hidden-xs hidden-sm col-md-3 col-lg-3"></div>
 	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-		<a href="@meetup_url@" title="Jetzt anmelden zum X-Mas Bash 2016" class="btn btn-lg btn-success btn-block">
+		<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/" title="Jetzt anmelden zum X-Mas Bash 2016" class="btn btn-lg btn-success btn-block">
 			<i class="fa fa-snowflake-o"></i> YES, Ich bin dabei! <i class="fa fa-snowflake-o"></i>
 		</a>
 	</div>

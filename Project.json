@@ -100,12 +100,13 @@
 			"template": "templates/page.twig",
 			"contentFile": "events.md",
 			"children": [
+				"/events/2016/x-mas-issue-bash.html",
 				"/events/2016/php-developer-day.html"
 			]
 		},
 		"/events/2016/x-mas-issue-bash.html": {
 			"pageLevel": 3,
-			"navName": "X-Mas Issue Bash",
+			"navName": "X-Mas Issue Bash 2016",
 			"pageTitle": "X-Mas Issue Bash 2016",
 			"description": "Der X-Mas Issue Bash 2016 des PHP USERGROUP DRESDEN e.V.",
 			"language": "en",

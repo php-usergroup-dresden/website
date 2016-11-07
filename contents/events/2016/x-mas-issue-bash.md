@@ -17,13 +17,13 @@ Der eine oder andere hat es sicher schon gemerkt, es geht schon wieder hart auf 
 
 Um eure Gedanken mal von _"Ab wann ist es eigentlich OK Lebkuchen zu kaufen?"_, 
 _"Was schenke ich bloß meiner Familie dieses Jahr?"_, _"Äh, Weihnachten sucks!"_ 
-oder vorweihnachtlichen Deadlines abzulenken, haben wir uns für unser letztes Meetup diesen Jahres mal etwas anderes überlegt.
+oder vorweihnachtlichen Deadlines abzulenken, haben wir uns für unser letztes Meetup diesen Jahres mal etwas besonderes überlegt.
 
 Statt der klassischen Front-Up-Talks wollen wir diesmal etwas mehr zusammenrücken und eine interaktivere
 Form des Wissensaustausches zelebrieren. Und wo könnten wir Stubenhocker das besser als vor code-gefüllten Bildschirmen?!
 
 Wie unsere UserGroup, lebt auch Open Source Software von der Mitwirkung der Community. 
-Viele - wenn nicht sogar alle - unserer Mitglieder und Besucher sind entweder selbst Autoren, Contributor oder Nutzer von Open Source Software,
+Viele - wenn nicht sogar alle - unserer Mitglieder und Besucher sind entweder selbst Autor, Contributor oder Nutzer von Open Source Software,
 aber gefühlt köchelt da jeder seinen eigenen Glühwein mit der Ausrede: _"Mir fehlt die Zeit auch noch den Code von anderen anzusehen, ich muss selbst noch meine Issues lösen."_.
  
 Zum Glück habt ihr uns, denn...
@@ -32,7 +32,7 @@ Zum Glück habt ihr uns, denn...
  
 Bei unserem letzten Meetup 2016 geht es darum, dass sich jeweils 2-3 von euch zusammentun, sich ein offenes Issue **EINES ANDEREN USERS** schnappen, es im Pair-Programming lösen und anschließend als Pull Request (PR) contributen.
 
-Wir wollen damit erreichen, dass die wirklich coolen Projekte unserer Community untereinander besser bekannt werden, jeder mal über den Tellerrand schauen kann und wir aktiv Lösungen konkret am vorliegenden Problem diskutieren können.
+Ziel ist es, die Open Source Projekte unserer Community zu fördern und untereinander zu verbessern, jeder mal die Gelegenheit hat über den Tellerrand zu schauen und wir aktiv Lösungen konkret am vorliegenden Problem diskutieren können.
 
 Dies soll auch die vermeidlich hohe Einstiegshürde, als Contributor in Open Source Projekten aktiv zu werden, senken.
 
@@ -54,14 +54,14 @@ Um [@Ocramius](https://twitter.com/Ocramius) zu zitieren:
 
 <hr class="blockquote">
 
-### Damit ihr nicht vom Hocker fallt...
+### Damit ihr nicht vom Schlitten fallt...
 
 ... servieren wir zur Coding Session ein wenig Gebäck, Glühwein, Kaffee, Bier und Brause.  
-(Wie immer gegen einen kleinen Unkostenbeitrag)
+(Wie immer gegen einen klitzekleinen Unkostenbeitrag an der Abendkasse)
 
 <hr class="blockquote">
 
-**Also,** schnappt euch euer Issue-Backlog, Notebook mit PHP-Dev-Stack, sowie Lust auf neue Erfahrungen ein und schneit bei uns vorbei!  
+**Also,** schnappt euch euer Issue-Backlog, Notebook mit PHP-Dev-Stack, sowie Lust auf neue Erfahrungen und schneit bei uns vorbei!  
 
 ## WICHTIGER HINWEIS
 

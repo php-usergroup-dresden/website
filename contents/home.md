@@ -152,23 +152,31 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
     </div>
 </div>
 <div class="row blockspace">
-	<div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
 	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
 		<div class="sponsor">
+			&nbsp;<br>
+			&nbsp;<br>
 			<a href="https://www.bike24.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/bike24.jpg" alt="Bike 24 GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-    <div class="hidden-xs hidden-sm col-md-2 col-lg-2"></div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+		<div class="sponsor">
+			<a href="https://www.ostec.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/ostec.jpg" alt="ostec GmbH" class="img-responsive">
+			</a>
+		</div>
+	</div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
     	<div class="sponsor">
+    		&nbsp;<br>
+    		&nbsp;<br>
 			<a href="https://www.php-friends.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/php-friends.jpg" alt="PHP-Friends GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-    <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
 </div>
 
 <hr class="blockspace">

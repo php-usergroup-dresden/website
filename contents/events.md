@@ -63,7 +63,8 @@ Vorträge:
 
 <i class="fa fa-map-marker"></i> Cloudsters DD, Dresden Neustadt
 
-Vorträge: "Clean Coder – Was ist ein guter Entwickler?"
+Vorträge: 
+ * André Hänsel: [<i class="fa fa-file-pdf-o"></i> "Clean Coder – Was ist ein guter Entwickler?"](@baseUrl@/downloads/meetups/2016-08-24_clean-coder.pdf)
 
 &nbsp;
 
@@ -73,8 +74,8 @@ Vorträge: "Clean Coder – Was ist ein guter Entwickler?"
 
 Vorträge: 
 
-* Lightning Talk zu "Alcie und Faker"
-* Holger Woltersdorf ["PHAR better tools"](https://www.slideshare.net/phpindd/phar-better-tools-63598189)
+* Lightning Talk zu "Alice und Faker"
+* Holger Woltersdorf [<i class="fa fa-slideshare"></i> "PHAR better tools"](https://www.slideshare.net/phpindd/phar-better-tools-63598189)
 
 &nbsp;
 
@@ -96,7 +97,7 @@ Vorträge:
 Vorträge: 
 
 * Sandro Keil: ["Docker for php developers"](https://sandro-keil.de/slides/docker-for-php-developers/#/)
-* Patrick Pächnatz: ["Docker Workbench"](http://www.slideshare.net/PatrickPaechnatz/docker-workbench)
+* Patrick Pächnatz: [<i class="fa fa-slideshare"></i> "Docker Workbench"](http://www.slideshare.net/PatrickPaechnatz/docker-workbench)
 
 &nbsp;
  
@@ -106,7 +107,7 @@ Vorträge:
 
 Vorträge: 
 
-* Holger Woltersdorf & Tobias Mißner: ["CQRS in der Praxis - Newsletter Double Opt-In"](https://www.slideshare.net/phpindd/cqrs-in-der-praxis-newsletter-doubleoptin)
+* Holger Woltersdorf & Tobias Mißner: [<i class="fa fa-slideshare"></i> "CQRS in der Praxis - Newsletter Double Opt-In"](https://www.slideshare.net/phpindd/cqrs-in-der-praxis-newsletter-doubleoptin)
 
 &nbsp;
  

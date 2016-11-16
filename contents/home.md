@@ -19,7 +19,85 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 [Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html) | [Anmelden](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/)
 
 <hr class="blockspace">
- 
+
+### Vergangene Events
+
+&nbsp;
+
+#### [<i class="fa fa-meetup"></i> Der PHP DeveloperDay 2016](@baseUrl@/events/2016/php-developer-day.html)
+
+<div class="row blockspace">
+	<p>
+        Treffen sich 100 PHP-Entwickler in der Scheune, so könnte man den PHPDD16 einleitend beschreiben. 
+        Was dabei rauskam, wie der Tag verlief und wer alles dabei war haben wir hier für euch mal kurz zusammengefasst. 
+        <a href="@baseUrl@/events/2016/php-developer-day.html" target="_blank" title="Der PHP DeveloperDay 2016">
+            mehr lesen...
+        </a>
+    </p>    
+    <br/>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+	    <div class="youtubeitem">
+			<div class="embed-responsive embed-responsive-16by9">
+			    <iframe width="266" height="150" src="https://www.youtube.com/embed/NjVQirzZ-44" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <h4>A Developer’s Survival Guide for the Microservice Era</h4>
+		</div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+        <div class="youtubeitem">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe width="266" height="150" src="https://www.youtube.com/embed/mMmj56IR8Rw" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <h4>CQRS in Production</h4>
+        </div>
+    </div>
+</div>
+<a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O" target="_blank" title="Der PHP DeveloperDay 2016">
+    <i class="fa fa-youtube"></i> Mehr Videos ansehen...
+</a>
+
+<hr class="blockspace">
+
+## Downloads
+
+<div class="row blockspace">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="downloaditem">
+			<h4>Image Bild</h4>
+			<img src="@baseUrl@/images/downloads/PHPUGDD-Imagebild.jpg" alt="PHP USERGROUP DRESDEN Image Bild" class="img-responsive">
+			<h5>
+				<a href="@baseUrl@/downloads/PHPUGDD-Imagebild.jpg" target="_blank" title="PHP USERGROUP DRESDEN Imagebild">
+					<i class="fa fa-download"></i> (JPG, 4925x3283px, 10,6 MB)
+				</a>
+			</h5>
+		</div>
+    </div>
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="downloaditem">
+			<h4>Logo</h4>
+			<img src="@baseUrl@/images/downloads/PHPUGDD-Logo.png" alt="PHP USERGROUP DRESDEN Logo" class="img-responsive">
+			<h5>
+			<a href="@baseUrl@/images/logo_500x500.png" title="PHP USERGROUP DRESDEN Logo" target="_blank">
+				<i class="fa fa-download"></i> (PNG, 500x500px, 6k kB)
+			</a>
+			</h5>
+		</div>
+	</div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="downloaditem">
+			<h4>Gründerfoto</h4>
+			<img src="@baseUrl@/images/downloads/PHPUGDD-Orga-Team.jpg" alt="PHP USERGROUP DRESDEN Gründerfoto" class="img-responsive">
+			<h5>
+				<a href="@baseUrl@/downloads/PHPUGDD-Gruenderfoto.jpg" target="_blank" title="PHP USERGROUP DRESDEN Gründerfoto">
+					<i class="fa fa-download"></i> (JPG, 4925x3283px, 10,6 MB)
+				</a>
+			</h5>
+		</div>
+    </div>
+</div>
+
+<hr class="blockspace">
+
 ## Das Orga-Team
 
 <div class="row blockspace">
@@ -79,46 +157,6 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 			(Sponsoring)
 		</div>
 	</div>
-</div>
-
-<hr class="blockspace">
-
-## Downloads
-
-<div class="row blockspace">
-	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
-    	<div class="downloaditem">
-			<h4>Image Bild</h4>
-			<img src="@baseUrl@/images/downloads/PHPUGDD-Imagebild.jpg" alt="PHP USERGROUP DRESDEN Image Bild" class="img-responsive">
-			<h5>
-				<a href="@baseUrl@/downloads/PHPUGDD-Imagebild.jpg" target="_blank" title="PHP USERGROUP DRESDEN Imagebild">
-					<i class="fa fa-download"></i> (JPG, 4925x3283px, 10,6 MB)
-				</a>
-			</h5>
-		</div>
-    </div>
-	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
-    	<div class="downloaditem">
-			<h4>Logo</h4>
-			<img src="@baseUrl@/images/downloads/PHPUGDD-Logo.png" alt="PHP USERGROUP DRESDEN Logo" class="img-responsive">
-			<h5>
-			<a href="@baseUrl@/images/logo_500x500.png" title="PHP USERGROUP DRESDEN Logo" target="_blank">
-				<i class="fa fa-download"></i> (PNG, 500x500px, 6k kB)
-			</a>
-			</h5>
-		</div>
-	</div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
-    	<div class="downloaditem">
-			<h4>Gründerfoto</h4>
-			<img src="@baseUrl@/images/downloads/PHPUGDD-Orga-Team.jpg" alt="PHP USERGROUP DRESDEN Gründerfoto" class="img-responsive">
-			<h5>
-				<a href="@baseUrl@/downloads/PHPUGDD-Gruenderfoto.jpg" target="_blank" title="PHP USERGROUP DRESDEN Gründerfoto">
-					<i class="fa fa-download"></i> (JPG, 4925x3283px, 10,6 MB)
-				</a>
-			</h5>
-		</div>
-    </div>
 </div>
 
 <hr class="blockspace">

@@ -37,6 +37,15 @@
 Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
 Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
 
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
+### Event Kalender 2017
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
 ### Vergange Events
 
 &nbsp;

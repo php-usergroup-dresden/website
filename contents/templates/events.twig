@@ -1,0 +1,41 @@
+{% extends "templates/theme.twig" %}
+
+{% block stylesheets %}
+	<link rel="stylesheet" type="text/css" href="{{ project.getUrl('/css/fullcalendar.min.css') }}" media="screen">
+	<link rel="stylesheet" type="text/css" href="{{ project.getUrl('/css/fullcalendar.print.css') }}" media="print">
+{% endblock %}
+
+{% block content %}
+
+	{{ content|raw }}
+
+{% endblock %}
+
+{% block javascripts %}
+	<script src="{{ project.getUrl('/js/moment.min.js') }}"></script>
+	<script src="{{ project.getUrl('/js/fullcalendar.min.js') }}"></script>
+	<script src="{{ project.getUrl('/js/gcal.js') }}"></script>
+	<script type='text/javascript'>
+		$(document).ready(function() {
+			$('#calendar').fullCalendar({
+				header: {
+					left: 'prev,next today',
+					center: 'title',
+					right: 'month,listYear'
+				},
+				defaultDate: '2017-01-01',
+				defaultView: 'month',
+				displayEventTime: false,
+				googleCalendarApiKey: 'AIzaSyBEDJtUs6oUxRDPXSVXYr0eGTCS2OacDms',
+				events: {
+					googleCalendarId: 'phpugdd@gmail.com'
+				},
+				eventClick: function(event) {
+					// opens events in a popup window
+					window.open(event.url, 'gcalevent', 'width=700,height=600');
+					return false;
+				}
+			});
+		});
+	</script>
+{% endblock %}

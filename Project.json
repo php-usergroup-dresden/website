@@ -15,7 +15,8 @@
 		"@youtube_url@": "https://www.youtube.com/channel/UC9RvlzszDfeZ_ILq0JSNHZQ",
 		"@contact_email@": "info@phpug-dresden.org",
 		"@board_member@": "Holger Woltersdorf, Marcel Führer, Patrick Pächnatz",
-		"@twitter_handle@": "@phpugdd"
+		"@twitter_handle@": "@phpugdd",
+		"@calendar_url@": "https://calendar.google.com/calendar/ical/phpugdd%40gmail.com/public/basic.ics"
 	},
 	"pages": {
 		"/index.html": {
@@ -97,7 +98,7 @@
 			],
 			"contentType": "markdown",
 			"renderer": "twig",
-			"template": "templates/page.twig",
+			"template": "templates/events.twig",
 			"contentFile": "events.md",
 			"children": [
 				"/events/2016/x-mas-issue-bash.html",

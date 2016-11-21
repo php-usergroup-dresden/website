@@ -116,6 +116,19 @@ a:active {
 	padding: 10px 20px;
 }
 
+#calendar {
+	width: 100%;
+	margin: 20px auto 0 auto;
+	min-height: 600px;
+
+}
+
+#calendar .fc-event,
+#calendar .fc-event-dot{
+	background-color: #ff8c00;
+	border-color: #f47c20;
+}
+
 /* collapsed sidebar styles */
 @media screen and (max-width: 767px) {
 

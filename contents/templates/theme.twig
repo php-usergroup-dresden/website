@@ -96,6 +96,7 @@
 	<link rel="stylesheet" href="{{ project.getUrl('/css/twemoji-awesome.css') }}">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/main.css') ~ '?' ~ ('now'|date('YmdHis')) }}">
 	<script src="https://use.fontawesome.com/e89ed69fdb.js" async="async"></script>
+	{% block stylesheets %}{% endblock %}
 </head>
 <body>
 

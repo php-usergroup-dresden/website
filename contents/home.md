@@ -11,16 +11,30 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 &nbsp;
 
-#### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
+#### <i class="fa fa-meetup"></i> Meetup I / 2017
 
-* Kurzer Vortag zum Thema: Open Source Contributing Workflow
-* Hands-on-Code Session mit vorhandenen Issues der Teilnehmer
-
-[Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html) | [Anmelden](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/)
+* **Wann?** 30. Januar 2017
+* **Wo?** Noch nicht festgelegt.
+* **Was?** Noch nicht festgelegt.
 
 <hr class="blockspace">
 
 ### Vergangene Events
+
+<a href="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" alt="X-Mas Issue Bash 2016 - We are the elves" class="img-responsive" style="max-width: 230px; margin-left: 30px;">
+</a>
+
+&nbsp;
+
+#### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
+
+* Vortäge:
+  * Holger Woltersdorf: [<i class="fa fa-slideshare"></i> "Open Source - Get involved"](http://www.slideshare.net/HolgerWoltersdorf/xmas-issue-bash)
+  * Ralf Junghanns: [<i class="fa fa-file-pdf-o"></i> "How to commit"](@baseUrl@/downloads/meetups/2016-12-09_XMasIssueBash-how-to-commit.pdf)
+* Hands-on-Code Session mit vorhandenen Issues der Teilnehmer
+
+[Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html)
 
 &nbsp;
 
@@ -55,6 +69,12 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O" target="_blank" title="Der PHP DeveloperDay 2016">
     <i class="fa fa-youtube"></i> Mehr Videos ansehen...
 </a>
+
+<div class="text-center">
+	<a href="@baseUrl@/events.html" title="Alle Events" class="btn btn-default">
+		Alle Events &amp; Kalender ansehen
+	</a>
+</div>
 
 <hr class="blockspace">
 

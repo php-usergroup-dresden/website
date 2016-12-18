@@ -6,6 +6,14 @@
 
 <hr class="blockspace">
 
+<div class="text-center">
+	<a href="@baseUrl@/images/events/xmib2016/we-are-the-elves-large.jpg" target="_blank">
+		<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves-large.jpg" class="img-responsive">
+	</a>
+</div>
+
+<hr class="blockspace">
+
 ### Oh du Fröhliche... Community!
 
 <hr class="blockspace">

@@ -47,6 +47,10 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 
 ### Vergange Events
 
+<a href="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" alt="X-Mas Issue Bash 2016 - We are the elves" class="img-responsive" style="max-width: 230px; margin-left: 30px;">
+</a>
+
 &nbsp;
 
 #### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)

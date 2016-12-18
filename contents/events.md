@@ -23,12 +23,11 @@
 
 &nbsp;
 
-#### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
+#### <i class="fa fa-meetup"></i> Meetup I / 2017
 
-* Kurzer Vortag zum Thema: Open Source Contributing Workflow
-* Hands-on-Code Session mit vorhandenen Issues der Teilnehmer
-
-[Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html) | [Anmelden](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/)
+* **Wann?** 30. Januar 2017
+* **Wo?** Noch nicht festgelegt.
+* **Was?** Noch nicht festgelegt.
 
 &nbsp;
 
@@ -47,6 +46,17 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 <hr class="blockspace">
 
 ### Vergange Events
+
+&nbsp;
+
+#### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
+
+* Vortäge:
+  * Holger Woltersdorf: [<i class="fa fa-slideshare"></i> "Open Source - Get involved"](http://www.slideshare.net/HolgerWoltersdorf/xmas-issue-bash)
+  * Ralf Junghanns: [<i class="fa fa-file-pdf-o"></i> "How to commit"](@baseUrl@/downloads/meetups/2016-12-09_XMasIssueBash-how-to-commit.pdf)
+* Hands-on-Code Session mit vorhandenen Issues der Teilnehmer
+
+[Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html)
 
 &nbsp;
 

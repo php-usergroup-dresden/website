@@ -110,11 +110,11 @@
 				<!-- sidebar -->
 				<nav id="sidenav">
 					<a href="{{ project.getUrl('/') }}" class="hidden-xs hidden-sm">
-						{% if ('now'|date('m')) in [11,12] %}
-							<img src="{{ project.getUrl('/images/logo-xmas.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
-						{% else %}
+						{#{% if ('now'|date('m')) in [11,12] %}#}
+							{#<img src="{{ project.getUrl('/images/logo-xmas.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">#}
+						{#{% else %}#}
 							<img src="{{ project.getUrl('/images/logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
-						{% endif %}
+						{#{% endif %}#}
 					</a>
 
 					<a href="{{ project.getUrl('/become-member.html') }}" title="Mitglied werden" class="blockspace btn btn-block btn-success btn-lg text-uppercase">

@@ -23,13 +23,16 @@
 
 &nbsp;
 
-#### <i class="fa fa-meetup"></i> Meetup I / 2017
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+#### [<i class="fa fa-meetup"></i> Meetup I / 2017 - "Exception handling - classic and fancy"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/)
 
 * **Wann?** 30. Januar 2017
 * **Wo?** Noch nicht festgelegt.
-* **Was?** Noch nicht festgelegt.
+* **Was?** Exceptions sind ein integraler Bestandteil von PHP. PHP hat sie vor langer Zeit eingeführt, aber das Behandeln von Exceptions hat sich in den letzten Versionen verändert. Der "classic" Teil des Talks beinhaltet eine solide Einführung in die Architektur, die Behandlung und die Nutzung von Exceptions. Der "fancy" Teil wird einige weitere Beispiele zu modernem Exception-Logging zeigen.
 
-&nbsp;
+Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
+
+<hr class="blockspace">
 
 ### Call for Papers (CFP) - Always open!
 

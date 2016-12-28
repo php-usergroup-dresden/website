@@ -24,7 +24,7 @@
 			"navName": "Home",
 			"pageTitle": "Home",
 			"description": "Website of the PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"PHP",
@@ -56,7 +56,7 @@
 			"navName": "Not Found",
 			"pageTitle": "404 - Not Found",
 			"description": "The page you requested was not found.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [],
 			"contentType": "html",
@@ -70,7 +70,7 @@
 			"navName": "Mitglied werden",
 			"pageTitle": "Mitglied werden",
 			"description": "Mitglied des PHP USERGROUP DRESDEN e.V. werden",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Antrag",
@@ -88,7 +88,7 @@
 			"navName": "Events",
 			"pageTitle": "Events",
 			"description": "Meetups des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Meeting",
@@ -106,12 +106,33 @@
 				"/events/2015/php-developer-day.html"
 			]
 		},
+		"/events/2016/jahres-rueckblick.html": {
+			"pageLevel": 3,
+			"navName": "Jahresrückblick 2016",
+			"pageTitle": "Jahresrückblick 2016",
+			"description": "Der Jahresrückblick 2016 des PHP USERGROUP DRESDEN e.V.",
+			"language": "de",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Jahr",
+				"Rückblick",
+				"Review",
+				"Retrospection",
+				"2016",
+				"Events"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "events/2016/retrospection.md",
+			"children": []
+		},
 		"/events/2016/x-mas-issue-bash.html": {
 			"pageLevel": 3,
 			"navName": "X-Mas Issue Bash 2016",
 			"pageTitle": "X-Mas Issue Bash 2016",
 			"description": "Der X-Mas Issue Bash 2016 des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"X-Mas",
@@ -132,7 +153,7 @@
 			"navName": "PHP Developer Day 2016",
 			"pageTitle": "PHP Developer Day 2016",
 			"description": "Der PHP Developer Day 2016 des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/phpdd16-logo.jpg",
 			"tags": [
 				"PHP Developer Day",
@@ -154,7 +175,7 @@
 			"navName": "PHP Developer Day 2015",
 			"pageTitle": "PHP Developer Day 2015",
 			"description": "Der move:elevator PHP Developer Day 2015",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"PHP Developer Day",
@@ -175,7 +196,7 @@
 			"navName": "Call for Papers",
 			"pageTitle": "Call for Papers (CFP)",
 			"description": "Call for Papers (CFP) des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Papers",
@@ -195,7 +216,7 @@
 			"navName": "Sponsoring",
 			"pageTitle": "Sponsor werden",
 			"description": "Sponsor des PHP USERGROUP DRESDEN e.V. werden",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Sponsoring",
@@ -212,7 +233,7 @@
 			"navName": "Newsletter Archiv",
 			"pageTitle": "Newsletter Archiv",
 			"description": "Newsletter Archiv des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Newsletter",
@@ -232,7 +253,7 @@
 			"navName": "Satzung",
 			"pageTitle": "Satzung",
 			"description": "Satzung des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Satzung",
@@ -257,7 +278,7 @@
 			"navName": "Impressum",
 			"pageTitle": "Impressum",
 			"description": "Impressum des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Kontakt",
@@ -274,7 +295,7 @@
 			"navName": "Datenschutz",
 			"pageTitle": "Datenschutzerklärung",
 			"description": "Datenschutzerklärung des PHP USERGROUP DRESDEN e.V.",
-			"language": "en",
+			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Datenschutz",

@@ -82,7 +82,7 @@ Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
 
 <hr class="blockspace">
 
-## Downloads
+## <a name="downloads"></a>Downloads
 
 <div class="row blockspace">
 	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
@@ -122,7 +122,7 @@ Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
 
 <hr class="blockspace">
 
-## Das Orga-Team
+## <a name="orga"></a>Das Orga-Team
 
 <div class="row blockspace">
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
@@ -188,7 +188,7 @@ Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
 <a href="@baseUrl@/sponsoring.html" title="Sponsor des PHP USERGROUP DRESDEN e.V. werden" class="btn btn-success text-uppercase pull-right">
 	Sponsor werden
 </a>
-## Sponsoren
+## <a name="sponsors"></a>Sponsoren
 
 <div class="row blockspace">
 	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
@@ -243,7 +243,7 @@ Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
 
 <hr class="blockspace">
 
-## Kooperationen
+## <a name="cooperations"></a>Kooperationen
 
 <div class="row blockspace">
 	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">

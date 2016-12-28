@@ -42,7 +42,7 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 <hr class="blockspace">
 
 <a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
-### Event Kalender 2017
+### <a name="event-calendar"></a>Event Kalender 2017
 
 <div id="calendar"></div>
 

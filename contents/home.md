@@ -6,7 +6,11 @@ Egal ob erfahrene Entwickler/innen, Studenten/innen oder Freiberufler/innen, jed
 Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Workshops und besuchen gemeinsam Konferenzen. 
  
 <hr class="blockspace">
- 
+
+#### Aktuell: [Unser Jahresrückblick 2016](@baseUrl@/events/2016/jahres-rueckblick.html)
+
+<hr class="blockspace">
+
 ### Nächstes Event
 
 &nbsp;
@@ -248,17 +252,21 @@ Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
 <div class="row blockspace">
 	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
     	<div class="coop">
-			<img src="@baseUrl@/images/coops/php-magazin.jpg" alt="PHP Magazin" class="img-responsive">
+    		<a href="https://entwickler.de/online/php" target="_blank">
+				<img src="@baseUrl@/images/coops/php-magazin.jpg" alt="PHP Magazin" class="img-responsive">
+			</a>
 		</div>
     </div>
 	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
     	<div class="coop">
-			<img src="@baseUrl@/images/coops/mitp.jpg" alt="mitp Verlag" class="img-responsive">
+    		<a href="http://www.mitp.de" target="_blank">
+				<img src="@baseUrl@/images/coops/mitp.jpg" alt="mitp Verlag" class="img-responsive">
+			</a>
 		</div>
 	</div>
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
     	<div class="coop">
-			<a href="https://www.queo.de" target="_blank">
+			<a href="http://www.oreilly.de" target="_blank">
 				<img src="@baseUrl@/images/coops/oreilly.jpg" alt="O'Reilly Verlag" class="img-responsive">
 			</a>
 		</div>

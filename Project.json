@@ -101,6 +101,7 @@
 			"template": "templates/events.twig",
 			"contentFile": "events.md",
 			"children": [
+				"/events/2016/jahres-rueckblick.html",
 				"/events/2016/x-mas-issue-bash.html",
 				"/events/2016/php-developer-day.html",
 				"/events/2015/php-developer-day.html"

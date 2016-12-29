@@ -18,7 +18,7 @@ Linie wollten wir unterstreichen wie wichtig (uns) die Arbeit ist, die wir leist
 Der freie Austausch von Wissen von Mensch zu Mensch über Erfahrungs- und Unternehmensgrenzen hinaus, in einer Zeit des digitalen Wandels. 
 Wir wollten zeigen, dass wir alle dahinter stehen und bereit sind unsere Unterschrift unter dieses Vorhaben zu setzen, mit allem was dazu gehört.
 
-Es freut uns auch sehr, dass wir bereits einige Neugierige als Vereinsmitglieder begrüßen durften. Bist du einer von Ihnen?
+Es freut uns auch sehr, dass wir bereits einige neue Vereinsmitglieder begrüßen durften. Bist du schon einer von Ihnen?
 
 **[Hier Mitglied werden!](@baseUrl@/become-member.html)**
 
@@ -40,9 +40,11 @@ die kurz und knapp ein aktuelles Thema anreißen oder ein Projekt zur Diskussion
 ## Sponsoring / Kooperationen
 
 Wie fast alles im Leben, spielt auch bei der Vereinsgründung und dessen Betrieb Geld eine Rolle. Wir freuen uns daher sehr, dass wir in 2016 bereits 
-[6 Sponsoren](@baseUrl@/#sponsors) - zuletzt mit Ostec - finden konnten, die unsere Sache unterstützen.
+[6 Sponsoren](@baseUrl@/#sponsors) mit [Fortuneglobe](http://www.fortuneglobe.com), [move:elevator](http://www.move-elevator), [bike24](http://www.bike24.de), 
+[queo](http://www.queo.de), [PHP Friends](https://www.php-friends.de) und zuletzt [Ostec](http://www.ostec.de) finden konnten, die unsere Sache unterstützen.
 
-Auch unsere Kooperationspartner aus den Verlagshusern haben uns das ganze Jahr über fleißig mit Magazinen und Fachbüchern zur Seite gestanden. 
+Auch unsere Kooperationspartner aus den Verlagshäusern [O'Reilly](http://www.oreilly.de), [mitp](http://www.mitp.de) und dem 
+[PHP Magazin](https://entwickler.de/online/php) haben uns das ganze Jahr über fleißig mit Magazinen und Fachbüchern zur Seite gestanden. 
 
 Dafür sagen wir Danke! 
 
@@ -51,12 +53,12 @@ Dafür sagen wir Danke!
 <img src="@baseUrl@/images/softwerkskammer.png" alt="Softwerkskammer Sachsen" class="img-responsive pull-right" style="max-width: 150px;">
 ## Neue Verbindungen
 
-Kaum die eigenen Reihen in Ordnung gebracht, haben wir schon die Fühler richtung anderer Organisationen ausgestreckt und neue Verbindungen geknüpft.
+Kaum die eigenen Reihen in Ordnung gebracht, haben wir schon die Fühler in Richtung anderer Organisationen ausgestreckt und neue Verbindungen geknüpft.
 Als einen ersten großen Schritt in diese Richtung durften wir uns offiziell der Softwerkskammer Sachsen anschließen - eine Regional-Gruppe der 
 [Software Craftsmanship Communities](https://www.softwerkskammer.org), die sich über Länder-, Sprach- und Disziplingrenzen hinaus sehr 
 vielfältig mit allen Belangen des Themas Software auseinandersetzen.
  
-Auch auf einigen Konferzen in 2016 konnten wir Verbindung zu anderen User Groups, Speakern und PHP-/Web-Enthusiasten aufnehmen. Einige konntet ihr
+Auch auf einigen Konferenzen in 2016 konnten wir Verbindung zu anderen User Groups, Speakern und PHP-/Web-Enthusiasten aufnehmen. Einige konntest du
 bereits auf dem Developer Day 2016 in der Scheune begrüßen. Wir sind uns sicher, dass du in 2017 noch mehr von ihnen sehen und hören wirst. 
 
 Auch in Dresden konnten wir durch verschiedene Themen unserer Meetups neue Bekanntschaften schließen - nämlich mit dir. 
@@ -97,8 +99,9 @@ Wir haben als Orga-Team und Community viel gelernt in diesem Jahr, unter anderem
  * Das Gründen eines Vereins ist kein Pappenstiel, aber ein schnell und effizient zu lösendes Problem, wenn man gemeinsam anpackt.
  * Meetups an einem Freitag funktionieren nicht.
  * Live-Coding kurz vor Weihnachten (und an einem Freitag) wird eher zu Live-Chatting.
+ * Unser Chat-Medium sollte jedem zugänglich sein, daher sind wir von Gitter zu [Slack](@slackteam_url@) gewechselt. 
  * Manchmal ist es besser die Latte etwas tiefer zu legen, um mehr Erfolg zu haben.
- * Die Besucher unserer Meetups vor die Besucher zu kriegen, ist eine harte Nuss, aber wir werden diese noch knacken, davon sind wir überzeugt!
+ * Die Besucher unserer Meetups als Speaker zu gewinnen, ist eine harte Nuss, aber wir werden diese noch knacken, davon sind wir überzeugt!
  * Und viele weitere Dinge, die wir im Gespräch mit dir erfahren haben...
  
 Haben wir etwas Wichtiges vergessen? [Gib uns dein Feedback oder Anregungen für Verbesserungen.](@baseUrl@/imprint.html)
@@ -119,7 +122,7 @@ voran getrieben haben, in welcher Art und Weise auch immer. Jeder Beitrag zählt
 Da wir hinter das Thema Vereinsgründung nun einen dicken grünen Haken machen konnten in 2016, wollen wir 2017 unsere Energie noch mehr in die 
 inhaltlichen Themen stecken. Zu diesem Zweck haben wir einen Kalender angelegt und bereits alle Meetup-Termine dort eingetragen. [Am besten abonnierst du ihn gleich!](@baseUrl@/events.html#event-calendar)
 
-Weiterhin werden wir über [meetup.com](https://www.meetup.com/PHP-USERGROUP-DRESDEN/) alle Meetups und Events ankündigen.
+Weiterhin werden wir über [meetup.com](@meetup_url@) alle Meetups und Events ankündigen.
 Am **30. Januar 2017** geht es direkt weiter mit dem ersten Meetup - [Jetzt anmelden!](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/)
 
 Wir haben uns auch vorgenommen 1-2 Workshops im kommenden Jahr unter zu bringen, an dieser Idee müssen wir aber noch etwas tüfteln.

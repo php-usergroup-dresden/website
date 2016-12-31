@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>http://phpug-dresden.org/index.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Home</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/404.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>404 - Not Found</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/become-member.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Mitglied werden</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/events.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Events</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/events/2016/jahres-rueckblick.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Jahresrückblick 2016</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/events/2016/x-mas-issue-bash.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>X-Mas Issue Bash 2016</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/events/2016/php-developer-day.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/phpdd16-logo.jpg</image:loc>
+      <image:caption>PHP Developer Day 2016</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/events/2015/php-developer-day.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>PHP Developer Day 2015</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/call-for-papers.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Call for Papers (CFP)</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/sponsoring.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Sponsor werden</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/newsletter-archive.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Newsletter Archiv</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/statutes.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Satzung</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/imprint.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Impressum</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/privacy.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Datenschutzerklärung</image:caption>
+    </image:image>
+  </url>
+</urlset>

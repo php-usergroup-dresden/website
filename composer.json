@@ -26,7 +26,7 @@
 	"extra": {
 		"tools": {
 			"spg": {
-				"url": "https://github.com/icehawk/static-page-generator/releases/download/v1.1.0/static-page-generator.phar",
+				"url": "https://github.com/icehawk/static-page-generator/releases/download/v1.2.0/static-page-generator.phar",
 				"only-dev": true
 			}
 		}

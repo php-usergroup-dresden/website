@@ -43,13 +43,14 @@ Document root is /Users/hollodotme/Sites/website
 Press Ctrl-C to quit.
 ```
 
-### 4. Generate the pages for your locale base URL
+### 4. Generate the pages and sitemap for your locale base URL
 
 In order to generate the pages for your local URL (http://127.0.0.1:8088 or whatever your webserver's URL is), you need 
 to run the static page generator with the option `--baseUrl="http://127.0.0.1:8088/docs"`.
 
 ```bash
 $ vendor/bin/spg.phar generate:pages --baseUrl="http://127.0.0.1:8088/docs" ./Project.json
+$ vendor/bin/spg.phar generate:sitemap --baseUrl="http://127.0.0.1:8088/docs" ./Project.json
 ```
 
 ### 5. Open in browser
@@ -73,11 +74,12 @@ automatically be executed as soon as you saved changes. You won't need to trigge
 
 **THIS IS IMPORTANT!**
 
-**Before you commit your changes**, please generate the pages again **without** the `--baseUrl`-option, 
+**Before you commit your changes**, please generate the pages and sitemap again **without** the `--baseUrl`-option, 
 so that the real base URL from the settings will take effect.
 
 ```bash
 $ vendor/bin/spg.phar generate:pages ./Project.json
+$ vendor/bin/spg.phar generate:sitemap ./Project.json
 $ git add -A
 $ git commit -m '...'
 $ git push

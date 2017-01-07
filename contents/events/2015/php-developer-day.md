@@ -12,7 +12,7 @@ Zu Beginn leitete Alexander Hippe den Tag mit ein paar herzlichen Worten ein. Er
 erwarten und ging auf eines der derzeit aktuellsten Themen der Business-Welt ein – der Digital Transformation.
 
 Tommy Mühle folgte mit einem Vortrag über den 
-[<i class="fa fa-file-pdf-o"></i> „Ablauf eines Entwicklungsprozesses„](@baseUrl@/downloads/phpdd15/Development_Workflows.pdf) - von der Idee bis zum 
+[<i class="fa fa-file-pdf-o"></i> „Ablauf eines Entwicklungsprozesses„](@baseUrl@/downloads/phpdd15/Development-Workflows.pdf) - von der Idee bis zum 
 Deployment. Anschaulich verglich er alte Deployment-Praktiken mittels sftp mit heutigen Wegen. Durch moderne Tools, die nahezu perfekt miteinander 
 verzahnt sind, wird bei move:elevator ein Entwicklungszyklus durchlaufen, der den hohen Qualitätsansprüchen der Entwickler gerecht wird. 
 Mittels automatisierten Tests, Reviews, CodeMeasurement und Codeanalysetools wird Softwarequalität gemessen und standardisiert.
@@ -58,7 +58,7 @@ Das Team von move:elevator
 	<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center speaker">
 		<img src="@baseUrl@/images/speakers/Tommy_Muehle.png" class="img-responsive">
 		<h4>Tommy Mühle</h4>
-		<a href="@baseUrl@/downloads/phpdd15/Development_Workflows.pdf" target="_blank" title="Development Workflow anhand von WebServices &amp; Atlassian Tools">
+		<a href="@baseUrl@/downloads/phpdd15/Development-Workflows.pdf" target="_blank" title="Development Workflow anhand von WebServices &amp; Atlassian Tools">
 			<i class="fa fa-file-pdf-o"></i> Development Workflow anhand von<br>WebServices &amp; Atlassian Tools
 		</a>
 	</div>

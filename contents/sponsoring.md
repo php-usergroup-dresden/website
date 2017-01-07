@@ -9,5 +9,5 @@ Unterstütze den PHP USERGROUP DRESDEN e.V. mit 300 &euro; pro Jahr und fördere
 
 ### Kontaktiere uns 
 
-E-Mail: [sponsoring@phpug-dresden.org](mailto:sponsoring@phpug-dresden.org)
+E-Mail: <sponsoring@phpug-dresden.org>
 

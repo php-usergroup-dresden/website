@@ -20,7 +20,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 
 * **Wann?** 30. Januar 2017
-* **Wo?** Noch nicht festgelegt.
+* **Wo?** Bei Unister in der Semperstr. 2, Dresden ([Karte](https://goo.gl/maps/1JjoMSTx5ew))
 * **Was?** Exceptions sind ein integraler Bestandteil von PHP. PHP hat sie vor langer Zeit eingeführt, aber das Behandeln von Exceptions hat sich in den letzten Versionen verändert. Der "classic" Teil des Talks beinhaltet eine solide Einführung in die Architektur, die Behandlung und die Nutzung von Exceptions. Der "fancy" Teil wird einige weitere Beispiele zu modernem Exception-Logging zeigen.
 
 Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**

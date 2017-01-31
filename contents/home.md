@@ -4,10 +4,6 @@ Der PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusia
 Unser Ziel ist es, Wissen rund um PHP und Softwareentwicklung im Allgemeinen aufzubauen und zu teilen. 
 Egal ob erfahrene Entwickler/innen, Studenten/innen oder Freiberufler/innen, jeder ist willkommen und kann sich einbringen. 
 Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Workshops und besuchen gemeinsam Konferenzen. 
- 
-<hr class="blockspace">
-
-#### Aktuell: [Unser Jahresrückblick 2016](@baseUrl@/events/2016/jahres-rueckblick.html)
 
 <hr class="blockspace">
 
@@ -15,19 +11,53 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 &nbsp;
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
-#### [<i class="fa fa-meetup"></i> Meetup I / 2017 - "Exception handling - classic and fancy"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/)
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+#### [<i class="fa fa-meetup"></i> Meetup II / 2017 - "Dependency Injection"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/)
 
 
-* **Wann?** 30. Januar 2017
-* **Wo?** Bei Unister in der Semperstr. 2, Dresden ([Karte](https://goo.gl/maps/1JjoMSTx5ew))
-* **Was?** Exceptions sind ein integraler Bestandteil von PHP. PHP hat sie vor langer Zeit eingeführt, aber das Behandeln von Exceptions hat sich in den letzten Versionen verändert. Der "classic" Teil des Talks beinhaltet eine solide Einführung in die Architektur, die Behandlung und die Nutzung von Exceptions. Der "fancy" Teil wird einige weitere Beispiele zu modernem Exception-Logging zeigen.
+* **Wann?** 14. März 2017 - 18:30 Uhr
+* **Wo?** Noch nicht festgelegt.
+* **Was?**
 
-Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
+Unser 2. Meetup in 2017 wird das Thema Dependency Injection behandeln. Wir freuen uns auf einen spannenden Abend mit:
+
+- Einem einführenden Lightning Talk von Ralf Junghanns (PHP UG Dresden)
+- Einem Vortrag zu "Disco", einem Container-Interop kompatiblen Dependency Injection Container für PHP von und mit Gast-Speaker Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar)
+
+... und natürlich mit euch!
+
+Wir sehen uns!
+
+--
+
+Our 2nd meetup in 2017 will cover the topic of dependency injection. We're looking forward to a thrilling evening with:
+
+- An introductive lightning talk by Ralf Junghanns (PHP UG Dresden)
+- A talk about "Disco", a container-Interop compatible dependency injection container for PHP by our guest speaker Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar)
+
+... and of course with you!
+
+See you there!
 
 <hr class="blockspace">
 
 ### Vergangene Events
+
+<a href="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" alt="Exception handling - classic and fancy" class="img-responsive" style="max-width: 230px; margin-left: 30px;">
+</a>
+
+&nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup I / 2017 am 30. Januar](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/)
+
+<i class="fa fa-map-marker"></i> Unister in Dresden
+
+Vorträge:
+* Holger Woltersdorf: Async PHP worker with RabbitMQ and FastCGI client (Lightning Talk)
+* Tommy Mühle: ["Exception handling - classic and fancy"](bit.ly/2kzZkjx))
+
+<hr class="blockspace">
 
 <a href="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" alt="X-Mas Issue Bash 2016 - We are the elves" class="img-responsive" style="max-width: 230px; margin-left: 30px;">
@@ -170,13 +200,6 @@ Talk-Sprache: **deutsch** &middot; Slide-Sprache: **englisch**
 			<h4>Ralf Junghanns</h4>
 			(Gründungsmitglied)
     	</div>
-	</div>
-	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
-    	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/asperling.jpg" alt="Achim Sperling">
-			<h4>Achim Sperling</h4>
-			(Events)
-		</div>
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">

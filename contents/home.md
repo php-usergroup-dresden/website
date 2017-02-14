@@ -14,9 +14,11 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 #### [<i class="fa fa-meetup"></i> Meetup II / 2017 - "Dependency Injection"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/)
 
-
 * **Wann?** 14. März 2017 - 18:30 Uhr
-* **Wo?** Noch nicht festgelegt.
+
+* **Wo?** [LOVOO GmbH - Prager Str. 10, 01069 Dresden](https://maps.google.com/maps?f=q&hl=en&q=Prager+Stra%C3%9Fe+10%2C+Dresden%2C+de)  
+Eingang auf der anderen Hausseite, Trompeter Str. 1, 5. OG
+
 * **Was?**
 
 Unser 2. Meetup in 2017 wird das Thema Dependency Injection behandeln. Wir freuen uns auf einen spannenden Abend mit:

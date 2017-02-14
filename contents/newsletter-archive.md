@@ -30,8 +30,13 @@ Hier findet ihr alle Newsletter, die wir im Laufe der Zeit verschickt haben.
 
 <hr class="blockspace">
 
+## 2017
+
+* [Newsletter vom 05. Februar 2017](@baseUrl@/newsletter/archive/2017-02-05.html)
+
 ## 2016
 
+* [Newsletter vom 30. Dezember 2016](@baseUrl@/newsletter/archive/2016-12-03.html)
 * [Newsletter vom 07. November 2016](@baseUrl@/newsletter/archive/2016-11-07.html)
 * [Newsletter vom 2. November 2016](@baseUrl@/newsletter/archive/2016-11-02.html)
 * [Newsletter vom 7. September 2016](@baseUrl@/newsletter/archive/2016-09-07.html)

@@ -70,11 +70,10 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 
 <hr class="blockspace">
 
-### Vergange Events
+### Vergangene Events
 
 <a href="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" alt="Exception handling - classic and fancy" class="img-responsive" style="max-width: 230px; margin-left: 30px;">
-</a>
+	<img src="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" alt="Exception handling - classic and fancy" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
 &nbsp;
 
@@ -89,14 +88,13 @@ Vorträge:
 <hr class="blockspace">
 
 <a href="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" alt="X-Mas Issue Bash 2016 - We are the elves" class="img-responsive" style="max-width: 230px; margin-left: 30px;">
-</a>
+	<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" alt="X-Mas Issue Bash 2016 - We are the elves" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
 &nbsp;
 
 #### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
 
-* Vortäge:
+* Vorträge:
   * Holger Woltersdorf: [<i class="fa fa-slideshare"></i> "Open Source - Get involved"](http://www.slideshare.net/HolgerWoltersdorf/xmas-issue-bash)
   * Ralf Junghanns: [<i class="fa fa-file-pdf-o"></i> "How to commit"](@baseUrl@/downloads/meetups/2016-12-09_XMasIssueBash-how-to-commit.pdf)
 * Hands-on-Code Session mit vorhandenen Issues der Teilnehmer

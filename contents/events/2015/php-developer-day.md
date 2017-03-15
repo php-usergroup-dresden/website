@@ -8,7 +8,7 @@ am 04. Juli 2015 im Orpheum Dresden
 Es war ein warmer Tag, man könnte sagen, es war ein heißer Tag, der PHP Developer Day 2015 in Dresden. Außentemperaturen von 37 Grad Celcius konnten 
 viele PHP Interessierte allerdings nicht davor abschrecken zu uns zukommen. Und dafür ein dickes Danke in die Runde.
 
-Zu Beginn leitete Alexander Hippe den Tag mit ein paar herzlichen Worten ein. Er stellte kurz die Agenda vor, die Speaker und Vortäge, die die Gäste 
+Zu Beginn leitete Alexander Hippe den Tag mit ein paar herzlichen Worten ein. Er stellte kurz die Agenda vor, die Speaker und Vorträge, die die Gäste 
 erwarten und ging auf eines der derzeit aktuellsten Themen der Business-Welt ein – der Digital Transformation.
 
 Tommy Mühle folgte mit einem Vortrag über den 

@@ -83,7 +83,7 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 
 Vorträge:
 * Holger Woltersdorf: Async PHP worker with RabbitMQ and FastCGI client (Lightning Talk)
-* Tommy Mühle: ["Exception handling - classic and fancy"](bit.ly/2kzZkjx))
+* Tommy Mühle: ["Exception handling - classic and fancy"](http://bit.ly/2kzZkjx)
 
 <hr class="blockspace">
 

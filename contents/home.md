@@ -7,46 +7,78 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+## SAVE THE DATE
+
+<div class="row">
+	<div class="col-xs-12 col-sm-6">
+		<h3>Der PHP Developer Day 2017<br>findet am 22. September statt!</h3>
+		<i class="fa fa-map-marker"></i> <a href="https://goo.gl/maps/UrUvrZjsaGn" target="_blank">Im Dresdner Volkshaus am Schützenplatz</a>
+        <ul>
+			<li>1 PHP-Tag in Dresden</li>
+			<li>7 TOP-Speaker (mehr dazu in Kürze)</li>
+			<li>Viel Wissen - Viel Community</li>
+        </ul>
+        <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD17"><b>#PHPDD17</b></a>
+	</div>
+	<div class="col-xs-12 col-sm-6">
+		<img src="@baseUrl@/images/events/phpdd17/phpdd17-logo.png" alt="PHP Developer Day 2017: 22. September" class="img-responsive"/>
+	</div>
+</div>
+
+<hr class="blockspace">
+
 ### Nächstes Event
 
 &nbsp;
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
-#### [<i class="fa fa-meetup"></i> Meetup II / 2017 - "Dependency Injection"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/)
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 
-* **Wann?** 14. März 2017 - 18:30 Uhr
+#### [<i class="fa fa-meetup"></i> Meetup III / 2017 - "PHP Code Quality Tools"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/)
 
-* **Wo?** [LOVOO GmbH - Prager Str. 10, 01069 Dresden](https://maps.google.com/maps?f=q&hl=en&q=Prager+Stra%C3%9Fe+10%2C+Dresden%2C+de)  
-Eingang auf der anderen Hausseite, Trompeter Str. 1, 5. OG
+**Wann?** 26. April 2017
 
-* **Was?**
+**Wo?** Location ist noch nicht festgelegt.
 
-Unser 2. Meetup in 2017 wird das Thema Dependency Injection behandeln. Wir freuen uns auf einen spannenden Abend mit:
+**Was?**
 
-- Einem einführenden Lightning Talk von Ralf Junghanns (PHP UG Dresden)
-- Einem Vortrag zu "Disco", einem Container-Interop kompatiblen Dependency Injection Container für PHP von und mit Gast-Speaker Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar)
+**This meetup is going to be special!**
 
-... und natürlich mit euch!
+We're excited to have two guest speakers talking about tools that help us writing (much) better code.
 
-Wir sehen uns!
+* **Ondřej Mirtes** - Author of "PHPStan" 
 
---
+* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)"
 
-Our 2nd meetup in 2017 will cover the topic of dependency injection. We're looking forward to a thrilling evening with:
+Both speakers will present in english. 
 
-- An introductive lightning talk by Ralf Junghanns (PHP UG Dresden)
-- A talk about "Disco", a container-Interop compatible dependency injection container for PHP by our guest speaker Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar)
-
-... and of course with you!
-
-See you there!
+We try to do the official part in english, too. 
+And that makes us nobody so fast after. ;-)
 
 <hr class="blockspace">
 
+<div class="text-center">
+	<a href="@baseUrl@/events.html" title="Alle Events" class="btn btn-default">
+		<b>Alle Events &amp; Kalender ansehen</b>
+	</a>
+</div>
+
 ### Vergangene Events
 
-<a href="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" alt="Exception handling - classic and fancy" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+<a href="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-02.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-02.jpg" alt="Dependency Injection - Disco" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+
+&nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup II / 2017 - "Dependency Injection"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/)
+
+<i class="fa fa-map-marker"></i> LOVOO in Dresden
+
+Vorträge:
+* Ralf Junghanns (PHP UG Dresden): Lightning Talk - Einführung in Dependency Injection
+* Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar): ["Disco - A fresh look at DI"](http://ow.ly/pv8y309VtPd) 
+
+<a href="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-01.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-01.jpg" alt="Dependency Injection - Disco" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
 &nbsp;
 
@@ -59,20 +91,6 @@ Vorträge:
 * Tommy Mühle: ["Exception handling - classic and fancy"](http://bit.ly/2kzZkjx)
 
 <hr class="blockspace">
-
-<a href="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/xmib2016/we-are-the-elves.jpg" alt="X-Mas Issue Bash 2016 - We are the elves" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-
-&nbsp;
-
-#### [<i class="fa fa-meetup"></i> X-Mas Issue Bash am 09. Dezember 2016](@baseUrl@/events/2016/x-mas-issue-bash.html)
-
-* Vorträge:
-  * Holger Woltersdorf: [<i class="fa fa-slideshare"></i> "Open Source - Get involved"](http://www.slideshare.net/HolgerWoltersdorf/xmas-issue-bash)
-  * Ralf Junghanns: [<i class="fa fa-file-pdf-o"></i> "How to commit"](@baseUrl@/downloads/meetups/2016-12-09_XMasIssueBash-how-to-commit.pdf)
-* Hands-on-Code Session mit vorhandenen Issues der Teilnehmer
-
-[Mehr lesen...](@baseUrl@/events/2016/x-mas-issue-bash.html)
 
 &nbsp;
 
@@ -107,12 +125,6 @@ Vorträge:
 <a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O" target="_blank" title="Der PHP DeveloperDay 2016">
     <i class="fa fa-youtube"></i> Mehr Videos ansehen...
 </a>
-
-<div class="text-center">
-	<a href="@baseUrl@/events.html" title="Alle Events" class="btn btn-default">
-		Alle Events &amp; Kalender ansehen
-	</a>
-</div>
 
 <hr class="blockspace">
 
@@ -206,6 +218,12 @@ Vorträge:
 			<img src="@baseUrl@/images/orgateam/ahippe.png" alt="Alexander Hippe">
 			<h4>Alexander Hippe</h4>
 			(Sponsoring)
+		</div>
+	</div>
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
+    	<div class="orgamember">
+			<img src="http://placehold.it/150/f47c20/000000/?text=Du%3F&" alt="Du?">
+			<h4>Hier könnte<br>dein Name stehen!</h4>
 		</div>
 	</div>
 </div>

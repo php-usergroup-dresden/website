@@ -37,7 +37,9 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 **Wann?** 26. April 2017
 
-**Wo?** [webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland](https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar)
+**Wo?** 
+
+<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland](https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar)
 
 **Was?**
 

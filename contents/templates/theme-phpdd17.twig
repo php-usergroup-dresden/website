@@ -94,7 +94,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/webfonts.css') }}">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/twemoji-awesome.css') }}">
-	<link rel="stylesheet" href="{{ project.getUrl('/css/main.css') ~ '?' ~ ('now'|date('YmdHis')) }}">
+	<link rel="stylesheet" href="{{ project.getUrl('/css/phpdd17.css') ~ '?' ~ ('now'|date('YmdHis')) }}">
 	<script src="https://use.fontawesome.com/e89ed69fdb.js" async="async"></script>
 	{% block stylesheets %}{% endblock %}
 </head>
@@ -110,24 +110,16 @@
 				<!-- sidebar -->
 				<nav id="sidenav">
 					<a href="{{ project.getUrl('/') }}" class="hidden-xs hidden-sm">
-						{#{% if ('now'|date('m')) in [11,12] %}#}
-							{#<img src="{{ project.getUrl('/images/logo-xmas.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">#}
-						{#{% else %}#}
-							<img src="{{ project.getUrl('/images/logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
-						{#{% endif %}#}
-					</a>
-
-					<a href="{{ project.getUrl('/become-member.html') }}" title="Mitglied werden" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
-						<i class="fa fa-hand-peace-o"></i> Mitglied werden
+						<img src="{{ project.getUrl('/images/events/phpdd17/phpdd17-logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
 					</a>
 
 					<hr class="blockspace">
 
 					<ul class="nav">
 						<li class="hidden-sm hidden-md hidden-lg">
-							<a href="{{ project.getUrl('/index.html') }}" title="Home">Home</a>
+							<a href="{{ project.getUrl('/phpdd17.html') }}" title="Home">Home</a>
 						</li>
-						{% for loopPage in project.getPageConfigsAtLevel(2) %}
+						{% for loopPage in project.getPageConfigsAtLevel(20) %}
 
 							{{ nav.subTree(loopPage, project, breadCrumb) }}
 
@@ -138,42 +130,25 @@
 
 					<div id="socialmedia">
 						<div class="row">
-							<div class="col-xs-3 text-center">
-								<a href="@meetup_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at meetup.com"><i class="fa fa-meetup"></i></a>
+							<div class="col-xs-12">
+								<a href="https://twitter.com/PHPDD" target="_blank" title="Follow PHP Developer Day 2017 on twitter">
+									<i class="fa fa-twitter"></i> <span class="text-twitter">@PHPDD</span>
+								</a>
 							</div>
-							<div class="col-xs-3 text-center">
-								<a href="@twitter_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at twitter"><i class="fa fa-twitter"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="@facebook_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-facebook"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="@xing_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-xing"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="@slackteam_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa fa-slack"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="@github_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at github"><i class="fa fa-github"></i></a>
-							</div>
-							<div class="col-xs-3 text-center">
-								<a href="@youtube_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at YouTube"><i class="fa fa-youtube"></i></a>
+							<div class="col-xs-12">
+								<a href="https://twitter.com/hashtag/phpdd17" target="_blank" title="Hashtag #PHPDD17 on twitter">
+									<i class="fa fa-twitter"></i> <span class="text-twitter">#PHPDD17</span>
+								</a>
 							</div>
 						</div>
 					</div>
 
 					<hr class="blockspace">
 
-					<div class="newsletter-form">
-						<form action="//phpug-dresden.us11.list-manage.com/subscribe/post?u=8ff315933ee2697519dd5ab74&amp;id=5b5e847216" method="post" id="newsletter-form" target="_blank" role="form">
-							<div class="form-group">
-								<label for="newsletter-email" class="sr-only">Newsletter</label>
-								<input type="email" value="" name="EMAIL" class="form-control" id="newsletter-email" placeholder="E-Mail Adresse" required>
-							</div>
-							<div class="form-group">
-								<input type="submit" value="Newsletter abonnieren" name="subscribe" id="newsletter-button" class="btn btn-md btn-block btn-success">
-							</div>
-						</form>
+					<div id="phpugdd">
+						<a href="{{ project.getUrl('/index.html') }}" title="{{ project.getName }}">
+							<img src="{{ project.getUrl('/images/logo.png') }}" class="img-responsive" alt="{{ project.getName }} Logo">
+						</a>
 					</div>
 
 					<hr class="blockspace">
@@ -184,20 +159,12 @@
 						</a>
 					</div>
 
-					<hr class="blockspace">
-
-					<div id="swk">
-						<a href="https://dresden-code-of-conduct.org" target="_blank" title="Dresden Community - Code of Conduct">
-							<img src="{{ project.getUrl('/images/dresden-community-logo.png') }}" alt="Logo Dresden Community" class="img-responsive">
-						</a>
-					</div>
-
 				</nav>
 			</div>
 
 			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" id="mainstage">
 
-				<h1>
+				<h1 class="text-right page-headline">
 					<a href="javascript:void(0);" data-toggle="offcanvas" data-target="#sidebar" class="visible-xs hidden-sm hidden-md hidden-lg pull-left">
 						<i class="fa fa-bars"></i>&nbsp;|&nbsp;
 					</a>
@@ -207,7 +174,8 @@
 					<span class="visible-xs visible-sm hidden-md hidden-lg">
 
 					</span>
-					{{ project.getName }} <span class="small">[VR 9725]</span>
+
+					<small class="text-muted">September, 22<small>nd</small> 2017 |</small> {{ page.getPageTitle }}
 				</h1>
 
 				<hr class="blockspace">
@@ -247,8 +215,6 @@
 				@website_version@
 				&middot;
 				&copy; {{ 'now'|date('Y') }} PHP USERGROUP DRESDEN e.V.
-				&middot;
-				<a href="{{ project.getUrl('/statutes.html') }}">Satzung</a>
 				&middot;
 				<a href="{{ project.getUrl('/imprint.html') }}">Impressum</a>
 				&middot;

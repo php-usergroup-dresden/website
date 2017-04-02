@@ -7,6 +7,7 @@
 		"@website_version@": "v1.0.1",
 		"@github_url@": "https://github.com/php-usergroup-dresden",
 		"@twitter_url@": "https://twitter.com/phpugdd",
+		"@twitter_url_phpdd@": "https://twitter.com/phpdd",
 		"@facebook_url@": "https://www.facebook.com/PHP-USERGROUP-DRESDEN-1623896237827037",
 		"@xing_url@": "https://www.xing.com/communities/groups/php-usergroup-dresden-bac6-1084388",
 		"@gitter_url@": "https://gitter.im/php-usergroup-dresden/phpugdd",
@@ -43,6 +44,7 @@
 			"contentFile": "home.md",
 			"children": [
 				"/events.html",
+				"/phpdd17.html",
 				"/call-for-papers.html",
 				"/newsletter-archive.html",
 				"/sponsoring.html",
@@ -82,6 +84,119 @@
 			"template": "templates/page.twig",
 			"contentFile": "become-member.md",
 			"children": []
+		},
+		"/phpdd17.html": {
+			"pageLevel": 19,
+			"navName": "PHP Developer Day 2017",
+			"pageTitle": "PHP Developer Day 2017",
+			"description": "Speaker, Tickets, Location, Infos zum PHP Developer Day 2017 in Dresden",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Speaker",
+				"Location",
+				"Tickets"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/intro.md",
+			"children": [
+				"/phpdd17/speakers.html",
+				"/phpdd17/schedule.html",
+				"/phpdd17/tickets.html",
+				"/phpdd17/location.html"
+			]
+		},
+		"/phpdd17/speakers.html": {
+			"pageLevel": 20,
+			"navName": "Speakers",
+			"pageTitle": "Speakers",
+			"description": "Speakers at PHP Developer Day 2017 in Dresden",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Speakers"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/speakers.md",
+			"children": [
+			]
+		},
+		"/phpdd17/schedule.html": {
+			"pageLevel": 20,
+			"navName": "Schedule",
+			"pageTitle": "Schedule",
+			"description": "Schedule of the PHP Developer Day 2017 in Dresden",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Schedule",
+				"Program",
+				"Time table"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/schedule.md",
+			"children": [
+			]
+		},
+		"/phpdd17/location.html": {
+			"pageLevel": 20,
+			"navName": "Location",
+			"pageTitle": "Location",
+			"description": "Location of the PHP Developer Day 2017 in Dresden",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Location"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/location.md",
+			"children": [
+			]
+		},
+		"/phpdd17/tickets.html": {
+			"pageLevel": 20,
+			"navName": "Tickets",
+			"pageTitle": "Tickets",
+			"description": "Get tickets for the PHP Developer Day 2017 in Dresden",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Tickets"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/tickets.md",
+			"children": [
+			]
 		},
 		"/events.html": {
 			"pageLevel": 2,

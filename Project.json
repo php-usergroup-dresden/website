@@ -215,15 +215,16 @@
 		},
 		"/hosting.html": {
 			"pageLevel": 2,
-			"navName": "Hosting",
-			"pageTitle": "Hosting",
-			"description": "Ein Meetup des PHP USERGROUP DRESDEN e.V. selbst hosten.",
+			"navName": "Meetup hosten",
+			"pageTitle": "Meetup hosten",
+			"description": "Ein Meetup des PHP USERGROUP DRESDEN e.V. hosten.",
 			"language": "de",
 			"imageUrl": "/images/logo.png",
 			"tags": [
 				"Hosting",
 				"Meetup",
-				"Ausrichten"
+				"Ausrichten",
+				"Location"
 			],
 			"contentType": "markdown",
 			"renderer": "twig",

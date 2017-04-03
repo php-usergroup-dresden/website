@@ -4,7 +4,7 @@
 	"outputDir": "./docs",
 	"contentsDir": "./contents/",
 	"replacements": {
-		"@website_version@": "v1.0.1",
+		"@website_version@": "v1.1.0",
 		"@github_url@": "https://github.com/php-usergroup-dresden",
 		"@twitter_url@": "https://twitter.com/phpugdd",
 		"@facebook_url@": "https://www.facebook.com/PHP-USERGROUP-DRESDEN-1623896237827037",
@@ -44,6 +44,7 @@
 			"children": [
 				"/events.html",
 				"/call-for-papers.html",
+				"/hosting.html",
 				"/newsletter-archive.html",
 				"/sponsoring.html",
 				"/statutes.html",
@@ -210,6 +211,25 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "call-for-papers.md",
+			"children": []
+		},
+		"/hosting.html": {
+			"pageLevel": 2,
+			"navName": "Meetup hosten",
+			"pageTitle": "Meetup hosten",
+			"description": "Ein Meetup des PHP USERGROUP DRESDEN e.V. hosten.",
+			"language": "de",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Hosting",
+				"Meetup",
+				"Ausrichten",
+				"Location"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "hosting.md",
 			"children": []
 		},
 		"/sponsoring.html": {

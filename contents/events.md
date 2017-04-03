@@ -77,6 +77,12 @@ Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit
 
 <hr class="blockspace">
 
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
 <a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
 ### <a name="event-calendar"></a>Event Kalender 2017
 

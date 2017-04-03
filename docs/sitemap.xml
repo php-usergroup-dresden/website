@@ -64,6 +64,13 @@
     </image:image>
   </url>
   <url>
+    <loc>http://phpug-dresden.org/hosting.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Meetup hosten</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>http://phpug-dresden.org/sponsoring.html</loc>
     <image:image>
       <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>

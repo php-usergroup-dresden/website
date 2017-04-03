@@ -173,3 +173,23 @@ a:active {
 	    margin-top: 0;
     }
 }
+
+table {
+	min-width: 50%;
+	border-collapse: collapse;
+	border: 1px solid #eee
+}
+
+table th {
+	background-color: #f6f6f6;
+}
+
+table th,
+table td {
+	border: 1px solid #eee;
+	padding: 5px;
+}
+
+table tr:nth-child(even) {
+	background-color: #fafafa;
+}

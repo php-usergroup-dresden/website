@@ -66,4 +66,5 @@ An dieser Stelle auch nochmal ein riesen Dankeschön an unsere bisherigen Hosts!
 * [Cloudsters](http://dresden.cloudsters.net/)
 * [Unister](http://www.unister.de/)
 * [LOVOO](https://inside.lovoo.com/)
+* [webit!](http://www.webit.de/)
 * wird fortgeführt ...

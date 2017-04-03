@@ -33,13 +33,7 @@ Dieser sieht wie folgt aus:
 | 19:25 - 19:30 | &nbsp;&nbsp;&nbsp;&nbsp; | kurze Pause |
 | ca. 19:30 - 19:45 | &nbsp;&nbsp;&nbsp;&nbsp; | Lightning-Talk |
 | 19:45 - 20.00 | &nbsp;&nbsp;&nbsp;&nbsp; | kurze Pause |
-| ca. 20:00 - 20:45 | &nbsp;&nbsp;&nbsp;&nbsp; | Main-Talk |
-
-## Mehrwert
-
-Außer unserem unendlichen Dank, zahlreicher Fachgespräche mit den Teilnehmern stellt Ihr Euch damit einer großen PHP-Community vor.
-Wir geben Euch dafür eine Bühne. Daher gehört die Vorstellung des Hosts bei uns zum festen Programm (siehe Ablauf).
-Erzählt von Euren Projekten, in welchem Kontext Ihr zu PHP steht oder teilt offene Stellen mit.   
+| ca. 20:00 - 20:45 | &nbsp;&nbsp;&nbsp;&nbsp; | Main-Talk |   
 
 ## Organisation
 
@@ -47,6 +41,12 @@ Wir organisieren unsere Treffen über [Meetup.com](https://www.meetup.com/de-DE/
 Für jedes Event bzw. Meetup erstellen wir eine Seite, welche wir auch immer wieder publizieren.
 Damit lässt sich jederzeit die ungefähre Anzahl der Teilnehmer einsehen und besser planen. In der Regel kommen zu unseren Meetups 
 um die 30-40 Teilnehmer. Tendenz steigend.
+
+## Mehrwert
+
+Außer unserem unendlichen Dank, zahlreicher Fachgespräche mit den Teilnehmern stellt Ihr Euch damit einer großen PHP-Community vor.
+Wir geben Euch dafür eine Bühne. Daher gehört die Vorstellung des Hosts bei uns zum festen Programm (siehe Ablauf).
+Erzählt von Euren Projekten, in welchem Kontext Ihr zu PHP steht oder teilt offene Stellen mit.
 
 ## Interesse
 

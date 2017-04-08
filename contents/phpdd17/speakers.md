@@ -61,11 +61,14 @@
 				</a>
 			</p>
 			<blockquote>
-				Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-				Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui.
+				Sebastian Heuer plans and writes software for the web since the early 2000s. 
+                He focusses on clean software architectures and high-quality, easy to understand code. 
+                Apart from his position as Developer Advocate at kartenmacherei.de, 
+                he engages in several open-source projects (like <a href="https://phar.io">phar.io</a>) 
+                and helps teams to write solid and maintainable software.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your toolchain</a>
+				<a href="@baseUrl@/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> TBD</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -135,8 +138,10 @@
 				</a>
 			</p>
 			<blockquote>
-				Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-				Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui.
+				Stephan Hochdörfer ist Head of Technology bei der
+                Firma bitExpert AG in Mannheim. Seine Interessenschwerpunkte liegen im
+                Bereich Web Entwicklung und Automatisierungstechniken, von der Code
+                Generierung bis hin zum automatischen Deployment.
 			</blockquote>
 			<p>
 				<a href="@baseUrl@/phpdd17/schedule.html#postgresql" class="text-uppercase"><b>Talk:</b> PostgreSQL: Die NoSQL-Datenbank, die niemand kennt</a>
@@ -168,15 +173,14 @@
 			<p>
 				<a href="http://5square.de" target="blank" title="Jan Burkl">
 					<i class="fa fa-industry text-muted"></i>
-					Senior Solution Consultant - Zend Technologies GmbH - a Rogue Wave Company
+					Solution Consultant - Rogue Wave Software
 				</a>
 			</p>
 			<blockquote>
-				Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-				Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui.
+				Im November 2006 startete Jan als Training & System Engineer bei Zend Technologies in Stuttgart. Heute berät der studierte Informatiker als Solution Consultant für Zend Geschäftskunden in PHP Software-Projekten und gibt gelegentlich Trainings in PHP, Zend Produkten und Entwicklungs-Tools (Zend Studio, Zend Server und Zend Framework). Außerdem präsentiert Jan Burkl diese Themen in kostenlosen Webinaren sowie Vorträgen auf Konferenzen und User Group Meetings.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#zend-expressive" class="text-uppercase"><b>Talk:</b> Zend Expressive / Middlewares</a>
+				<a href="@baseUrl@/phpdd17/schedule.html#middleware-web-apis-in-php-7" class="text-uppercase"><b>Talk:</b> Middleware Web APIs in PHP 7.x</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -203,18 +207,17 @@
 				</small>
 			</h3>
 			<p>
-				<a href="http://prooph-software.de" target="blank" title="Prooph Software GmbH">
+				<a href="http://prooph-software.de" target="blank" title="prooph software GmbH">
 					<i class="fa fa-industry text-muted"></i>
-					CEO, software developer - prooph software GmbH
+					CEO &amp; Lead Developer - prooph software GmbH
 				</a>
 			</p>
 			<blockquote>
-				Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-				Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui.
+				Alexander Miertsch ist Gründer und Geschäftsführer der prooph software GmbH. Als Senior PHP Entwickler und Consultant unterstützt er mit seinem Team Unternehmen im Enterprise Umfeld, wo Domain-Driven Design, verteilte Software-Systeme und generell ein hoher Anspruch an Softwarequalität gefordert sind. Die Vorliebe für die Entwicklung komplexer webbasierter Software vertieft er auch im Open Source Bereich, wo er als einer der Hauptakteure seit 3 Jahren an den prooph components mitwirkt, um CQRS und Event Sourcing in der PHP Welt weiter zu etablieren.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#prooph-components" class="text-uppercase">
-					<b>Talk:</b> prooph Micro (Microservices, Event Sourcing, Functional Programming)
+				<a href="@baseUrl@/phpdd17/schedule.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
+					<b>Talk:</b> prooph/micro - weniger ist mehr
 				</a>
 			</p>
 		</div>

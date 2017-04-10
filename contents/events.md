@@ -57,13 +57,15 @@
 
 **This meetup is going to be special!**
 
-We're excited to have two guest speakers talking about tools that help us writing (much) better code.
+We're excited to have three guest speakers talking about tools that help us writing (much) better code.
 
-* **Ondřej Mirtes** - Author of "PHPStan" 
+* **Tomáš Votruba** -  A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards (Lightning Talk) 
 
-* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)"
+* **Ondřej Mirtes** - Author of "PHPStan" (45 Min. Talk)
 
-Both speakers will present in english. 
+* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)" (45 Min. Talk)
+
+All speakers will present in english. 
 
 We try to do the official part in english, too. 
 And that makes us nobody so fast after. ;-)

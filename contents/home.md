@@ -45,13 +45,15 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 **This meetup is going to be special!**
 
-We're excited to have two guest speakers talking about tools that help us writing (much) better code.
+We're excited to have three guest speakers talking about tools that help us writing (much) better code.
+
+* **Tomáš Votruba** -  A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards (Lightning Talk) 
 
 * **Ondřej Mirtes** - Author of "PHPStan" 
 
 * **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)"
 
-Both speakers will present in english. 
+All speakers will present in english. 
 
 We try to do the official part in english, too. 
 And that makes us nobody so fast after. ;-)

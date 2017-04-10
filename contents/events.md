@@ -117,6 +117,11 @@ Vorträge:
 
 &nbsp;
 
+
+[<i class="fa fa-youtube"></i> Seht euch alle Talks dieses Meetups noch einmal auf unserem YouTube-Channel an!](https://www.youtube.com/playlist?list=PLW4GAs3yDy3KqcxyIdAy6pivhX2pr76My)
+
+<hr class="blockspace">
+
 <a href="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg" alt="Exception handling - classic and fancy" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 

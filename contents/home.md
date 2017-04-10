@@ -81,10 +81,12 @@ Vorträge:
 * Ralf Junghanns (PHP UG Dresden): Lightning Talk - Einführung in Dependency Injection
 * Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar): ["Disco - A fresh look at DI"](http://ow.ly/pv8y309VtPd) 
 
+[<i class="fa fa-youtube"></i> Seht euch alle Talks dieses Meetups noch einmal auf unserem YouTube-Channel an!](https://www.youtube.com/playlist?list=PLW4GAs3yDy3KqcxyIdAy6pivhX2pr76My)
+
 <a href="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-01.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-01.jpg" alt="Dependency Injection - Disco" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
-&nbsp;
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup I / 2017 am 30. Januar](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/)
 

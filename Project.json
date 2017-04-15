@@ -109,7 +109,8 @@
 				"/phpdd17/speakers.html",
 				"/phpdd17/schedule.html",
 				"/phpdd17/tickets.html",
-				"/phpdd17/location.html"
+				"/phpdd17/location.html",
+				"/phpdd17/sponsoring.html"
 			]
 		},
 		"/phpdd17/speakers.html": {
@@ -195,6 +196,27 @@
 			"renderer": "twig",
 			"template": "templates/phpdd17.twig",
 			"contentFile": "phpdd17/tickets.md",
+			"children": [
+			]
+		},
+		"/phpdd17/sponsoring.html": {
+			"pageLevel": 20,
+			"navName": "Sponsoren",
+			"pageTitle": "Sponsoren",
+			"description": "Sponsor des PHP DevDays werden und die PHPUG Dresden unterstützen.",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Sponsoring"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/sponsoring.md",
 			"children": [
 			]
 		},

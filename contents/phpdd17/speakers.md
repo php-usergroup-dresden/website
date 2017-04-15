@@ -24,8 +24,7 @@
 				</a>
 			</p>
 			<blockquote>
-				Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-				Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui.
+				Arne Blankerts solves IT problems long before many companies realize that they even exist. He focuses on IT security, performance and reliability, which he attends to with almost magical intuition creating solutions that clearly bear his hallmark. Companies around the world rely on his concepts and Linux-based system architectures.
 			</blockquote>
 			<p>
 				<a href="@baseUrl@/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your toolchain</a>

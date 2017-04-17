@@ -105,4 +105,11 @@
       <image:caption>Datenschutzerklärung</image:caption>
     </image:image>
   </url>
+  <url>
+    <loc>http://phpug-dresden.org/code-of-conduct.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Verhaltenskodex / Code of Conduct</image:caption>
+    </image:image>
+  </url>
 </urlset>

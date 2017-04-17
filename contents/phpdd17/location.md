@@ -1,3 +1,5 @@
+Der Veranstaltungsort liegt über der Dresdner Traufhöhe. Im 6. Stock befindet sich der Festsaal, welcher auch barrierefrei per Fahrstuhl erreichbar ist.
+Auf der Dachterasse des Dresdner Volkshauses hat man in den Pausen überdessen einen wunderschönen Blick über Dresden.
 
 <div class="row">
 	<div class="col-xs-12 col-sm-6 col-md-3">

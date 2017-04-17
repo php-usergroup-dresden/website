@@ -49,7 +49,8 @@
 				"/sponsoring.html",
 				"/statutes.html",
 				"/imprint.html",
-				"/privacy.html"
+				"/privacy.html",
+				"/code-of-conduct.html"
 			]
 		},
 		"/404.html": {
@@ -330,6 +331,27 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "privacy.md",
+			"children": []
+		},
+		"/code-of-conduct.html": {
+			"pageLevel": 2,
+			"navName": "Verhaltenskodex / Code of Conduct",
+			"pageTitle": "Verhaltenskodex / Code of Conduct",
+			"description": "Verhaltenskodex des PHP USERGROUP DRESDEN e.V.",
+			"language": "de",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Kodex",
+				"Verhalten",
+				"Code of Conduct",
+				"Dresden",
+				"Community",
+				"Events"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "code-of-conduct.md",
 			"children": []
 		}
 	}

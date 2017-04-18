@@ -96,6 +96,13 @@
 	<link rel="stylesheet" href="{{ project.getUrl('/css/twemoji-awesome.css') }}">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/phpdd17.css') ~ '?' ~ ('now'|date('YmdHis')) }}">
 	<script src="https://use.fontawesome.com/e89ed69fdb.js" async="async"></script>
+
+	{% if page.getUri starts with '/phpdd17' %}
+		<link rel="alternate" hreflang="en" href="{{ project.getUrl('/en/phpdd17.html') }}">
+	{% elseif page.getUri starts with '/en/phpdd17' %}
+		<link rel="alternate" hreflang="de" href="{{ project.getUrl('/phpdd17.html') }}">
+	{% endif %}
+
 	{% block stylesheets %}{% endblock %}
 </head>
 <body>
@@ -109,21 +116,41 @@
 			<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 sidebar-offcanvas" id="sidebar" role="navigation">
 				<!-- sidebar -->
 				<nav id="sidenav">
-					<a href="{{ project.getUrl('/') }}" class="hidden-xs hidden-sm">
-						<img src="{{ project.getUrl('/images/events/phpdd17/phpdd17-logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
-					</a>
+					{% if page.getUri starts with '/phpdd17' %}
+						<a href="{{ project.getUrl('/phpdd17.html') }}" class="hidden-xs hidden-sm">
+							<img src="{{ project.getUrl('/images/events/phpdd17/phpdd17-logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
+						</a>
+					{% elseif page.getUri starts with '/en/phpdd17' %}
+						<a href="{{ project.getUrl('/en/phpdd17.html') }}" class="hidden-xs hidden-sm">
+							<img src="{{ project.getUrl('/images/events/phpdd17/phpdd17-logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
+						</a>
+					{% endif %}
+
 
 					<hr class="blockspace">
 
 					<ul class="nav">
-						<li class="hidden-sm hidden-md hidden-lg">
-							<a href="{{ project.getUrl('/phpdd17.html') }}" title="Home">Home</a>
-						</li>
-						{% for loopPage in project.getPageConfigsAtLevel(20) %}
+						{% if page.getUri starts with '/phpdd17' %}
+							{# German navigation #}
+							<li class="hidden-sm hidden-md hidden-lg">
+								<a href="{{ project.getUrl('/phpdd17.html') }}" title="PHP Developer Day 2017">PHP Developer Day 2017</a>
+							</li>
+							{% for loopPage in project.getPageConfigsAtLevel(20) %}
 
-							{{ nav.subTree(loopPage, project, breadCrumb) }}
+								{{ nav.subTree(loopPage, project, breadCrumb) }}
 
-						{% endfor %}
+							{% endfor %}
+						{% elseif page.getUri starts with '/en/phpdd17' %}
+							{# English navigation #}
+							<li class="hidden-sm hidden-md hidden-lg">
+								<a href="{{ project.getUrl('/en/phpdd17.html') }}" title="PHP Developer Day 2017">PHP Developer Day 2017</a>
+							</li>
+							{% for loopPage in project.getPageConfigsAtLevel(30) %}
+
+								{{ nav.subTree(loopPage, project, breadCrumb) }}
+
+							{% endfor %}
+						{% endif %}
 					</ul>
 
 					<hr class="blockspace">
@@ -164,19 +191,34 @@
 
 			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9" id="mainstage">
 
-				<h1 class="text-right page-headline">
-					<a href="javascript:void(0);" data-toggle="offcanvas" data-target="#sidebar" class="visible-xs hidden-sm hidden-md hidden-lg pull-left">
-						<i class="fa fa-bars"></i>&nbsp;|&nbsp;
-					</a>
-					<span class="pull-right visible-xs visible-sm hidden-md hidden-lg">
-						<img src="{{ project.getUrl('/images/favicons/ms-icon-70x70.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
-					</span>
-					<span class="visible-xs visible-sm hidden-md hidden-lg">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-3 col-lg-2 text-center">
+						<br>
+						<br class="hidden-xs hidden-sm">
+						<ul class="list-inline h4 lang-switch">
+							<li{% if page.getUri starts with '/phpdd17' %} class="active"{% endif %}>
+								<a href="{{ project.getUrl('/phpdd17.html') }}" title="Zur deutschen Version">DE</a>
+							</li>
+							<li>|</li>
+							<li{% if page.getUri starts with '/en/phpdd17' %} class="active"{% endif %}>
+								<a href="{{ project.getUrl('/en/phpdd17.html') }}" title="Go to english version">EN</a>
+							</li>
+						</ul>
+					</div>
+					<div class="col-xs-12 col-sm-12 col-md-9 col-lg-10">
+						<h1 class="text-right page-headline">
+							<a href="javascript:void(0);" data-toggle="offcanvas" data-target="#sidebar" class="visible-xs hidden-sm hidden-md hidden-lg pull-left">
+								<i class="fa fa-bars"></i>&nbsp;|&nbsp;
+							</a>
 
-					</span>
+							<small class="text-muted">September 22
+								<small>nd</small>
+								2017 |
+							</small> {{ page.getPageTitle }}
+						</h1>
+					</div>
+				</div>
 
-					<small class="text-muted">September 22<small>nd</small> 2017 |</small> {{ page.getPageTitle }}
-				</h1>
 
 				<hr class="blockspace">
 
@@ -233,9 +275,10 @@
 <script type="text/javascript" src="{{ project.getUrl('/js/main.js') ~ '?' ~ ('now'|date('YmdHis')) }}"></script>
 <script type="text/javascript" src="{{ project.getUrl('/js/jquery.countdown.min.js') }}"></script>
 <script type="text/javascript">
-    $("#event-start").countdown('2017/09/22 08:30:00', function(event) {
-        $(this).html(event.strftime('%-w weeks %-d days %Hh %Mm %Ss'));
-    });
+	$( "#event-start" ).countdown( '2017/09/22 08:30:00', function ( event )
+	{
+		$( this ).html( event.strftime( '%-w weeks %-d days %Hh %Mm %Ss' ) );
+	} );
 </script>
 {% block javascripts %}{% endblock %}
 </body>

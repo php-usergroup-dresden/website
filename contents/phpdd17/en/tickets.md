@@ -1,5 +1,5 @@
 
-<h2 class="text-center">Ticket sale starts on April 15th 2017 - 10:00am CEST</h2>
+<h2 class="text-center">Ticket sale starts on April 24th 2017 - 10:00am CEST</h2>
 
 <hr class="blockspace">
 
@@ -10,29 +10,30 @@
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
 			<h3>EARLY BIRD</h3>
-			<span class="text-muted">Available from April 15th to May 31st 2017</span>
-		</div>
-	</div>
-	<hr class="blockspace">
-	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 69.<small>00</small></h3>	
-		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>REGULAR</h3>
-			<span class="text-muted">Available from April 15th to September 15th 2017</span>
-			<br>
-			<br>
-			<span class="text-muted">
-				Even though we sell EARLY BIRD tickets from April, 15th to May, 31st 2017, 
-				we offer regular tickets as well and we would heavily appreciate your support for this event, if you choose to buy a regular ticket.
-			</span>
+			<p class="text-muted">Available from April 24th to May 31st 2017</p>
+			<p>
+				<b class="text-danger">ATTENTION:</b> Only 50 tickets total. While stocks last.
+			</p>
 		</div>
 	</div>
 	<hr class="blockspace">
 	<div class="row">
 		<div class="col-xs-12 col-sm-4 col-md-3">
 			<h3>EUR 79.<small>00</small></h3>	
+		</div>
+		<div class="col-xs-12 col-sm-8 col-md-9">
+			<h3>REGULAR</h3>
+			<p class="text-muted">Available from April 24th to September 15th 2017</p>
+			<p>
+				Even though we sell EARLY BIRD tickets from April 24th to May 31st 2017, 
+				we would heavily appreciate your support for us, this event and others with less financial capabilities, if you choose to buy a REGULAR ticket.
+			</p>
+		</div>
+	</div>
+	<hr class="blockspace">
+	<div class="row">
+		<div class="col-xs-12 col-sm-4 col-md-3">
+			<h3>EUR 89.<small>00</small></h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
 			<h3>DAY TICKET</h3>

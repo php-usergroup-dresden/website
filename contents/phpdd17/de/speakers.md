@@ -1,4 +1,4 @@
-#### We are absolutely thrilled to announce the following speakers for PHP Developer Day 2017!
+#### Wir sind absolut begeistern folgende Speaker für den PHP Developer Day 2017 anzukündigen.
  
 &nbsp;
 
@@ -19,7 +19,6 @@
 			</h3>
 			<p>
 				<a href="https://thephp.cc" target="blank" title="The PHP Consulting Company">
-					<i class="fa fa-industry text-muted"></i>
 					Co-Founder und Principal Consultant - thePHP.cc - The PHP Consulting Company
 				</a>
 			</p>
@@ -27,7 +26,7 @@
 				Arne Blankerts solves IT problems long before many companies realize that they even exist. He focuses on IT security, performance and reliability, which he attends to with almost magical intuition creating solutions that clearly bear his hallmark. Companies around the world rely on his concepts and Linux-based system architectures.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your toolchain</a>
+				<a href="@baseUrl@/phpdd17/programm.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your PHP toolchain</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -55,7 +54,6 @@
 			</h3>
 			<p>
 				<a href="https://tech.kartenmacherei.de" target="blank" title="The PHP Consulting Company">
-					<i class="fa fa-industry text-muted"></i>
 					Developer Advocate - die kartenmacherei GmbH
 				</a>
 			</p>
@@ -67,7 +65,7 @@
                 and helps teams to write solid and maintainable software.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> TBD</a>
+				<a href="@baseUrl@/phpdd17/programm.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your PHP toolchain</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -95,16 +93,16 @@
 			</h3>
 			<p>
 				<a href="https://marco-pivetta.com" target="blank" title="Marco Pivetta Software Development">
-					<i class="fa fa-industry text-muted"></i>
 					Independent software consultant - Marco Pivetta Software Development
 				</a>
 			</p>
 			<blockquote>
-				Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. 
-				Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui.
+				Marco "Ocramius" Pivetta is a software consultant at Roave. With over a decade of experience with PHP, he is part of the Zend 
+				Framework CR team, Doctrine core team, and is also active in the community as a mentor and supporter. 
+				When not coding for work, he usually hacks together new concepts and open source libraries, or simply provides Q&A on IRC.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#" class="text-uppercase"><b>Talk:</b> Event Sourcing</a>
+				<a href="@baseUrl@/phpdd17/programm.html#event-sourcing" class="text-uppercase"><b>Talk:</b> Event Sourcing: The good, the bad and the complicated</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -132,7 +130,6 @@
 			</h3>
 			<p>
 				<a href="https://www.bitexpert.de" target="blank" title="bitExpert AG">
-					<i class="fa fa-industry text-muted"></i>
 					Head of Technology - bitExpert AG
 				</a>
 			</p>
@@ -143,7 +140,7 @@
                 Generierung bis hin zum automatischen Deployment.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#postgresql" class="text-uppercase"><b>Talk:</b> PostgreSQL: Die NoSQL-Datenbank, die niemand kennt</a>
+				<a href="@baseUrl@/phpdd17/programm.html#postgresql" class="text-uppercase"><b>Talk:</b> PostgreSQL: Die NoSQL-Datenbank, die niemand kennt</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -171,7 +168,6 @@
 			</h3>
 			<p>
 				<a href="http://5square.de" target="blank" title="Jan Burkl">
-					<i class="fa fa-industry text-muted"></i>
 					Solution Consultant - Rogue Wave Software
 				</a>
 			</p>
@@ -179,7 +175,7 @@
 				Im November 2006 startete Jan als Training & System Engineer bei Zend Technologies in Stuttgart. Heute berät der studierte Informatiker als Solution Consultant für Zend Geschäftskunden in PHP Software-Projekten und gibt gelegentlich Trainings in PHP, Zend Produkten und Entwicklungs-Tools (Zend Studio, Zend Server und Zend Framework). Außerdem präsentiert Jan Burkl diese Themen in kostenlosen Webinaren sowie Vorträgen auf Konferenzen und User Group Meetings.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#middleware-web-apis-in-php-7" class="text-uppercase"><b>Talk:</b> Middleware Web APIs in PHP 7.x</a>
+				<a href="@baseUrl@/phpdd17/programm.html#middleware-web-apis-in-php-7" class="text-uppercase"><b>Talk:</b> Middleware Web APIs in PHP 7.x</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -207,7 +203,6 @@
 			</h3>
 			<p>
 				<a href="http://prooph-software.de" target="blank" title="prooph software GmbH">
-					<i class="fa fa-industry text-muted"></i>
 					CEO &amp; Lead Developer - prooph software GmbH
 				</a>
 			</p>
@@ -215,7 +210,7 @@
 				Alexander Miertsch ist Gründer und Geschäftsführer der prooph software GmbH. Als Senior PHP Entwickler und Consultant unterstützt er mit seinem Team Unternehmen im Enterprise Umfeld, wo Domain-Driven Design, verteilte Software-Systeme und generell ein hoher Anspruch an Softwarequalität gefordert sind. Die Vorliebe für die Entwicklung komplexer webbasierter Software vertieft er auch im Open Source Bereich, wo er als einer der Hauptakteure seit 3 Jahren an den prooph components mitwirkt, um CQRS und Event Sourcing in der PHP Welt weiter zu etablieren.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/schedule.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
+				<a href="@baseUrl@/phpdd17/programm.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
 					<b>Talk:</b> prooph/micro - weniger ist mehr
 				</a>
 			</p>
@@ -223,6 +218,43 @@
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<a href="@baseUrl@/images/speakers/Alexander_Miertsch.jpg" target="_blank" title="Alexander Miertsch">
 				<img src="@baseUrl@/images/speakers/Alexander_Miertsch.jpg" alt="Alexander Miertsch" class="img-responsive img-rounded">
+			</a>
+		</div>
+	</div>
+</div>
+
+<hr class="blockspace">
+
+<div class="speaker">
+	<div class="row">
+		<div class="col-xs-12 col-sm-6 col-md-8">
+			<h3>
+				<a name="unknown"></a>
+				ÜBERRASCHUNGS-SPEAKER
+				<!--<small>
+					|
+					<a href="https://twitter.com/prooph_software" target="_blank">
+						<i class="fa fa-twitter"></i> <span class="text-twitter">@prooph_software</span>
+					</a>
+				</small>-->
+			</h3>
+			<p>
+				<!--<a href="http://prooph-software.de" target="blank" title="prooph software GmbH">
+					CEO &amp; Lead Developer - prooph software GmbH
+				</a>-->
+			</p>
+			<blockquote>
+				Diesen Slot wird ein Speaker übernehmen, mit dem wir euch noch überraschen werden. 
+			</blockquote>
+			<p>
+				<!--<a href="@baseUrl@/phpdd17/programm.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
+					<b>Talk:</b> prooph/micro - weniger ist mehr
+				</a>-->
+			</p>
+		</div>
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<a href="http://placehold.it/500x500/f6f6f6/000000?text=SUPRISE" target="_blank" title="Überraschung">
+				<img src="http://placehold.it/500x500/f6f6f6/000000?text=SUPRISE" alt="Überraschung" class="img-responsive img-rounded">
 			</a>
 		</div>
 	</div>

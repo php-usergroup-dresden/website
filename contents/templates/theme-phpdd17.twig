@@ -211,10 +211,12 @@
 								<i class="fa fa-bars"></i>&nbsp;|&nbsp;
 							</a>
 
-							<small class="text-muted">September 22
-								<small>nd</small>
-								2017 |
-							</small> {{ page.getPageTitle }}
+							{% if page.getUri starts with '/phpdd17' %}
+								<small class="text-muted">22. September 2017 |</small>
+							{% elseif page.getUri starts with '/en/phpdd17' %}
+								<small class="text-muted">September 22<small>nd</small> 2017 |</small>
+							{% endif %}
+							{{ page.getPageTitle }}
 						</h1>
 					</div>
 				</div>

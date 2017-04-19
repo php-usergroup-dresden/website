@@ -1,33 +1,44 @@
-# Sponsoren
 
-Möchten Sie sich der umliegenden PHP-Community als attraktiver Arbeitgeber präsentieren? Oder lieber als innovatives Unternehmen mit richtig guten Ideen? Vielleicht auch als PHP basierte Plattform, die jeder kennen sollte? Oder finden Sie einen Bereich wichtig, damit Ihre Mitarbeiter einfach wissen, wo sie sich sammeln und anlehnen können? 
-Das alles und noch viel mehr, sind super Gründe, Sponsor des PHP DevDay's zu werden.
+## Become Sponsor of the PHP Developer Day 2017
 
-Sichern Sie sich jetzt einen der begehrten Plätze als Sponsor und unterstützen Sie die PHPUG Dresden bei der Ausrichtung sowie die PHP-Community. 
-Wir freuen uns auf Ihre E-Mail an orga@phpug-dresden.org
+You would like to present your company as an attractive employer, an innovator or a platform?
+You believe the ability for a broader view, knowledge exchange and insides of new tools and technologies around PHP are a good motivator for you and your team?
+Then you have plenty of good reasons to become a sponsor of the PHP Developer Day 2017.
 
-## Benefits
+Save one of the eligible sponsoring slots, stengthen your visibility in the PHP community and get involved in the commitment for education and better software.
 
-### Bronze - 300,- EUR
+<hr class="blockspace">
 
-* Nennung in der Eröffnungs-Präsentation
-* Nennung in den Social-Media Kanälen (Twitter, Facebook)
-* Vorstellung auf der Website (phpug-dresden.org/phpdd17.html)
-* Logo und Erwähnung auf Flyern sowie den Ablaufplänen, welche am Konferenztag aushängen
-* Freigabe zur Auslage von Infomaterial
+## Sponsoring packages and Your benefits
 
-### Silber - 500,- EUR
+### BRONZE - EUR 300,-
 
-* alle Benefits aus Paket Bronze
-* eigene Slide/Präsentationsfolie, welche per Rotation in den Pausen auf der Leinwand angezeigt wird
+* Mention in the opening presentation
+* Mention on all social media channels (Twitter, Facebook)
+* Logo and link on the website website (phpug-dresden.org/en/phpdd17.html)
+* Logo and mention on flyers as well as on the schedule poster which will hang out at the location
+* Clearance to lay out info material at the location
 
-### Gold - 1000,- EUR
+### SILVER - EUR 500,-
 
-* alle Benefits aus Paket Silber
-* zwei Frei-Tickets
-* ein Stehtisch im Eingangsbereich zur freien Verfügung
+* all benefits from BRONZE package
+* own slide that will rotate on the screen during the breaks
 
-### Platin - 2000,- EUR
+### GOLD - EUR 1000,-
 
-* alle Benefits aus Paket Gold
-* 15 minütiger eigener Slot auf der Konferenz nach der Eröffnung 
+* all benefits from SILVER PACKAGE
+* two free tickets
+* one high table free for your disposal
+
+### PLATINUM - EUR 2000,-
+
+* all benefits from GOLD package
+* 15 minute talk slot after the opening presentation 
+
+<hr class="blockspace">
+
+## Contakt
+
+The orga team of the PHP USERGROUP DRESDEN e.V.<br>
+<i class="fa fa-envelope-o"></i> <a href="mailto:orga@phpug-dresden.org?subject=Become sponsor of the PHP Developer Day 2017">orga@phpug-dresden.org</a><br>
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/phpugdd">@phpugdd</a> / <a href="https://twitter.com/phpdd">@phpdd</a> 

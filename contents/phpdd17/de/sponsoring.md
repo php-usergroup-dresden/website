@@ -1,12 +1,16 @@
-# Sponsoren
 
-Möchten Sie sich der umliegenden PHP-Community als attraktiver Arbeitgeber präsentieren? Oder lieber als innovatives Unternehmen mit richtig guten Ideen? Vielleicht auch als PHP basierte Plattform, die jeder kennen sollte? Oder finden Sie einen Bereich wichtig, damit Ihre Mitarbeiter einfach wissen, wo sie sich sammeln und anlehnen können? 
-Das alles und noch viel mehr, sind super Gründe, Sponsor des PHP DevDay's zu werden.
+## Sponsor des PHP Developer Day 2017 werden
 
-Sichern Sie sich jetzt einen der begehrten Plätze als Sponsor und unterstützen Sie die PHPUG Dresden bei der Ausrichtung sowie die PHP-Community. 
-Wir freuen uns auf Ihre E-Mail an orga@phpug-dresden.org
+Sie möchten Ihr Unternehmen als attraktiven Arbeitgeber, Innovator oder Plattform präsentieren? 
+Sie glauben ein Blick über den Tellerrand, Wissensaustausch und Einblick in neue Tools und Technologien rund um PHP sind ein guter Motivator für Sie und Ihre Mitarbeiter/innen? 
+Dann haben Sie sehr gute Gründe Sponsor des PHP Developer Day 2017 zu werden.
 
-## Benefits
+Sichern Sie sich jetzt einen der begehrten Plätze als Sponsor, stärken Sie Ihre Sichtbarkeit in der PHP Community und werden Sie Teil des Engagements
+für mehr Wissen und bessere Software. 
+
+<hr class="blockspace">
+
+## Sponsoring-Pakete und Ihre Vorteile
 
 ### Bronze - 300,- EUR
 
@@ -31,3 +35,11 @@ Wir freuen uns auf Ihre E-Mail an orga@phpug-dresden.org
 
 * alle Benefits aus Paket Gold
 * 15 minütiger eigener Slot auf der Konferenz nach der Eröffnung 
+
+<hr class="blockspace">
+
+## Kontakt
+
+Das Orga-Team des PHP USERGROUP DRESDEN e.V.<br>
+<i class="fa fa-envelope-o"></i> <a href="mailto:orga@phpug-dresden.org?subject=Sponsor des PHP Developer Day 2017 werden">orga@phpug-dresden.org</a><br>
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/phpugdd">@phpugdd</a> / <a href="https://twitter.com/phpdd">@phpdd</a> 

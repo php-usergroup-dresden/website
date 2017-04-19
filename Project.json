@@ -112,6 +112,7 @@
 				"/phpdd17/programm.html",
 				"/phpdd17/tickets-kaufen.html",
 				"/phpdd17/ort-und-anreise.html",
+				"/phpdd17/verpflegung.html",
 				"/phpdd17/sponsor-werden.html",
 				"/phpdd17/verhaltenskodex.html"
 			]
@@ -202,6 +203,29 @@
 			"children": [
 			]
 		},
+		"/phpdd17/verpflegung.html": {
+			"pageLevel": 20,
+			"navName": "Verpflegung",
+			"pageTitle": "Verpflegung",
+			"description": "Verpflegung beim PHP Developer Day 2017 in Dresden, Deutschland",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Verpflegung",
+				"Essen",
+				"Getränke"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/de/catering.md",
+			"children": [
+			]
+		},
 		"/phpdd17/sponsor-werden.html": {
 			"pageLevel": 20,
 			"navName": "Sponsor werden",
@@ -270,6 +294,7 @@
 				"/en/phpdd17/schedule.html",
 				"/en/phpdd17/buy-tickets.html",
 				"/en/phpdd17/location-and-arrival.html",
+				"/en/phpdd17/catering.html",
 				"/en/phpdd17/become-sponsor.html",
 				"/en/phpdd17/code-of-conduct.html"
 			]
@@ -357,6 +382,29 @@
 			"renderer": "twig",
 			"template": "templates/phpdd17.twig",
 			"contentFile": "phpdd17/en/location.md",
+			"children": [
+			]
+		},
+		"/en/phpdd17/catering.html": {
+			"pageLevel": 30,
+			"navName": "Catering",
+			"pageTitle": "Catering",
+			"description": "Catering at the PHP Developer Day 2017 in Dresden, Germany",
+			"language": "en",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo.png",
+			"tags": [
+				"Event",
+				"Conference",
+				"Developer Day",
+				"Dresden",
+				"Catering",
+				"Food",
+				"Drinks"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/en/catering.md",
 			"children": [
 			]
 		},

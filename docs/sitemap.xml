@@ -57,6 +57,13 @@
     </image:image>
   </url>
   <url>
+    <loc>http://phpug-dresden.org/phpdd17/verpflegung.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo.png</image:loc>
+      <image:caption>Verpflegung</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>http://phpug-dresden.org/phpdd17/sponsor-werden.html</loc>
     <image:image>
       <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo.png</image:loc>
@@ -103,6 +110,13 @@
     <image:image>
       <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo.png</image:loc>
       <image:caption>Location / Arrival</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/en/phpdd17/catering.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo.png</image:loc>
+      <image:caption>Catering</image:caption>
     </image:image>
   </url>
   <url>

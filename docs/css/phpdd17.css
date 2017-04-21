@@ -150,6 +150,53 @@ h1.page-headline {
 	color: #808080;
 }
 
+.intro-speaker {
+	background-color: #eaeaea;
+	padding: 5px;
+	border-radius: 5px;
+	margin: 15px 0;
+}
+
+.intro-speaker > p {
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+/* Countdown clock */
+/* https://codepen.io/SitePoint/pen/MwNPVq/ */
+#clockdiv{
+	font-family: "robotoregular", Helvetica, Arial, sans-serif;
+	color: #fff;
+	display: block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+	margin: 0 auto;
+}
+
+#clockdiv > div{
+	color: #000000;
+	padding: 10px;
+	border-radius: 3px;
+	background: #eaeaea;
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	color: #ffffff;
+	padding: 15px;
+	border-radius: 3px;
+	background: #a7231d;
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+}
+
 /* collapsed sidebar styles */
 @media screen and (max-width: 767px) {
 

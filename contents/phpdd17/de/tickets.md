@@ -60,7 +60,7 @@
 
 <div class="text-center">
 	<a name="buy-btn"></a>
-	<a href="#buy-btn" title="TICKET SALE STARTET AM 24. APRIL" class="blockspace btn btn-block btn-success btn-lg text-uppercase disabled">
-		<i class="fa fa-ticket"></i> TICKET SALE STARTET AM 24. APRIL <i class="fa fa-ticket"></i>
+	<a href="https://www.eventbrite.com/e/php-developer-day-2017-tickets-33522252961?aff=website" title="JETZT TICKET KAUFEN" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
+		<i class="fa fa-ticket"></i> JETZT TICKET KAUFEN <i class="fa fa-ticket"></i>
 	</a>
 </div>

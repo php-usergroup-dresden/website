@@ -5,27 +5,7 @@ Wie auch bei den vergangenen zwei Events in [2015](@baseUrl@/events/2015/php-dev
 stehen wieder top Vorträge, freier Wissensaustausch, Community und Spaß im Vordergrund der Veranstaltung.
 
 Sei auch du **22. SEPTEMBER** im **DRESDNER VOLKSHAUS am SCHÜTZENPLATZ 14 in DRESDEN** dabei!<br>
-&mdash; beim PHP Developer Day 2017. Der Countdown läuft...
-
-<div id="clockdiv">
-  <div>
-    <span class="days"></span>
-    <div class="smalltext">Tage</div>
-  </div>
-  <div>
-    <span class="hours"></span>
-    <div class="smalltext">Stunden</div>
-  </div>
-  <div>
-    <span class="minutes"></span>
-    <div class="smalltext">Minuten</div>
-  </div>
-  <div class="hidden-xs">
-    <span class="seconds"></span>
-    <div class="smalltext">Sekunden</div>
-  </div>
-</div>
-
+&mdash; beim PHP Developer Day 2017.
 
 <hr class="blockspace">
 
@@ -138,40 +118,95 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 
 **<i class="fa fa-arrow-right"></i> [SPONSOR WERDEN](@baseUrl@/phpdd17/sponsor-werden.html)**
 
-#### Bronze
 
-<div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-10 text-center">
-		<q>@todo</q> 
-	</div>
-	<div class="hidden-xs hidden-sm col-md-3 col-lg-2">
-        <img src="@baseUrl@/images/sponsors/moveelevator.jpg" alt="move elevator Group" class="img-responsive">
-    </div>
-</div>
-
-<div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-10 text-center">
-	    @todo
-	</div>
-	<div class="hidden-xs hidden-sm col-md-3 col-lg-2">
-        <img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
-    </div>
-</div>
-
-<div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-10 text-center">
-	    @todo
-	</div>
-	<div class="hidden-xs hidden-sm col-md-3 col-lg-2">
-        Logo Kartenmacherei
-    </div>
-</div>
-
-<div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-10 text-center">
-	    @todo
-	</div>
-	<div class="hidden-xs hidden-sm col-md-3 col-lg-2">
-        Logo thePHP.cc
-    </div>
-</div>
+<table class="table blockspace">
+	<colgroup>
+		<col width="25%"/>
+		<col width="60%"/>
+		<col width="15%"/>
+	</colgroup>
+	<thead>
+		<tr><th colspan="3">Unsere Unterstützer</th></tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://www.move-elevator.de" target="_blank" title="move:elevator">
+					<img src="@baseUrl@/images/sponsors/moveelevator.jpg" alt="move elevator Group" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Gestatten: move:elevator, Full-Service-Agentur mit Leib und Seele und einer umfassenden Inhouse-Kompetenz. 
+				Von Magazinen über Websites und Imagefilme bis hin zu komplexen digitalen Geschäftsprozessen bekommen Sie bei uns alles, 
+				was Ihr Unternehmen wachsen und glänzen lässt. Und dies aus einer Hand.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://www.fortuneglobe.com" target="_blank" title="Fortuneglobe GmbH">
+					<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Die Fortuneglobe GmbH ist ein Full-Service eCommerce Unternehmen und hilft seinen Kunden neue Märkte
+				und Omni-Channel Absatz-Strategien zu erschließen, eCommerce-Prozesse stetig zu optimieren und die Konkurrenzfähigkeit zu stärken.
+				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://thephp.cc" target="_blank" title="thePHP.cc">
+					<img src="@baseUrl@/images/sponsors/the-php-cc.png" alt="thePHP.cc" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				The PHP Consulting Company (thePHP.cc) hilft seit 2009 Startups,
+				Agenturen, mittelständischen Unternehmen und Konzernen dabei,
+				erfolgreich Software zu entwicklen und zu betreiben. Die Gründer des
+				inhabergeführten Unternehmens sind international anerkannte, führende
+				Experten, die ihre Begeisterung und Erfahrung auch in zahlreichen
+				Publikationen und Konferenzvorträgen weitergeben.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
+					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				LOVOO steht für eine neue, individuelle Art des Kennenlernens. Weltweit nutzen bereits mehrere Millionen Menschen unsere App, 
+				um neue Leute aus ihrer Umgebung zu treffen. Leute mit gleichen Hobbys und Interessen, demselben Humor oder einem ähnlichen Lifestyle. 
+				Dabei geht es uns um mehr, als schöne Profilbilder. Uns interessieren die Menschen dahinter und die Geschichten, die sie zu erzählen haben.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.kartenmacherei.de" target="_blank" title="die kartenmacherei">
+					<img src="@baseUrl@/images/sponsors/kartenmacherei.jpg" alt="die kartenmacherei" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Bei der kartenmacherei stehen die Leidenschaft für Service und ein hoher Anspruch an Qualität an erster Stelle. 
+				Mit unseren hochwertigen, individualisierbaren Papeterie-Produkten begleiten wir unsere Kunden bei den wichtigsten Momenten in ihrem Leben.<br>
+				Leidenschaftlich. Innovativ. Bodenständig.<br>
+				Wir sind die kartenmacherei.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+	</tbody>
+</table>

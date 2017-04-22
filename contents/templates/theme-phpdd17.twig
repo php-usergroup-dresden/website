@@ -21,8 +21,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<title>{{ page.getPageTitle }} | {{ project.getName }}</title>
-	<meta name="description" content="Coming Soon">
+	<title>{{ page.getPageTitle }} | PHP Developer Day 2017</title>
+	<meta name="description" content="Dresden's largest PHP event takes the 3rd round">
 	<meta name="keywords" content="{{ page.getTags|join(', ') }}">
 	<meta name="HandheldFriendly" content="True"/>
 	<meta name="geo.region" content="DE-SN"/>
@@ -137,32 +137,49 @@
 						<a href="{{ project.getUrl('/phpdd17.html') }}" class="hidden-xs hidden-sm">
 							<img src="{{ project.getUrl('/images/events/phpdd17/phpdd17-logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
 						</a>
+
+						<div id="clockdiv" class="hidden-xs">
+							<div>
+								<span class="days"></span>
+								<div class="smalltext">Tage</div>
+							</div>
+							<div>
+								<span class="hours"></span>
+								<div class="smalltext">Stunden</div>
+							</div>
+							<div>
+								<span class="minutes"></span>
+								<div class="smalltext">Minuten</div>
+							</div>
+							<div>
+								<span class="seconds"></span>
+								<div class="smalltext">Sekunden</div>
+							</div>
+						</div>
 					{% elseif page.getUri starts with '/en/phpdd17' %}
 						<a href="{{ project.getUrl('/en/phpdd17.html') }}" class="hidden-xs hidden-sm">
 							<img src="{{ project.getUrl('/images/events/phpdd17/phpdd17-logo.png') }}" id="brandimg" class="img-responsive" alt="{{ project.getName }}">
 						</a>
+
+						<div id="clockdiv" class="hidden-xs">
+							<div>
+								<span class="days"></span>
+								<div class="smalltext">Days</div>
+							</div>
+							<div>
+								<span class="hours"></span>
+								<div class="smalltext">Hours</div>
+							</div>
+							<div>
+								<span class="minutes"></span>
+								<div class="smalltext">Minutes</div>
+							</div>
+							<div>
+								<span class="seconds"></span>
+								<div class="smalltext">Seconds</div>
+							</div>
+						</div>
 					{% endif %}
-
-
-					<div id="clockdiv" class="hidden-xs">
-						<div>
-							<span class="days"></span>
-							<div class="smalltext">Tage</div>
-						</div>
-						<div>
-							<span class="hours"></span>
-							<div class="smalltext">Stunden</div>
-						</div>
-						<div>
-							<span class="minutes"></span>
-							<div class="smalltext">Minuten</div>
-						</div>
-						<div>
-							<span class="seconds"></span>
-							<div class="smalltext">Sekunden</div>
-						</div>
-					</div>
-
 
 					<hr class="blockspace">
 

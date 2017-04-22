@@ -60,7 +60,8 @@
 <hr class="blockspace">
 
 <div class="text-center">
-	<a href="https://www.eventbrite.de/preview?eid=33522252961" title="GET YOUR TICKET" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
-		<i class="fa fa-ticket"></i> GET YOUR TICKET NOW <i class="fa fa-ticket"></i>
+	<a name="buy-btn"></a>
+	<a href="#buy-btn" title="TICKET SALE STARTS ON APRIL 24th" class="blockspace btn btn-block btn-success btn-lg text-uppercase disabled">
+		<i class="fa fa-ticket"></i> TICKET SALE STARTS ON APRIL 24th <i class="fa fa-ticket"></i>
 	</a>
 </div>

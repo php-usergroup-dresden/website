@@ -117,7 +117,6 @@ You are interested in supporting this event?
 
 **<i class="fa fa-arrow-right"></i> [BECOME A SPONSOR](@baseUrl@/en/phpdd17/become-sponsor.html)**
 
-
 <table class="table blockspace">
 	<colgroup>
 		<col width="25%"/>

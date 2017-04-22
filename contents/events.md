@@ -1,4 +1,4 @@
-# SAVE THE DATE
+# SAVE THE DATE - TICKET SALE ab 24. APRIL
 
 <div class="row">
 	<div class="col-xs-12 col-sm-6">
@@ -15,6 +15,12 @@
 		<img src="@baseUrl@/images/events/phpdd17/phpdd17-logo.png" alt="PHP Developer Day 2017: 22. September" class="img-responsive"/>
 	</div>
 </div>
+
+<p class="blockspace">
+	<a href="@baseUrl@/phpdd17.html" title="Zur Website des PHP Developer Day 2017" class="btn btn-lg btn-block btn-danger">
+		Zur Website des PHP Developer Day 2017
+	</a>
+</p>
 
 <hr class="blockspace">
 

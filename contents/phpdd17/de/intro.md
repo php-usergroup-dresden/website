@@ -64,7 +64,7 @@ Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, 
 			<img src="@baseUrl@/images/speakers/Alexander_Miertsch.jpg" class="img-rounded img-responsive" alt="Alexander Miertsch">
 			<p class="text-center">
 				Alexander Miertsch<br>
-				&mdash; prooph Software
+				&mdash; prooph software
 			</p>
 		</div>
 	</div>

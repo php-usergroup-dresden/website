@@ -1,4 +1,4 @@
-#### Wir sind absolut begeistern folgende Speaker für den PHP Developer Day 2017 anzukündigen.
+#### Wir sind absolut begeistert, folgende Speaker für den PHP Developer Day 2017 ankündigen zu können.
  
 &nbsp;
 

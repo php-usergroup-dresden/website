@@ -4,7 +4,7 @@ Wir - der PHP USERGROUP DRESDEN e.V. - sind stolz euch zum dritten Mal in Folge 
 Wie auch bei den vergangenen zwei Events in [2015](@baseUrl@/events/2015/php-developer-day.html) und [2016](@baseUrl@/events/2016/php-developer-day.html) 
 stehen wieder top Vorträge, freier Wissensaustausch, Community und Spaß im Vordergrund der Veranstaltung.
 
-Sei auch du **22. SEPTEMBER** im **DRESDNER VOLKSHAUS am SCHÜTZENPLATZ 14 in DRESDEN** dabei!<br>
+Sei auch du am **22. SEPTEMBER** im **DRESDNER VOLKSHAUS, SCHÜTZENPLATZ 14 in DRESDEN** mit dabei!<br>
 &mdash; beim PHP Developer Day 2017.
 
 <hr class="blockspace">

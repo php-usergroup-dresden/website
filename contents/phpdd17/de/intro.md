@@ -189,7 +189,7 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 				Dabei geht es uns um mehr, als schöne Profilbilder. Uns interessieren die Menschen dahinter und die Geschichten, die sie zu erzählen haben.
 			</td>
 			<td>
-				Bronze-Sponsor
+				Silber-Sponsor
 			</td>
 		</tr>
 		<tr>

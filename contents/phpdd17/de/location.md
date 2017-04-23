@@ -3,7 +3,7 @@ In den Pausen könnt ihr also einen wunderschönen Blick über Dresden genießen
 
 <div class="row">
 	<div class="col-xs-12 col-sm-6 col-md-3">
-		<h3>ADDRESSE</h3>
+		<h3>ADRESSE</h3>
 		<address>
 			DRESDNER VOLKSHAUS<br>
 			Schützenplatz 14<br>

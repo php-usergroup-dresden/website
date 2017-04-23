@@ -124,9 +124,24 @@ You are interested in supporting this event?
 		<col width="15%"/>
 	</colgroup>
 	<thead>
-		<tr><th colspan="3">Out supporters</th></tr>
+		<tr><th colspan="3">Our supporters</th></tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>
+				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
+					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				LOVOO steht für eine neue, individuelle Art des Kennenlernens. Weltweit nutzen bereits mehrere Millionen Menschen unsere App, 
+				um neue Leute aus ihrer Umgebung zu treffen. Leute mit gleichen Hobbys und Interessen, demselben Humor oder einem ähnlichen Lifestyle. 
+				Dabei geht es uns um mehr, als schöne Profilbilder. Uns interessieren die Menschen dahinter und die Geschichten, die sie zu erzählen haben.
+			</td>
+			<td>
+				Silver-Sponsor
+			</td>
+		</tr>
 		<tr>
 			<td>
 				<a href="https://www.move-elevator.de" target="_blank" title="move:elevator">
@@ -173,21 +188,6 @@ You are interested in supporting this event?
 			</td>
 			<td>
 				Bronze-Sponsor
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
-					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
-				</a>
-			</td>
-			<td class="text-muted">
-				LOVOO steht für eine neue, individuelle Art des Kennenlernens. Weltweit nutzen bereits mehrere Millionen Menschen unsere App, 
-				um neue Leute aus ihrer Umgebung zu treffen. Leute mit gleichen Hobbys und Interessen, demselben Humor oder einem ähnlichen Lifestyle. 
-				Dabei geht es uns um mehr, als schöne Profilbilder. Uns interessieren die Menschen dahinter und die Geschichten, die sie zu erzählen haben.
-			</td>
-			<td>
-				Silver-Sponsor
 			</td>
 		</tr>
 		<tr>

@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/php-usergroup-dresden/website.svg?branch=master)](https://travis-ci.org/php-usergroup-dresden/website)
+
 # The PHP USERGROUP DRESDEN e.V. website
 
 ## Edit the website

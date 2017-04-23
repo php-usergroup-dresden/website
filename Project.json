@@ -4,7 +4,7 @@
 	"outputDir": "./docs",
 	"contentsDir": "./contents/",
 	"replacements": {
-		"@website_version@": "v1.2.0",
+		"@website_version@": "v1.3.0",
 		"@github_url@": "https://github.com/php-usergroup-dresden",
 		"@twitter_url@": "https://twitter.com/phpugdd",
 		"@twitter_url_phpdd@": "https://twitter.com/phpdd",

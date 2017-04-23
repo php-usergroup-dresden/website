@@ -1,4 +1,8 @@
 
+<div class="hidden-xs hidden-sm col-md-2 pull-right">
+    <img src="@baseUrl@/images/dresden-community-logo.png" alt="Dresden Community" class="img-responsive img-rounded">
+</div>
+
 ## We are excellent to each other.
  
 We take a comfortable atmosphere and an enrichig exchange for everyone very seriously.

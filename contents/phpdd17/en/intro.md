@@ -64,7 +64,7 @@ Announcing the following great speakers talking about new tools, technologies an
 			<img src="@baseUrl@/images/speakers/Alexander_Miertsch.jpg" class="img-rounded img-responsive" alt="Alexander Miertsch">
 			<p class="text-center">
 				Alexander Miertsch<br>
-				&mdash; prooph Software
+				&mdash; prooph software
 			</p>
 		</div>
 	</div>

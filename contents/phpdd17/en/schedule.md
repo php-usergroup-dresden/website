@@ -141,7 +141,7 @@
 			<p>Es gibt Softwarearchitekten die behaupten: Sourcecode sollte nicht so geschrieben sein, dass man ihn einfach erweitern kann, sondern dass man ihn einfach wegwerfen kann.
                Layered Architecture, Design by Contract und Prinzipien der objektorientierten Programmierung zielen eher auf die Erweiterbarkeit ab. Microservices hingegen werben mit der einfachen Austauschbarkeit
                ganzer Services. Diesen Ansatz verfolgt prooph/micro und bietet mit einer zugeschnitten Toolbox für dockerized und event sourced Microservices neue Möglichkeiten der Strukturierung von PHP Anwendungen. Dabei wird bewusst auf Objektorientierung verzichtet und stattdessen auf functional programming Techniken gesetzt. Wieso, Weshalb, Warum? Das klärt sich in diesem Vortrag über prooph/micro.</p>
-			<p class="text-muted">by <a href="@baseUrl@/phpdd17/speakers.html#alexander-miertsch">Alexander Miertsch</a></p>
+			<p class="text-muted">by <a href="@baseUrl@/phpdd17/speaker.html#alexander-miertsch">Alexander Miertsch</a></p>
 		</div>
 	</div>
 	<hr class="blockspace">

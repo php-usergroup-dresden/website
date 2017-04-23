@@ -60,7 +60,7 @@
 <hr class="blockspace">
 
 <div class="text-center">
-	<a href="https://www.eventbrite.com/e/php-developer-day-2017-tickets-33522252961?aff=website" target="_blank" title="BUY TICKET NOW" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
+	<a href="https://www.eventbrite.com/e/php-developer-day-2017-tickets-33522252961?aff=website#tickets" target="_blank" title="BUY TICKET NOW" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
 		<i class="fa fa-ticket"></i> BUY TICKET NOW <i class="fa fa-ticket"></i>
 	</a>
 </div>

@@ -210,7 +210,7 @@
 				Alexander Miertsch ist Gründer und Geschäftsführer der prooph software GmbH. Als Senior PHP Entwickler und Consultant unterstützt er mit seinem Team Unternehmen im Enterprise Umfeld, wo Domain-Driven Design, verteilte Software-Systeme und generell ein hoher Anspruch an Softwarequalität gefordert sind. Die Vorliebe für die Entwicklung komplexer webbasierter Software vertieft er auch im Open Source Bereich, wo er als einer der Hauptakteure seit 3 Jahren an den prooph components mitwirkt, um CQRS und Event Sourcing in der PHP Welt weiter zu etablieren.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
+				<a href="@baseUrl@/phpdd17/programm.html#prooph-micro" class="text-uppercase">
 					<b>Talk:</b> prooph/micro - weniger ist mehr
 				</a>
 			</p>
@@ -247,9 +247,9 @@
 				Diesen Slot wird ein Speaker übernehmen, mit dem wir euch noch überraschen werden. 
 			</blockquote>
 			<p>
-				<!--<a href="@baseUrl@/phpdd17/programm.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
-					<b>Talk:</b> prooph/micro - weniger ist mehr
-				</a>-->
+				<a href="@baseUrl@/phpdd17/programm.html#suprise" class="text-uppercase">
+					<b>Talk:</b> Suprise
+				</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">

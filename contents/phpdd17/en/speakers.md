@@ -26,7 +26,7 @@
 				Arne Blankerts solves IT problems long before many companies realize that they even exist. He focuses on IT security, performance and reliability, which he attends to with almost magical intuition creating solutions that clearly bear his hallmark. Companies around the world rely on his concepts and Linux-based system architectures.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your PHP toolchain</a>
+				<a href="@baseUrl@/en/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your PHP toolchain</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -65,7 +65,7 @@
                 and helps teams to write solid and maintainable software.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your PHP toolchain</a>
+				<a href="@baseUrl@/en/phpdd17/schedule.html#phive" class="text-uppercase"><b>Talk:</b> PhiVE - Managing your PHP toolchain</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -102,7 +102,7 @@
 				When not coding for work, he usually hacks together new concepts and open source libraries, or simply provides Q&A on IRC.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#event-sourcing" class="text-uppercase"><b>Talk:</b> Event Sourcing: The good, the bad and the complicated</a>
+				<a href="@baseUrl@/en/phpdd17/schedule.html#event-sourcing" class="text-uppercase"><b>Talk:</b> Event Sourcing: The good, the bad and the complicated</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -140,7 +140,7 @@
                 Generierung bis hin zum automatischen Deployment.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#postgresql" class="text-uppercase"><b>Talk:</b> PostgreSQL: Die NoSQL-Datenbank, die niemand kennt</a>
+				<a href="@baseUrl@/en/phpdd17/schedule.html#postgresql" class="text-uppercase"><b>Talk:</b> PostgreSQL: Die NoSQL-Datenbank, die niemand kennt</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -175,7 +175,7 @@
 				Im November 2006 startete Jan als Training & System Engineer bei Zend Technologies in Stuttgart. Heute berät der studierte Informatiker als Solution Consultant für Zend Geschäftskunden in PHP Software-Projekten und gibt gelegentlich Trainings in PHP, Zend Produkten und Entwicklungs-Tools (Zend Studio, Zend Server und Zend Framework). Außerdem präsentiert Jan Burkl diese Themen in kostenlosen Webinaren sowie Vorträgen auf Konferenzen und User Group Meetings.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#middleware-web-apis-in-php-7" class="text-uppercase"><b>Talk:</b> Middleware Web APIs in PHP 7.x</a>
+				<a href="@baseUrl@/en/phpdd17/schedule.html#middleware-web-apis-in-php-7" class="text-uppercase"><b>Talk:</b> Middleware Web APIs in PHP 7.x</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
@@ -210,7 +210,7 @@
 				Alexander Miertsch ist Gründer und Geschäftsführer der prooph software GmbH. Als Senior PHP Entwickler und Consultant unterstützt er mit seinem Team Unternehmen im Enterprise Umfeld, wo Domain-Driven Design, verteilte Software-Systeme und generell ein hoher Anspruch an Softwarequalität gefordert sind. Die Vorliebe für die Entwicklung komplexer webbasierter Software vertieft er auch im Open Source Bereich, wo er als einer der Hauptakteure seit 3 Jahren an den prooph components mitwirkt, um CQRS und Event Sourcing in der PHP Welt weiter zu etablieren.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/phpdd17/programm.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
+				<a href="@baseUrl@/en/phpdd17/schedule.html#prooph-micro" class="text-uppercase">
 					<b>Talk:</b> prooph/micro - weniger ist mehr
 				</a>
 			</p>
@@ -247,9 +247,9 @@
 				This slot will take over a speaker we will suprise you with. 
 			</blockquote>
 			<p>
-				<!--<a href="@baseUrl@/phpdd17/programm.html#prooph-micro-weniger-ist-mehr" class="text-uppercase">
-					<b>Talk:</b> prooph/micro - weniger ist mehr
-				</a>-->
+				<a href="@baseUrl@/en/phpdd17/schedule.html#suprise" class="text-uppercase">
+					<b>Talk:</b> Suprise
+				</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">

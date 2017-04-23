@@ -94,7 +94,7 @@ Die Location ist zentral am Bahnhof Mitte gelegen und sehr gut mit Tram, Bus und
 Sichere dir jetzt dein Ticket für den PHP Developer Day 2017 und verbringe einen interessanten und aufregenden Tag unter Freunden.
 
 <div class="text-center">
-	<a href="@baseUrl@/phpdd17/tickets.html" title="ZU DEN TICKETS" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
+	<a href="@baseUrl@/phpdd17/tickets-kaufen.html" title="ZU DEN TICKETS" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
 		<i class="fa fa-ticket"></i> DEIN TICKET KAUFEN <i class="fa fa-ticket"></i>
 	</a>
 </div>

@@ -59,7 +59,7 @@
 			<h3>11:15 - 12:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="middleware-web-apis-in-php7"></a>Middleware Web APIs in PHP 7.x</h3>
+			<h3><a name="middleware-web-apis-in-php-7"></a>Middleware Web APIs in PHP 7.x</h3>
 			<p>
 				Der Middleware-Ansatz erleichtert es Softwareentwicklern, Web-APIs zu implementieren, die HTTP-Input / Output verwalten. 
 				In diesem Vortrag wird gezeigt, wie eine Middleware Web-API in PHP 7 mit Expressive, dem Open-Source-Projekt von Zend Framework, entwickelt wird. 

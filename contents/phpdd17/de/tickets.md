@@ -36,12 +36,3 @@
 		<img src="@baseUrl@/images/logo.png" class="img-responsive" alt="PHP USERGROUP DRESDEN e.V. Logo">
 	</div>
 </div>
-
-<hr class="blockspace">
-
-<div class="text-center">
-	<a name="buy-btn"></a>
-	<a href="https://www.eventbrite.com/e/php-developer-day-2017-tickets-33522252961?aff=website#tickets" target="_blank" title="JETZT TICKET KAUFEN" class="blockspace btn btn-block btn-success btn-lg text-uppercase">
-		<i class="fa fa-ticket"></i> JETZT TICKET KAUFEN <i class="fa fa-ticket"></i>
-	</a>
-</div>

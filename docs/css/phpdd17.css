@@ -240,6 +240,10 @@ h1.page-headline {
 		left: -50.0%;
 	}
 
+	#sidenav .nav > li > a {
+		font-size: small;
+	}
+
 	.row-offcanvas-right.active {
 		right: 50.0%;
 	}
@@ -260,5 +264,19 @@ h1.page-headline {
 
 	#sidenav > .btn.blockspace {
 		margin-top: 0;
+	}
+
+	.lang-switch {
+		font-size: smaller;
+	}
+
+	#socialmedia .text-twitter {
+		font-size: medium;
+	}
+
+	#swk,
+	#phpugdd {
+		padding: 10px 0;
+		text-align: center;
 	}
 }

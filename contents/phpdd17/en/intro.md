@@ -16,7 +16,7 @@ Announcing the following great speakers talking about new tools, technologies an
 <div class="row">
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="intro-speaker">
-			<img src="@baseUrl@/images/speakers/Arne_Blankerts.jpg" class="img-rounded img-responsive" alt="Arne Blankerts">
+			<img src="@baseUrl@/images/speakers/Arne_Blankerts_300x300.jpg" class="img-rounded img-responsive" alt="Arne Blankerts">
 			<p class="text-center">
 				Arne Blankerts<br>
 				&mdash; thePHP.cc
@@ -25,7 +25,7 @@ Announcing the following great speakers talking about new tools, technologies an
 	</div>
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="intro-speaker">
-			<img src="@baseUrl@/images/speakers/Sebastian_Heuer.jpg" class="img-rounded img-responsive" alt="Sebastian Heuer">
+			<img src="@baseUrl@/images/speakers/Sebastian_Heuer_300x300.jpg" class="img-rounded img-responsive" alt="Sebastian Heuer">
 			<p class="text-center">
 				Sebastian Heuer<br>
 				&mdash; Die Kartenmacherei
@@ -34,7 +34,7 @@ Announcing the following great speakers talking about new tools, technologies an
 	</div>
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="intro-speaker">
-			<img src="@baseUrl@/images/speakers/Jan_Burkl.jpg" class="img-rounded img-responsive" alt="Jan Burkl">
+			<img src="@baseUrl@/images/speakers/Jan_Burkl_300x300.jpg" class="img-rounded img-responsive" alt="Jan Burkl">
 			<p class="text-center">
 				Jan Burkl<br>
 				&mdash; Rogue Wave Software
@@ -43,7 +43,7 @@ Announcing the following great speakers talking about new tools, technologies an
 	</div>
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="intro-speaker">
-			<img src="@baseUrl@/images/speakers/Marco_Pivetta.jpg" class="img-rounded img-responsive" alt="Marco Pivetta">
+			<img src="@baseUrl@/images/speakers/Marco_Pivetta_300x300.jpg" class="img-rounded img-responsive" alt="Marco Pivetta">
 			<p class="text-center">
 				Marco Pivetta (Ocramius)<br>
 				&mdash; Software consultant
@@ -52,7 +52,7 @@ Announcing the following great speakers talking about new tools, technologies an
 	</div>
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="intro-speaker">
-			<img src="@baseUrl@/images/speakers/Stephan_Hochdoerfer.jpg" class="img-rounded img-responsive" alt="Stephan Hochdörfer">
+			<img src="@baseUrl@/images/speakers/Stephan_Hochdoerfer_300x300.jpg" class="img-rounded img-responsive" alt="Stephan Hochdörfer">
 			<p class="text-center">
 				Stephan Hochdörfer<br>
 				&mdash; bitExpert
@@ -61,7 +61,7 @@ Announcing the following great speakers talking about new tools, technologies an
 	</div>
 	<div class="col-xs-12 col-sm-6 col-md-4">
 		<div class="intro-speaker">
-			<img src="@baseUrl@/images/speakers/Alexander_Miertsch.jpg" class="img-rounded img-responsive" alt="Alexander Miertsch">
+			<img src="@baseUrl@/images/speakers/Alexander_Miertsch_300x300.jpg" class="img-rounded img-responsive" alt="Alexander Miertsch">
 			<p class="text-center">
 				Alexander Miertsch<br>
 				&mdash; prooph software
@@ -201,6 +201,36 @@ You are interested in supporting this event?
 				Mit unseren hochwertigen, individualisierbaren Papeterie-Produkten begleiten wir unsere Kunden bei den wichtigsten Momenten in ihrem Leben.<br>
 				Leidenschaftlich. Innovativ. Bodenständig.<br>
 				Wir sind die kartenmacherei.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="http://prooph-software.de/" target="_blank" title="prooph software">
+					<img src="@baseUrl@/images/sponsors/prooph-software.jpg" alt="prooph software" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Wir sind Software Dienstleister für webbasierte Business Anwendungen. Individuell zugeschnitten auf Ihre Geschäftsprozesse 
+				entwickeln wir moderne Softwarelösungen und realisieren die Migration von Legacy-Systemen: serviceorientiert, skalierbar, agil.
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://www.bitexpert.de/" target="_blank" title="bitExpert">
+					<img src="@baseUrl@/images/sponsors/bitExpert.jpg" alt="bitExpert" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Wir sind ein kompetentes Team aus Programmierern und Software-Architekten, Projektleitern und IT-Beratern. 
+				Wir vereinen das Wissen von neuen Technologien, lösen schwierige Prozesse, beherrschen und verstehen komplexe Sachverhalte und sind 
+				immer auf der Suche nach optimalen Lösungen. 
+                Wir sind vielfältig und konsequent!
 			</td>
 			<td>
 				Bronze-Sponsor

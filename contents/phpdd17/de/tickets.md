@@ -1,40 +1,21 @@
-
-<h2 class="text-center">Der Ticket-Verkauf startet am 24. April um 10:00 Uhr.</h2>
+<div style="width:100%; text-align:left;">
+	<iframe src="//eventbrite.de/tickets-external?eid=33522252961&ref=etckt" frameborder="0" height="410" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+	<div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
+		<a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.de/">Von Eventbrite</a>
+	</div>
+</div>
 
 <hr class="blockspace">
 
 <div class="tickets">
 	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 49.<small>00</small></h3>	
+		<div class="col-xs-12 col-sm-6 col-md-6">
+			<h4>TAGESKASSE</h4>
 		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>EARLY BIRD</h3>
-			<p class="text-muted">Verfügbar vom 24. April bis 31. Mai 2017</p>
-			<p><b class="text-danger">ACHTUNG:</b> Nur insgesamt 50 Stück verfügbar. Nur solange der Vorrat reicht.</p>
+		<div class="col-xs-12 col-sm-6 col-md-6">
+			<h4>89,00 &euro;</h3>	
 		</div>
-	</div>
-	<hr class="blockspace">
-	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 79.<small>00</small></h3>	
-		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>REGULAR</h3>
-			<p class="text-muted">Verfügbar vom 24. April bis 15. September 2017</p>
-			<p>
-				Obwohl wir vom 24. April bis 31. Mai auch EARLY BIRD Tickets verkaufen, würden wir es sehr begrüßen, 
-				wenn du uns, das Event und andere, die finanziell eingeschränkt sind, unterstützt, indem du ein REGULAR Ticket kaufst.
-			</p>
-		</div>
-	</div>
-	<hr class="blockspace">
-	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 89.<small>00</small></h3>	
-		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>TAGESKASSE</h3>
+		<div class="col-xs-12">
 			<p class="text-muted">Nur am 22. September 2017 am Eingang verfügbar.</p>
 		</div>
 	</div>

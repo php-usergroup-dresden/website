@@ -1,43 +1,22 @@
-
-<h2 class="text-center">Ticket sale starts on April 24th 2017 - 10:00am CEST</h2>
+<div style="width:100%; text-align:left;">
+	<iframe src="//eventbrite.de/tickets-external?eid=33522252961&ref=etckt&lang=en" frameborder="0" height="410" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+	<div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;">
+		<a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.de/">By Eventbrite</a>
+	</div>
+</div>
 
 <hr class="blockspace">
 
 <div class="tickets">
 	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 49.<small>00</small></h3>	
+		<div class="col-xs-12 col-sm-6 col-md-6">
+			<h4>DAY TICKET</h4>
 		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>EARLY BIRD</h3>
-			<p class="text-muted">Available from April 24th to May 31st 2017</p>
-			<p>
-				<b class="text-danger">ATTENTION:</b> Only 50 tickets total. While stocks last.
-			</p>
+		<div class="col-xs-12 col-sm-6 col-md-6">
+			<h4>&euro; 89.00</h3>	
 		</div>
-	</div>
-	<hr class="blockspace">
-	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 79.<small>00</small></h3>	
-		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>REGULAR</h3>
-			<p class="text-muted">Available from April 24th to September 15th 2017</p>
-			<p>
-				Even though we sell EARLY BIRD tickets from April 24th to May 31st 2017, 
-				we would heavily appreciate your support for us, this event and others with less financial capabilities, if you choose to buy a REGULAR ticket.
-			</p>
-		</div>
-	</div>
-	<hr class="blockspace">
-	<div class="row">
-		<div class="col-xs-12 col-sm-4 col-md-3">
-			<h3>EUR 89.<small>00</small></h3>	
-		</div>
-		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>DAY TICKET</h3>
-			<span class="text-muted">Available only on September 22nd at the entrance</span>
+		<div class="col-xs-12">
+			<p class="text-muted">Only available at September 22nd 2017 at the entrance.</p>
 		</div>
 	</div>
 </div>

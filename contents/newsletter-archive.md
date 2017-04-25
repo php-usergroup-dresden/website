@@ -32,6 +32,7 @@ Hier findet ihr alle Newsletter, die wir im Laufe der Zeit verschickt haben.
 
 ## 2017
 
+* [Newsletter vom 24. April 2017](@baseUrl@/newsletter/archive/2017-04-24.html)
 * [Newsletter vom 05. Februar 2017](@baseUrl@/newsletter/archive/2017-02-05.html)
 
 ## 2016

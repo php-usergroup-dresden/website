@@ -170,7 +170,7 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
 			</td>
 			<td>
-				Bronze-Sponsor
+				Gold-Sponsor
 			</td>
 		</tr>
 		<tr>

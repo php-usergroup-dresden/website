@@ -98,7 +98,7 @@ Das Orga-Team des PHP USERGROUP DRESDEN e.V.<br>
 				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
 			</td>
 			<td>
-				Bronze-Sponsor
+				Gold-Sponsor
 			</td>
 		</tr>
 		<tr>

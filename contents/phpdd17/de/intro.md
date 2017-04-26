@@ -228,10 +228,20 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 				</a>
 			</td>
 			<td class="text-muted">
-				Wir sind ein kompetentes Team aus Programmierern und Software-Architekten, Projektleitern und IT-Beratern. 
-				Wir vereinen das Wissen von neuen Technologien, lösen schwierige Prozesse, beherrschen und verstehen komplexe Sachverhalte und sind 
-				immer auf der Suche nach optimalen Lösungen. 
-				Wir sind vielfältig und konsequent!
+				<p>
+					Die Vision der bitExpert AG seit Geschäftsgründung 2003: Sämtliche
+					Desktop- und Mobile-Anwendungen als serverbasierte Softwarelösungen zu
+					erstellen und somit komplexe Geschäftsprozesse unserer Kunden maximal
+					skalierbar, schnell, sicher und plattformunabhängig abzubilden.
+                </p>
+                <p>
+					Das Grundprinzip für unsere Produkte und Dienstleistungen ist
+					Innovation, Qualität, Engagement und Professionalität. Die Erfolgsformel
+					ist ein motiviertes, neugieriges und gleichzeitig erfahrenes Team an den
+					Standorten Mannheim und Zweibrücken. Wir leben eine wertschätzende,
+					moderne Unternehmensphilosophie mit dem Glauben, dass das Prädikat
+					„Made-in-Germany“ sich in jeder Codezeile widerspiegelt.
+                <p>
 			</td>
 			<td>
 				Bronze-Sponsor

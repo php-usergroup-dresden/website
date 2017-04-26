@@ -130,6 +130,21 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 	<tbody>
 		<tr>
 			<td>
+				<a href="http://www.fortuneglobe.com" target="_blank" title="Fortuneglobe GmbH">
+					<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Die Fortuneglobe GmbH ist ein Full-Service eCommerce Unternehmen und hilft seinen Kunden neue Märkte
+				und Omni-Channel Absatz-Strategien zu erschließen, eCommerce-Prozesse stetig zu optimieren und die Konkurrenzfähigkeit zu stärken.
+				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
+			</td>
+			<td>
+				Gold-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
 					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
 				</a>
@@ -156,21 +171,6 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 			</td>
 			<td>
 				Bronze-Sponsor
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="http://www.fortuneglobe.com" target="_blank" title="Fortuneglobe GmbH">
-					<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
-				</a>
-			</td>
-			<td class="text-muted">
-				Die Fortuneglobe GmbH ist ein Full-Service eCommerce Unternehmen und hilft seinen Kunden neue Märkte
-				und Omni-Channel Absatz-Strategien zu erschließen, eCommerce-Prozesse stetig zu optimieren und die Konkurrenzfähigkeit zu stärken.
-				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
-			</td>
-			<td>
-				Gold-Sponsor
 			</td>
 		</tr>
 		<tr>

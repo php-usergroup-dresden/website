@@ -162,7 +162,7 @@
                 versatile than you probably thought. Bring along an open mind and through lots of examples and demos 
                 learn why what sounds crazy at first might soon be a valuable addition in your toolbox.
             </p>
-            <p class="text-muted">von <a href="@baseUrl@/en/phpdd17/speakers.html#christian-lueck">Christian Lück</a></p>
+            <p class="text-muted">by <a href="@baseUrl@/en/phpdd17/speakers.html#christian-lueck">Christian Lück</a></p>
         </div>
     </div>
 	<hr class="blockspace">

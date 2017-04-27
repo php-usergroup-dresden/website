@@ -139,6 +139,21 @@ You are interested in supporting this event?
 	<tbody>
 		<tr>
 			<td>
+				<a href="http://www.fortuneglobe.com" target="_blank" title="Fortuneglobe GmbH">
+					<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Die Fortuneglobe GmbH ist ein Full-Service eCommerce Unternehmen und hilft seinen Kunden neue Märkte
+				und Omni-Channel Absatz-Strategien zu erschließen, eCommerce-Prozesse stetig zu optimieren und die Konkurrenzfähigkeit zu stärken.
+				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
+			</td>
+			<td>
+				Gold-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
 					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
 				</a>
@@ -165,21 +180,6 @@ You are interested in supporting this event?
 			</td>
 			<td>
 				Bronze-Sponsor
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="http://www.fortuneglobe.com" target="_blank" title="Fortuneglobe GmbH">
-					<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
-				</a>
-			</td>
-			<td class="text-muted">
-				Die Fortuneglobe GmbH ist ein Full-Service eCommerce Unternehmen und hilft seinen Kunden neue Märkte
-				und Omni-Channel Absatz-Strategien zu erschließen, eCommerce-Prozesse stetig zu optimieren und die Konkurrenzfähigkeit zu stärken.
-				Mit der eigenen Entwicklungsabteilung FORTUNE SOLUTIONS setzt die Fortuneglobe insbesondere auf die Entwicklung mit PHP.
-			</td>
-			<td>
-				Gold-Sponsor
 			</td>
 		</tr>
 		<tr>
@@ -237,10 +237,20 @@ You are interested in supporting this event?
 				</a>
 			</td>
 			<td class="text-muted">
-				Wir sind ein kompetentes Team aus Programmierern und Software-Architekten, Projektleitern und IT-Beratern. 
-				Wir vereinen das Wissen von neuen Technologien, lösen schwierige Prozesse, beherrschen und verstehen komplexe Sachverhalte und sind 
-				immer auf der Suche nach optimalen Lösungen. 
-                Wir sind vielfältig und konsequent!
+				<p>
+					Die Vision der bitExpert AG seit Geschäftsgründung 2003: Sämtliche
+					Desktop- und Mobile-Anwendungen als serverbasierte Softwarelösungen zu
+					erstellen und somit komplexe Geschäftsprozesse unserer Kunden maximal
+					skalierbar, schnell, sicher und plattformunabhängig abzubilden.
+				</p>
+				<p>
+					Das Grundprinzip für unsere Produkte und Dienstleistungen ist
+					Innovation, Qualität, Engagement und Professionalität. Die Erfolgsformel
+					ist ein motiviertes, neugieriges und gleichzeitig erfahrenes Team an den
+					Standorten Mannheim und Zweibrücken. Wir leben eine wertschätzende,
+					moderne Unternehmensphilosophie mit dem Glauben, dass das Prädikat
+					„Made-in-Germany“ sich in jeder Codezeile widerspiegelt.
+				<p>
 			</td>
 			<td>
 				Bronze-Sponsor

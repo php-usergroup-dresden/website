@@ -14,7 +14,7 @@ Sei auch du am **22. SEPTEMBER** im **DRESDNER VOLKSHAUS, SCHÜTZENPLATZ 14 in D
 Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, Techniken und Frameworks vorstellen.
 
 <div class="row">
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="intro-speaker">
 			<img src="@baseUrl@/images/speakers/Arne_Blankerts_300x300.jpg" class="img-rounded img-responsive" alt="Arne Blankerts">
 			<p class="text-center">
@@ -23,7 +23,7 @@ Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, 
 			</p>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="intro-speaker">
 			<img src="@baseUrl@/images/speakers/Sebastian_Heuer_300x300.jpg" class="img-rounded img-responsive" alt="Sebastian Heuer">
 			<p class="text-center">
@@ -32,7 +32,7 @@ Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, 
 			</p>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="intro-speaker">
 			<img src="@baseUrl@/images/speakers/Jan_Burkl_300x300.jpg" class="img-rounded img-responsive" alt="Jan Burkl">
 			<p class="text-center">
@@ -41,7 +41,7 @@ Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, 
 			</p>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="intro-speaker">
 			<img src="@baseUrl@/images/speakers/Marco_Pivetta_300x300.jpg" class="img-rounded img-responsive" alt="Marco Pivetta">
 			<p class="text-center">
@@ -50,7 +50,8 @@ Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, 
 			</p>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="hidden-xs hidden-sm col-md-1">&nbsp;</div>
+	<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="intro-speaker">
 			<img src="@baseUrl@/images/speakers/Stephan_Hochdoerfer_300x300.jpg" class="img-rounded img-responsive" alt="Stephan Hochdörfer">
 			<p class="text-center">
@@ -59,12 +60,21 @@ Wir konnten für dieses Jahr wieder tolle Speaker gewinnen, die uns neue Tools, 
 			</p>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-6 col-md-4">
+	<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="intro-speaker">
 			<img src="@baseUrl@/images/speakers/Alexander_Miertsch_300x300.jpg" class="img-rounded img-responsive" alt="Alexander Miertsch">
 			<p class="text-center">
 				Alexander Miertsch<br>
 				&mdash; prooph software
+			</p>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-6 col-md-3">
+		<div class="intro-speaker">
+			<img src="@baseUrl@/images/speakers/Christian_Lueck_300x300.jpg" class="img-rounded img-responsive" alt="Christian Lück">
+			<p class="text-center">
+				Christian Lück<br>
+				&mdash; clue&middot;engineering
 			</p>
 		</div>
 	</div>

@@ -229,32 +229,40 @@
 	<div class="row">
 		<div class="col-xs-12 col-sm-6 col-md-8">
 			<h3>
-				<a name="unknown"></a>
-				SUPRISE-SPEAKER
-				<!--<small>
+				<a name="christian-lueck"></a>
+				Christian Lück
+				<small>
 					|
-					<a href="https://twitter.com/prooph_software" target="_blank">
-						<i class="fa fa-twitter"></i> <span class="text-twitter">@prooph_software</span>
+					<a href="https://twitter.com/another_clue" target="_blank">
+						<i class="fa fa-twitter"></i> <span class="text-twitter">@another_clue</span>
 					</a>
-				</small>-->
+				</small>
 			</h3>
 			<p>
-				<!--<a href="http://prooph-software.de" target="blank" title="prooph software GmbH">
-					CEO &amp; Lead Developer - prooph software GmbH
-				</a>-->
+				<a href="https://lueck.tv" target="blank" title="clue·engineering">
+					Freelance Software-Engineer - clue·engineering
+				</a>
 			</p>
 			<blockquote>
-				This slot will take over a speaker we will suprise you with. 
+				Christian Lück ist Software Engineer mit Schwerpunkt auf das Web und dessen Kommunikation im 
+				Allgemeinen und PHP-basierte APIs und Netzwerkprotokolle im Speziellen. Neben einem Master in Information 
+				Systems Engineering und über 10 Jahren Erfahrung mit PHP in kommerziellen und sicherheitskritischen 
+				Bereichen ist er auch als regelmäßiger Contributor und Maintainer einer Reihe von Open-Source-Projekten 
+				beteiligt. Als Engineering Coach liegt sein Fokus darauf, andere dabei zu unterstützen, technisches 
+				Neuland zu betreten, technologische Grenzen neu zu definieren und großartige Projekte zu verwirklichen 
+				und dabei die Gesamtübersicht zu bewahren. Seit letztem Jahr hat er dafür seinen Job gegen den 
+				Freiberufler-Status eingetauscht, um sich noch besser auf spannende Projekte in der Zukunft 
+				zu konzentrieren.
 			</blockquote>
 			<p>
-				<a href="@baseUrl@/en/phpdd17/schedule.html#suprise" class="text-uppercase">
-					<b>Talk:</b> Suprise
+				<a href="@baseUrl@/en/phpdd17/schedule.html#react-php" class="text-uppercase">
+					<b>Talk:</b> Pushing the limits with ReactPHP
 				</a>
 			</p>
 		</div>
 		<div class="col-xs-12 col-sm-6 col-md-4">
-			<a href="http://placehold.it/500x500/f6f6f6/000000?text=SUPRISE" target="_blank" title="Suprise">
-				<img src="http://placehold.it/500x500/f6f6f6/000000?text=SUPRISE" alt="Suprise" class="img-responsive img-rounded">
+			<a href="@baseUrl@/images/speakers/Christian_Lueck_300x300.jpg" target="_blank" title="Christian Lück">
+				<img src="@baseUrl@/images/speakers/Christian_Lueck_300x300.jpg" alt="Christian Lück" class="img-responsive img-rounded">
 			</a>
 		</div>
 	</div>

@@ -150,11 +150,19 @@
 			<h3>16:45 - 17:30</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="suprise"></a>ÜBERRASCHUNGS-TALK</h3>
+			<h3><a name="react-php"></a>Pushing the limits with ReactPHP</h3>
 			<p>
-				Zum Tagesfinale gibt es noch einen Talk, mit dem wir euch überraschen werden.
+				It's 2017 and times have changed – yet PHP is still most often associated with your average product 
+				catalogue or blogging platform. In this talk you will learn that PHP’s huge ecosystem has way more to 
+				offer and PHP is not inferior at all to its evil cousin Node.js.
+            </p>
+            <p>
+                You will learn about the core concepts of async PHP and why you too should care about ReactPHP being a 
+                real thing. The talk has a strong focus on sparking the idea that PHP can be way faster and more 
+                versatile than you probably thought. Bring along an open mind and through lots of examples and demos 
+                learn why what sounds crazy at first might soon be a valuable addition in your toolbox.
 			</p>
-			<p class="text-muted">von <a href="@baseUrl@/phpdd17/speaker.html#suprise">ÜBERRASCHUNGS-SPEAKER</a></p>
+			<p class="text-muted">von <a href="@baseUrl@/phpdd17/speaker.html#christian-lueck">Christian Lück</a></p>
 		</div>
 	</div>
 	<hr class="blockspace">

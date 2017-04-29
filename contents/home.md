@@ -47,11 +47,15 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * **50 Shades of Backup**  
   Von Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))    
+  
+  <span class="text-muted">Backups are hard. Especially for heavily distributed systems. As we split our apps more and more into micro services, creating backups is no longer a single task nor in a single place. Instead, it involves data from different sources in different locations. This is where the PHP Backup Utility (phpbu) steps in to make your life easier. Besides the backup process itself, I will talk about the challenge of connecting the dev and the ops and a way to use your backups in your daily routine. All to make sure your data is ready to be restored in case of a disaster scenario.</span>
 
 * **Lightning Talk** - [Hier dein Thema einreichen.](https://github.com/php-usergroup-dresden/slides/issues) 
 
 * **Async PHP requests & reactive responses with php-fpm**  
   Von Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  
+  <span class="text-muted">There are many approaches to execute PHP sub-tasks asynchronously or to parallelise PHP execution. While some solutions require extra extensions, individual PHP builds or a lot of process control management, this talk will show you how to configure and use the built-in PHP FastCGI Process Manager (php-fpm) to execute requests asynchronously in an isolated, tunable process pool and eventually handle their responses in a reactive way.</span>
 
 Main talks will be presented in english. 
 

@@ -1,4 +1,4 @@
-# SAVE THE DATE - TICKET SALE ab 24. APRIL
+# JETZT DEIN TICKET SICHERN!
 
 <div class="row">
 	<div class="col-xs-12 col-sm-6">
@@ -49,32 +49,23 @@
 
 &nbsp;
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup III / 2017 - "PHP Code Quality Tools"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/)
+#### [<i class="fa fa-meetup"></i> Meetup IV / 2017 am 08. Juni 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/)
 
-**Wann?** 26. April 2017
-
-**Wo?**
-
-<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland](https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar)
+<i class="fa fa-map-marker"></i> Noch nicht festgelegt.
 
 **Was?**
 
-**This meetup is going to be special!**
+* **50 Shades of Backup**  
+  Von Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))    
 
-We're excited to have three guest speakers talking about tools that help us writing (much) better code.
+* **Lightning Talk** - [Hier dein Thema einreichen.](https://github.com/php-usergroup-dresden/slides/issues) 
 
-* **Tomáš Votruba** -  A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards (Lightning Talk) 
+* **Async PHP requests & reactive responses with php-fpm**  
+  Von Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
 
-* **Ondřej Mirtes** - Author of "PHPStan" (45 Min. Talk)
-
-* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)" (45 Min. Talk)
-
-All speakers will present in english. 
-
-We try to do the official part in english, too. 
-And that makes us nobody so fast after. ;-)
+Main talks will be presented in english.
 
 <hr class="blockspace">
 
@@ -101,6 +92,35 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup III / 2017 - "PHP Code Quality Tools"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/)
+
+<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland](https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar)
+
+Vorträge:
+
+* **Ondřej Mirtes** - Author of "PHPStan" 
+* **Tomáš Votruba** -  A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards (Lightning Talk) 
+* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)"
+
+<div class="row blockspace">
+    <div class="col-xs-12 col-sm-6 col-md-4">
+        <a href="@baseUrl@/images/events/meetups/2017-04-26-webit.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+        	<img src="@baseUrl@/images/events/meetups/2017-04-26-webit.jpg" alt="Full house bei webit! Dresden" class="img-responsive"></a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4">
+        <a href="@baseUrl@/images/events/meetups/2017-04-26-phpstan.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+            <img src="@baseUrl@/images/events/meetups/2017-04-26-phpstan.jpg" alt="PHPStan" class="img-responsive"></a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-4">
+        <a href="@baseUrl@/images/events/meetups/2017-04-26-php-inspections-ea-extended.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+            <img src="@baseUrl@/images/events/meetups/2017-04-26-php-inspections-ea-extended.jpg" alt="PHP Inspections (EA Extended)" class="img-responsive"></a>
+    </div>
+</div>
+
+<i class="fa fa-youtube"></i> Alle Talks dieses Meetups in kürze auf unserem YouTube-Channel!
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup II / 2017 - "Dependency Injection"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/)
 

@@ -7,7 +7,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-## SAVE THE DATE - TICKET SALE ab 24. APRIL
+## JETZT DEIN TICKET SICHERN!
 
 <div class="row">
 	<div class="col-xs-12 col-sm-6">
@@ -37,32 +37,23 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 &nbsp;
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup III / 2017 - "PHP Code Quality Tools"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/)
+#### [<i class="fa fa-meetup"></i> Meetup IV / 2017 am 08. Juni 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/)
 
-**Wann?** 26. April 2017
-
-**Wo?** 
-
-<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland](https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar)
+<i class="fa fa-map-marker"></i> Noch nicht festgelegt.
 
 **Was?**
 
-**This meetup is going to be special!**
+* **50 Shades of Backup**  
+  Von Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))    
 
-We're excited to have three guest speakers talking about tools that help us writing (much) better code.
+* **Lightning Talk** - [Hier dein Thema einreichen.](https://github.com/php-usergroup-dresden/slides/issues) 
 
-* **Tomáš Votruba** -  A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards (Lightning Talk) 
+* **Async PHP requests & reactive responses with php-fpm**  
+  Von Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
 
-* **Ondřej Mirtes** - Author of "PHPStan" 
-
-* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)"
-
-All speakers will present in english. 
-
-We try to do the official part in english, too. 
-And that makes us nobody so fast after. ;-)
+Main talks will be presented in english. 
 
 <hr class="blockspace">
 
@@ -74,10 +65,27 @@ And that makes us nobody so fast after. ;-)
 
 ### Vergangene Events
 
+<hr class="blockspace">
+
+<a href="@baseUrl@/images/events/meetups/2017-04-26-webit.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-04-26-webit.jpg" alt="Full house bei webit! Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+
+#### [<i class="fa fa-meetup"></i> Meetup III / 2017 - "PHP Code Quality Tools"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/)
+
+<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland](https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar)
+
+Vorträge:
+
+* **Ondřej Mirtes** - Author of "PHPStan" 
+* **Tomáš Votruba** -  A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards (Lightning Talk) 
+* **Vladimir Reznichenko** - Author of the PhpStorm plugin "PHP Inspections (EA Extended)"
+
+<i class="fa fa-youtube"></i> Alle Talks dieses Meetups in kürze auf unserem YouTube-Channel!
+
+<hr class="blockspace">
+
 <a href="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-02.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-02.jpg" alt="Dependency Injection - Disco" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-
-&nbsp;
 
 #### [<i class="fa fa-meetup"></i> Meetup II / 2017 - "Dependency Injection"](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/)
 
@@ -88,55 +96,6 @@ Vorträge:
 * Stephan Hochdörfer (bitExpert AG, PHP UG Frankfurt am Main, PHP UG Rhein-Neckar): ["Disco - A fresh look at DI"](http://ow.ly/pv8y309VtPd) 
 
 [<i class="fa fa-youtube"></i> Seht euch alle Talks dieses Meetups noch einmal auf unserem YouTube-Channel an!](https://www.youtube.com/playlist?list=PLW4GAs3yDy3KqcxyIdAy6pivhX2pr76My)
-
-<a href="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-01.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-03-14-dependency-injection-01.jpg" alt="Dependency Injection - Disco" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup I / 2017 am 30. Januar](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/)
-
-<i class="fa fa-map-marker"></i> Unister in Dresden
-
-Vorträge:
-* Holger Woltersdorf: Async PHP worker with RabbitMQ and FastCGI client (Lightning Talk)
-* Tommy Mühle: ["Exception handling - classic and fancy"](http://bit.ly/2kzZkjx)
-
-<hr class="blockspace">
-
-&nbsp;
-
-#### [<i class="fa fa-meetup"></i> Der PHP DeveloperDay 2016](@baseUrl@/events/2016/php-developer-day.html)
-
-<div class="row blockspace">
-	<p>
-        Treffen sich 100 PHP-Entwickler in der Scheune, so könnte man den PHPDD16 einleitend beschreiben. 
-        Was dabei rauskam, wie der Tag verlief und wer alles dabei war haben wir hier für euch mal kurz zusammengefasst. 
-        <a href="@baseUrl@/events/2016/php-developer-day.html" target="_blank" title="Der PHP DeveloperDay 2016">
-            mehr lesen...
-        </a>
-    </p>    
-    <br/>
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-	    <div class="youtubeitem">
-			<div class="embed-responsive embed-responsive-16by9">
-			    <iframe width="266" height="150" src="https://www.youtube.com/embed/NjVQirzZ-44" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <h4>A Developer’s Survival Guide for the Microservice Era</h4>
-		</div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-        <div class="youtubeitem">
-            <div class="embed-responsive embed-responsive-16by9">
-                <iframe width="266" height="150" src="https://www.youtube.com/embed/mMmj56IR8Rw" frameborder="0" allowfullscreen></iframe>
-            </div>
-            <h4>CQRS in Production</h4>
-        </div>
-    </div>
-</div>
-<a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O" target="_blank" title="Der PHP DeveloperDay 2016">
-    <i class="fa fa-youtube"></i> Mehr Videos ansehen...
-</a>
 
 <hr class="blockspace">
 

@@ -175,5 +175,27 @@ The orga team of the PHP USERGROUP DRESDEN e.V.<br>
 				Bronze-Sponsor
 			</td>
 		</tr>
+		<tr>
+            <td>
+                <a href="http://www.fairnet-medien.de" target="_blank" title="fairnet medienagentur">
+                    <img src="@baseUrl@/images/sponsors/fairnet-medienagentur.jpg" alt="fairnet medienagentur" class="img-responsive">
+                </a>
+            </td>
+            <td class="text-muted">
+                <p>
+                    Unsere Magento Agentur entwickelt für B2B & B2C optimale Lösungen für den Onlineshop, das Portal, die Plattform, Entwicklung individueller Module & SEO.
+                </p>
+                <p>
+                    Wir konzipieren das digitale Gesamtkonzept für Ihr Unternehmen - Imagepflege über CMS-basierte Webseite, 
+                    Onlineshop mit voller Integration in Ihre Systemlandschaft (ERP/CRM/PIM) sowie SEO & Marketing - entsprechend unseres Mottos:
+                </p>
+                <p>
+                    "E-Business or NO-Business"
+                </p>
+            </td>
+            <td>
+                Bronze-Sponsor
+            </td>
+        </tr>
 	</tbody>
 </table>

@@ -41,7 +41,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 #### [<i class="fa fa-meetup"></i> Meetup IV / 2017 am 08. Juni 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/)
 
-<i class="fa fa-map-marker"></i> Noch nicht festgelegt.
+<i class="fa fa-map-marker"></i> [Check24 - Prager Str. 3, Dresden](https://goo.gl/maps/ehZupEo24cR2)
 
 **Programm / Program**
 

@@ -4,7 +4,12 @@
 			<h3>08:30 - 09:30</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>CHECK-IN</h3>
+			<h3>
+			    <a href="https://joind.in/talk/aed73" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    CHECK-IN
+			</h3>
 			<p class="text-muted">
 				For starters we have some sweet stuff, coffee, tea and sandwiches as a little refreshment for the upcoming day. 
 			</p>
@@ -16,7 +21,12 @@
 			<h3>09:30 - 10:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>WELCOME KEYNOTE</h3>
+			<h3>
+			    <a href="https://joind.in/talk/73e7e" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    WELCOME KEYNOTE
+			</h3>
 			<p>
 				Some introducing words around the event and the user group as well as all important information, so that we'll have a great PHP day alltogether.	
 			</p>
@@ -33,7 +43,13 @@
 			<h3>10:15 - 11:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="phive"></a>PHIVE - Managing your PHP toolchain</h3>
+			<h3>
+			    <a name="phive"></a>
+			    <a href="https://joind.in/talk/41de1" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    PHIVE - Managing your PHP toolchain
+			</h3>
 			<p>
 				Adding all the required tools like PHPUnit, PHPMD and phpDox in their matching versions to a project used to be a lot of repetitive work: 
 				Started by finding the download URL, figuring out what the actually correct and matching version is followed by verifying the SHA1 and GPG 
@@ -59,7 +75,13 @@
 			<h3>11:15 - 12:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="middleware-web-apis-in-php-7"></a>Middleware Web APIs in PHP 7.x</h3>
+			<h3>
+			    <a name="middleware-web-apis-in-php-7"></a>
+			    <a href="https://joind.in/talk/55cc8" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    Middleware Web APIs in PHP 7.x
+			</h3>
 			<p>
 				Der Middleware-Ansatz erleichtert es Softwareentwicklern, Web-APIs zu implementieren, die HTTP-Input / Output verwalten. 
 				In diesem Vortrag wird gezeigt, wie eine Middleware Web-API in PHP 7 mit Expressive, dem Open-Source-Projekt von Zend Framework, entwickelt wird. 
@@ -75,7 +97,12 @@
 			<h3>12:00 - 13:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>LUNCH BREAK</h3>
+			<h3>
+			    <a href="https://joind.in/talk/5ede2" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    LUNCH BREAK
+			</h3>
 			<p class="text-muted">
 				For the starving folks we offer a selection of hot meals and cold drinks for you. 
 				No matter if you like pasta or meat, if you are vegan or vegetarian - you can get full up. 
@@ -88,7 +115,13 @@
 			<h3>13:15 - 14:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="postgresql"></a>PostgreSQL: Die NoSQL Datenbank die niemand kennt</h3>
+			<h3>
+			    <a name="postgresql"></a>
+			    <a href="https://joind.in/talk/acdb0" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    PostgreSQL: Die NoSQL Datenbank die niemand kennt
+			</h3>
 			<p>
 				PostgreSQL ist dafür bekannt ein klassisches
 				relationales Datenbanksystem zu sein das mit fixen Datenstrukturen
@@ -107,7 +140,13 @@
 			<h3>14:15 - 15:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="event-sourcing"></a>Event Sourcing: The good, the bad and the complicated</h3>
+			<h3>
+			    <a name="event-sourcing"></a>
+			    <a href="https://joind.in/talk/c61a1" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    Event Sourcing: The good, the bad and the complicated
+			</h3>
 			<p>
 				Event Sourcing is a more frequently heard buzzword, but is it solving all our development problems, or is it introducing new ones? Let's see it in practice!
 			</p>
@@ -125,7 +164,12 @@
 			<h3>15:00 - 15:30</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>COFFEE BREAK</h3>
+			<h3>
+			    <a href="https://joind.in/talk/322f6" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    COFFEE BREAK
+			</h3>
 			<p class="text-muted">
 				As an appetizer for the finish you can grab yourself a piece of cake or a fruit bowl. Of course we serve coffee or tea as well.
 			</p>
@@ -137,7 +181,13 @@
 			<h3>15:45 - 16:30</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3><a name="prooph-micro"></a>prooph/micro - weniger ist mehr</h3>
+			<h3>
+			    <a name="prooph-micro"></a>
+			    <a href="https://joind.in/talk/a25c0" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    prooph/micro - weniger ist mehr
+			</h3>
 			<p>Es gibt Softwarearchitekten die behaupten: Sourcecode sollte nicht so geschrieben sein, dass man ihn einfach erweitern kann, sondern dass man ihn einfach wegwerfen kann.
                Layered Architecture, Design by Contract und Prinzipien der objektorientierten Programmierung zielen eher auf die Erweiterbarkeit ab. Microservices hingegen werben mit der einfachen Austauschbarkeit
                ganzer Services. Diesen Ansatz verfolgt prooph/micro und bietet mit einer zugeschnitten Toolbox für dockerized und event sourced Microservices neue Möglichkeiten der Strukturierung von PHP Anwendungen. Dabei wird bewusst auf Objektorientierung verzichtet und stattdessen auf functional programming Techniken gesetzt. Wieso, Weshalb, Warum? Das klärt sich in diesem Vortrag über prooph/micro.</p>
@@ -150,7 +200,13 @@
             <h3>16:45 - 17:30</h3>	
         </div>
         <div class="col-xs-12 col-sm-8 col-md-9">
-            <h3><a name="react-php"></a>Pushing the limits with ReactPHP</h3>
+            <h3>
+                <a name="react-php"></a>
+                <a href="https://joind.in/talk/607ac" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+                Pushing the limits with ReactPHP
+            </h3>
             <p>
                 It's 2017 and times have changed – yet PHP is still most often associated with your average product 
                 catalogue or blogging platform. In this talk you will learn that PHP’s huge ecosystem has way more to 
@@ -171,12 +227,22 @@
 			<h3>17:30 - 18:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>LIGHTING TALKS</h3>
+			<h3>
+			    <a href="https://joind.in/talk/3a8dd" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    LIGHTING TALKS
+			</h3>
 			<p>
 				Until now, you have had the opprtunity to submit a lightning talk. Now the stage is yours.
 			</p>
 			<p class="text-muted">by YOU?!</p>
-			<h3>CLOSING WORDS</h3>
+			<h3>
+			    <a href="https://joind.in/talk/e1c2b" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    CLOSING WORDS
+			</h3>
 			<p>
 				Befor we slip into exchange, discussion and networking, some concluding words by the event organizers. 
 			</p>
@@ -189,7 +255,12 @@
 			<h3>18:00 - 22:00</h3>	
 		</div>
 		<div class="col-xs-12 col-sm-8 col-md-9">
-			<h3>AFTERWORK / COMMUNITY</h3>
+			<h3>
+			    <a href="https://joind.in/talk/1cdc1" target="_blank" title="Rate now at joind.in" class="pull-right">
+                    <i class="fa fa-commenting-o"></i>
+                </a>
+			    AFTERWORK / COMMUNITY
+			</h3>
 			<p>
 				Now let's chill out with a cold beer or other drinks, taking the time to get in contact, give feedback or simply enjoy this evening together.
 			</p>

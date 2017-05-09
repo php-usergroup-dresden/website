@@ -15,8 +15,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 		<i class="fa fa-map-marker"></i> <a href="https://goo.gl/maps/UrUvrZjsaGn" target="_blank">Im Dresdner Volkshaus am Schützenplatz</a>
         <ul>
 			<li>1 PHP-Tag in Dresden</li>
-			<li>7 TOP-Speaker (mehr dazu in Kürze)</li>
-			<li>Viel Wissen - Viel Community</li>
+			<li>7 TOP-Speaker</li>
+			<li>Viel Wissen, viel Community, viel Spaß!</li>
         </ul>
         <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD17"><b>#PHPDD17</b></a>
 	</div>
@@ -249,24 +249,31 @@ Vorträge:
     </div>
 </div>
 <div class="row blockspace">
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ostec.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/ostec.jpg" alt="ostec GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="https://www.php-friends.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/php-friends.jpg" alt="PHP-Friends GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="http://www.fairnet-medien.de" target="_blank" title="fairnet medienagentur">
 				<img src="@baseUrl@/images/sponsors/fairnet-medienagentur.jpg" alt="fairnet medienagentur" class="img-responsive">
+			</a>
+		</div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    	<div class="sponsor">
+			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
+				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>

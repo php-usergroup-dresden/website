@@ -197,5 +197,29 @@ The orga team of the PHP USERGROUP DRESDEN e.V.<br>
                 Bronze-Sponsor
             </td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://php-friends.de/" target="_blank" title="PHP-Friends">
+                    <img src="@baseUrl@/images/sponsors/php-friends.jpg" alt="PHP-Friends" class="img-responsive">
+                </a>
+            </td>
+            <td class="text-muted">
+                <p>
+                    Ihr Anbieter für flexible und performante Serverlösungen
+                </p>
+                <p>
+                    Profitieren Sie von der Effizienz hochwertiger Markenhardware und kümmern sich um Ihre Software, 
+                    während wir uns mit langjähriger Erfahrung rund um die Uhr um unsere Hostsysteme kümmern.
+                </p>
+                <p>
+                    Zufriedene Kunden sind unser Kapital. Daher stehen wir für hochwertige Dienstleistungen, 
+                    kundennahen Service an 365 Tagen im Jahr und Transparenz. Dies resultiert in ausgesprochen 
+                    positiven Bewertungen in unabhängigen Bewertungsportalen.
+                </p>
+            </td>
+            <td>
+                Bronze-Sponsor
+            </td>
+        </tr>
 	</tbody>
 </table>

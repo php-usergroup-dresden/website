@@ -302,5 +302,24 @@ You are interested in supporting this event?
                 Bronze-Sponsor
             </td>
         </tr>
+        <tr>
+			<td>
+				<a href="https://www.leankoala.com" target="_blank" title="LEANKOALA">
+					<img src="@baseUrl@/images/sponsors/leankoala.png" alt="LEANKOALA" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					Leankoala
+				</p>
+				<p>
+				   Fast and lean continuous testing service<br>
+                   for web applications.
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
 	</tbody>
 </table>

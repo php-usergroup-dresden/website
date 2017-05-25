@@ -303,5 +303,24 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 				Bronze-Sponsor
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://www.leankoala.com" target="_blank" title="LEANKOALA">
+					<img src="@baseUrl@/images/sponsors/leankoala.png" alt="LEANKOALA" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					Leankoala
+				</p>
+				<p>
+				   Einfach Testen.<br>
+				   Von Entwicklern für Entwickler.
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
 	</tbody>
 </table>

@@ -62,8 +62,7 @@ Da wir unsere Meetups über viele Kanäle ankündigen und teilen, ist jede Erwä
 
 Weiterhin bieten wir auch eine Bühne für Eure Mitarbeiter/innen, die selbst gern mal einen Vortrag machen möchten. Mit unseren zwei Formaten (Lightning-Talk 15 Min. & Main-Talk 45 Min.) kann sich jeder ausprobieren. Auch Talks zu zweit sind kein Problem. 
 
-Nicht zuletzt vefolgen wir auch einen Bildungsauftrag und bieten Euch und euren Mitarbeitern/innen hochwertige Vorträge, Speaker und Insides aus den 
-verschiedensten Branchen und Anwendungsgebieten - als Gegenleistung für ein paar Stunden unter Eurem Dach. 
+Nicht zuletzt verfolgen wir auch einen Bildungsauftrag und bieten Euch und euren Mitarbeitern/innen hochwertige Vorträge, Speaker und Insights aus den verschiedensten Branchen und Anwendungsgebieten - als Gegenleistung für ein paar Stunden unter Eurem Dach. 
 
 ## Ihr habt Interesse?
 

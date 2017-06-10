@@ -35,6 +35,7 @@
 			<p>
 				Our PLATIN sponsor will give a brief intro about their company and business.
 			</p>
+			<p>Language: English</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -67,6 +68,7 @@
 				by <a href="@baseUrl@/phpdd17/speaker.html#arne-blankerts">Arne Blankerts</a> 
 				and <a href="@baseUrl@/phpdd17/speaker.html#sebastian-heuer">Sebastian Heuer</a>
 			</p>
+			<p>Language: German</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -89,6 +91,7 @@
 				Und wer sich schon immer gefragt hat, was es mit Diactoros und Stratigility auf sich hat, der sollte diese Session nicht verpassen.
 			</p>
 			<p class="text-muted">by <a href="@baseUrl@/phpdd17/speaker.html#jan-burkl">Jan Burkl</a></p>
+			<p>Language: English</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -132,6 +135,7 @@
 				einsetzen zu wollen.
 			</p>
 			<p class="text-muted">by <a href="@baseUrl@/phpdd17/speaker.html#stephan-hochdoerfer">Stephan Hochdörfer</a></p>
+			<p>Language: English</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -156,6 +160,7 @@
                 This talk will give you a good idea of what kind of challenges you will encounter when approaching event sourcing for the first time.
 			</p>
 			<p class="text-muted">by <a href="@baseUrl@/phpdd17/speaker.html#marco-pivetta">Marco Pivetta</a></p>
+			<p>Language: English</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -192,6 +197,7 @@
                Layered Architecture, Design by Contract und Prinzipien der objektorientierten Programmierung zielen eher auf die Erweiterbarkeit ab. Microservices hingegen werben mit der einfachen Austauschbarkeit
                ganzer Services. Diesen Ansatz verfolgt prooph/micro und bietet mit einer zugeschnitten Toolbox für dockerized und event sourced Microservices neue Möglichkeiten der Strukturierung von PHP Anwendungen. Dabei wird bewusst auf Objektorientierung verzichtet und stattdessen auf functional programming Techniken gesetzt. Wieso, Weshalb, Warum? Das klärt sich in diesem Vortrag über prooph/micro.</p>
 			<p class="text-muted">by <a href="@baseUrl@/phpdd17/speaker.html#alexander-miertsch">Alexander Miertsch</a></p>
+			<p>Language: German</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -219,6 +225,7 @@
                 learn why what sounds crazy at first might soon be a valuable addition in your toolbox.
             </p>
             <p class="text-muted">by <a href="@baseUrl@/en/phpdd17/speakers.html#christian-lueck">Christian Lück</a></p>
+            <p>Language: English</p>
         </div>
     </div>
 	<hr class="blockspace">
@@ -247,6 +254,7 @@
 				Befor we slip into exchange, discussion and networking, some concluding words by the event organizers. 
 			</p>
 			<p class="text-muted">by Holger Woltersdorf (PHP USERGROUP DRESDEN e.V.)</p>
+			<p>Language: English</p>
 		</div>
 	</div>
 	<hr class="blockspace">

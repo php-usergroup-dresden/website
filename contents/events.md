@@ -49,35 +49,25 @@
 
 &nbsp;
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/240688349/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup IV / 2017 am 08. Juni 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/)
+#### [<i class="fa fa-meetup"></i> Meetup V / 2017 am 17. Juli 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/240688349/)
 
-<i class="fa fa-map-marker"></i> [Check24 - Prager Str. 3, Dresden](https://goo.gl/maps/ehZupEo24cR2)
+<i class="fa fa-map-marker"></i> Noch nicht festgelegt.
 
 **Programm / Program**
 
-* 18:30 - 19:00 Uhr (06:30 - 07:00pm) - Check-In
+* 18:30 Uhr (06:30pm) - Doors Open
 
-* 19:00 - 19:30 Uhr (07:00 - 07:30pm) - Usergroup- und Host-Intro
+* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:35 - 20:15 Uhr (07:35 - 08:15pm) - 1. Talk:
-  
-  **50 Shades of Backup**  
-  Von Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))    
-  
-  <span class="text-muted">Backups are hard. Especially for heavily distributed systems. As we split our apps more and more into micro services, creating backups is no longer a single task nor in a single place. Instead, it involves data from different sources in different locations. This is where the PHP Backup Utility (phpbu) steps in to make your life easier. Besides the backup process itself, I will talk about the challenge of connecting the dev and the ops and a way to use your backups in your daily routine. All to make sure your data is ready to be restored in case of a disaster scenario.</span>
+* 19:30 Uhr (07:30pm) - Lightning Talk (TBD)
 
-* 20:15 - 20:30 Uhr (08:15 - 08:30pm) - Pause / Break 
+* 19:45 Uhr (07:45pm) - Break
 
-* 20:35 - 21:15 Uhr (08:35 - 09:15pm) - 2. Talk:
-  
-  **Async PHP requests & reactive responses with php-fpm**  
-  Von Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
-  
-  <span class="text-muted">There are many approaches to execute PHP sub-tasks asynchronously or to parallelise PHP execution. While some solutions require extra extensions, individual PHP builds or a lot of process control management, this talk will show you how to configure and use the built-in PHP FastCGI Process Manager (php-fpm) to execute requests asynchronously in an isolated, tunable process pool and eventually handle their responses in a reactive way.</span>
+* 20:15 Uhr (08:15pm) - Main Talk (TBD)
 
-Alle Talks werden in englisch gehalten. / All talks will be presented in english. 
+* 21:00 Uhr (09:00pm) - Community + Socializing 
 
 <hr class="blockspace">
 
@@ -102,6 +92,22 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 <hr class="blockspace">
 
 ### Vergangene Events
+
+&nbsp;
+
+<a href="@baseUrl@/images/events/meetups/2017-06-08-check24.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-06-08-check24.jpg" alt="Meetup bei Check24 in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+
+#### [<i class="fa fa-meetup"></i> Meetup IV / 2017 am 08. Juni 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/)
+
+<i class="fa fa-map-marker"></i> [Check24 - Prager Str. 3, Dresden](https://goo.gl/maps/ehZupEo24cR2)
+
+* **50 Shades of Backup**  
+  Von Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+  
+* **Async PHP requests & reactive responses with php-fpm**  
+  Von Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))  
+  [Slides auf Speakerdeck](https://speakerdeck.com/hollodotme/async-php-requests-and-reactive-responses-with-php-fpm)
 
 &nbsp;
 

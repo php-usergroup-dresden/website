@@ -35,6 +35,7 @@
 			<p>
 				Unser PLATIN-Sponsor wird sich und seine Tätigkeiten kurz vorstellen.
 			</p>
+			<p>Sprache: Englisch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -66,6 +67,7 @@
 				von <a href="@baseUrl@/phpdd17/speaker.html#arne-blankerts">Arne Blankerts</a> 
 				und <a href="@baseUrl@/phpdd17/speaker.html#sebastian-heuer">Sebastian Heuer</a>
 			</p>
+			<p>Sprache: Deutsch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -88,6 +90,7 @@
 				Und wer sich schon immer gefragt hat, was es mit Diactoros und Stratigility auf sich hat, der sollte diese Session nicht verpassen.
 			</p>
 			<p class="text-muted">von <a href="@baseUrl@/phpdd17/speaker.html#jan-burkl">Jan Burkl</a></p>
+			<p>Sprache: Englisch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -131,6 +134,7 @@
 				einsetzen zu wollen.
 			</p>
 			<p class="text-muted">von <a href="@baseUrl@/phpdd17/speaker.html#stephan-hochdoerfer">Stephan Hochdörfer</a></p>
+			<p>Sprache: Englisch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -155,6 +159,7 @@
                 This talk will give you a good idea of what kind of challenges you will encounter when approaching event sourcing for the first time.
 			</p>
 			<p class="text-muted">von <a href="@baseUrl@/phpdd17/speaker.html#marco-pivetta">Marco Pivetta</a></p>
+			<p>Sprache: Englisch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -195,6 +200,7 @@
 			<p class="text-muted">
 			    von <a href="@baseUrl@/phpdd17/speaker.html#alexander-miertsch">Alexander Miertsch</a>
 			</p>
+			<p>Sprache: Deutsch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -222,6 +228,7 @@
                 learn why what sounds crazy at first might soon be a valuable addition in your toolbox.
 			</p>
 			<p class="text-muted">von <a href="@baseUrl@/phpdd17/speaker.html#christian-lueck">Christian Lück</a></p>
+			<p>Sprache: Englisch</p>
 		</div>
 	</div>
 	<hr class="blockspace">
@@ -251,6 +258,7 @@
 				Bevor der Tag in Austausch, Diskussionen und Networking ausklingt, ein paar abschließende Worte von den Organisatoren. 
 			</p>
 			<p class="text-muted">von Holger Woltersdorf (PHP USERGROUP DRESDEN e.V.)</p>
+			<p>Sprache: Englisch</p>
 		</div>
 	</div>
 	<hr class="blockspace">

@@ -154,6 +154,21 @@ You are interested in supporting this event?
 		</tr>
 		<tr>
 			<td>
+				<a href="https://www.move-elevator.de" target="_blank" title="move:elevator">
+					<img src="@baseUrl@/images/sponsors/moveelevator.jpg" alt="move elevator Group" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Gestatten: move:elevator, Full-Service-Agentur mit Leib und Seele und einer umfassenden Inhouse-Kompetenz. 
+				Von Magazinen über Websites und Imagefilme bis hin zu komplexen digitalen Geschäftsprozessen bekommen Sie bei uns alles, 
+				was Ihr Unternehmen wachsen und glänzen lässt. Und dies aus einer Hand.
+			</td>
+			<td>
+				Gold-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
 					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
 				</a>
@@ -165,21 +180,6 @@ You are interested in supporting this event?
 			</td>
 			<td>
 				Silver-Sponsor
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<a href="https://www.move-elevator.de" target="_blank" title="move:elevator">
-					<img src="@baseUrl@/images/sponsors/moveelevator.jpg" alt="move elevator Group" class="img-responsive">
-				</a>
-			</td>
-			<td class="text-muted">
-				Gestatten: move:elevator, Full-Service-Agentur mit Leib und Seele und einer umfassenden Inhouse-Kompetenz. 
-				Von Magazinen über Websites und Imagefilme bis hin zu komplexen digitalen Geschäftsprozessen bekommen Sie bei uns alles, 
-				was Ihr Unternehmen wachsen und glänzen lässt. Und dies aus einer Hand.
-			</td>
-			<td>
-				Bronze-Sponsor
 			</td>
 		</tr>
 		<tr>

@@ -114,7 +114,8 @@
 				"/phpdd17/ort-und-anreise.html",
 				"/phpdd17/verpflegung.html",
 				"/phpdd17/sponsor-werden.html",
-				"/phpdd17/verhaltenskodex.html"
+				"/phpdd17/verhaltenskodex.html",
+				"/phpdd17/media.html"
 			]
 		},
 		"/phpdd17/speaker.html": {
@@ -268,6 +269,27 @@
 			"children": [
 			]
 		},
+		"/phpdd17/media.html": {
+			"pageLevel": 20,
+			"navName": "Media",
+			"pageTitle": "Media",
+			"description": "Digital Media für den PHP Developer Day 2017 in Dresden, Deutschland",
+			"language": "de",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo-440x220.png",
+			"tags": [
+				"Media",
+				"Digital",
+				"Social",
+				"Share",
+				"Images"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/de/media.md",
+			"children": [
+			]
+		},
 		"/en/phpdd17.html": {
 			"pageLevel": 29,
 			"navName": "PHP Developer Day 2017",
@@ -296,7 +318,8 @@
 				"/en/phpdd17/location-and-arrival.html",
 				"/en/phpdd17/catering.html",
 				"/en/phpdd17/become-sponsor.html",
-				"/en/phpdd17/code-of-conduct.html"
+				"/en/phpdd17/code-of-conduct.html",
+				"/en/phpdd17/media.html"
 			]
 		},
 		"/en/phpdd17/speakers.html": {
@@ -447,6 +470,27 @@
 			"renderer": "twig",
 			"template": "templates/phpdd17.twig",
 			"contentFile": "phpdd17/en/code-of-conduct.md",
+			"children": [
+			]
+		},
+		"/en/phpdd17/media.html": {
+			"pageLevel": 30,
+			"navName": "Media",
+			"pageTitle": "Media",
+			"description": "Digital media for the PHP Developer Day 2017 in Dresden, Germany",
+			"language": "en",
+			"imageUrl": "/images/events/phpdd17/phpdd17-logo-440x220.png",
+			"tags": [
+				"Media",
+				"Digital",
+				"Share",
+				"Social",
+				"Images"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/phpdd17.twig",
+			"contentFile": "phpdd17/en/media.md",
 			"children": [
 			]
 		},

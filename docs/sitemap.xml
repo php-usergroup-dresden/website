@@ -78,6 +78,13 @@
     </image:image>
   </url>
   <url>
+    <loc>http://phpug-dresden.org/phpdd17/media.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
+      <image:caption>Media</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>http://phpug-dresden.org/en/phpdd17.html</loc>
     <image:image>
       <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
@@ -131,6 +138,13 @@
     <image:image>
       <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
       <image:caption>Code of Conduct</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/en/phpdd17/media.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
+      <image:caption>Media</image:caption>
     </image:image>
   </url>
   <url>

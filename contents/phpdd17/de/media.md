@@ -37,3 +37,63 @@ Hier findet ihr einige Medien, die ihr gern für das Teilen in Sozialen Netzwerk
 
 <i class="fa fa-download"></i>
 [Full-HD (1920x1280, JPG)](@baseUrl@/images/downloads/phpdd17/phpdd17-talks-fullhd.jpg)
+
+<hr class="blockspace">
+
+## Location
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-location.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Full-HD (1920x1440, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-location.png)
+
+<hr class="blockspace">
+
+## Twitter Speaker-Cards
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-arne-blankerts-phive-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-arne-blankerts-phive-twitter.png)
+
+<hr class="blockspace">
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-sebastian-heuer-phive-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-sebastian-heuer-phive-twitter.png)
+
+<hr class="blockspace">
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-jan-burkl-middleware-web-apis-in-php7-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-jan-burkl-middleware-web-apis-in-php7-twitter.png)
+
+<hr class="blockspace">
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-marco-pivetta-event-sourcing-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-marco-pivetta-event-sourcing-twitter.png)
+
+<hr class="blockspace">
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-stephan-hochdoerfer-postgresql-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-stephan-hochdoerfer-postgresql-twitter.png)
+
+<hr class="blockspace">
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-alexander-miertsch-prooph-micro-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-alexander-miertsch-prooph-micro-twitter.png)
+
+<hr class="blockspace">
+
+<img src="@baseUrl@/images/downloads/phpdd17/phpdd17-christian-lueck-reactphp-twitter.png" class="img-responsive blockspace">
+
+<i class="fa fa-download"></i>
+[Twitter-Feed (1024x512, PNG)](@baseUrl@/images/downloads/phpdd17/phpdd17-christian-lueck-reactphp-twitter.png)

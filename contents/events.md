@@ -53,7 +53,7 @@
 
 #### [<i class="fa fa-meetup"></i> Meetup V / 2017 am 17. Juli 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/240688349/)
 
-<i class="fa fa-map-marker"></i> Noch nicht festgelegt.
+<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/E8Mftqa4iRG2) / <i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
 
 **Programm / Program**
 
@@ -65,7 +65,7 @@
 
 * 19:45 Uhr (07:45pm) - Break
 
-* 20:15 Uhr (08:15pm) - Main Talk (TBD)
+* 20:15 Uhr (08:15pm) - **Defensive Programming (with PHP)** - Tommy Mühle / <i class="fa fa-twitter"></i> [@tommy_muehle](https://twitter.com/tommy_muehle)
 
 * 21:00 Uhr (09:00pm) - Community + Socializing 
 

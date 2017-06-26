@@ -87,6 +87,21 @@ Das Orga-Team des PHP USERGROUP DRESDEN e.V.<br>
 			</td>
 		</tr>
 		<tr>
+            <td>
+                <a href="https://www.queo.de" target="_blank" title="queo GmbH">
+                    <img src="@baseUrl@/images/sponsors/queo.jpg" alt="queo Group" class="img-responsive">
+                </a>
+            </td>
+            <td class="text-muted">
+                Wir sind neugierig auf spannende Projekte mit unseren Kunden und stellen uns jeder Herausforderung. 
+                Über 90 queos setzen sich täglich in Dresden, Hamburg und Solothurn (Schweiz) für die Produkt- und 
+                Servicemarken von queo ein: Mit Charakter, Talent und Leidenschaft.
+            </td>
+            <td>
+                Gold-Sponsor
+            </td>
+        </tr>
+		<tr>
 			<td>
 				<a href="https://www.lovoo.com" target="_blank" title="LOVOO">
 					<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">

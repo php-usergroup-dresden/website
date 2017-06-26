@@ -120,6 +120,7 @@ Speisen und Getränke sind im Ticket-Preis inbegriffen.
 
 <hr class="blockspace">
 
+<a name="sponsors"></a>
 ### Sponsoren
 
 Erstmals durch den PHP USERGROUP DRESDEN e.V. allein ausgerichtet, gilt ein großer Dank unseren Sponsoren, ohne die dieses Event nicht möglich wäre!

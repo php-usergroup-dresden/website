@@ -119,6 +119,7 @@ All food and drinks are included in the ticket price.
 
 <hr class="blockspace">
 
+<a name="sponsors"></a>
 ### Sponsors
 
 As this event is organized by the PHP USERGROUP DRESDEN e.V. all on its own for the first time, we have to thank all of our sponsors making this event happen!

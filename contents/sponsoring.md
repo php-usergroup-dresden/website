@@ -75,3 +75,31 @@ E-Mail: <sponsoring@phpug-dresden.org>
 		</div>
     </div>
 </div>
+
+<hr class="blockspace">
+
+## <a name="cooperations"></a>Kooperationen
+
+<div class="row blockspace">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="coop">
+    		<a href="https://entwickler.de/online/php" target="_blank">
+				<img src="@baseUrl@/images/coops/php-magazin.jpg" alt="PHP Magazin" class="img-responsive">
+			</a>
+		</div>
+    </div>
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="coop">
+    		<a href="http://www.mitp.de" target="_blank">
+				<img src="@baseUrl@/images/coops/mitp.jpg" alt="mitp Verlag" class="img-responsive">
+			</a>
+		</div>
+	</div>
+    <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+    	<div class="coop">
+			<a href="http://www.oreilly.de" target="_blank">
+				<img src="@baseUrl@/images/coops/oreilly.jpg" alt="O'Reilly Verlag" class="img-responsive">
+			</a>
+		</div>
+    </div>
+</div>

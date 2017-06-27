@@ -17,7 +17,7 @@
 		"php": ">=7.0"
 	},
 	"require-dev": {
-		"tm/tooly-composer-script": "^1.0"
+		"tm/tooly-composer-script": "^1.2"
 	},
 	"scripts": {
 		"post-install-cmd": "Tooly\\ScriptHandler::installPharTools",

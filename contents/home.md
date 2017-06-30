@@ -41,7 +41,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 #### [<i class="fa fa-meetup"></i> Meetup V / 2017 am 17. Juli 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/240688349/)
 
-<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/E8Mftqa4iRG2) / <i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
+<i class="fa fa-map-marker"></i> [Impact Hub Dresden, Bayrische Str. 8, 01069 Dresden](https://goo.gl/maps/dn5tZbsjK2B2) / [dresden.impacthub.net](http://dresden.impacthub.net)
 
 **Programm / Program**
 
@@ -54,6 +54,30 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 * 19:45 Uhr (07:45pm) - Break
 
 * 20:15 Uhr (08:15pm) - **Defensive Programming (with PHP)** - Tommy Mühle / <i class="fa fa-twitter"></i> [@tommy_muehle](https://twitter.com/tommy_muehle)
+
+* 21:00 Uhr (09:00pm) - Community + Socializing 
+
+<hr class="blockspace">
+
+&nbsp;
+
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/" target="_blank" class="btn btn-success btn-lg pull-right">Platz sichern!</a>
+
+#### [<i class="fa fa-meetup"></i> Meetup VI / 2017 am 24. August 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/)
+
+<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/E8Mftqa4iRG2) / <i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
+
+**Programm / Program**
+
+* 18:30 Uhr (06:30pm) - Doors Open
+
+* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
+
+* 19:30 Uhr (07:30pm) - Lightning Talk (TBD)
+
+* 19:45 Uhr (07:45pm) - Break
+
+* 20:15 Uhr (08:15pm) - **Der Content-Manager mag den Baum (PHPCR)** - Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
 
 * 21:00 Uhr (09:00pm) - Community + Socializing 
 

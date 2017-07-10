@@ -61,7 +61,8 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - Lightning Talk (TBD)
+* 19:30 Uhr (07:30pm) - **PHPkonf und andere Zufälle** - Holger Woltersdorf / <i class="fa fa-twitter"></i> [@hollodotme](https://twitter.com/hollodotme)  
+  Ein kurzer Unterhaltungs-Talk über meine erste PHP Konferenz als Speaker im Ausland, das Treffen von bedeutsamen Personen und vielleicht ein paar Lessons learned. (Keine Katzen-Fotos, versprochen!)
 
 * 19:45 Uhr (07:45pm) - Break
 
@@ -85,13 +86,19 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - Lightning Talk (TBD)
+* 19:30 Uhr (07:30pm) - **Lehren aber richtig - Ein schlechter Entwickler werde ich (von) ganz allein** - Thomas Wiedemann  
+  Basierend auf psychologischen Grundlagen des Lernens, Aspekten aus Motivations- und Emotionspsychologie und jahrelanger Erfahrung in der Softwareentwicklung versucht dieser Talk:
+  
+  - Fallstricke aufzuzeigen  
+  - etwas psychologisches Know-How zu vermitteln  
+  
+  um am Ende aus beiden Punkten sinnvolle Ansätze für zukünftige Ausbildungsstrategien zu entwickeln.
 
-* 19:45 Uhr (07:45pm) - Break
+* 20:15 Uhr (08:15pm) - Break
 
-* 20:15 Uhr (08:15pm) - **Der Content-Manager mag den Baum (PHPCR)** - Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
+* 20:30 Uhr (08:30pm) - **Der Content-Manager mag den Baum (PHPCR)** - Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
 
-* 21:00 Uhr (09:00pm) - Community + Socializing 
+* 21:00 Uhr (09:00pm) - Community + Socializing
 
 <hr class="blockspace">
 

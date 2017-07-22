@@ -338,5 +338,26 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 				Bronze-Sponsor
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="https://www.iq-optimize.de" target="_blank" title="IQ-optimize Software AG">
+					<img src="@baseUrl@/images/sponsors/iq-optimize-software-ag.png" alt="IQ-optimize Software AG" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					IQ-optimize Software AG
+				</p>
+				<p>
+				   Als eine hundertprozentige Tochtergesellschaft des Drillisch Konzerns entwickeln wir innovative Software- und IT-Dienstleistungen 
+				   zur Optimierung von Geschäftsprozessabläufen. Unsere IT-Dienst- und Serviceleistungen unterstützen aktiv die Dynamik der 
+				   Geschäftsprozesse und leisten einen essenziellen Beitrag zum Unternehmenserfolg. Unser Fokus richtet sich im Wesentlichen auf die 
+				   IT-Automation, Administration, Betrieb und Support der IT-Infrastruktur des Kunden.
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
 	</tbody>
 </table>

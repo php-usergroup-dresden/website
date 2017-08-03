@@ -1,4 +1,8 @@
 # In der Presse
+
+## 2017
+
+* [Pressemitteilung vom 03.08.2017: PHP Developer Day 2017 in Dresden](@baseUrl@/downloads/phpdd17/pressemitteilung-php-developer-day-2017-in-dresden.pdf)
  
 ## 2016
  

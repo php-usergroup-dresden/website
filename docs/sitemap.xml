@@ -204,6 +204,13 @@
     </image:image>
   </url>
   <url>
+    <loc>http://phpug-dresden.org/presse.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Presse</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>http://phpug-dresden.org/newsletter-archive.html</loc>
     <image:image>
       <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>

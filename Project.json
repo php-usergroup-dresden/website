@@ -36,7 +36,8 @@
 				"Orga",
 				"Team",
 				"Sponsoren",
-				"Downloads"
+				"Downloads",
+				"Presse"
 			],
 			"contentType": "markdown",
 			"renderer": "twig",
@@ -47,8 +48,9 @@
 				"/phpdd17.html",
 				"/call-for-papers.html",
 				"/hosting.html",
-				"/newsletter-archive.html",
 				"/sponsoring.html",
+				"/presse.html",
+				"/newsletter-archive.html",
 				"/statutes.html",
 				"/imprint.html",
 				"/privacy.html",
@@ -657,6 +659,23 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "sponsoring.md",
+			"children": []
+		},
+		"/presse.html": {
+			"pageLevel": 2,
+			"navName": "Presse",
+			"pageTitle": "Presse",
+			"description": "Pressestimmen und Pressemitteilungen des PHP USERGROUP DRESDEN e.V.",
+			"language": "de",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Presse",
+				"Mitteilung"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "in-the-press.md",
 			"children": []
 		},
 		"/newsletter-archive.html": {

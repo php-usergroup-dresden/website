@@ -118,6 +118,20 @@ The orga team of the PHP USERGROUP DRESDEN e.V.<br>
 		</tr>
 		<tr>
 			<td>
+				<a href="https://www.fluege.de" target="_blank" title="fluege.de - Eine Marke der invia Group">
+					<img src="@baseUrl@/images/sponsors/invia-fluege-de.png" alt="fluege.de - Eine Marke der invia Group" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Das Flugportal, das wirklich alle Flüge mit einem Klick darstellt – egal ob Linien-, Billig- oder Charterflüge. Airlineunabhängig 
+				erhalten Sie hier auf fluege.de Angebote von über 550 Airlines.
+			</td>
+			<td>
+				Silber-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://thephp.cc" target="_blank" title="thePHP.cc">
 					<img src="@baseUrl@/images/sponsors/the-php-cc.png" alt="thePHP.cc" class="img-responsive">
 				</a>

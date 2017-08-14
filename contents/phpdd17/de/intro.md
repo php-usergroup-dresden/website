@@ -354,6 +354,26 @@ Ihr habt ebenfalls Interesse das Event zu unterstützen?
 		</tr>
 		<tr>
 			<td>
+				<a href="https://www.jetbrains.com" target="_blank" title="JetBrains">
+					<img src="@baseUrl@/images/sponsors/jetbrains.png" alt="JetBrains" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					JetBrains
+				</p>
+				<p>
+				   At JetBrains, code is our passion. For over 15 years we have strived to make the strongest, 
+				   most effective developer tools on earth. By automating routine checks and corrections, our tools 
+				   speed up production, freeing developers to grow, discover and create.
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://www.iq-optimize.de" target="_blank" title="IQ-optimize Software AG">
 					<img src="@baseUrl@/images/sponsors/iq-optimize-software-ag.png" alt="IQ-optimize Software AG" class="img-responsive">
 				</a>

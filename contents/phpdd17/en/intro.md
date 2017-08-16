@@ -373,6 +373,30 @@ You are interested in supporting this event?
 		</tr>
 		<tr>
 			<td>
+				<a href="https://www.senacor.com" target="_blank" title="Senacor Technologies AG">
+					<img src="@baseUrl@/images/sponsors/senacor.png" alt="Senacor Technologies AG" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					Senacor Technologies AG
+				</p>
+				<p>
+				   Mit über 100 Entwicklern und 250 Beratern übernehmen wir die steuerenden Rollen in wegweisenden 
+				   Digitalisierungsprojekten bei führenden Finanzdienstleistern und Industrieunternehmen und schaffen 
+				   so die Basis für das Business von Morgen. Zu unseren Kunden zählen z.B. Commerzbank, 
+				   paydirekt und Deutsche Bahn. Developer bei Senacor schreiben nicht einfach nur Code: Wir entwickeln 
+				   und integrieren geschäftskritische Unternehmensanwendungen, suchen exzellente Lösungen für 
+				   technische Herausforderungen und setzen dabei moderne Architekturmuster mit 
+				   Java- und JavaScript-Technologien um.
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://www.iq-optimize.de" target="_blank" title="IQ-optimize Software AG">
 					<img src="@baseUrl@/images/sponsors/iq-optimize-software-ag.png" alt="IQ-optimize Software AG" class="img-responsive">
 				</a>

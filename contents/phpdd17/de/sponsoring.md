@@ -334,5 +334,28 @@ Das Orga-Team des PHP USERGROUP DRESDEN e.V.<br>
 				Bronze-Sponsor
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="http://www.vodafone-profis.de" target="_blank" title="Vodafone Business Professional Store Dresden">
+					<img src="@baseUrl@/images/sponsors/vodafone.png" alt="Vodafone Business Professional Store Dresden" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					Vodafone Business Professional Store Dresden
+				</p>
+				<p>
+				   Bereits über 650 Geschäftskunden in und um Dresden vertrauen auf unsere Beratung rund um das Thema 
+				   Telefonie und Business DSL.
+				   <br>
+                   Bei uns erhalten Sie sowohl Geschäfts- als auch Privatkundentarife aus einer Hand und erfahren alles 
+                   über die verschiedenen Verträge. Die Verwaltung hierfür übernehmen wir für Sie. In unserem Vodafone 
+                   Business Premium Store erläutern wir Ihnen gern die neuesten Trends mit aktuellen Demogeräten. 
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
 	</tbody>
 </table>

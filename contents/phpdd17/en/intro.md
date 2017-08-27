@@ -439,5 +439,23 @@ You are interested in supporting this event?
 				Bronze-Sponsor
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<a href="http://www.rheinwerk-verlag.de/?utm_source=phpug-dresden.org&utm_medium=display&utm_campaign=ad.sponsor.rc.brand.home.phpdeveloperday&utm_content=brand&utm_term=phpdeveloperday" target="_blank" title="Rheinwerk – Der Verlag für IT, Design und Fotografie">
+					<img src="@baseUrl@/images/sponsors/rheinwerk-verlag.png" alt="Rheinwerk – Der Verlag für IT, Design und Fotografie" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				<p>
+					Rheinwerk Verlag GmbH
+				</p>
+				<p>
+				   Unser Herz schlägt für gute IT-Bücher! Wir bieten professionelles Know-how für Programmierer, Linuxer, Maker, Admins und alle, die es noch werden wollen. Stöbern Sie in unserem umfassenden Programm und entdecken Sie Bücher zu PHP, MySQL, JavaScript, HTML5 und CSS3. Übrigens: Alle Bücher gibt es bei uns im Rheinwerk-Shop auch als E-Book und Bundle.
+				</p>
+			</td>
+			<td>
+				Bronze-Sponsor
+			</td>
+		</tr>
 	</tbody>
 </table>

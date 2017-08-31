@@ -127,7 +127,30 @@ The orga team of the PHP USERGROUP DRESDEN e.V.<br>
 				erhalten Sie hier auf fluege.de Angebote von über 550 Airlines.
 			</td>
 			<td>
-				Silber-Sponsor
+				Silver-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="https://de.shopware.com" target="_blank" title="shopware AG">
+					<img src="@baseUrl@/images/sponsors/shopware.png" alt="shopware AG Logo" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				shopware AG is a German manufacturer of open source eCommerce software. Founded in 2000, the company 
+                has more than 130 employees and focuses on the development and support of its core product, Shopware 5; 
+                an innovative online shop software for businesses of all sizes. With over 60,000 installations, 2,500 
+                plugins and 1,200 partners, shopware AG is one of Europe’s most successful manufacturers of eCommerce software. 
+                The company is 100% owner-operated, independent and equity-financed, thus guaranteeing the greatest 
+                degree of flexibility. "Emotional shopping on any device", the slogan of Shopware 5, offers new 
+                technology for storytelling in online shops, and comes with a completely customizable and fully 
+                responsive template. Thanks to unique user experience, advanced technologies, sophisticated marketing 
+                functionalities and incomparable design, the software has become characterized as one of the most 
+                powerful solutions for online shops in the market. The shop software is available as a free, 
+                open source version and in three other commercial versions (Professional, Professional Plus and Enterprise).
+			</td>
+			<td>
+				Silver-Sponsor
 			</td>
 		</tr>
 		<tr>

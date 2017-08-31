@@ -132,6 +132,32 @@ Das Orga-Team des PHP USERGROUP DRESDEN e.V.<br>
 		</tr>
 		<tr>
 			<td>
+				<a href="https://de.shopware.com" target="_blank" title="shopware AG">
+					<img src="@baseUrl@/images/sponsors/shopware.png" alt="shopware AG Logo" class="img-responsive">
+				</a>
+			</td>
+			<td class="text-muted">
+				Die shopware AG ist einer der führenden Shopsystem-Hersteller in Deutschland und beschäftigt 130 
+				Mitarbeiter an ihrem Standort im westfälischen Schöppingen. Als unabhängiges und eigenkapitalfinanziertes 
+				Unternehmen entwickelt das Unternehmen qualitativ hochwertige Software und arbeitet dazu besonders eng 
+				mit seinen 60.000 Kunden und 1.200 Partnern in ganz Europa zusammen. Shopware entwickelt transparent 
+				und geht stets offen und flexibel auf Wünsche aus der großen Community ein. Jeden Tag trägt die 
+				Community zur Weiterentwicklung des Open Source Produkts Shopware bei und stellt immer mehr Plugins zu 
+				den jetzt schon 2.500 Erweiterungen im Shopware Community Store bereit. Das derzeitige Kernprodukt, 
+				Shopware 5, steht unter dem Slogan "Emotional Shopping on any Device" und bietet mit "Storytelling" 
+				inspirierende und emotional gestaltbare Einkaufswelten im Full Responsive Design. Dabei zeichnet sich 
+				Shopware 5 als eines der leistungsfähigsten Shopsysteme auf dem Markt durch eine hohe Benutzerfreundlichkeit, 
+				den Einsatz modernster Technologien, ausgeklügelte Marketingfunktionen und ein unvergleichliches Design aus. 
+				Die Shopsoftware Shopware ist, je nach individuellen Anforderungen, als kostenlose Open Source-Version 
+				und in drei weiteren kommerziellen Versionen, der Professional, 
+				Professional Plus und Enterprise-Edition, erhältlich.
+			</td>
+			<td>
+				Silber-Sponsor
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<a href="https://thephp.cc" target="_blank" title="thePHP.cc">
 					<img src="@baseUrl@/images/sponsors/the-php-cc.png" alt="thePHP.cc" class="img-responsive">
 				</a>

@@ -23,47 +23,6 @@
 
 <hr class="blockspace">
 
-<div class="tickets">
-	<div class="row">
-		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-			<h4>DIVERSITY TICKETS</h4>
-			<p class="text-muted">
-				Bewirb dich für eines von 3 Diversity-Tickets und gewinne mit etwas Glück einen Rainbow ElePHPant.
-				Alle Infos zur Bewerbung und das entsprechende Formular findest du hier:
-				<a href="https://diversitytickets.org/events/101/" target="blank">diversitytickets.org | PHP Developer Day 2017</a>
-			</p>
-			&nbsp;
-			<p>
-				<a href="https://diversitytickets.org/events/101/" target="blank" style="background-color: #F6F6F6; border: 1px solid #C4C4C4; border-radius: 5px; padding: 5px 15px; font-weight: bold; font-size: x-large;">
-					<span style="color:red">J</span>
-					<span style="color:green">E</span>
-					<span style="color:yellow">T</span>
-					<span style="color:violet">Z</span>
-					<span style="color:pink">T</span>
-					&nbsp;
-					<span style="color:skyblue">B</span>
-					<span style="color:orange">E</span>
-					<span style="color:blue">W</span>
-					<span style="color:brown">E</span>
-					<span style="color:wheat">R</span>
-					<span style="color:turquiose">B</span>
-					<span style="color:thistle">E</span>
-					<span style="color:tan">N</span>
-					<span style="color:springgreen">!</span>
-				</a>
-			</p>
-		</div>
-		<div class="col-xs-12 col-sm-6 col-md-6 col-lg-2">
-			<h4>KOSTENLOS</h3>	
-		</div>
-		<div class="hidden-xs hidden-sm hidden-md col-lg-4">
-			<img src="@baseUrl@/images/diversity-rainbow-elephpant_400x400.jpg" class="img-responsive">
-		</div>
-	</div>
-</div>
-
-<hr class="blockspace">
-
 <div class="row">
 	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-10 text-center">
 		Alle offiziellen Mitglieder des PHP USERGROUP DRESDEN e.V. können 

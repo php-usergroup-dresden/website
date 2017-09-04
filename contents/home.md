@@ -235,7 +235,7 @@ Vorträge:
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="https://www.move-elevator.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/moveelevator.jpg" alt="Move Elevator GmbH" class="img-responsive">
+				<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="Move Elevator GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>

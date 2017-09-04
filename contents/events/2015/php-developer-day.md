@@ -97,7 +97,7 @@ Das Team von move:elevator
 
 ## Sponsoren
 
-<img src="@baseUrl@/images/sponsors/moveelevator.jpg" class="img-resposive pull-right img-inline">
+<img src="@baseUrl@/images/sponsors/moveelevator.png" class="img-resposive pull-right img-inline">
 move:elevator ist eine innovative Full-Service-­Werbeagentur, die in den vergangenen zehn Jahren kontinuierlich und gesund gewachsen ist. 
 An unseren Standorten Dresden und Oberhausen betreuen rund 60 Kollegen der Digital-Unit Kunden wie Coca­-Cola, die IKK, Signal Iduna und Sky.
 

@@ -156,7 +156,7 @@ You are interested in supporting this event?
 		<tr>
 			<td>
 				<a href="https://www.move-elevator.de" target="_blank" title="move:elevator">
-					<img src="@baseUrl@/images/sponsors/moveelevator.jpg" alt="move elevator Group" class="img-responsive">
+					<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="move elevator Group" class="img-responsive">
 				</a>
 			</td>
 			<td class="text-muted">

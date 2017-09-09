@@ -49,11 +49,11 @@
 
 &nbsp;
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+<a href="https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/242818559" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VI / 2017 am 24. August 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/)
+#### [<i class="fa fa-meetup"></i> Meetup VII / 2017 am 11. Oktober 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/242818559)
 
-<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/E8Mftqa4iRG2) / <i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
+<i class="fa fa-map-marker"></i> [LOGSOL GmbH, Schandauer Straße 34, Dresden, 2. OG · Dresden](https://goo.gl/maps/L1ETNjZMFKH2)
 
 **Programm / Program**
 
@@ -61,17 +61,15 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Lehren aber richtig - Ein schlechter Entwickler werde ich (von) ganz allein** - Thomas Wiedemann  
-  Basierend auf psychologischen Grundlagen des Lernens, Aspekten aus Motivations- und Emotionspsychologie und jahrelanger Erfahrung in der Softwareentwicklung versucht dieser Talk:
-  
-  - Fallstricke aufzuzeigen  
-  - etwas psychologisches Know-How zu vermitteln  
-  
-  um am Ende aus beiden Punkten sinnvolle Ansätze für zukünftige Ausbildungsstrategien zu entwickeln.
+* 19:30 Uhr (07:30pm) - **Lightning Talk** - Noch nicht vergeben  
 
 * 20:15 Uhr (08:15pm) - Break
 
-* 20:30 Uhr (08:30pm) - **Der Content-Manager mag den Baum (PHPCR)** - Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
+* 20:30 Uhr (08:30pm) - **There’s a slight smell of wet dog in your code** - Sebastian Feldmann / <i class="fa fa-twitter"></i> [@movetodevnull](https://twitter.com/movetodevnull)
+
+  Do you know code smells? Do you think they are a bad thing? Actually they don’t have to be! 
+  Code smells help you to recognize problems in your code. And the best thing about them is, that they help you refactor your code the right way. 
+  In this talk we put our noses deep into our code and have a look at how code smells can help you improve your legacy code or even the code you write today.
 
 * 21:00 Uhr (09:00pm) - Community + Socializing
 
@@ -98,6 +96,23 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 <hr class="blockspace">
 
 ### Vergangene Events
+
+&nbsp;
+
+<a href="@baseUrl@/images/events/meetups/2017-08-24-fortuneglobe.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-08-24-fortuneglobe.jpg" alt="Meetup bei Fortuneglobe in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+
+#### [<i class="fa fa-meetup"></i> Meetup VI / 2017 am 24. August 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/)
+
+<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/E8Mftqa4iRG2) / <i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
+
+* **[ENUMS in PHP - An introduction](https://speakerdeck.com/tommymuehle/enums-an-introduction)**  
+  Von Tommy Mühle / <i class="fa fa-twitter"></i> [@tommy_muehle](https://twitter.com/tommy_muehle)
+    
+* **Der Content-Manager mag den Baum (PHPCR)**  
+  Von Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
+
+<hr class="blockspace">
 
 &nbsp;
 

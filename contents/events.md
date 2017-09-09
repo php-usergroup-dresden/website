@@ -70,6 +70,8 @@
   Do you know code smells? Do you think they are a bad thing? Actually they don’t have to be! 
   Code smells help you to recognize problems in your code. And the best thing about them is, that they help you refactor your code the right way. 
   In this talk we put our noses deep into our code and have a look at how code smells can help you improve your legacy code or even the code you write today.
+  
+  **[Talk auf joind.in bewerten!](https://joind.in/talk/7bf66)**
 
 * 21:00 Uhr (09:00pm) - Community + Socializing
 

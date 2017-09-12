@@ -61,7 +61,13 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Lightning Talk** - Noch nicht vergeben  
+* 19:30 Uhr (07:30pm) - **Paket-Schätzungen** (Lightning-Talk) - LOGSOL-Team
+  
+  Aufteilen eines Problems in Pakete, der Unsicherheitsfaktor, die 3-Punkt-Schätzung und eine Wahrscheinlichkeitsformel.
+  
+  **[Talk auf joind.in bewerten!](https://joind.in/talk/48824)**
+  
+* 19:50 Uhr (07:50pm) - **Lightning Talk** - Slot still open!      
 
 * 20:15 Uhr (08:15pm) - Break
 
@@ -70,7 +76,7 @@
   Do you know code smells? Do you think they are a bad thing? Actually they don’t have to be! 
   Code smells help you to recognize problems in your code. And the best thing about them is, that they help you refactor your code the right way. 
   In this talk we put our noses deep into our code and have a look at how code smells can help you improve your legacy code or even the code you write today.
-  
+
   **[Talk auf joind.in bewerten!](https://joind.in/talk/7bf66)**
 
 * 21:00 Uhr (09:00pm) - Community + Socializing

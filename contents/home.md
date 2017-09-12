@@ -49,7 +49,13 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Lightning Talk** - Noch nicht vergeben  
+* 19:30 Uhr (07:30pm) - **Paket-Schätzungen** (Lightning-Talk) - LOGSOL-Team
+  
+  Aufteilen eines Problems in Pakete, der Unsicherheitsfaktor, die 3-Punkt-Schätzung und eine Wahrscheinlichkeitsformel.
+  
+  **[Talk auf joind.in bewerten!](https://joind.in/talk/48824)**
+  
+* 19:50 Uhr (07:50pm) - **Lightning Talk** - Slot still open!      
 
 * 20:15 Uhr (08:15pm) - Break
 

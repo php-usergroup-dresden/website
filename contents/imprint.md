@@ -21,7 +21,7 @@ Holger Woltersdorf, Marcel Führer, Patrick Pächnatz 
 
 Telefon: 0049 (0) 351 89 679 200   
 E-Mail: orga<kbd>at</kbd>phpug-dresden<kbd>dot</kbd>org   
-Chat (Slack): https://slackinvite.me/to/phpugdd
+Chat (Slack): [phpugdd.slack.com](@slackteam_url@)
 
 ### Registereintrag
 

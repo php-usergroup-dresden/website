@@ -74,10 +74,10 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <i class="fa fa-map-marker"></i> [LOGSOL GmbH, Schandauer Straße 34, Dresden, 2. OG · Dresden](https://goo.gl/maps/L1ETNjZMFKH2)
 
-* **[Paket-Schätzungen]()**  
+* **[Paket-Schätzungen](@baseUrl@/downloads/meetups/2017-10-11_packet-schaetzung.pdf)**  
   Vom LOGSOL-Team
     
-* **[There’s a slight smell of wet dog in your code]()**  
+* **[There’s a slight smell of wet dog in your code](http://sebastian-feldmann.info/talks/2017/201711011-slight-smell-of-wet-dog.pdf)**  
   Von Sebastian Sebastian Feldmann / <i class="fa fa-twitter"></i> [@movetodevnull](https://twitter.com/movetodevnull)
 
 &nbsp;

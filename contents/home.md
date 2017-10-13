@@ -27,7 +27,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <p class="blockspace">
 		In Kürze werden wir unsere Impressionen des Tages veröffentlichen.
-		Bis dahin findet Ihr einen Zusammenfassung von <a href="https://twitter.com/settermjd"><b>@settermjd</b></a>
+		Bis dahin findet Ihr einen Zusammenfassung von <a href="https://twitter.com/settermjd"><b>@settermjd</b></a> hier:
 		<a href="https://www.matthewsetter.com/php-developer-day-2017/" title="" class="btn btn-lg btn-block">
 		Zur Zusammenfassung des PHP Developer Day 2017
 		</a>

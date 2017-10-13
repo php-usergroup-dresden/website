@@ -16,17 +16,18 @@
 	</div>
 </div>
 
-<p class="blockspace">
+<div class="blockspace">
 	<p>
 		In Kürze werden wir unsere Impressionen des Tages veröffentlichen.
 		Bis dahin findet Ihr einen Zusammenfassung von <a href="https://twitter.com/settermjd"><b>@settermjd</b></a>
+		hier:
 	</p>
 	<p>
-		<a href="https://www.matthewsetter.com/php-developer-day-2017/" title="" class="btn btn-lg btn-block btn-danger">
+		<a href="https://www.matthewsetter.com/php-developer-day-2017/" title="" class="btn btn-lg btn-block">
 		Zur Zusammenfassung des PHP Developer Day 2017
 		</a>
 	</p>
-</p>
+</div>
 
 <hr class="blockspace">
 

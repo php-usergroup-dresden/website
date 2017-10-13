@@ -7,16 +7,16 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-## JETZT DEIN TICKET SICHERN!
+## Wir sagen Danke!
 
 <div class="row">
 	<div class="col-xs-12 col-sm-6">
-		<h3>Der PHP Developer Day 2017<br>findet am 22. September statt!</h3>
-		<i class="fa fa-map-marker"></i> <a href="https://goo.gl/maps/UrUvrZjsaGn" target="_blank">Im Dresdner Volkshaus am Schützenplatz</a>
-        <ul>
-			<li>1 PHP-Tag in Dresden</li>
-			<li>7 TOP-Speaker</li>
-			<li>Viel Wissen, viel Community, viel Spaß!</li>
+		<h3>Für einen erfolgreichen PHP Developer Day 2017<br></h3>
+		<p>Der Dank gebührt allen Beteiligten und besonders </p>
+		<ul>
+			<li>Unseren Gästen</li>
+			<li>Den 7 TOP-Speakern</li>
+			<li>Unseren Sponsoren</li>
         </ul>
         <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD17"><b>#PHPDD17</b></a>
 	</div>
@@ -26,9 +26,11 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 </div>
 
 <p class="blockspace">
-	<a href="@baseUrl@/phpdd17.html" title="Zur Website des PHP Developer Day 2017" class="btn btn-lg btn-block btn-danger">
-		Zur Website des PHP Developer Day 2017
-	</a>
+		In Kürze werden wir unsere Impressionen des Tages veröffentlichen.
+		Bis dahin findet Ihr einen Zusammenfassung von <a href="https://twitter.com/settermjd"><b>@settermjd</b></a> hier:
+		<a href="https://www.matthewsetter.com/php-developer-day-2017/" title="" class="btn btn-lg btn-block">
+		Zur Zusammenfassung des PHP Developer Day 2017
+		</a>
 </p>
 
 <hr class="blockspace">
@@ -37,11 +39,11 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 &nbsp;
 
-<a href="https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/242818559" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+<a href="https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VII / 2017 am 11. Oktober 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/242818559)
+#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
 
-<i class="fa fa-map-marker"></i> [LOGSOL GmbH, Schandauer Straße 34, Dresden, 2. OG · Dresden](https://goo.gl/maps/L1ETNjZMFKH2)
+<i class="fa fa-map-marker"></i> [Host nocht offen](@baseUrl@/hosting.html)
 
 **Programm / Program**
 
@@ -49,25 +51,11 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Paket-Schätzungen** (Lightning-Talk) - LOGSOL-Team
-  
-  Aufteilen eines Problems in Pakete, der Unsicherheitsfaktor, die 3-Punkt-Schätzung und eine Wahrscheinlichkeitsformel.
-  
-  **[Talk auf joind.in bewerten!](https://joind.in/talk/48824)**
-  
+* 19:30 Uhr (07:30pm) - [**Noch Offen**](@baseUrl@/call-for-papers.html)
+
 * 19:50 Uhr (07:50pm) - **Lightning Talk** - Slot still open!      
 
-* 20:15 Uhr (08:15pm) - Break
-
-* 20:30 Uhr (08:30pm) - **There’s a slight smell of wet dog in your code** - Sebastian Feldmann / <i class="fa fa-twitter"></i> [@movetodevnull](https://twitter.com/movetodevnull)
-
-  Do you know code smells? Do you think they are a bad thing? Actually they don’t have to be! 
-  Code smells help you to recognize problems in your code. And the best thing about them is, that they help you refactor your code the right way. 
-  In this talk we put our noses deep into our code and have a look at how code smells can help you improve your legacy code or even the code you write today.
-
-  **[Talk auf joind.in bewerten!](https://joind.in/talk/7bf66)**
-
-* 21:00 Uhr (09:00pm) - Community + Socializing
+* 20:15 Uhr (09:00pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -79,7 +67,22 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Vergangene Events
 
+<a href="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" alt="Meetup bei LOGSOL in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+
+#### [<i class="fa fa-meetup"></i> Meetup VII / 2017 am 11. Oktober 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/)
+
+<i class="fa fa-map-marker"></i> [LOGSOL GmbH, Schandauer Straße 34, Dresden, 2. OG · Dresden](https://goo.gl/maps/L1ETNjZMFKH2)
+
+* **[Paket-Schätzungen](@baseUrl@/downloads/meetups/2017-10-11_packet-schaetzung.pdf)**  
+  Vom LOGSOL-Team
+    
+* **[There’s a slight smell of wet dog in your code](http://sebastian-feldmann.info/talks/2017/201711011-slight-smell-of-wet-dog.pdf)**  
+  Von Sebastian Sebastian Feldmann / <i class="fa fa-twitter"></i> [@movetodevnull](https://twitter.com/movetodevnull)
+
 &nbsp;
+
+<hr class="blockspace">
 
 <a href="@baseUrl@/images/events/meetups/2017-08-24-fortuneglobe.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-08-24-fortuneglobe.jpg" alt="Meetup bei Fortuneglobe in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
@@ -94,9 +97,9 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 * **Der Content-Manager mag den Baum (PHPCR)**  
   Von Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
 
-<hr class="blockspace">
-
 &nbsp;
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup V / 2017 am 17. Juli 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/240688349/)
 

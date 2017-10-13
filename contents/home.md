@@ -67,7 +67,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Vergangene Events
 
-<a href="@baseUrl@/images/events/meetups/2017-11-10-logsol.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+<a href="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" alt="Meetup bei LOGSOL in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
 #### [<i class="fa fa-meetup"></i> Meetup VII / 2017 am 11. Oktober 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/)

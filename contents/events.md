@@ -52,7 +52,7 @@
 	</div>
 </div>
 
-### <a name="next-event"></a>Nächstes Event
+### <a name="next-event"></a>Nächste Events
 
 &nbsp;
 
@@ -68,9 +68,47 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - [**Noch Offen**](@baseUrl@/call-for-papers.html)
+* 19:30 Uhr (07:30pm) - **API Platform**
+  
+  Das Frontend unabhängig vom Backend zu entwickeln wird immer mehr gängige Praxis. Ein einfacher Weg Daten zwischen beiden Systemen auszutauschen sind REST APIs. Leider kann schon die Erstellung einfacher CRUD APIs Zeitraubend sein. Gängige Probleme sind die Erstellung eines Objektes inkl. Relationen, die Validierung, Filterung von Listen und die Reduzierung von Properties die Angezeigt werden. Für All diese Standard Probleme bietet API Platform in Symfony Projekten Abhilfe.
+  
+  Im Vortrag soll diese Lösung vorgestellt werden, von der Installation zur Lösung oben genannten Probleme und weiterer benefits die helfen deutlich Zeit und Nerven zu sparen.
+  
+  By Frank Jogeleit (<i class="fa fa-twitter"></i> [@FrankJogeleit](https://twitter.com/FrankJogeleit))
+  
+  [Talk bewerten auf joind.in!](https://joind.in/talk/099e4)
 
-* 19:50 Uhr (07:50pm) - **Lightning Talk** - Slot still open!      
+* 19:50 Uhr (07:50pm) - **Lightning Talk** - [Slot still open!](@baseUrl@/call-for-papers.html)      
+
+* 20:15 Uhr (09:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
+&nbsp;
+
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/" target="_blank" class="btn btn-success btn-lg pull-right">RSVP</a>
+
+#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
+
+<i class="fa fa-map-marker"></i> [Host nocht offen](@baseUrl@/hosting.html)
+
+**Programm / Program**
+
+* 18:30 Uhr (06:30pm) - Doors Open
+
+* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
+
+* 19:30 Uhr (07:30pm) - **Symfony Flex in Action**
+  
+  Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.
+  
+  By Christian Flothmann (<i class="fa fa-twitter"></i> [@xabbuh](https://twitter.com/xabbuh)) - Developer at SensioLabs and Symfony Documentation and Core Team member and
+  
+  Christopher Hertel (<i class="fa fa-twitter"></i> [@el_stoffel](https://twitter.com/el_stoffel)) - Developer at SensioLabs and Organizer Symfony User Group Berlin
+
+  [Talk bewerten auf joind.in!](https://joind.in/talk/fce28)
+
+* 19:50 Uhr (07:50pm) - **X-Mas Special**
 
 * 20:15 Uhr (09:00pm) - Community + Socializing
 

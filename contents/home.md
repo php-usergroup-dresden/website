@@ -15,8 +15,10 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
 
-<i class="fa fa-map-marker"></i> [Host noch offen](@baseUrl@/hosting.html)
+<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden, 3. OG](https://goo.gl/maps/NWiBnD7oAto)  
+<i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
 
+<span class="pull-right"><img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" style="max-width: 150px;"></span>
 **Programm / Program**
 
 * 18:30 Uhr (06:30pm) - Doors Open
@@ -47,8 +49,10 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
 
-<i class="fa fa-map-marker"></i> [Host noch offen](@baseUrl@/hosting.html)
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/AnAgn5ETcP32)  
+<i class="fa fa-twitter"></i> [@moveelevator](https://twitter.com/moveelevator)
 
+<span class="pull-right"><img src="@baseUrl@/images/sponsors/moveelevator.png" style="max-width: 150px;"></span>
 **Programm / Program**
 
 * 18:30 Uhr (06:30pm) - Doors Open

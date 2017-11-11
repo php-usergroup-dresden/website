@@ -60,7 +60,7 @@
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
 
-<i class="fa fa-map-marker"></i> [Host nocht offen](@baseUrl@/hosting.html)
+<i class="fa fa-map-marker"></i> [Host noch offen](@baseUrl@/hosting.html)
 
 **Programm / Program**
 
@@ -78,9 +78,11 @@
   
   [Talk bewerten auf joind.in!](https://joind.in/talk/099e4)
 
-* 19:50 Uhr (07:50pm) - **Lightning Talk** - [Slot still open!](@baseUrl@/call-for-papers.html)      
+* 20:15 Uhr (08:15pm) - Short break
 
-* 20:15 Uhr (09:00pm) - Community + Socializing
+* 20:25 Uhr (08:25pm) - **Lightning Talk** - [Slot still open!](@baseUrl@/call-for-papers.html)      
+
+* 20:45 Uhr (09:00pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -90,7 +92,7 @@
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
 
-<i class="fa fa-map-marker"></i> [Host nocht offen](@baseUrl@/hosting.html)
+<i class="fa fa-map-marker"></i> [Host noch offen](@baseUrl@/hosting.html)
 
 **Programm / Program**
 
@@ -105,12 +107,14 @@
   By Christian Flothmann (<i class="fa fa-twitter"></i> [@xabbuh](https://twitter.com/xabbuh)) - Developer at SensioLabs and Symfony Documentation and Core Team member and
   
   Christopher Hertel (<i class="fa fa-twitter"></i> [@el_stoffel](https://twitter.com/el_stoffel)) - Developer at SensioLabs and Organizer Symfony User Group Berlin
-
+  
   [Talk bewerten auf joind.in!](https://joind.in/talk/fce28)
 
-* 19:50 Uhr (07:50pm) - **X-Mas Special**
+* 20:15 Uhr (08:15pm) - Short break
 
-* 20:15 Uhr (09:00pm) - Community + Socializing
+* 20:25 Uhr (08:25pm) - **X-Mas Special**
+
+* 21:00 Uhr (09:00pm) - Community + Socializing
 
 <hr class="blockspace">
 

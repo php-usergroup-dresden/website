@@ -92,7 +92,7 @@
 
 <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/" target="_blank" class="btn btn-success btn-lg pull-right">RSVP</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
+#### [<i class="fa fa-meetup"></i> Meetup IX / 2017 am 19. Dezember 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
 
 <i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/AnAgn5ETcP32)  
 <i class="fa fa-twitter"></i> [@moveelevator](https://twitter.com/moveelevator)

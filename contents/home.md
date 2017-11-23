@@ -307,8 +307,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
     </div>
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
-			<a href="https://www.bike24.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/bike24.jpg" alt="Bike 24 GmbH" class="img-responsive">
+			<a href="https://inside.lovoo.com" target="_blank">
+				<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
 			</a>
 		</div>
     </div>

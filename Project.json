@@ -50,6 +50,7 @@
 				"/sponsoring.html",
 				"/presse.html",
 				"/newsletter-archive.html",
+				"/downloads.html",
 				"/statutes.html",
 				"/imprint.html",
 				"/privacy.html",
@@ -288,6 +289,27 @@
 			"renderer": "twig",
 			"template": "templates/page.twig",
 			"contentFile": "newsletter-archive.md",
+			"children": []
+		},
+		"/downloads.html": {
+			"pageLevel": 2,
+			"navName": "Downloads / Formulare",
+			"pageTitle": "Downloads / Formulare",
+			"description": "Downloads / Formulare des PHP USERGROUP DRESDEN e.V.",
+			"language": "de",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Downloads",
+				"Formulare",
+				"PDF",
+				"Satzung",
+				"Änderung",
+				"Stammdaten"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "downloads.md",
 			"children": []
 		},
 		"/statutes.html": {

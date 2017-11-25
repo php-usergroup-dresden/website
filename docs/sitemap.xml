@@ -92,6 +92,13 @@
     </image:image>
   </url>
   <url>
+    <loc>http://phpug-dresden.org/downloads.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Downloads / Formulare</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>http://phpug-dresden.org/statutes.html</loc>
     <image:image>
       <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>

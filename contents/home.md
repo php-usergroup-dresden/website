@@ -7,45 +7,9 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-### Nächste Events
+### Nächstes Event
 
-&nbsp;
-
-<a href="https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
-
-#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
-
-<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden, 3. OG](https://goo.gl/maps/NWiBnD7oAto)  
-<i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
-
-<span class="pull-right"><img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" style="max-width: 150px;"></span>
-**Programm / Program**
-
-* 18:30 Uhr (06:30pm) - Doors Open
-
-* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
-
-* 19:30 Uhr (07:30pm) - **API Platform**
-  
-  Das Frontend unabhängig vom Backend zu entwickeln wird immer mehr gängige Praxis. Ein einfacher Weg Daten zwischen beiden Systemen auszutauschen sind REST APIs. Leider kann schon die Erstellung einfacher CRUD APIs Zeitraubend sein. Gängige Probleme sind die Erstellung eines Objektes inkl. Relationen, die Validierung, Filterung von Listen und die Reduzierung von Properties die Angezeigt werden. Für All diese Standard Probleme bietet API Platform in Symfony Projekten Abhilfe.
-  
-  Im Vortrag soll diese Lösung vorgestellt werden, von der Installation zur Lösung oben genannten Probleme und weiterer benefits die helfen deutlich Zeit und Nerven zu sparen.
-  
-  By Frank Jogeleit (<i class="fa fa-twitter"></i> [@FrankJogeleit](https://twitter.com/FrankJogeleit))
-  
-  [Talk bewerten auf joind.in!](https://joind.in/talk/099e4)
-
-* 20:15 Uhr (08:15pm) - Short break
-
-* 20:25 Uhr (08:25pm) - **Lightning Talk** - [Slot still open!](@baseUrl@/call-for-papers.html)      
-
-* 20:45 Uhr (08:45pm) - Community + Socializing
-
-<hr class="blockspace">
-
-&nbsp;
-
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/" target="_blank" class="btn btn-success btn-lg pull-right">RSVP</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
 #### [<i class="fa fa-meetup"></i> Meetup IX / 2017 am 19. Dezember 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
 
@@ -112,6 +76,29 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <hr class="blockspace">
 
 ### Vergangene Events
+
+<a href="@baseUrl@/images/events/meetups/2017-11-23-api-platform.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-11-23-api-platform.jpg" alt="Meetup bei FORTUNEGLOBE in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+	
+#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
+
+<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden, 3. OG](https://goo.gl/maps/NWiBnD7oAto)  
+<i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
+
+**API Platform**
+
+Das Frontend unabhängig vom Backend zu entwickeln wird immer mehr gängige Praxis. Ein einfacher Weg Daten zwischen beiden Systemen auszutauschen sind REST APIs. Leider kann schon die Erstellung einfacher CRUD APIs Zeitraubend sein. Gängige Probleme sind die Erstellung eines Objektes inkl. Relationen, die Validierung, Filterung von Listen und die Reduzierung von Properties die Angezeigt werden. Für All diese Standard Probleme bietet API Platform in Symfony Projekten Abhilfe.
+	  
+Im Vortrag soll diese Lösung vorgestellt werden, von der Installation zur Lösung oben genannten Probleme und weiterer benefits die helfen deutlich Zeit und Nerven zu sparen.
+  
+By Frank Jogeleit (<i class="fa fa-twitter"></i> [@FrankJogeleit](https://twitter.com/FrankJogeleit))
+  
+* [Talk bewerten auf joind.in!](https://joind.in/talk/099e4)
+* [Slides auf speakerdeck.com](https://speakerdeck.com/moveelevator/api-platform)
+
+<hr class="blockspace">
+
+&nbsp;
 
 <a href="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" alt="Meetup bei LOGSOL in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>

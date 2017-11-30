@@ -70,7 +70,7 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Symfony Flex in Action**
+* 19:30 Uhr (07:30pm) - **Symfony Flex in Action** (Main talk)
   
   Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.
   
@@ -82,7 +82,13 @@
 
 * 20:15 Uhr (08:15pm) - Short break
 
-* 20:25 Uhr (08:25pm) - **X-Mas Special**
+* 20:25 Uhr (08:25pm) - **What's new in PHP 7.2** (Lightning talk)
+
+  PHP 7.2 was released on November 30th 2017. This talk will give you a short intro to the changes in the new release.
+  
+  By Holger Woltersdorf (<i class="fa fa-twitter"></i> [@hollodotme](https://twitter.com/hollodotme))
+
+* 20:45 Uhr (08:45pm) - **X-Mas Special**
 
 * 21:00 Uhr (09:00pm) - Community + Socializing
 

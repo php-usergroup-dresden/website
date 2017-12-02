@@ -16,4 +16,4 @@ Please read our **[contribution guide](.github/CONTRIBUTING.md)** to learn more 
 
 We're always looking for (lightning) talks for our meetups.
  
-**[Please propose your talk idea by adding an issue here.](https://github.com/php-usergroup-dresden/slides/issues)**
+**[Please propose your talk idea here.](https://github.com/php-usergroup-dresden/talks)**

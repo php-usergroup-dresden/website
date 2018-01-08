@@ -97,6 +97,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Vergangene Events
 
+&nbsp;
+
 <a href="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
@@ -107,39 +109,30 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 **Programm / Program**
 
-* 18:30 Uhr (06:30pm) - Doors Open
-
-* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
-
-* 19:30 Uhr (07:30pm) - **Symfony Flex in Action** (Main talk)
+**Symfony Flex in Action** (Main talk)
   
-  Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.
+Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.
   
-  By Christian Flothmann (<i class="fa fa-twitter"></i> [@xabbuh](https://twitter.com/xabbuh)) - Developer at SensioLabs and Symfony Documentation and Core Team member and
+By Christian Flothmann (<i class="fa fa-twitter"></i> [@xabbuh](https://twitter.com/xabbuh)) - Developer at SensioLabs and Symfony Documentation and Core Team member and
   
-  Christopher Hertel (<i class="fa fa-twitter"></i> [@el_stoffel](https://twitter.com/el_stoffel)) - Developer at SensioLabs and Organizer Symfony User Group Berlin
+Christopher Hertel (<i class="fa fa-twitter"></i> [@el_stoffel](https://twitter.com/el_stoffel)) - Developer at SensioLabs and Organizer Symfony User Group Berlin
   
-  * [Slides auf Speakerdeck ansehen](https://speakerdeck.com/el_stoffel/symfony-flex-in-action)  
-  * Checkout the code: https://github.com/sensiolabs-de/flex-mailer  
-  * Checkout the code: https://github.com/sensiolabs-de/flex-importer  
-  * Checkout the code: https://github.com/sensiolabs-de/flex-meetup  
+* [Slides auf Speakerdeck ansehen](https://speakerdeck.com/el_stoffel/symfony-flex-in-action)  
+* Checkout the code: https://github.com/sensiolabs-de/flex-mailer  
+* Checkout the code: https://github.com/sensiolabs-de/flex-importer  
+* Checkout the code: https://github.com/sensiolabs-de/flex-meetup  
 
 <a href="@baseUrl@/images/events/meetups/2017-12-19-location.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-12-19-location.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-* 20:15 Uhr (08:15pm) - Short break
 
-* 20:25 Uhr (08:25pm) - **What's new in PHP 7.2** (Lightning talk)
+**What's new in PHP 7.2** (Lightning talk)
 
-  PHP 7.2 was released on November 30th 2017. This talk will give you a short intro to the changes in the new release.
+PHP 7.2 was released on November 30th 2017. This talk will give you a short intro to the changes in the new release.
   
-  By Holger Woltersdorf (<i class="fa fa-twitter"></i> [@hollodotme](https://twitter.com/hollodotme))
+By Holger Woltersdorf (<i class="fa fa-twitter"></i> [@hollodotme](https://twitter.com/hollodotme))
   
-  * [Slides auf Speakerdeck ansehen](https://speakerdeck.com/hollodotme/whats-new-in-php-7-dot-2)
-  * Checkout the code: https://github.com/hollodotme/talk-preps/tree/master/whats-new-in-php72<br><br>
-
-* 20:45 Uhr (08:45pm) - **X-Mas Special**
-
-* 21:00 Uhr (09:00pm) - Community + Socializing
+* [Slides auf Speakerdeck ansehen](https://speakerdeck.com/hollodotme/whats-new-in-php-7-dot-2)
+* Checkout the code: https://github.com/hollodotme/talk-preps/tree/master/whats-new-in-php72<br><br>
 
 &nbsp;
 

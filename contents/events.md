@@ -65,7 +65,8 @@
 
 #### [<i class="fa fa-meetup"></i> Meetup I - CQRS & Event Sourcing / 2018 am 23. Januar 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/)
 
-<i class="fa fa-map-marker"></i> Braucht noch eine Location / Needs a location
+<i class="fa fa-map-marker"></i> [cloudsters Dresden, Bautzner Str. 22, 01099 Dresden](https://goo.gl/4zvHBL)  
+<i class="fa fa-twitter"></i> [@cloudstersDD](https://twitter.com/cloudstersdd)
 
 **Programm / Program**
 

@@ -22,132 +22,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://phpug-dresden.org/phpdd17.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Einleitung</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/speaker.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Die Speaker</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/programm.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Das Programm</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/tickets-kaufen.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Tickets kaufen</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/ort-und-anreise.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Ort und Anreise</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/verpflegung.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Verpflegung</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/sponsor-werden.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Sponsor werden</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/verhaltenskodex.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Verhaltenskodex</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/phpdd17/media.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Media</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Intro</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/speakers.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>The speakers</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/schedule.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>The schedule</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/buy-tickets.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Buy tickets</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/location-and-arrival.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Location / Arrival</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/catering.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Catering</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/become-sponsor.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Become sponsor</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/code-of-conduct.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Code of Conduct</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://phpug-dresden.org/en/phpdd17/media.html</loc>
-    <image:image>
-      <image:loc>http://phpug-dresden.org/images/events/phpdd17/phpdd17-logo-440x220.png</image:loc>
-      <image:caption>Media</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>http://phpug-dresden.org/events.html</loc>
     <image:image>
       <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
@@ -215,6 +89,13 @@
     <image:image>
       <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
       <image:caption>Newsletter Archiv</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://phpug-dresden.org/downloads.html</loc>
+    <image:image>
+      <image:loc>http://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Downloads / Formulare</image:caption>
     </image:image>
   </url>
   <url>

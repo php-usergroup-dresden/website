@@ -7,6 +7,60 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+### Nächstes Event
+
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+
+#### [<i class="fa fa-meetup"></i> Meetup I - CQRS & Event Sourcing / 2018 am 23. Januar 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/)
+
+<i class="fa fa-map-marker"></i> Braucht noch eine Location / Needs a location
+
+**Programm / Program**
+
+* 18:30 Uhr (06:30pm) - Doors Open
+
+* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
+
+* 19:30 Uhr (07:30pm) - **TOTAL RECALL - The application that never forgets** (Main talk)
+  
+  Building an application upon CQRS and Event Sourcing offers three pretty nice benefits.
+  
+  1. Well structured code and business logic, separated by read and write concerns.
+  2. The source of truth - A reliable and recoverable view into the past of your application state.
+  3. The opportunity to answer future questions that you don't know about today.  
+  
+  <br>This talk will give you a basic overview about CQRS & Event Sourcing.
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at Fortuneglobe GmbH
+
+* 20:15 Uhr (08:15pm) - Short break
+
+* 20:30 Uhr (08:30pm) - **prooph event store in action** (Main talk)
+
+  Domain Events als "single source of truth" nutzen, das ist eine der Kernideen von Event Sourcing. 
+  Die Grundlage dafür bildet ein Event Store. 
+  Mit dem prooph/event-store können PHP Entwickler ihre MySql, MariaDB oder Postgres Datenbank in einen Event Store 
+  verwandeln und erhalten Zugriff auf professionelle Tools zur Arbeit mit Domain Events. Der Talk gibt einen Überblick 
+  über die Funktionsweisen des prooph/event-store und zeigt welche Vorteile sich daraus für die Software ergeben.
+  
+  By Alexander Miertsch ([<i class="fa fa-twitter"></i> @prooph_software](https://twitter.com/prooph_software))
+  
+  Alexander Miertsch entwickelt seit 10 Jahren Anwendungen mit PHP und JavaScript. 
+  Er ist Gründer und CEO der prooph software GmbH und unterstützt zusammen mit seinem Team Kunden in der Entwicklung 
+  von Geschäftsanwendungen, die Domain-Driven Design und verteilte Architekturen erfordern. 
+  Alexander teilt sein Wissen gerne auch in der Open Source Community und ist seit 5 Jahren einer der Core Contributor 
+  der prooph components - einer CQRS und Event Sourcing Toolbox für PHP Anwendungen.
+
+* 21:15 Uhr (09:15pm) - Community + Socializing
+
+<hr class="blockspace">
+
+<div class="text-center">
+	<a href="@baseUrl@/events.html" title="Alle Events" class="btn btn-default">
+		<b>Alle Events &amp; Kalender ansehen</b>
+	</a>
+</div>
+
 ## Wir sagen Danke!
 
 <div class="row">
@@ -33,39 +87,79 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 		</a>
 </p>
 
+<p class="blockspace text-center">
+	<a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3LUMTvEpbukB0K-Qje0FXgZ" target="_blank" class="btn btn-lg btn-danger">
+		<i class="fa fa-youtube"></i> Jetzt die #PHPDD17 Talk-Videos ansehen!
+	</a>
+</p>
+
 <hr class="blockspace">
 
-### Nächstes Event
+### Vergangene Events
 
 &nbsp;
 
-<a href="https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435" target="_blank" class="btn btn-success btn-lg pull-right">Jetzt anmelden!</a>
+<a href="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
+#### [<i class="fa fa-meetup"></i> Meetup IX / 2017 am 19. Dezember 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
 
-<i class="fa fa-map-marker"></i> [Host nocht offen](@baseUrl@/hosting.html)
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/AnAgn5ETcP32)  
+<i class="fa fa-twitter"></i> [@moveelevator](https://twitter.com/moveelevator)
 
 **Programm / Program**
 
-* 18:30 Uhr (06:30pm) - Doors Open
+**Symfony Flex in Action** (Main talk)
+  
+Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.
+  
+By Christian Flothmann (<i class="fa fa-twitter"></i> [@xabbuh](https://twitter.com/xabbuh)) - Developer at SensioLabs and Symfony Documentation and Core Team member and
+  
+Christopher Hertel (<i class="fa fa-twitter"></i> [@el_stoffel](https://twitter.com/el_stoffel)) - Developer at SensioLabs and Organizer Symfony User Group Berlin
+  
+* [Slides auf Speakerdeck ansehen](https://speakerdeck.com/el_stoffel/symfony-flex-in-action)  
+* Checkout the code: https://github.com/sensiolabs-de/flex-mailer  
+* Checkout the code: https://github.com/sensiolabs-de/flex-importer  
+* Checkout the code: https://github.com/sensiolabs-de/flex-meetup  
 
-* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
+<a href="@baseUrl@/images/events/meetups/2017-12-19-location.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-12-19-location.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
 
-* 19:30 Uhr (07:30pm) - [**Noch Offen**](@baseUrl@/call-for-papers.html)
+**What's new in PHP 7.2** (Lightning talk)
 
-* 19:50 Uhr (07:50pm) - **Lightning Talk** - Slot still open!      
+PHP 7.2 was released on November 30th 2017. This talk will give you a short intro to the changes in the new release.
+  
+By Holger Woltersdorf (<i class="fa fa-twitter"></i> [@hollodotme](https://twitter.com/hollodotme))
+  
+* [Slides auf Speakerdeck ansehen](https://speakerdeck.com/hollodotme/whats-new-in-php-7-dot-2)
+* Checkout the code: https://github.com/hollodotme/talk-preps/tree/master/whats-new-in-php72<br><br>
 
-* 20:15 Uhr (09:00pm) - Community + Socializing
+&nbsp;
 
 <hr class="blockspace">
 
-<div class="text-center">
-	<a href="@baseUrl@/events.html" title="Alle Events" class="btn btn-default">
-		<b>Alle Events &amp; Kalender ansehen</b>
-	</a>
-</div>
+<a href="@baseUrl@/images/events/meetups/2017-11-23-api-platform.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
+	<img src="@baseUrl@/images/events/meetups/2017-11-23-api-platform.jpg" alt="Meetup bei FORTUNEGLOBE in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
+	
+#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
 
-### Vergangene Events
+<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden, 3. OG](https://goo.gl/maps/NWiBnD7oAto)  
+<i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
+
+**API Platform**
+
+Das Frontend unabhängig vom Backend zu entwickeln wird immer mehr gängige Praxis. Ein einfacher Weg Daten zwischen beiden Systemen auszutauschen sind REST APIs. Leider kann schon die Erstellung einfacher CRUD APIs Zeitraubend sein. Gängige Probleme sind die Erstellung eines Objektes inkl. Relationen, die Validierung, Filterung von Listen und die Reduzierung von Properties die Angezeigt werden. Für All diese Standard Probleme bietet API Platform in Symfony Projekten Abhilfe.
+	  
+Im Vortrag soll diese Lösung vorgestellt werden, von der Installation zur Lösung oben genannten Probleme und weiterer benefits die helfen deutlich Zeit und Nerven zu sparen.
+  
+By Frank Jogeleit (<i class="fa fa-twitter"></i> [@FrankJogeleit](https://twitter.com/FrankJogeleit))
+  
+* [Talk bewerten auf joind.in!](https://joind.in/talk/099e4)
+* [Slides auf speakerdeck.com](https://speakerdeck.com/moveelevator/api-platform)
+
+<hr class="blockspace">
+
+&nbsp;
 
 <a href="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-10-11-logsol.jpg" alt="Meetup bei LOGSOL in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
@@ -79,23 +173,6 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
     
 * **[There’s a slight smell of wet dog in your code](http://sebastian-feldmann.info/talks/2017/201711011-slight-smell-of-wet-dog.pdf)**  
   Von Sebastian Sebastian Feldmann / <i class="fa fa-twitter"></i> [@movetodevnull](https://twitter.com/movetodevnull)
-
-&nbsp;
-
-<hr class="blockspace">
-
-<a href="@baseUrl@/images/events/meetups/2017-08-24-fortuneglobe.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-08-24-fortuneglobe.jpg" alt="Meetup bei Fortuneglobe in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-
-#### [<i class="fa fa-meetup"></i> Meetup VI / 2017 am 24. August 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/)
-
-<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/E8Mftqa4iRG2) / <i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
-
-* **[ENUMS in PHP - An introduction](https://speakerdeck.com/tommymuehle/enums-an-introduction)**  
-  Von Tommy Mühle / <i class="fa fa-twitter"></i> [@tommy_muehle](https://twitter.com/tommy_muehle)
-    
-* **Der Content-Manager mag den Baum (PHPCR)**  
-  Von Maximilian Berghoff / <i class="fa fa-twitter"></i> [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
 
 &nbsp;
 
@@ -261,8 +338,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
     </div>
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
-			<a href="https://www.bike24.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/bike24.jpg" alt="Bike 24 GmbH" class="img-responsive">
+			<a href="https://inside.lovoo.com" target="_blank">
+				<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
 			</a>
 		</div>
     </div>

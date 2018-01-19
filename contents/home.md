@@ -7,6 +7,22 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+		<img src="@baseUrl@/images/events/phpdd18/phpdd18-logo.svg" alt="PHP Developer Days 2018" style="margin: 15px 0;">
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+		<h3 class="text-danger">CALL FOR PAPERS NOW OPEN!</h3>
+		<p>Submissions are accepted until April 30th 2018</p>
+		<p>
+			<a href="https://cfp.phpdd.org" target="_blank" title="PHP Developer Days 2018 Call for Papers"
+			   class="btn btn-large btn-danger">SUBMIT YOUR IDEAS!</a>
+		</p>
+	</div>
+</div>
+
+<hr class="blockspace">
+
 ### Nächstes Event
 
 <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>

@@ -1,44 +1,24 @@
-# Wir sagen Danke!
+## Events
+
+<hr class="blockspace">
 
 <div class="row">
-	<div class="col-xs-12 col-sm-6">
-		<h3>Für einen erfolgreichen PHP Developer Day 2017<br></h3>
-		<p>Der Dank gebührt allen Beteiligten und besonders </p>
-		<ul>
-			<li>Unseren Gästen</li>
-			<li>Den 7 TOP-Speakern</li>
-			<li>Unseren Sponsoren</li>
-        </ul>
-        <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD17"><b>#PHPDD17</b></a>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+		<img src="@baseUrl@/images/events/phpdd18/phpdd18-logo.svg" alt="PHP Developer Days 2018" style="margin: 15px 0;">
 	</div>
-	<div class="col-xs-12 col-sm-6">
-		<img src="@baseUrl@/images/events/phpdd17/phpdd17-logo.png" alt="PHP Developer Day 2017: 22. September" class="img-responsive"/>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+		<h3 class="text-danger">CALL FOR PAPERS NOW OPEN!</h3>
+		<p>Submissions are accepted until April 30th 2018</p>
+		<p>
+			<a href="https://cfp.phpdd.org" target="_blank" title="PHP Developer Days 2018 Call for Papers"
+			   class="btn btn-large btn-danger">SUBMIT YOUR IDEAS!</a>
+		</p>
 	</div>
-</div>
-
-<div class="blockspace">
-	<p>
-		In Kürze werden wir unsere Impressionen des Tages veröffentlichen.
-		Bis dahin findet Ihr einen Zusammenfassung von <a href="https://twitter.com/settermjd"><b>@settermjd</b></a>
-		hier:
-	</p>
-	<p>
-		<a href="https://www.matthewsetter.com/php-developer-day-2017/" title="" class="btn btn-lg btn-block">
-		Zur Zusammenfassung des PHP Developer Day 2017
-		</a>
-	</p>
-	<p class="blockspace text-center">
-    	<a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3LUMTvEpbukB0K-Qje0FXgZ" target="_blank" class="btn btn-lg btn-danger">
-    		<i class="fa fa-youtube"></i> Jetzt die #PHPDD17 Talk-Videos ansehen!
-    	</a>
-    </p>
 </div>
 
 <hr class="blockspace">
 
-## Events
-
-### Save the dates
+## Save the dates
 
 <div class="row blockspace">
 	<div class="col-xs-12 col-sm-9 col-md-10 col-lg-10">

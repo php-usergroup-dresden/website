@@ -41,12 +41,12 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup I - CQRS & Event Sourcing / 2018 am 23. Januar 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/)
+#### [<i class="fa fa-meetup"></i> Meetup II - DevOps & Automation / 2018 am 07. März 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/)
 
-<i class="fa fa-map-marker"></i> [cloudsters Dresden, Bautzner Str. 22, 01099 Dresden](https://goo.gl/4zvHBL)  
-<i class="fa fa-twitter"></i> [@cloudstersDD](https://twitter.com/cloudstersdd)
+<i class="fa fa-map-marker"></i> [ITEXIA GmbH, Könneritzstr. 5, 01067 Dresden (1. OG - "Konferenzraum")](https://goo.gl/maps/oUv9Umv58182)  
+<i class="fa fa-twitter"></i> [@itexiagmbh](https://twitter.com/itexiagmbh)
 
 **Programm / Program**
 
@@ -54,37 +54,31 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **TOTAL RECALL - The application that never forgets** (Main talk)
+* 19:30 Uhr (07:30pm) - **Automate all the things** (Main talk)
   
-  Building an application upon CQRS and Event Sourcing offers three pretty nice benefits.
+  As your company is growing it is important to have an environment that scales. So spinning up dev environments, 
+  updating test systems, ensuring your code quality, running all your tests and releasing your software continuously 
+  won’t distract you from developing great applications. I will show you how to automate repetitive tasks and how to 
+  combine great automation tools like Jenkins, Ant and Ansible and make use of some handy PHP libraries, so you can 
+  focus on the things that matter: Writing great software.
   
-  1. Well structured code and business logic, separated by read and write concerns.
-  2. The source of truth - A reliable and recoverable view into the past of your application state.
-  3. The opportunity to answer future questions that you don't know about today.  
+  <img src="@baseUrl@/images/sponsors/itexia.png" alt="ITEXIA GmbH" class="pull-right img-responsive" style="max-width:150px;">
   
-  <br>This talk will give you a basic overview about CQRS & Event Sourcing.
-  
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at Fortuneglobe GmbH
+  By Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
 
 * 20:15 Uhr (08:15pm) - Short break
 
-* 20:30 Uhr (08:30pm) - **prooph event store in action** (Main talk)
+* 20:30 Uhr (08:30pm) - **Automation with Ansible** (Lightning talk)
 
-  Domain Events als "single source of truth" nutzen, das ist eine der Kernideen von Event Sourcing. 
-  Die Grundlage dafür bildet ein Event Store. 
-  Mit dem prooph/event-store können PHP Entwickler ihre MySql, MariaDB oder Postgres Datenbank in einen Event Store 
-  verwandeln und erhalten Zugriff auf professionelle Tools zur Arbeit mit Domain Events. Der Talk gibt einen Überblick 
-  über die Funktionsweisen des prooph/event-store und zeigt welche Vorteile sich daraus für die Software ergeben.
+  Automatisierung? ANSIBLE - Einfach. Sicher. Zuverlässig.
   
-  By Alexander Miertsch ([<i class="fa fa-twitter"></i> @prooph_software](https://twitter.com/prooph_software))
+  Ansible ist ein Open-Source Werkzeug zur Automatisierung von Deployment-, Konfigurations- und Administrationsprozessen. 
+  Die Beschreibung der Aufgaben basiert auf YAML und Jinja Templates. Es lässt sich zudem in Verbindung mit 
+  Vagrant und Docker nutzen.
   
-  Alexander Miertsch entwickelt seit 10 Jahren Anwendungen mit PHP und JavaScript. 
-  Er ist Gründer und CEO der prooph software GmbH und unterstützt zusammen mit seinem Team Kunden in der Entwicklung 
-  von Geschäftsanwendungen, die Domain-Driven Design und verteilte Architekturen erfordern. 
-  Alexander teilt sein Wissen gerne auch in der Open Source Community und ist seit 5 Jahren einer der Core Contributor 
-  der prooph components - einer CQRS und Event Sourcing Toolbox für PHP Anwendungen.
+  By Susann Sgorzaly
 
-* 21:15 Uhr (09:15pm) - Community + Socializing
+* 21:00 Uhr (09:00pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -111,6 +105,49 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup I - CQRS & Event Sourcing / 2018 am 23. Januar 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/)
+
+<i class="fa fa-map-marker"></i> [cloudsters Dresden, Bautzner Str. 22, 01099 Dresden](https://goo.gl/4zvHBL)  
+<i class="fa fa-twitter"></i> [@cloudstersDD](https://twitter.com/cloudstersdd)
+
+**Programm / Program**
+
+<a href="@baseUrl@/images/events/meetups/2018-01-23-full-house.jpg" target="_blank">
+	<img src="@baseUrl@/images/events/meetups/2018-01-23-full-house.jpg" class="pull-right img-responsive" style="max-width: 230px; margin-left: 10px;">
+</a>
+
+**TOTAL RECALL - The application that never forgets** (Main talk)
+  
+Building an application upon CQRS and Event Sourcing offers three pretty nice benefits.
+  
+1. Well structured code and business logic, separated by read and write concerns.
+2. The source of truth - A reliable and recoverable view into the past of your application state.
+3. The opportunity to answer future questions that you don't know about today.  
+  
+<br>This talk will give you a basic overview about CQRS & Event Sourcing.
+  
+By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at Fortuneglobe GmbH
+
+* [Slides on SpeakerDeck](https://speakerdeck.com/hollodotme/total-recall-the-application-that-never-forgets-1)
+
+<a href="@baseUrl@/images/events/meetups/2018-01-23-prooph.jpg" target="_blank">
+	<img src="@baseUrl@/images/events/meetups/2018-01-23-prooph.jpg" class="pull-right img-responsive" style="max-width: 230px; margin-left: 10px;">
+</a>
+
+**prooph event store in action** (Main talk)
+
+Domain Events als "single source of truth" nutzen, das ist eine der Kernideen von Event Sourcing. 
+Die Grundlage dafür bildet ein Event Store. 
+Mit dem prooph/event-store können PHP Entwickler ihre MySql, MariaDB oder Postgres Datenbank in einen Event Store 
+verwandeln und erhalten Zugriff auf professionelle Tools zur Arbeit mit Domain Events. Der Talk gibt einen Überblick 
+über die Funktionsweisen des prooph/event-store und zeigt welche Vorteile sich daraus für die Software ergeben.
+
+By Alexander Miertsch ([<i class="fa fa-twitter"></i> @prooph_software](https://twitter.com/prooph_software))
+
+&nbsp;
+
+<hr class="blockspace">
 
 <a href="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
 	<img src="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>

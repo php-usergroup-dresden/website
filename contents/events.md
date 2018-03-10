@@ -15,6 +15,12 @@
 		</p>
 	</div>
 </div>
+<p class="text-muted text-center text-uppercase blockspace">
+    21. und 22. September 2018 &middot; Internationales Congress Center Dresden 
+</p>
+<p class="text-center">
+    <a href="https://2018.phpdd.org" alt=PHP Developer Days 2018" target="_blank" class="text-danger text-uppercase">Zur Event Seite / Go to event website</a>
+</p>
 
 <hr class="blockspace">
 
@@ -41,12 +47,14 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup II - DevOps & Automation / 2018 am 07. März 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/)
+#### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
 
-<i class="fa fa-map-marker"></i> [ITEXIA GmbH, Könneritzstr. 5, 01067 Dresden (1. OG - "Konferenzraum")](https://goo.gl/maps/oUv9Umv58182)  
-<i class="fa fa-twitter"></i> [@itexiagmbh](https://twitter.com/itexiagmbh)
+<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01069 Dresden](https://goo.gl/maps/eQa6SSncdzm)  
+<i class="fa fa-twitter"></i> [@LOVOOeng](https://twitter.com/LOVOOeng)
+
+<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO GmbH" class="pull-right img-responsive" style="max-width:150px;">
 
 **Programm / Program**
 
@@ -54,29 +62,16 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Automate all the things** (Main talk)
+* 19:30 Uhr (07:30pm) - **Testing mit Codeception: Full-stack PHP testing framework** (Main talk)
   
-  As your company is growing it is important to have an environment that scales. So spinning up dev environments, 
-  updating test systems, ensuring your code quality, running all your tests and releasing your software continuously 
-  won’t distract you from developing great applications. I will show you how to automate repetitive tasks and how to 
-  combine great automation tools like Jenkins, Ant and Ansible and make use of some handy PHP libraries, so you can 
-  focus on the things that matter: Writing great software.
   
-  <img src="@baseUrl@/images/sponsors/itexia.png" alt="ITEXIA GmbH" class="pull-right img-responsive" style="max-width:150px;">
-  
-  By Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+  By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
 
 * 20:15 Uhr (08:15pm) - Short break
 
-* 20:30 Uhr (08:30pm) - **Automation with Ansible** (Lightning talk)
+* 20:30 Uhr (08:30pm) - **TBD**
 
-  Automatisierung? ANSIBLE - Einfach. Sicher. Zuverlässig.
-  
-  Ansible ist ein Open-Source Werkzeug zur Automatisierung von Deployment-, Konfigurations- und Administrationsprozessen. 
-  Die Beschreibung der Aufgaben basiert auf YAML und Jinja Templates. Es lässt sich zudem in Verbindung mit 
-  Vagrant und Docker nutzen.
-  
-  By Susann Sgorzaly
+[Hier klicken, um deinen Talk einzureichen!](https://github.com/php-usergroup-dresden/talks)
 
 * 21:00 Uhr (09:00pm) - Community + Socializing
 
@@ -105,6 +100,46 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup II / 2018 - DevOps & Automation am 07. März 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/)
+
+<i class="fa fa-map-marker"></i> [ITEXIA GmbH, Könneritzstr. 5, 01067 Dresden (1. OG - "Konferenzraum")](https://goo.gl/maps/oUv9Umv58182)  
+<i class="fa fa-twitter"></i> [@itexiagmbh](https://twitter.com/itexiagmbh)
+
+**Automate all the things** (Main talk)
+  
+As your company is growing it is important to have an environment that scales. So spinning up dev environments, 
+updating test systems, ensuring your code quality, running all your tests and releasing your software continuously 
+won’t distract you from developing great applications. I will show you how to automate repetitive tasks and how to 
+combine great automation tools like Jenkins, Ant and Ansible and make use of some handy PHP libraries, so you can 
+focus on the things that matter: Writing great software.
+  
+By Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+
+* [Slides on sebastian-feldmann.info](https://sebastian-feldmann.info/talks/2018/20180307-AutomateAllTheThings.pdf)
+
+**Automation with Ansible** (Lightning talk)
+
+Automatisierung? ANSIBLE - Einfach. Sicher. Zuverlässig.
+
+Ansible ist ein Open-Source Werkzeug zur Automatisierung von Deployment-, Konfigurations- und Administrationsprozessen. 
+Die Beschreibung der Aufgaben basiert auf YAML und Jinja Templates. Es lässt sich zudem in Verbindung mit 
+Vagrant und Docker nutzen.
+
+By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
+
+* [Slides on slideshare.net](https://www.slideshare.net/SusannSgorzaly/automation-with-ansible-90025485) 
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <img src="@baseUrl@/images/events/meetups/2018-03-07-hall.png" class="img-responsive">
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <img src="@baseUrl@/images/events/meetups/2018-03-07-popcorn.png" class="img-responsive">
+    </div>
+</div>
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup I - CQRS & Event Sourcing / 2018 am 23. Januar 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/)
 

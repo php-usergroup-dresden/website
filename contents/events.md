@@ -49,7 +49,7 @@
 
 <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
+#### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing & CI am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
 
 <i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01069 Dresden](https://goo.gl/maps/eQa6SSncdzm)  
 <i class="fa fa-twitter"></i> [@LOVOOeng](https://twitter.com/LOVOOeng)
@@ -69,11 +69,17 @@
 
 * 20:15 Uhr (08:15pm) - Short break
 
-* 20:30 Uhr (08:30pm) - **TBD**
+* 20:30 Uhr (08:30pm) - **From dev to prod with GitLab CI** (Main talk)
 
-[Hier klicken, um deinen Talk einzureichen!](https://github.com/php-usergroup-dresden/talks)
+  GitLab turned into a DevOps lifecycle platform instead of being 
+  "just" a web-based Git repository manager. In this session I'll guide you through the process of setting up 
+  GitLab and GitLab CI. You will learn some insights on how to configure a GitLab build via the .gitlab-ci.yml file. 
+  Together we will take a deep dive into the GitLab CI build pipelines to build and deploy docker containers to 
+  your dev, stage and production environments.
+  
+  By Stephan Hochdörfer ([<i class="fa fa-twitter"></i> @shochdoerfer](https://twitter.com/shochdoerfer))
 
-* 21:00 Uhr (09:00pm) - Community + Socializing
+* 21:15 Uhr (09:15pm) - Community + Socializing
 
 <hr class="blockspace">
 

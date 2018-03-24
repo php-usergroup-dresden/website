@@ -421,6 +421,15 @@ By Frank Jogeleit (<i class="fa fa-twitter"></i> [@FrankJogeleit](https://twitte
 		</div>
     </div>
 </div>
+<div class="row blockspace">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+		<div class="sponsor">
+			<a href="https://www.ujamii.com" target="_blank">
+				<img src="@baseUrl@/images/sponsors/ujamii.png" alt="ujamii smart solutions" class="img-responsive">
+			</a>
+		</div>
+	</div>
+</div>
 
 <hr class="blockspace">
 

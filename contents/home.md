@@ -48,6 +48,16 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:30 Uhr (07:30pm) - **Testing mit Codeception: Full-stack PHP testing framework** (Main talk)
   
+  Codeception is a PHP testing framework for Behavior Driven Development, which covers all kinds of tests: unit tests, 
+  functional tests and acceptance tests. It is fast and simple in both usage and execution. This talk will give you a 
+  introduction to the software testing basics using codeception. It will also cover some stumbling blocks when writing tests, 
+  like:
+  
+  - Test code stability against small changes
+  - Data stability
+  - Test structure
+  
+  Last but not least I will give you a short outlook how to make your tests also understandable for product owners.
   
   By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
 

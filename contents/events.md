@@ -89,7 +89,17 @@
   
   By Stephan Hochdörfer ([<i class="fa fa-twitter"></i> @shochdoerfer](https://twitter.com/shochdoerfer))
 
-* 21:15 Uhr (09:15pm) - Community + Socializing
+* 21:15 Uhr (09:15pm) - Short break
+
+* 21:30 Uhr (09:30pm) - **Continuous Deployment 2.0: Playtime is Over** (Main Talk)
+
+  Continuous Deployment, TDD and Continuous Integration is nothing new anymore and many of you are already veterans deploying multiple times each day code into production. But you’re still suffering from cutting corners and doing something quick on production when time is pressing, violating the processes you all worked hard on to get approved.
+
+  In this talk we take this very concept to the next level and show you how we used unconventional ways to deploy faster with less issues and regained control over a 10+ year old legacy application.
+
+  By Michelangelo van Dam ([<i class="fa fa-twitter"></i> @DragonBe](https://twitter.com/DragonBe))
+
+* 22:15 Uhr (09:15pm) - Community + Socializing
 
 <hr class="blockspace">
 

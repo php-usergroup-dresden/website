@@ -7,20 +7,17 @@
 		<img src="@baseUrl@/images/events/phpdd18/phpdd18-Logo.svg" alt="PHP Developer Days 2018" style="margin: 15px 0;">
 	</div>
 	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-		<h3 class="text-danger">CALL FOR PAPERS NOW OPEN!</h3>
-		<p>Submissions are accepted until April 30th 2018</p>
+		<h3 class="text-danger">SAVE THE DATES!</h3>
 		<p>
-			<a href="https://cfp.phpdd.org" target="_blank" title="PHP Developer Days 2018 Call for Papers"
-			   class="btn btn-large btn-danger">SUBMIT YOUR IDEAS!</a>
+		    September 21st & 22nd 2018<br>
+		    International Congress Center Dresden, Germany
+		</p>
+		<p>
+			<a href="https://2018.phpdd.org" target="_blank" title="PHP Developer Days 2018 event website"
+			   class="btn btn-large btn-danger">VISIT THE EVENT WEBSITE!</a>
 		</p>
 	</div>
 </div>
-<p class="text-muted text-center text-uppercase blockspace">
-    21. und 22. September 2018 &middot; Internationales Congress Center Dresden 
-</p>
-<p class="text-center">
-    <a href="https://2018.phpdd.org" alt=PHP Developer Days 2018" target="_blank" class="text-danger text-uppercase">Zur Event Seite / Go to event website</a>
-</p>
 
 <hr class="blockspace">
 

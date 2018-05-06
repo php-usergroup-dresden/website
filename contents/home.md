@@ -28,14 +28,14 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing & CI am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
+#### [<i class="fa fa-meetup"></i> Meetup IV / 2018 - Legacy, FP, &amp; VR am 28. Mai 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/)
 
-<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01069 Dresden](https://goo.gl/maps/eQa6SSncdzm)  
-<i class="fa fa-twitter"></i> [@LOVOOeng](https://twitter.com/LOVOOeng)
+<i class="fa fa-map-marker"></i> [thinkstep AG Tiergartenstraße 32, Dresden](https://goo.gl/maps/jE2s8DdanD92)  
+<i class="fa fa-twitter"></i> [@thinkstep](https://twitter.com/thinkstep)
 
-<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO GmbH" class="pull-right img-responsive" style="max-width:150px;">
+<img src="@baseUrl@/images/sponsors/thinkstep.png" alt="thinkstep AG" class="pull-right img-responsive" style="max-width:150px;">
 
 **Programm / Program**
 
@@ -43,44 +43,33 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Testing mit Codeception: Full-stack PHP testing framework** (Main talk)
+* 19:30 Uhr (07:30pm) - **Reverse Engineering - Entwickeln gegen eine Blackbox** (Main talk)
   
-  Codeception is a PHP testing framework for Behavior Driven Development, which covers all kinds of tests: unit tests, 
-  functional tests and acceptance tests. It is fast and simple in both usage and execution. This talk will give you a 
-  introduction to the software testing basics using codeception. It will also cover some stumbling blocks when writing tests, 
-  like:
+  Wir haben ein "Legacy Projekt" von einem unserer Dienstleister übernommen. Dieser hat seine eigene Bibliothek eingebunden und mit Sourceguardian verschlüsselt. Daraus ergeben sich jedoch viele Probleme, u.a. können keine PHP Upgrades durchgeführt werden, die Software wird dadurch unflexibel, ist nicht skalierbar und das größte Problem ist die Fehlersuche, da man den Quellcode nicht sehen kann.
   
-  - Test code stability against small changes
-  - Data stability
-  - Test structure
+  Momentan sind wir dabei, diese Blackbox zu ersetzen. Dazu werden Tests gegen die alten Funktionen geschrieben und die Logik neu implementiert. Ziel ist es, diese Bibliothek abzulösen, um alle notwendigen technischen Updates und Upgrades durchführen zu können.
   
-  Last but not least I will give you a short outlook how to make your tests also understandable for product owners.
-  
-  By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
+  By the thinkstep team ([<i class="fa fa-twitter"></i> @thinkstep](https://twitter.com/thinkstep))
 
 * 20:15 Uhr (08:15pm) - Short break
 
-* 20:30 Uhr (08:30pm) - **From dev to prod with GitLab CI** (Main talk)
+* 20:30 Uhr (08:30pm) - **No loops needed - Functional programming in PHP** (Lightning talk)
 
-  GitLab turned into a DevOps lifecycle platform instead of being 
-  "just" a web-based Git repository manager. In this session I'll guide you through the process of setting up 
-  GitLab and GitLab CI. You will learn some insights on how to configure a GitLab build via the .gitlab-ci.yml file. 
-  Together we will take a deep dive into the GitLab CI build pipelines to build and deploy docker containers to 
-  your dev, stage and production environments.
+  Funktionales Programmieren wird auch in nicht-funktionalen Sprachen immer beliebter.
+  Nachdem selbst Java funktionale Paradigmen in Form von Lambda-Ausdrücken implementiert hat, steht dem Aufstieg nichts mehr im Weg!
+  Wie das ganze in PHP aussieht, welche Gemeinsamkeiten es mit Lego gibt und warum Schleifen durch funktionales Programmieren (fast) obsolet werden, erfahrt Ihr in diesem Lightning Talk.
   
-  By Stephan Hochdörfer ([<i class="fa fa-twitter"></i> @shochdoerfer](https://twitter.com/shochdoerfer))
+  By Alexander Lichter ([<i class="fa fa-twitter"></i> @TheAlexLichter](https://twitter.com/TheAlexLichter))
 
-* 21:15 Uhr (09:15pm) - Short break
+* 21:00 Uhr (09:00pm) - Short break
 
-* 21:30 Uhr (09:30pm) - **Continuous Deployment 2.0: Playtime is Over** (Main Talk)
+* 21:15 Uhr (09:15pm) - **Mixed Realities for Web** (Main Talk)
 
-  Continuous Deployment, TDD and Continuous Integration is nothing new anymore and many of you are already veterans deploying multiple times each day code into production. But you’re still suffering from cutting corners and doing something quick on production when time is pressing, violating the processes you all worked hard on to get approved.
+  Ok, let’s get real: VR in a Web Browser isn’t something new! 2017 Firefox rolled out their support for everyone. HTC Vive, Oculus Rift and other Hardware is being supported. You can create VR experiences using your Browser and Javascript. New browser engines are powerful enough to be able to serve the experiences on a open and standardised platform. But what about AR? Or Mixed Realities? Join my session and learn how AR or better said MR is getting into your browsers, too. See how and what the platform is being able to offer and what you could expect in near future.
 
-  In this talk we take this very concept to the next level and show you how we used unconventional ways to deploy faster with less issues and regained control over a 10+ year old legacy application.
+  By Carsten Sandtner ([<i class="fa fa-twitter"></i> @casarock](https://twitter.com/casarock))
 
-  By Michelangelo van Dam ([<i class="fa fa-twitter"></i> @DragonBe](https://twitter.com/DragonBe))
-
-* 22:15 Uhr (09:15pm) - Community + Socializing
+* 22:15 Uhr (10:15pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -125,6 +114,60 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing & CI am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
+
+<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01069 Dresden](https://goo.gl/maps/eQa6SSncdzm)  
+<i class="fa fa-twitter"></i> [@LOVOOeng](https://twitter.com/LOVOOeng)
+
+* **From dev to prod with GitLab CI** (Main talk)
+
+  GitLab turned into a DevOps lifecycle platform instead of being 
+  "just" a web-based Git repository manager. In this session I'll guide you through the process of setting up 
+  GitLab and GitLab CI. You will learn some insights on how to configure a GitLab build via the .gitlab-ci.yml file. 
+  Together we will take a deep dive into the GitLab CI build pipelines to build and deploy docker containers to 
+  your dev, stage and production environments.
+  
+  By Stephan Hochdörfer ([<i class="fa fa-twitter"></i> @shochdoerfer](https://twitter.com/shochdoerfer))
+  
+  [Watch the slides again.](https://talks.bitexpert.de/phpugdd18-gitlabci/#/)
+
+* **Continuous Deployment 2.0: Playtime is Over** (Main Talk)
+
+  Continuous Deployment, TDD and Continuous Integration is nothing new anymore and many of you are already veterans deploying multiple times each day code into production. But you’re still suffering from cutting corners and doing something quick on production when time is pressing, violating the processes you all worked hard on to get approved.
+
+  In this talk we take this very concept to the next level and show you how we used unconventional ways to deploy faster with less issues and regained control over a 10+ year old legacy application.
+
+  By Michelangelo van Dam ([<i class="fa fa-twitter"></i> @DragonBe](https://twitter.com/DragonBe))
+  
+  [Watch the slides again](https://de.slideshare.net/DragonBe/continuous-deployment-20)
+
+<div class="row blockspace">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <a href="@baseUrl@/images/events/meetups/2018-04-19-speakers.jpg" title="Speakers @ 19.04.2018">
+            <img src="@baseUrl@/images/events/meetups/2018-04-19-speakers_400x310.jpg" class="img-responsive">
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <a href="@baseUrl@/images/events/meetups/2018-04-19-back.jpg" title="Back @ 19.04.2018">
+            <img src="@baseUrl@/images/events/meetups/2018-04-19-back_400x310.jpg" class="img-responsive">
+        </a>
+    </div>
+</div>
+<div class="row blockspace">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <a href="@baseUrl@/images/events/meetups/2018-04-19-front.jpg" title="Front @ 19.04.2018">
+            <img src="@baseUrl@/images/events/meetups/2018-04-19-front_400x310.jpg" class="img-responsive">
+        </a>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+        <a href="@baseUrl@/images/events/meetups/2018-04-19-food.jpg" title="Food @ 19.04.2018">
+            <img src="@baseUrl@/images/events/meetups/2018-04-19-food_400x310.jpg" class="img-responsive">
+        </a>
+    </div>
+</div>
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup II / 2018 - DevOps & Automation am 07. März 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/)
 
@@ -205,71 +248,7 @@ verwandeln und erhalten Zugriff auf professionelle Tools zur Arbeit mit Domain E
 
 By Alexander Miertsch ([<i class="fa fa-twitter"></i> @prooph_software](https://twitter.com/prooph_software))
 
-&nbsp;
-
 <hr class="blockspace">
-
-<a href="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-12-19-diversity.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-
-#### [<i class="fa fa-meetup"></i> Meetup IX / 2017 am 19. Dezember 2017](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/)
-
-<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/AnAgn5ETcP32)  
-<i class="fa fa-twitter"></i> [@moveelevator](https://twitter.com/moveelevator)
-
-**Programm / Program**
-
-**Symfony Flex in Action** (Main talk)
-  
-Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.
-  
-By Christian Flothmann (<i class="fa fa-twitter"></i> [@xabbuh](https://twitter.com/xabbuh)) - Developer at SensioLabs and Symfony Documentation and Core Team member and
-  
-Christopher Hertel (<i class="fa fa-twitter"></i> [@el_stoffel](https://twitter.com/el_stoffel)) - Developer at SensioLabs and Organizer Symfony User Group Berlin
-  
-* [Slides auf Speakerdeck ansehen](https://speakerdeck.com/el_stoffel/symfony-flex-in-action)  
-* Checkout the code: https://github.com/sensiolabs-de/flex-mailer  
-* Checkout the code: https://github.com/sensiolabs-de/flex-importer  
-* Checkout the code: https://github.com/sensiolabs-de/flex-meetup  
-
-<a href="@baseUrl@/images/events/meetups/2017-12-19-location.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-12-19-location.jpg" alt="Meetup bei move:elevator in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-
-**What's new in PHP 7.2** (Lightning talk)
-
-PHP 7.2 was released on November 30th 2017. This talk will give you a short intro to the changes in the new release.
-  
-By Holger Woltersdorf (<i class="fa fa-twitter"></i> [@hollodotme](https://twitter.com/hollodotme))
-  
-* [Slides auf Speakerdeck ansehen](https://speakerdeck.com/hollodotme/whats-new-in-php-7-dot-2)
-* Checkout the code: https://github.com/hollodotme/talk-preps/tree/master/whats-new-in-php72<br><br>
-
-&nbsp;
-
-<hr class="blockspace">
-
-<a href="@baseUrl@/images/events/meetups/2017-11-23-api-platform.jpg" target="_blank" class="pull-right hidden-sm hidden-xs">
-	<img src="@baseUrl@/images/events/meetups/2017-11-23-api-platform.jpg" alt="Meetup bei FORTUNEGLOBE in Dresden" class="img-responsive" style="max-width: 230px; margin-left: 30px;"></a>
-	
-#### [<i class="fa fa-meetup"></i> Meetup VIII / 2017 am 23. November 2017](https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435)
-
-<i class="fa fa-map-marker"></i> [Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden, 3. OG](https://goo.gl/maps/NWiBnD7oAto)  
-<i class="fa fa-twitter"></i> [@F9T3ch](https://twitter.com/F9T3ch)
-
-**API Platform**
-
-Das Frontend unabhängig vom Backend zu entwickeln wird immer mehr gängige Praxis. Ein einfacher Weg Daten zwischen beiden Systemen auszutauschen sind REST APIs. Leider kann schon die Erstellung einfacher CRUD APIs Zeitraubend sein. Gängige Probleme sind die Erstellung eines Objektes inkl. Relationen, die Validierung, Filterung von Listen und die Reduzierung von Properties die Angezeigt werden. Für All diese Standard Probleme bietet API Platform in Symfony Projekten Abhilfe.
-	  
-Im Vortrag soll diese Lösung vorgestellt werden, von der Installation zur Lösung oben genannten Probleme und weiterer benefits die helfen deutlich Zeit und Nerven zu sparen.
-  
-By Frank Jogeleit (<i class="fa fa-twitter"></i> [@FrankJogeleit](https://twitter.com/FrankJogeleit))
-  
-* [Talk bewerten auf joind.in!](https://joind.in/talk/099e4)
-* [Slides auf speakerdeck.com](https://speakerdeck.com/moveelevator/api-platform)
-
-<hr class="blockspace">
-
-&nbsp;
 
 ## <a name="downloads"></a>Downloads
 

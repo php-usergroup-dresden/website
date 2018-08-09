@@ -44,14 +44,11 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup IV / 2018 - Legacy, FP, &amp; VR am 28. Mai 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/)
+#### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
 
-<i class="fa fa-map-marker"></i> [thinkstep AG Tiergartenstraße 32, Dresden](https://goo.gl/maps/jE2s8DdanD92)  
-<i class="fa fa-twitter"></i> [@thinkstep](https://twitter.com/thinkstep)
-
-<img src="@baseUrl@/images/sponsors/thinkstep.png" alt="thinkstep AG" class="pull-right img-responsive" style="max-width:150px;">
+<i class="fa fa-map-marker"></i> **LOCATION NEEDED!** 
 
 **Programm / Program**
 
@@ -59,33 +56,22 @@
 
 * 19:00 Uhr (07:00pm) - Usergroup + Host Intro
 
-* 19:30 Uhr (07:30pm) - **Reverse Engineering - Entwickeln gegen eine Blackbox** (Main talk)
+* 19:30 Uhr (07:30pm) - **Mastering git – Insights & Tips & Tricks** (Main talk)
   
-  Wir haben ein "Legacy Projekt" von einem unserer Dienstleister übernommen. Dieser hat seine eigene Bibliothek eingebunden und mit Sourceguardian verschlüsselt. Daraus ergeben sich jedoch viele Probleme, u.a. können keine PHP Upgrades durchgeführt werden, die Software wird dadurch unflexibel, ist nicht skalierbar und das größte Problem ist die Fehlersuche, da man den Quellcode nicht sehen kann.
+  Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
   
-  Momentan sind wir dabei, diese Blackbox zu ersetzen. Dazu werden Tests gegen die alten Funktionen geschrieben und die Logik neu implementiert. Ziel ist es, diese Bibliothek abzulösen, um alle notwendigen technischen Updates und Upgrades durchführen zu können.
-  
-  By the thinkstep team ([<i class="fa fa-twitter"></i> @thinkstep](https://twitter.com/thinkstep))
+  By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
 
 * 20:15 Uhr (08:15pm) - Short break
 
-* 20:30 Uhr (08:30pm) - **No loops needed - Functional programming in PHP** (Lightning talk)
+* 20:30 Uhr (08:30pm) - **Marvelous Agents of Yield** (Main talk)
 
-  Funktionales Programmieren wird auch in nicht-funktionalen Sprachen immer beliebter.
-  Nachdem selbst Java funktionale Paradigmen in Form von Lambda-Ausdrücken implementiert hat, steht dem Aufstieg nichts mehr im Weg!
-  Wie das ganze in PHP aussieht, welche Gemeinsamkeiten es mit Lego gibt und warum Schleifen durch funktionales Programmieren (fast) obsolet werden, erfahrt Ihr in diesem Lightning Talk.
+  Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation.
+  But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
   
-  By Alexander Lichter ([<i class="fa fa-twitter"></i> @TheAlexLichter](https://twitter.com/TheAlexLichter))
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
 
-* 21:00 Uhr (09:00pm) - Short break
-
-* 21:15 Uhr (09:15pm) - **Mixed Realities for Web** (Main Talk)
-
-  Ok, let’s get real: VR in a Web Browser isn’t something new! 2017 Firefox rolled out their support for everyone. HTC Vive, Oculus Rift and other Hardware is being supported. You can create VR experiences using your Browser and Javascript. New browser engines are powerful enough to be able to serve the experiences on a open and standardised platform. But what about AR? Or Mixed Realities? Join my session and learn how AR or better said MR is getting into your browsers, too. See how and what the platform is being able to offer and what you could expect in near future.
-
-  By Carsten Sandtner ([<i class="fa fa-twitter"></i> @casarock](https://twitter.com/casarock))
-
-* 22:15 Uhr (10:15pm) - Community + Socializing
+* 21:15 Uhr (09:15pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -112,6 +98,42 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup IV / 2018 - Legacy, FP, &amp; VR am 28. Mai 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/)
+
+<i class="fa fa-map-marker"></i> [thinkstep AG Tiergartenstraße 32, Dresden](https://goo.gl/maps/jE2s8DdanD92)  
+<i class="fa fa-twitter"></i> [@thinkstep](https://twitter.com/thinkstep)
+
+<img src="@baseUrl@/images/sponsors/thinkstep.png" alt="thinkstep AG" class="pull-right img-responsive" style="max-width:150px;">
+
+* **Reverse Engineering - Entwickeln gegen eine Blackbox** (Main talk)  
+  
+  Wir haben ein "Legacy Projekt" von einem unserer Dienstleister übernommen. Dieser hat seine eigene Bibliothek eingebunden und mit Sourceguardian verschlüsselt. Daraus ergeben sich jedoch viele Probleme, u.a. können keine PHP Upgrades durchgeführt werden, die Software wird dadurch unflexibel, ist nicht skalierbar und das größte Problem ist die Fehlersuche, da man den Quellcode nicht sehen kann.  
+  Momentan sind wir dabei, diese Blackbox zu ersetzen. Dazu werden Tests gegen die alten Funktionen geschrieben und die Logik neu implementiert. Ziel ist es, diese Bibliothek abzulösen, um alle notwendigen technischen Updates und Upgrades durchführen zu können.  
+  
+  By the thinkstep team ([<i class="fa fa-twitter"></i> @thinkstep](https://twitter.com/thinkstep))
+  
+  [Watch the Slides on SpeakerDeck](https://speakerdeck.com/cfroehner/reverse-engineering-entwickeln-gegen-eine-blackbox)
+
+* **No loops needed - Functional programming in PHP** (Lightning talk)
+
+  Funktionales Programmieren wird auch in nicht-funktionalen Sprachen immer beliebter.
+  Nachdem selbst Java funktionale Paradigmen in Form von Lambda-Ausdrücken implementiert hat, steht dem Aufstieg nichts mehr im Weg!
+  Wie das ganze in PHP aussieht, welche Gemeinsamkeiten es mit Lego gibt und warum Schleifen durch funktionales Programmieren (fast) obsolet werden, erfahrt Ihr in diesem Lightning Talk.
+  
+  By Alexander Lichter ([<i class="fa fa-twitter"></i> @TheAlexLichter](https://twitter.com/TheAlexLichter))
+  
+  [Watch the slides again](https://mannil.github.io/fp-in-php/#/)
+
+* **Mixed Realities for Web** (Main Talk)
+
+  Ok, let’s get real: VR in a Web Browser isn’t something new! 2017 Firefox rolled out their support for everyone. HTC Vive, Oculus Rift and other Hardware is being supported. You can create VR experiences using your Browser and Javascript. New browser engines are powerful enough to be able to serve the experiences on a open and standardised platform. But what about AR? Or Mixed Realities? Join my session and learn how AR or better said MR is getting into your browsers, too. See how and what the platform is being able to offer and what you could expect in near future.
+
+  By Carsten Sandtner ([<i class="fa fa-twitter"></i> @casarock](https://twitter.com/casarock))
+  
+  [Watch the slides on SpeakerDeck](https://speakerdeck.com/casarock/mixed-realities-in-your-browsers)
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing & CI am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
 

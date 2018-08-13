@@ -32,7 +32,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 #### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
 
-<i class="fa fa-map-marker"></i> **LOCATION NEEDED!** 
+<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
 
 **Programm / Program**
 

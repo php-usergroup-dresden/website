@@ -2733,7 +2733,67 @@
             }
         }
     },
-    "location": {
+    "check24": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "prager": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "stra": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "01069": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "goo": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
             "breadcrumb": {
@@ -2747,15 +2807,46 @@
                 "/events.html": "Events"
             }
         },
-        "https://phpug-dresden.org/hosting.html": {
-            "title": "Meetup hosten",
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
             "breadcrumb": {
                 "/index.html": "Home",
-                "/hosting.html": "Meetup hosten"
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
             }
         }
     },
-    "needed": {
+    "maps": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
+            }
+        },
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "zjqof3vbkc92": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
             "breadcrumb": {
@@ -6455,59 +6546,6 @@
             }
         }
     },
-    "goo": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        }
-    },
-    "maps": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        },
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
-            }
-        }
-    },
     "je2s8ddand92": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -8712,6 +8750,21 @@
         }
     },
     "cfroehner": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "needed": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
             "breadcrumb": {
@@ -11060,21 +11113,6 @@
             }
         }
     },
-    "prager": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        }
-    },
     "str": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -11095,21 +11133,6 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        }
-    },
-    "01069": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
             }
         }
     },
@@ -20538,15 +20561,6 @@
             }
         }
     },
-    "stra": {
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        }
-    },
     "l1etnjzmfkh2": {
         "https://phpug-dresden.org/events.html": {
             "title": "Events",
@@ -21196,15 +21210,6 @@
         }
     },
     "239590913": {
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        }
-    },
-    "check24": {
         "https://phpug-dresden.org/events.html": {
             "title": "Events",
             "breadcrumb": {
@@ -38683,6 +38688,15 @@
         }
     },
     "verhinderte": {
+        "https://phpug-dresden.org/hosting.html": {
+            "title": "Meetup hosten",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/hosting.html": "Meetup hosten"
+            }
+        }
+    },
+    "location": {
         "https://phpug-dresden.org/hosting.html": {
             "title": "Meetup hosten",
             "breadcrumb": {

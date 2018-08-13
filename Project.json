@@ -1,6 +1,6 @@
 {
 	"name": "PHP USERGROUP DRESDEN e.V.",
-	"baseUrl": "http://phpug-dresden.org",
+	"baseUrl": "https://phpug-dresden.org",
 	"outputDir": "./docs",
 	"contentsDir": "./contents/",
 	"replacements": {

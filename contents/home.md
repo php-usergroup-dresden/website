@@ -366,7 +366,7 @@ By Alexander Miertsch ([<i class="fa fa-twitter"></i> @prooph_software](https://
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="http://placehold.it/150/f47c20/000000/?text=Du%3F&" alt="Du?">
+			<img src="https://placehold.it/150/f47c20/000000/?text=Du%3F&" alt="Du?">
 			<h4>Hier könnte<br>dein Name stehen!</h4>
 		</div>
 	</div>

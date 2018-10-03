@@ -7,55 +7,66 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+## Wir sagen Danke!
+
 <div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-		<img src="@baseUrl@/images/events/phpdd18/phpdd18-Logo.svg" alt="PHP Developer Days 2018" style="margin: 15px 0;">
+	<div class="col-xs-12 col-sm-6">
+		<h3>Für die erfolgreichen<br>PHP Developer Days 2018</h3>
+		<p>Der Dank gebührt allen Beteiligten und besonders </p>
+		<ul>
+			<li>Unseren Workshop- und Conference-Gästen</li>
+			<li>Den 7 Workshop Trainern</li>
+			<li>Den 11 Conference Speaker</li>
+			<li>Unseren Sponsoren</li>
+			<li>Den PHP Usergroups, die uns unterstützten</li>
+        </ul>
+        <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD18"><b>#PHPDD18</b></a>
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-		<h3 class="text-danger">SAVE THE DATES!</h3>
-		<p>
-		    September 21st & 22nd 2018<br>
-		    International Congress Center Dresden, Germany
-		</p>
-		<p>
-			<a href="https://2018.phpdd.org" target="_blank" title="PHP Developer Days 2018 event website"
-			   class="btn btn-large btn-danger">VISIT THE EVENT WEBSITE!</a>
-		</p>
+	<div class="col-xs-12 col-sm-6">
+		<img src="@baseUrl@/images/events/phpdd18/thanks.png" alt="PHP Developer Days 2018: 21. und 22. September" class="img-responsive"/>
 	</div>
 </div>
+
+<p class="blockspace">
+	Mehr Bilder und Videos folgen in Kürze.
+</p>
 
 <hr class="blockspace">
 
 ### Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
+#### [<i class="fa fa-meetup"></i> HACKTOBERFEST SPECIAL 18. Oktober 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/)
 
-<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
+<i class="fa fa-map-marker"></i> [FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/CNiPFmUs6j52) 
+
+<div class="row blockspace">
+    <div class="col-xs-12 text-center">
+        <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank">
+            <img src="@baseUrl@/images/events/meetups/hacktoberfest-2018.png" class="img-rounded img-responsive" alt="Hacktoberfest 2018">
+        </a>
+    </div>
+</div>
+
+**Important:** This event is limited to 20 attendees.
+
+This event is about creating pull requests in open-source projects on GitHub. 
+No matter what project or language, everyone is welcome, everyone can contribute.
+
+All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
 
 **Programm / Program**
 
-* 18:30 Uhr (06:30pm) - Doors Open
+* 17:30 (05:30pm) - Doors Open
 
-* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
+* 18:00 (06:00pm) - **Hacktoberfest Introduction**
 
-* 19:30 Uhr (07:30pm) - **Mastering git – Insights & Tips & Tricks** (Main talk)
-  
-  Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
-  
-  By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+* 18:30 (06:30pm) - Start hacking
 
-* 20:15 Uhr (08:15pm) - Short break
+* 22:30 (10:30pm) - Stop hacking
 
-* 20:30 Uhr (08:30pm) - **Marvelous Agents of Yield** (Main talk)
-
-  Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation.
-  But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
-  
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
-
-* 21:15 Uhr (09:15pm) - Community + Socializing
+**Bring your Laptop!** WiFi is available. We will have food and drinks.
 
 <hr class="blockspace">
 
@@ -65,41 +76,28 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 	</a>
 </div>
 
-## Wir sagen Danke!
-
-<div class="row">
-	<div class="col-xs-12 col-sm-6">
-		<h3>Für einen erfolgreichen PHP Developer Day 2017<br></h3>
-		<p>Der Dank gebührt allen Beteiligten und besonders </p>
-		<ul>
-			<li>Unseren Gästen</li>
-			<li>Den 7 TOP-Speakern</li>
-			<li>Unseren Sponsoren</li>
-        </ul>
-        <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD17"><b>#PHPDD17</b></a>
-	</div>
-	<div class="col-xs-12 col-sm-6">
-		<img src="@baseUrl@/images/events/phpdd17/phpdd17-logo.png" alt="PHP Developer Day 2017: 22. September" class="img-responsive"/>
-	</div>
-</div>
-
-<p class="blockspace">
-		In Kürze werden wir unsere Impressionen des Tages veröffentlichen.
-		Bis dahin findet Ihr einen Zusammenfassung von <a href="https://twitter.com/settermjd"><b>@settermjd</b></a> hier:
-		<a href="https://www.matthewsetter.com/php-developer-day-2017/" title="" class="btn btn-lg btn-block">
-		Zur Zusammenfassung des PHP Developer Day 2017
-		</a>
-</p>
-
-<p class="blockspace text-center">
-	<a href="https://www.youtube.com/playlist?list=PLW4GAs3yDy3LUMTvEpbukB0K-Qje0FXgZ" target="_blank" class="btn btn-lg btn-danger">
-		<i class="fa fa-youtube"></i> Jetzt die #PHPDD17 Talk-Videos ansehen!
-	</a>
-</p>
-
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
+
+<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
+
+* **Mastering git – Insights & Tips & Tricks** (Main talk)
+  
+  Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
+  
+  By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+
+* **Marvelous Agents of Yield** (Main talk)
+
+  Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation.
+  But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup IV / 2018 - Legacy, FP, &amp; VR am 28. Mai 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/)
 
@@ -228,47 +226,6 @@ By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.c
         <img src="@baseUrl@/images/events/meetups/2018-03-07-popcorn.png" class="img-responsive">
     </div>
 </div>
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup I - CQRS & Event Sourcing / 2018 am 23. Januar 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/)
-
-<i class="fa fa-map-marker"></i> [cloudsters Dresden, Bautzner Str. 22, 01099 Dresden](https://goo.gl/4zvHBL)  
-<i class="fa fa-twitter"></i> [@cloudstersDD](https://twitter.com/cloudstersdd)
-
-**Programm / Program**
-
-<a href="@baseUrl@/images/events/meetups/2018-01-23-full-house.jpg" target="_blank">
-	<img src="@baseUrl@/images/events/meetups/2018-01-23-full-house.jpg" class="pull-right img-responsive" style="max-width: 230px; margin-left: 10px;">
-</a>
-
-**TOTAL RECALL - The application that never forgets** (Main talk)
-  
-Building an application upon CQRS and Event Sourcing offers three pretty nice benefits.
-  
-1. Well structured code and business logic, separated by read and write concerns.
-2. The source of truth - A reliable and recoverable view into the past of your application state.
-3. The opportunity to answer future questions that you don't know about today.  
-  
-<br>This talk will give you a basic overview about CQRS & Event Sourcing.
-  
-By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at Fortuneglobe GmbH
-
-* [Slides on SpeakerDeck](https://speakerdeck.com/hollodotme/total-recall-the-application-that-never-forgets-1)
-
-<a href="@baseUrl@/images/events/meetups/2018-01-23-prooph.jpg" target="_blank">
-	<img src="@baseUrl@/images/events/meetups/2018-01-23-prooph.jpg" class="pull-right img-responsive" style="max-width: 230px; margin-left: 10px;">
-</a>
-
-**prooph event store in action** (Main talk)
-
-Domain Events als "single source of truth" nutzen, das ist eine der Kernideen von Event Sourcing. 
-Die Grundlage dafür bildet ein Event Store. 
-Mit dem prooph/event-store können PHP Entwickler ihre MySql, MariaDB oder Postgres Datenbank in einen Event Store 
-verwandeln und erhalten Zugriff auf professionelle Tools zur Arbeit mit Domain Events. Der Talk gibt einen Überblick 
-über die Funktionsweisen des prooph/event-store und zeigt welche Vorteile sich daraus für die Software ergeben.
-
-By Alexander Miertsch ([<i class="fa fa-twitter"></i> @prooph_software](https://twitter.com/prooph_software))
 
 <hr class="blockspace">
 

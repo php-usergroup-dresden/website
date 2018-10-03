@@ -2,22 +2,29 @@
 
 <hr class="blockspace">
 
+## Wir sagen Danke!
+
 <div class="row">
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-		<img src="@baseUrl@/images/events/phpdd18/phpdd18-Logo.svg" alt="PHP Developer Days 2018" style="margin: 15px 0;">
+	<div class="col-xs-12 col-sm-6">
+		<h3>Für die erfolgreichen<br>PHP Developer Days 2018</h3>
+		<p>Der Dank gebührt allen Beteiligten und besonders </p>
+		<ul>
+			<li>Unseren Workshop- und Conference-Gästen</li>
+			<li>Den 7 Workshop Trainern</li>
+			<li>Den 11 Conference Speaker</li>
+			<li>Unseren Sponsoren</li>
+			<li>Den PHP Usergroups, die uns unterstützten</li>
+        </ul>
+        <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD18"><b>#PHPDD18</b></a>
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
-		<h3 class="text-danger">SAVE THE DATES!</h3>
-		<p>
-		    September 21st & 22nd 2018<br>
-		    International Congress Center Dresden, Germany
-		</p>
-		<p>
-			<a href="https://2018.phpdd.org" target="_blank" title="PHP Developer Days 2018 event website"
-			   class="btn btn-large btn-danger">VISIT THE EVENT WEBSITE!</a>
-		</p>
+	<div class="col-xs-12 col-sm-6">
+		<img src="@baseUrl@/images/events/phpdd18/thanks.png" alt="PHP Developer Days 2018: 21. und 22. September" class="img-responsive"/>
 	</div>
 </div>
+
+<p class="blockspace">
+	Mehr Bilder und Videos folgen in Kürze.
+</p>
 
 <hr class="blockspace">
 
@@ -44,34 +51,38 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
+#### [<i class="fa fa-meetup"></i> HACKTOBERFEST SPECIAL 18. Oktober 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/)
 
-<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
+<i class="fa fa-map-marker"></i> [FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/CNiPFmUs6j52) 
+
+<div class="row blockspace">
+    <div class="col-xs-12 text-center">
+        <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank">
+            <img src="@baseUrl@/images/events/meetups/hacktoberfest-2018.png" class="img-rounded img-responsive" alt="Hacktoberfest 2018">
+        </a>
+    </div>
+</div>
+
+**Important:** This event is limited to 20 attendees.
+
+This event is about creating pull requests in open-source projects on GitHub. 
+No matter what project or language, everyone is welcome, everyone can contribute.
+
+All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
 
 **Programm / Program**
 
-* 18:30 Uhr (06:30pm) - Doors Open
+* 17:30 (05:30pm) - Doors Open
 
-* 19:00 Uhr (07:00pm) - Usergroup + Host Intro
+* 18:00 (06:00pm) - **Hacktoberfest Introduction**
 
-* 19:30 Uhr (07:30pm) - **Mastering git – Insights & Tips & Tricks** (Main talk)
-  
-  Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
-  
-  By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+* 18:30 (06:30pm) - Start hacking
 
-* 20:15 Uhr (08:15pm) - Short break
+* 22:30 (10:30pm) - Stop hacking
 
-* 20:30 Uhr (08:30pm) - **Marvelous Agents of Yield** (Main talk)
-
-  Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation.
-  But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
-  
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
-
-* 21:15 Uhr (09:15pm) - Community + Socializing
+**Bring your Laptop!** WiFi is available. We will have food and drinks.
 
 <hr class="blockspace">
 
@@ -98,6 +109,25 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
+
+<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
+
+* **Mastering git – Insights & Tips & Tricks** (Main talk)
+  
+  Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
+  
+  By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+
+* **Marvelous Agents of Yield** (Main talk)
+
+  Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation.
+  But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup IV / 2018 - Legacy, FP, &amp; VR am 28. Mai 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/)
 

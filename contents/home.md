@@ -294,7 +294,7 @@ All information about HACKTOBERFEST can be found here: https://hacktoberfest.dig
 <div class="row blockspace">
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="http://www.fortuneglobe.com" target="_blank">
+			<a href="https://twitter.com/F9T3ch" target="_blank">
 				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>

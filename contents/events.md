@@ -22,9 +22,7 @@
 	</div>
 </div>
 
-<p class="blockspace">
-	Mehr Bilder und Videos folgen in Kürze.
-</p>
+[Schaut euch dir Bilder-Galerie vom Event an.](https://drive.google.com/open?id=1uT1DVKt_zBhP1DSZlzCXFBsxxwA7mEDG)
 
 <hr class="blockspace">
 
@@ -51,38 +49,37 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> HACKTOBERFEST SPECIAL 18. Oktober 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/)
+#### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
 
-<i class="fa fa-map-marker"></i> [FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/CNiPFmUs6j52) 
-
-<div class="row blockspace">
-    <div class="col-xs-12 text-center">
-        <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank">
-            <img src="@baseUrl@/images/events/meetups/hacktoberfest-2018.png" class="img-rounded img-responsive" alt="Hacktoberfest 2018">
-        </a>
-    </div>
-</div>
-
-**Important:** This event is limited to 20 attendees.
-
-This event is about creating pull requests in open-source projects on GitHub. 
-No matter what project or language, everyone is welcome, everyone can contribute.
-
-All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/eoY98hKnCBM2) 
 
 **Programm / Program**
 
-* 17:30 (05:30pm) - Doors Open
+* 18:30 (06:30pm) - Doors Open
 
-* 18:00 (06:00pm) - **Hacktoberfest Introduction**
+* 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 18:30 (06:30pm) - Start hacking
+* 19:30 (07:30pm) - **GitLab Pipeline mit Codeception** (Main Talk)
 
-* 22:30 (10:30pm) - Stop hacking
+  (in German)
+  
+  Wir schauen uns die unterschiedlichen Testarten von Never Code Alone mit dem Codeception Framework an. API, 
+  Unit und Acceptance Tests. Ich erstelle neue Tests direkt Live in der Session und gehe auf die Vor- und Nachteile ein. 
+  Das ganze Pushen wir dann live zu GitLab und schauen uns einen Review Workflow an.
+  
+  By Roland Golla ([<i class="fa fa-twitter"></i> @nevercodealone](https://twitter.com/nevercodealone))
 
-**Bring your Laptop!** WiFi is available. We will have food and drinks.
+* 20:15 (08:15pm) - Short break
+
+* 19:30 (07:30pm) - **What's new in PHP 7.3** (Lightning Talk)
+
+  (in German or English)
+  
+  Traditional introduction to the new release of PHP 7.3.
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
 
 <hr class="blockspace">
 
@@ -100,7 +97,7 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 <hr class="blockspace">
 
 <a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
-### <a name="event-calendar"></a>Event Kalender 2017
+### <a name="event-calendar"></a>Event Kalender 2018
 
 <div id="calendar"></div>
 
@@ -109,6 +106,54 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup VII / 2018 - Static Code Analysis &amp; Codeception am 12. November 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306865/)
+
+<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
+
+* **Testing with Codeception: Full-stack PHP testing framework** (Main talk)
+  
+  Codeception is a PHP testing framework for Behavior Driven Development, which covers all kinds of tests: unit tests, functional tests and acceptance tests. It is fast and simple in both usage and execution. This talk will give you a introduction to the software testing basics using codeception. It will also cover some stumbling blocks when writing tests, like:
+  
+  - Test code stability against small changes
+  - Data stability
+  - Test structure
+  
+  Last but not least I will give you a short outlook how to make your tests also understandable for product owners.
+  
+  By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
+  
+  [Watch the slides at Slideshare](https://www.slideshare.net/SusannSgorzaly/testing-mit-codeception-fullstack-testing-php-framework)
+
+* **Static Code Analysis in PHP** (Main talk)
+
+  The type system and static code analysis can help us find bugs in our code in a early phase without writing explicit tests.
+  I'll show you the requirements for your code to get the most of static analysis as well as the tools to get you started.
+  
+  By Benjamin Cremer ([<i class="fa fa-twitter"></i> @benjamincremer](https://twitter.com/benjamincremer))
+  
+  [Watch the slides](https://talks.benjamin-cremer.de/phpugdd_sca/#/)
+  
+<hr class="blockspace">
+
+#### [<i class="fa fa-meetup"></i> HACKTOBERFEST SPECIAL 18. Oktober 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/)
+
+<i class="fa fa-map-marker"></i> [FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/CNiPFmUs6j52) 
+
+<div class="row blockspace">
+    <div class="col-xs-12 text-center">
+        <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank">
+            <img src="@baseUrl@/images/events/meetups/hacktoberfest-2018.png" class="img-rounded img-responsive" alt="Hacktoberfest 2018">
+        </a>
+    </div>
+</div>
+
+This event is about creating pull requests in open-source projects on GitHub. 
+No matter what project or language, everyone is welcome, everyone can contribute.
+
+All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
 
@@ -119,6 +164,8 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
   Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
   
   By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+  
+  [Watch the slides](http://sebastian-feldmann.info/talks/2018/20180822-masterin-git.pdf)
 
 * **Marvelous Agents of Yield** (Main talk)
 
@@ -126,6 +173,8 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
   But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
   
   By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  
+  [Watch the slides on SpeakerDeck](https://speakerdeck.com/hollodotme/marvelous-agents-of-yield)
   
 <hr class="blockspace">
 

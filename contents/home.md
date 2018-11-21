@@ -27,46 +27,43 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 	</div>
 </div>
 
-<p class="blockspace">
-	Mehr Bilder und Videos folgen in Kürze.
-</p>
+[Schaut euch dir Bilder-Galerie vom Event an.](https://drive.google.com/open?id=1uT1DVKt_zBhP1DSZlzCXFBsxxwA7mEDG)
 
 <hr class="blockspace">
 
 ### Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> HACKTOBERFEST SPECIAL 18. Oktober 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/)
+#### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
 
-<i class="fa fa-map-marker"></i> [FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/CNiPFmUs6j52) 
-
-<div class="row blockspace">
-    <div class="col-xs-12 text-center">
-        <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank">
-            <img src="@baseUrl@/images/events/meetups/hacktoberfest-2018.png" class="img-rounded img-responsive" alt="Hacktoberfest 2018">
-        </a>
-    </div>
-</div>
-
-**Important:** This event is limited to 20 attendees.
-
-This event is about creating pull requests in open-source projects on GitHub. 
-No matter what project or language, everyone is welcome, everyone can contribute.
-
-All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/eoY98hKnCBM2) 
 
 **Programm / Program**
 
-* 17:30 (05:30pm) - Doors Open
+* 18:30 (06:30pm) - Doors Open
 
-* 18:00 (06:00pm) - **Hacktoberfest Introduction**
+* 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 18:30 (06:30pm) - Start hacking
+* 19:30 (07:30pm) - **GitLab Pipeline mit Codeception** (Main Talk)
 
-* 22:30 (10:30pm) - Stop hacking
+  (in German)
+  
+  Wir schauen uns die unterschiedlichen Testarten von Never Code Alone mit dem Codeception Framework an. API, 
+  Unit und Acceptance Tests. Ich erstelle neue Tests direkt Live in der Session und gehe auf die Vor- und Nachteile ein. 
+  Das ganze Pushen wir dann live zu GitLab und schauen uns einen Review Workflow an.
+  
+  By Roland Golla ([<i class="fa fa-twitter"></i> @nevercodealone](https://twitter.com/nevercodealone))
 
-**Bring your Laptop!** WiFi is available. We will have food and drinks.
+* 20:15 (08:15pm) - Short break
+
+* 19:30 (07:30pm) - **What's new in PHP 7.3** (Lightning Talk)
+
+  (in German or English)
+  
+  Traditional introduction to the new release of PHP 7.3.
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
 
 <hr class="blockspace">
 
@@ -80,6 +77,54 @@ All information about HACKTOBERFEST can be found here: https://hacktoberfest.dig
 
 ### Vergangene Events
 
+#### [<i class="fa fa-meetup"></i> Meetup VII / 2018 - Static Code Analysis &amp; Codeception am 12. November 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306865/)
+
+<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
+
+* **Testing with Codeception: Full-stack PHP testing framework** (Main talk)
+  
+  Codeception is a PHP testing framework for Behavior Driven Development, which covers all kinds of tests: unit tests, functional tests and acceptance tests. It is fast and simple in both usage and execution. This talk will give you a introduction to the software testing basics using codeception. It will also cover some stumbling blocks when writing tests, like:
+  
+  - Test code stability against small changes
+  - Data stability
+  - Test structure
+  
+  Last but not least I will give you a short outlook how to make your tests also understandable for product owners.
+  
+  By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
+  
+  [Watch the slides at Slideshare](https://www.slideshare.net/SusannSgorzaly/testing-mit-codeception-fullstack-testing-php-framework)
+
+* **Static Code Analysis in PHP** (Main talk)
+
+  The type system and static code analysis can help us find bugs in our code in a early phase without writing explicit tests.
+  I'll show you the requirements for your code to get the most of static analysis as well as the tools to get you started.
+  
+  By Benjamin Cremer ([<i class="fa fa-twitter"></i> @benjamincremer](https://twitter.com/benjamincremer))
+  
+  [Watch the slides](https://talks.benjamin-cremer.de/phpugdd_sca/#/)
+  
+<hr class="blockspace">
+
+#### [<i class="fa fa-meetup"></i> HACKTOBERFEST SPECIAL 18. Oktober 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/)
+
+<i class="fa fa-map-marker"></i> [FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/CNiPFmUs6j52) 
+
+<div class="row blockspace">
+    <div class="col-xs-12 text-center">
+        <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/" target="_blank">
+            <img src="@baseUrl@/images/events/meetups/hacktoberfest-2018.png" class="img-rounded img-responsive" alt="Hacktoberfest 2018">
+        </a>
+    </div>
+</div>
+
+This event is about creating pull requests in open-source projects on GitHub. 
+No matter what project or language, everyone is welcome, everyone can contribute.
+
+All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
+
+<hr class="blockspace">
+
 #### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
 
 <i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
@@ -89,6 +134,8 @@ All information about HACKTOBERFEST can be found here: https://hacktoberfest.dig
   Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
   
   By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
+  
+  [Watch the slides](http://sebastian-feldmann.info/talks/2018/20180822-masterin-git.pdf)
 
 * **Marvelous Agents of Yield** (Main talk)
 
@@ -96,6 +143,8 @@ All information about HACKTOBERFEST can be found here: https://hacktoberfest.dig
   But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
   
   By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  
+  [Watch the slides on SpeakerDeck](https://speakerdeck.com/hollodotme/marvelous-agents-of-yield)
 
 <hr class="blockspace">
 
@@ -132,100 +181,6 @@ All information about HACKTOBERFEST can be found here: https://hacktoberfest.dig
   By Carsten Sandtner ([<i class="fa fa-twitter"></i> @casarock](https://twitter.com/casarock))
   
   [Watch the slides on SpeakerDeck](https://speakerdeck.com/casarock/mixed-realities-in-your-browsers)
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup III / 2018 - Testing & CI am 19. April 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/)
-
-<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01069 Dresden](https://goo.gl/maps/eQa6SSncdzm)  
-<i class="fa fa-twitter"></i> [@LOVOOeng](https://twitter.com/LOVOOeng)
-
-* **From dev to prod with GitLab CI** (Main talk)
-
-  GitLab turned into a DevOps lifecycle platform instead of being 
-  "just" a web-based Git repository manager. In this session I'll guide you through the process of setting up 
-  GitLab and GitLab CI. You will learn some insights on how to configure a GitLab build via the .gitlab-ci.yml file. 
-  Together we will take a deep dive into the GitLab CI build pipelines to build and deploy docker containers to 
-  your dev, stage and production environments.
-  
-  By Stephan Hochdörfer ([<i class="fa fa-twitter"></i> @shochdoerfer](https://twitter.com/shochdoerfer))
-  
-  [Watch the slides again.](https://talks.bitexpert.de/phpugdd18-gitlabci/#/)
-
-* **Continuous Deployment 2.0: Playtime is Over** (Main Talk)
-
-  Continuous Deployment, TDD and Continuous Integration is nothing new anymore and many of you are already veterans deploying multiple times each day code into production. But you’re still suffering from cutting corners and doing something quick on production when time is pressing, violating the processes you all worked hard on to get approved.
-
-  In this talk we take this very concept to the next level and show you how we used unconventional ways to deploy faster with less issues and regained control over a 10+ year old legacy application.
-
-  By Michelangelo van Dam ([<i class="fa fa-twitter"></i> @DragonBe](https://twitter.com/DragonBe))
-  
-  [Watch the slides again](https://de.slideshare.net/DragonBe/continuous-deployment-20)
-
-<div class="row blockspace">
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-        <a href="@baseUrl@/images/events/meetups/2018-04-19-speakers.jpg" title="Speakers @ 19.04.2018">
-            <img src="@baseUrl@/images/events/meetups/2018-04-19-speakers_400x310.jpg" class="img-responsive">
-        </a>
-    </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-        <a href="@baseUrl@/images/events/meetups/2018-04-19-back.jpg" title="Back @ 19.04.2018">
-            <img src="@baseUrl@/images/events/meetups/2018-04-19-back_400x310.jpg" class="img-responsive">
-        </a>
-    </div>
-</div>
-<div class="row blockspace">
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-        <a href="@baseUrl@/images/events/meetups/2018-04-19-front.jpg" title="Front @ 19.04.2018">
-            <img src="@baseUrl@/images/events/meetups/2018-04-19-front_400x310.jpg" class="img-responsive">
-        </a>
-    </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-        <a href="@baseUrl@/images/events/meetups/2018-04-19-food.jpg" title="Food @ 19.04.2018">
-            <img src="@baseUrl@/images/events/meetups/2018-04-19-food_400x310.jpg" class="img-responsive">
-        </a>
-    </div>
-</div>
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup II / 2018 - DevOps & Automation am 07. März 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/)
-
-<i class="fa fa-map-marker"></i> [ITEXIA GmbH, Könneritzstr. 5, 01067 Dresden (1. OG - "Konferenzraum")](https://goo.gl/maps/oUv9Umv58182)  
-<i class="fa fa-twitter"></i> [@itexiagmbh](https://twitter.com/itexiagmbh)
-
-**Automate all the things** (Main talk)
-  
-As your company is growing it is important to have an environment that scales. So spinning up dev environments, 
-updating test systems, ensuring your code quality, running all your tests and releasing your software continuously 
-won’t distract you from developing great applications. I will show you how to automate repetitive tasks and how to 
-combine great automation tools like Jenkins, Ant and Ansible and make use of some handy PHP libraries, so you can 
-focus on the things that matter: Writing great software.
-  
-By Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
-
-* [Slides on sebastian-feldmann.info](https://sebastian-feldmann.info/talks/2018/20180307-AutomateAllTheThings.pdf)
-
-**Automation with Ansible** (Lightning talk)
-
-Automatisierung? ANSIBLE - Einfach. Sicher. Zuverlässig.
-
-Ansible ist ein Open-Source Werkzeug zur Automatisierung von Deployment-, Konfigurations- und Administrationsprozessen. 
-Die Beschreibung der Aufgaben basiert auf YAML und Jinja Templates. Es lässt sich zudem in Verbindung mit 
-Vagrant und Docker nutzen.
-
-By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
-
-* [Slides on slideshare.net](https://www.slideshare.net/SusannSgorzaly/automation-with-ansible-90025485) 
-
-<div class="row">
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-        <img src="@baseUrl@/images/events/meetups/2018-03-07-hall.png" class="img-responsive">
-    </div>
-    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-        <img src="@baseUrl@/images/events/meetups/2018-03-07-popcorn.png" class="img-responsive">
-    </div>
-</div>
 
 <hr class="blockspace">
 
@@ -340,7 +295,7 @@ By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.c
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="http://www.fortuneglobe.com" target="_blank">
-				<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
+				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>

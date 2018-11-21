@@ -19,7 +19,7 @@ E-Mail: <sponsoring@phpug-dresden.org>
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="http://www.fortuneglobe.com" target="_blank">
-				<img src="@baseUrl@/images/sponsors/fortuneglobe.jpg" alt="Fortuneglobe GmbH" class="img-responsive">
+				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>

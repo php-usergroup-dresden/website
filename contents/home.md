@@ -33,11 +33,11 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
+#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
 
-<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/eoY98hKnCBM2) 
+<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
 
 **Programm / Program**
 
@@ -45,25 +45,25 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 19:30 (07:30pm) - **GitLab Pipeline mit Codeception** (Main Talk)
+* 19:30 (07:30pm) - **TBA** (Main Talk)
 
-  (in German)
-  
-  Wir schauen uns die unterschiedlichen Testarten von Never Code Alone mit dem Codeception Framework an. API, 
-  Unit und Acceptance Tests. Ich erstelle neue Tests direkt Live in der Session und gehe auf die Vor- und Nachteile ein. 
-  Das ganze Pushen wir dann live zu GitLab und schauen uns einen Review Workflow an.
-  
-  By Roland Golla ([<i class="fa fa-twitter"></i> @nevercodealone](https://twitter.com/nevercodealone))
+  (in German or English)
 
 * 20:15 (08:15pm) - Short break
 
-* 19:30 (07:30pm) - **What's new in PHP 7.3** (Lightning Talk)
+* 19:30 (07:30pm) - **What the flag is CTF?** (Main Talk)
 
   (in German or English)
   
-  Traditional introduction to the new release of PHP 7.3.
+  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
   
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
+  
+  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
+  
+  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
+  
+  Mallle is part of the german CTF-Team @eatSleepPwnRepeat which since 2011 organizes the Capture the Flag contest at Chaos Communication Congress.
 
 <hr class="blockspace">
 
@@ -76,6 +76,20 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
+
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/eoY98hKnCBM2) 
+
+* **GitLab Pipeline mit Codeception** (Main Talk)
+
+  By Roland Golla ([<i class="fa fa-twitter"></i> @nevercodealone](https://twitter.com/nevercodealone))
+
+* **What's new in PHP 7.3** (Lightning Talk)
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup VII / 2018 - Static Code Analysis &amp; Codeception am 12. November 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306865/)
 

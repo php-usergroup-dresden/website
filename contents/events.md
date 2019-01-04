@@ -49,7 +49,63 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+
+#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
+
+<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
+
+**Programm / Program**
+
+* 18:30 (06:30pm) - Doors Open
+
+* 19:00 (07:00pm) - **Usergroup and Host Intro**
+
+* 19:30 (07:30pm) - **TBA** (Main Talk)
+
+  (in German or English)
+
+* 20:15 (08:15pm) - Short break
+
+* 19:30 (07:30pm) - **What the flag is CTF?** (Main Talk)
+
+  (in German or English)
+  
+  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
+  
+  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
+  
+  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
+  
+  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
+  
+  Mallle is part of the german CTF-Team @eatSleepPwnRepeat which since 2011 organizes the Capture the Flag contest at Chaos Communication Congress.
+
+<hr class="blockspace">
+
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
+Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
+<hr class="blockspace">
+
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
+### <a name="event-calendar"></a>Event Kalender 2018
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+&nbsp;
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
 
@@ -82,30 +138,6 @@
   By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
 
 <hr class="blockspace">
-
-### Call for Papers (CFP) - Always open!
-
-Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
-Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
-
-<hr class="blockspace">
-
-### Ein Meetup hosten?
-
-Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
-### <a name="event-calendar"></a>Event Kalender 2018
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
-
-&nbsp;
 
 #### [<i class="fa fa-meetup"></i> Meetup VII / 2018 - Static Code Analysis &amp; Codeception am 12. November 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306865/)
 

@@ -77,7 +77,7 @@
 
 * 20:15 (08:15pm) - Short break
 
-* 19:30 (07:30pm) - **What the flag is CTF?** (Main Talk)
+* 20:30 (08:30pm) - **What the flag is CTF?** (Main Talk)
 
   (in German or English)
   
@@ -90,6 +90,8 @@
   By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
   
   Mallle is part of the german CTF-Team @eatSleepPwnRepeat which since 2011 organizes the Capture the Flag contest at Chaos Communication Congress.
+
+* 21:15 (09:15pm) - Communiy & Socializing
 
 <hr class="blockspace">
 

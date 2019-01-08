@@ -61,9 +61,19 @@
 
 * 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 19:30 (07:30pm) - **TBA** (Main Talk)
+* 19:30 (07:30pm) - **XSS PHP CSP ETC OMG WTF BBQ** (Main Talk)
 
-  (in German or English)
+  (in English)
+  
+  How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about 
+  templating engines, XSS Filters, Content Security Policy and more.
+  
+  By Michal Špaček ([<i class="fa fa-twitter"></i> @spazef0rze](https://twitter.com/spazef0rze))
+  
+  Michal is a web developer, speaker & engineer. Building report-uri.com, making the web a bit more secure place. 
+  Full disclosure: we'll talk about report-uri.com too but this won't be a marketing talk, don't worry. 
+  I was talking about it before I started working on it, and talking about it is one of the reasons why I was invited to join. 
+  Here's an [article about me joining report-uri.com](https://www.michalspacek.com/adding-features-and-deleting-code-or-how-i-joined-report-uri).
 
 * 20:15 (08:15pm) - Short break
 

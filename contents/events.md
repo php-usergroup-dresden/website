@@ -75,17 +75,35 @@
   Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein 
   und wie die Integration für den Dienst SwissId realisiert wurde.
   
-  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankttdd](https://twitter.com/frankttdd))
+  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankTTDD](https://twitter.com/frankTTDD))
   
   Chefentwickler Backend bei tyclipso.net
 
-* 20:15 (08:15pm) - Short break
+* 20:00 (08:00pm) - Short break
 
-* 20:30 (08:30pm) - **TBA** (Main Talk)
+* 20:15 (08:15pm) - **Make Migration of Legacy Code Fun Again - from Years to Weeks** (Lightning Talk)
 
-  (in German or English)
+  Language: English
+  
+  By Tomáš Votruba ([<i class="fa fa-twitter"></i> @votrubaT](https://twitter.com/votrubaT))
+  
+  Learn faster, earn better money and work on projects that are meaningful to you.
+  I help programmers to unlock their inner powers, start believing in themselves and becoming 200 % productive with less wasted energy. 
 
-* 21:15 (09:15pm) - Communiy & Socializing
+* 20:45 (08:45pm) - Short break
+
+* 21:00 (09:00pm) - **Business Metrics with PHP, Prometheus & Grafana** (Lightning talk)
+
+  Language: German or English
+  
+  I will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use 
+  PHP to feed it with business metrics from your application and why you should do so.
+  
+  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  
+  CIO at FORTUNE SOLUTIONS
+
+* 21:30 (09:30pm) - Communiy & Socializing
 
 <hr class="blockspace">
 

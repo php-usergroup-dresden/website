@@ -49,11 +49,17 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<div class="blockspace">
+    <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-02-26-tyclipso.png" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive">
+    </a>
+</div>
 
-#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
+#### [<i class="fa fa-meetup"></i> Meetup II - OpenID Connect am 26. Februar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/)
+
+<i class="fa fa-map-marker"></i> [Tyclipso, Grundstr. 1, 01326 Dresden](https://goo.gl/maps/koQ3tZ4mzcv) 
 
 **Programm / Program**
 
@@ -61,35 +67,23 @@
 
 * 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 19:30 (07:30pm) - **XSS PHP CSP ETC OMG WTF BBQ** (Main Talk)
+* 19:30 (07:30pm) - **OpenID Connect** (Lightning Talk)
 
-  (in English)
+  Langauge: German
   
-  How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about 
-  templating engines, XSS Filters, Content Security Policy and more.
+  Man findet sie auf vielen Webseiten, die Login-Möglichkeiten über Google, Facebook oder Twitter. 
+  Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein 
+  und wie die Integration für den Dienst SwissId realisiert wurde.
   
-  By Michal Špaček ([<i class="fa fa-twitter"></i> @spazef0rze](https://twitter.com/spazef0rze))
+  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankttdd](https://twitter.com/frankttdd))
   
-  Michal is a web developer, speaker & engineer. Building report-uri.com, making the web a bit more secure place. 
-  Full disclosure: we'll talk about report-uri.com too but this won't be a marketing talk, don't worry. 
-  I was talking about it before I started working on it, and talking about it is one of the reasons why I was invited to join. 
-  Here's an [article about me joining report-uri.com](https://www.michalspacek.com/adding-features-and-deleting-code-or-how-i-joined-report-uri).
+  Chefentwickler Backend bei tyclipso.net
 
 * 20:15 (08:15pm) - Short break
 
-* 20:30 (08:30pm) - **What the flag is CTF?** (Main Talk)
+* 20:30 (08:30pm) - **TBA** (Main Talk)
 
   (in German or English)
-  
-  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
-  
-  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
-  
-  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
-  
-  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
-  
-  Mallle is part of the german CTF-Team @eatSleepPwnRepeat which since 2011 organizes the Capture the Flag contest at Chaos Communication Congress.
 
 * 21:15 (09:15pm) - Communiy & Socializing
 
@@ -118,6 +112,29 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
+
+<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
+
+* **XSS PHP CSP ETC OMG WTF BBQ** (Main Talk)
+  
+  How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about 
+  templating engines, XSS Filters, Content Security Policy and more.
+  
+  By Michal Špaček ([<i class="fa fa-twitter"></i> @spazef0rze](https://twitter.com/spazef0rze))
+
+* **What the flag is CTF?** (Main Talk)
+
+  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
+    
+  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
+
+  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
+
+  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
 

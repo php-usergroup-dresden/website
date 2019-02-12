@@ -33,11 +33,17 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<div class="blockspace">
+    <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-02-26-tyclipso.png" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive">
+    </a>
+</div>
 
-#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
+<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
+#### [<i class="fa fa-meetup"></i> Meetup II - OpenID Connect am 26. Februar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/)
+
+<i class="fa fa-map-marker"></i> [Tyclipso, Grundstr. 1, 01326 Dresden](https://goo.gl/maps/koQ3tZ4mzcv) 
 
 **Programm / Program**
 
@@ -45,35 +51,23 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 19:30 (07:30pm) - **XSS PHP CSP ETC OMG WTF BBQ** (Main Talk)
+* 19:30 (07:30pm) - **OpenID Connect** (Lightning Talk)
 
-  (in English)
+  Langauge: German
   
-  How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about 
-  templating engines, XSS Filters, Content Security Policy and more.
+  Man findet sie auf vielen Webseiten, die Login-Möglichkeiten über Google, Facebook oder Twitter. 
+  Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein 
+  und wie die Integration für den Dienst SwissId realisiert wurde.
   
-  By Michal Špaček ([<i class="fa fa-twitter"></i> @spazef0rze](https://twitter.com/spazef0rze))
+  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankttdd](https://twitter.com/frankttdd))
   
-  Michal is a web developer, speaker & engineer. Building report-uri.com, making the web a bit more secure place. 
-  Full disclosure: we'll talk about report-uri.com too but this won't be a marketing talk, don't worry. 
-  I was talking about it before I started working on it, and talking about it is one of the reasons why I was invited to join. 
-  Here's an [article about me joining report-uri.com](https://www.michalspacek.com/adding-features-and-deleting-code-or-how-i-joined-report-uri).
+  Chefentwickler Backend bei tyclipso.net
 
 * 20:15 (08:15pm) - Short break
 
-* 20:30 (08:30pm) - **What the flag is CTF?** (Main Talk)
+* 20:30 (08:30pm) - **TBA** (Main Talk)
 
   (in German or English)
-  
-  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
-  
-  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
-  
-  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
-  
-  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
-  
-  Mallle is part of the german CTF-Team @eatSleepPwnRepeat which since 2011 organizes the Capture the Flag contest at Chaos Communication Congress.
 
 * 21:15 (09:15pm) - Communiy & Socializing
 
@@ -88,6 +82,29 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
+
+<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
+
+* **XSS PHP CSP ETC OMG WTF BBQ** (Main Talk)
+  
+  How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about 
+  templating engines, XSS Filters, Content Security Policy and more.
+  
+  By Michal Špaček ([<i class="fa fa-twitter"></i> @spazef0rze](https://twitter.com/spazef0rze))
+
+* **What the flag is CTF?** (Main Talk)
+
+  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
+    
+  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
+
+  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
+
+  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
 
@@ -171,42 +188,6 @@ All information about HACKTOBERFEST can be found here: https://hacktoberfest.dig
   By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
   
   [Watch the slides on SpeakerDeck](https://speakerdeck.com/hollodotme/marvelous-agents-of-yield)
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup IV / 2018 - Legacy, FP, &amp; VR am 28. Mai 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/)
-
-<i class="fa fa-map-marker"></i> [thinkstep AG Tiergartenstraße 32, Dresden](https://goo.gl/maps/jE2s8DdanD92)  
-<i class="fa fa-twitter"></i> [@thinkstep](https://twitter.com/thinkstep)
-
-<img src="@baseUrl@/images/sponsors/thinkstep.png" alt="thinkstep AG" class="pull-right img-responsive" style="max-width:150px;">
-
-* **Reverse Engineering - Entwickeln gegen eine Blackbox** (Main talk)  
-  
-  Wir haben ein "Legacy Projekt" von einem unserer Dienstleister übernommen. Dieser hat seine eigene Bibliothek eingebunden und mit Sourceguardian verschlüsselt. Daraus ergeben sich jedoch viele Probleme, u.a. können keine PHP Upgrades durchgeführt werden, die Software wird dadurch unflexibel, ist nicht skalierbar und das größte Problem ist die Fehlersuche, da man den Quellcode nicht sehen kann.  
-  Momentan sind wir dabei, diese Blackbox zu ersetzen. Dazu werden Tests gegen die alten Funktionen geschrieben und die Logik neu implementiert. Ziel ist es, diese Bibliothek abzulösen, um alle notwendigen technischen Updates und Upgrades durchführen zu können.  
-  
-  By the thinkstep team ([<i class="fa fa-twitter"></i> @thinkstep](https://twitter.com/thinkstep))
-  
-  [Watch the Slides on SpeakerDeck](https://speakerdeck.com/cfroehner/reverse-engineering-entwickeln-gegen-eine-blackbox)
-
-* **No loops needed - Functional programming in PHP** (Lightning talk)
-
-  Funktionales Programmieren wird auch in nicht-funktionalen Sprachen immer beliebter.
-  Nachdem selbst Java funktionale Paradigmen in Form von Lambda-Ausdrücken implementiert hat, steht dem Aufstieg nichts mehr im Weg!
-  Wie das ganze in PHP aussieht, welche Gemeinsamkeiten es mit Lego gibt und warum Schleifen durch funktionales Programmieren (fast) obsolet werden, erfahrt Ihr in diesem Lightning Talk.
-  
-  By Alexander Lichter ([<i class="fa fa-twitter"></i> @TheAlexLichter](https://twitter.com/TheAlexLichter))
-  
-  [Watch the slides again](https://mannil.github.io/fp-in-php/#/)
-
-* **Mixed Realities for Web** (Main Talk)
-
-  Ok, let’s get real: VR in a Web Browser isn’t something new! 2017 Firefox rolled out their support for everyone. HTC Vive, Oculus Rift and other Hardware is being supported. You can create VR experiences using your Browser and Javascript. New browser engines are powerful enough to be able to serve the experiences on a open and standardised platform. But what about AR? Or Mixed Realities? Join my session and learn how AR or better said MR is getting into your browsers, too. See how and what the platform is being able to offer and what you could expect in near future.
-
-  By Carsten Sandtner ([<i class="fa fa-twitter"></i> @casarock](https://twitter.com/casarock))
-  
-  [Watch the slides on SpeakerDeck](https://speakerdeck.com/casarock/mixed-realities-in-your-browsers)
 
 <hr class="blockspace">
 

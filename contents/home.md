@@ -76,16 +76,17 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 20:45 (08:45pm) - Short break
 
-* 21:00 (09:00pm) - **Business Metrics with PHP, Prometheus & Grafana** (Lightning talk)
+* 21:00 (09:00pm) - **Business Metrics with PHP, Prometheus, Grafana & more** (Lightning talk)
 
   Language: German or English
   
-  I will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use 
-  PHP to feed it with business metrics from your application and why you should do so.
+  We will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use 
+  PHP to feed it with business metrics from your applications and why you should do so. We will also mention other 
+  data sources and alerting APIs.
   
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
+  By Michael Grundkötter ([<i class="fa fa-twitter"></i> @Grundi2](https://twitter.com/Grundi2)) - CEO & Developer at ujamii smart solutions
   
-  CIO at FORTUNE SOLUTIONS
+  and Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at FORTUNE SOLUTIONS
 
 * 21:30 (09:30pm) - Communiy & Socializing
 

@@ -34,16 +34,16 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 ### Nächstes Event
 
 <div class="blockspace">
-    <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-02-26-tyclipso.png" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive">
+    <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-04-10-portrino.png" alt="MEETUP III/2019 • portrino • Dresden" class="img-responsive">
     </a>
 </div>
 
-<a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [<i class="fa fa-meetup"></i> Meetup II - OpenID Connect am 26. Februar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/)
+#### [Meetup III am 10. April 2019](https://gettogether.community/events/910/meetup-iii-2019/)
 
-<i class="fa fa-map-marker"></i> [Tyclipso, Grundstr. 1, 01326 Dresden](https://goo.gl/maps/koQ3tZ4mzcv) 
+<i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstraße 3, Dresden](https://gettogether.community/places/265/) 
 
 **Programm / Program**
 
@@ -51,44 +51,13 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 * 19:00 (07:00pm) - **Usergroup and Host Intro**
 
-* 19:30 (07:30pm) - **OpenID Connect** (Lightning Talk)
-
-  Langauge: German
-  
-  Man findet sie auf vielen Webseiten, die Login-Möglichkeiten über Google, Facebook oder Twitter. 
-  Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein 
-  und wie die Integration für den Dienst SwissId realisiert wurde.
-  
-  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankTTDD](https://twitter.com/frankTTDD))
-  
-  Chefentwickler Backend bei tyclipso.net
+* 19:30 (07:30pm) - **TBA** (Lightning Talk)
 
 * 20:00 (08:00pm) - Short break
 
-* 20:15 (08:15pm) - **Make Migration of Legacy Code Fun Again - from Years to Weeks** (Lightning Talk)
+* 20:15 (08:15pm) - **TBA** (Main talk)
 
-  Language: English
-  
-  By Tomáš Votruba ([<i class="fa fa-twitter"></i> @votrubaT](https://twitter.com/votrubaT))
-  
-  Learn faster, earn better money and work on projects that are meaningful to you.
-  I help programmers to unlock their inner powers, start believing in themselves and becoming 200 % productive with less wasted energy. 
-
-* 20:45 (08:45pm) - Short break
-
-* 21:00 (09:00pm) - **Business Metrics with PHP, Prometheus, Grafana & more** (Lightning talk)
-
-  Language: German or English
-  
-  We will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use 
-  PHP to feed it with business metrics from your applications and why you should do so. We will also mention other 
-  data sources and alerting APIs.
-  
-  By Michael Grundkötter ([<i class="fa fa-twitter"></i> @Grundi2](https://twitter.com/Grundi2)) - CEO & Developer at ujamii smart solutions
-  
-  and Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at FORTUNE SOLUTIONS
-
-* 21:30 (09:30pm) - Communiy & Socializing
+* 21:00 (09:00pm) - Communiy & Socializing
 
 <hr class="blockspace">
 
@@ -101,6 +70,53 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <hr class="blockspace">
 
 ### Vergangene Events
+
+<div class="blockspace">
+    <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-02-26-tyclipso.png" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive">
+    </a>
+</div>
+
+#### [<i class="fa fa-meetup"></i> Meetup II - OpenID Connect am 26. Februar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/)
+
+<i class="fa fa-map-marker"></i> [Tyclipso, Grundstr. 1, 01326 Dresden](https://goo.gl/maps/koQ3tZ4mzcv) 
+
+* **OpenID Connect** (Lightning Talk)
+
+  Man findet sie auf vielen Webseiten, die Login-Möglichkeiten über Google, Facebook oder Twitter. 
+  Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein 
+  und wie die Integration für den Dienst SwissId realisiert wurde.
+  
+  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankTTDD](https://twitter.com/frankTTDD))
+  
+  Chefentwickler Backend bei tyclipso.net
+  
+  [View slides](@baseUrl@/downloads/meetups/2019-02-26-OIDC_OAuth2_JWT_JWK_frank_hoenisch_tyclipso.pdf)
+
+* **Make Migration of Legacy Code Fun Again - from Years to Weeks** (Lightning Talk)
+
+  By Tomáš Votruba ([<i class="fa fa-twitter"></i> @votrubaT](https://twitter.com/votrubaT))
+  
+  Learn faster, earn better money and work on projects that are meaningful to you.
+  I help programmers to unlock their inner powers, start believing in themselves and becoming 200 % productive with less wasted energy. 
+
+  [View slides](https://www.tomasvotruba.cz/talks/)
+
+* **Business Metrics with PHP, Prometheus, Grafana & more** (Lightning talk)
+
+  We will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use 
+  PHP to feed it with business metrics from your applications and why you should do so. We will also mention other 
+  data sources and alerting APIs.
+  
+  By Michael Grundkötter ([<i class="fa fa-twitter"></i> @Grundi2](https://twitter.com/Grundi2)) - CEO & Developer at ujamii smart solutions
+  
+  and Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at FORTUNE SOLUTIONS
+
+<div class="blockspace">
+    <img src="@baseUrl@/images/events/meetups/meetup-2-2019.jpg" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive img-rounded">
+</div>
+
+<hr class="blockspace">
 
 #### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
 
@@ -184,29 +200,6 @@ This event is about creating pull requests in open-source projects on GitHub.
 No matter what project or language, everyone is welcome, everyone can contribute.
 
 All information about HACKTOBERFEST can be found here: https://hacktoberfest.digitalocean.com
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup VI / 2018 - GIT &amp; Generators am 22. August 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/)
-
-<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
-
-* **Mastering git – Insights & Tips & Tricks** (Main talk)
-  
-  Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.
-  
-  By the Sebastian Feldmann ([<i class="fa fa-twitter"></i> @movetodevnull](https://twitter.com/movetodevnull))
-  
-  [Watch the slides](http://sebastian-feldmann.info/talks/2018/20180822-masterin-git.pdf)
-
-* **Marvelous Agents of Yield** (Main talk)
-
-  Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation.
-  But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.
-  
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
-  
-  [Watch the slides on SpeakerDeck](https://speakerdeck.com/hollodotme/marvelous-agents-of-yield)
 
 <hr class="blockspace">
 

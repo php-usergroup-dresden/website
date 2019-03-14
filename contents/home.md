@@ -41,23 +41,41 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [Meetup III am 10. April 2019](https://gettogether.community/events/910/meetup-iii-2019/)
+#### [Meetup III am 10. April 2019 - OSS Contributing & Event Sourced CMS](https://gettogether.community/events/910/meetup-iii-2019/)
 
 <i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstraße 3, Dresden](https://gettogether.community/places/265/) 
 
 **Programm / Program**
 
-* 18:30 (06:30pm) - Doors Open
+18:30 Uhr (06:30pm) - Doors Open
 
-* 19:00 (07:00pm) - **Usergroup and Host Intro**
+19:00 Uhr (07:00pm) - User group + Host Intro
 
-* 19:30 (07:30pm) - **TBA** (Lightning Talk)
+19:30 Uhr (07:30pm) - **Fork, Checkout, Branch, PR, WTF? - OSS Contribution in 3 minutes** (Lightning talk)
 
-* 20:00 (08:00pm) - Short break
+Language: German or English
 
-* 20:15 (08:15pm) - **TBA** (Main talk)
+Github is a very cool platform for Open Source Software projects (OSS). Everyone can contribute with just a few clicks. There is no need to fork, branch and create a PR yourself - GitHub will do all those steps for you! All you need is a GitHub account.
 
-* 21:00 (09:00pm) - Communiy & Socializing
+I would like to show how easy this process is with just a browser, you don't even need to install git or an IDE to contribute.
+
+By Michael Grundkötter ([@Grundi2](https://twitter.com/Grundi2)) - CEO of ujamii GmbH
+
+20:15 Uhr (08:15pm) - Short break
+
+20:30 Uhr (08:30pm) - **Event Sourcing am Beispiel des Neos Content Repository** (Main talk)
+
+Language: German or English
+
+Wir sind momentan dabei, eine der wichtigsten Komponenten in [Neos CMS](https://www.neos.io) mit Event Sourcing neu zu entwickeln. Ich will in diesem Talk zeigen, wie man Event Sourcing in der Praxis anwenden kann.
+
+Zuerst wird erklärt, was Event Sourcing und CQRS ist, in welchen Kontexten es Verwendung findet und welche Vor- und Nachteile dieses architekturelle Pattern hat. Danach gibt es eine kurze Einführung in die Architektur von Neos, insbesondere des Content Repository, um die aktuellen Probleme und Schwächen der bisherigen Architektur (ohne Event Sourcing) aufzuzeigen.
+
+Der Hauptteil des Talks ist die konkrete Demonstration von Event Sourcing am Beispiel des Neos Content Repositories; um zu demonstrieren, wie sich dieses architekturelle Pattern auf größere, langlebige Projekte auswirkt.
+
+By Sebastian Kurfürst ([@skurfuerst](https://twitter.com/skurfuerst)) - Sebastian is a member of the Flow and Neos team almost since its inception. He is most known for his work on Fluid, Extbase and Fusion, but has worked on other parts of the source code as well. As co-founder and CTO at Sandstorm he helps to build relevant solutions for clients, helping them to choose the right frontend and backend technologies. In his free time, you'll most likely find spend time with his wife and son, or you'll see him climbing in the Saxon Switzerland.
+
+21:30 Uhr (09:15pm) - Community + Socializing
 
 <hr class="blockspace">
 

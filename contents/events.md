@@ -36,12 +36,12 @@
 			Hier findest du einen Überblick über all unsere Treffen und größere Developer Days.
 			Wir versuchen unser bestes alle 6 Wochen ein Meetup auf die Beine zu stellen. 
 		</p><p>	 
-			Ab sofort kannst du dich auch der <a href="http://www.meetup.com/PHP-USERGROUP-DRESDEN/" target="_blank" title="PHP USERGROUP DRESDEN auf meetup.com">PHP USERGROUP DRESDEN auf meetup.com</a> anschließen. 
+			Ab sofort kannst du dich auch der <a href="https://gettogether.community/php-usergroup-dresden-ev-774/" target="_blank" title="PHP USERGROUP DRESDEN auf gettogether.community">PHP USERGROUP DRESDEN auf gettogether.community</a> anschließen. 
 			Dort werden wir alle künftigen Meetups veröffentlichen.
 		</p>
 	</div>
 	<div class="hidden-xs col-sm-3 col-md-2 col-lg-2">
-		<img src="@baseUrl@/images/meetup-logo.jpg" class="img-responsive pull-right">
+		<img src="@baseUrl@/images/gettogether-logo.png" class="img-responsive pull-right">
 	</div>
 </div>
 

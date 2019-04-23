@@ -50,16 +50,16 @@
 ### <a name="next-event"></a>Nächstes Event
 
 <div class="blockspace">
-    <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-04-10-portrino.png" alt="MEETUP III/2019 • portrino • Dresden" class="img-responsive">
+    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-05-23-offerista.png" alt="MEETUP IV/2019 • offerista • Dresden" class="img-responsive">
     </a>
 </div>
 
-<a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+<a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [Meetup III am 10. April 2019 - OSS Contributing & Event Sourced CMS](https://gettogether.community/events/910/meetup-iii-2019/)
+#### [Meetup IV am 23. Mai 2019 - GraphQL + Doctrine + Mutation testing](https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/)
 
-<i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstraße 3, Dresden](https://gettogether.community/places/265/) 
+<i class="fa fa-map-marker"></i> [Offerista GmbH, Schützenplatz 14, Dresden](https://gettogether.community/places/314/) 
 
 **Programm / Program**
 
@@ -67,29 +67,25 @@
 
 19:00 Uhr (07:00pm) - User group + Host Intro
 
-19:30 Uhr (07:30pm) - **Fork, Checkout, Branch, PR, WTF? - OSS Contribution in 3 minutes** (Lightning talk)
+19:30 Uhr (07:30pm) - **Practical GraphQL with Symfony and Doctrine** (Lightning talk)
 
-Language: German or English
+Language: English
 
-Github is a very cool platform for Open Source Software projects (OSS). Everyone can contribute with just a few clicks. There is no need to fork, branch and create a PR yourself - GitHub will do all those steps for you! All you need is a GitHub account.
+GraphQL is an interesting way of exposing data for client applications. Allows for highly customised data transfers based on requirements of the consumer, let it be some other system or web site. Aim of this talk would be to present the basic concepts of GraphQL and show example implementation of data retrieval, data mutations and handling lists of data in Symfony Framework.
 
-I would like to show how easy this process is with just a browser, you don't even need to install git or an IDE to contribute.
+I propose lightning talk, where basic concepts are described and example code shown and demonstrated, there are possible some more in-depth topics, the question is, whether to extend it to full talk, which I am not sure, if there are enough interesting things.
 
-By Michael Grundkötter ([@Grundi2](https://twitter.com/Grundi2)) - CEO of ujamii GmbH
+By Miro Hudak - 20+ years of experience in software development (C#, PHP, Java, ObjC/Swift) for corporate and private clients
 
 20:15 Uhr (08:15pm) - Short break
 
-20:30 Uhr (08:30pm) - **Event Sourcing am Beispiel des Neos Content Repository** (Main talk)
+20:30 Uhr (08:30pm) - **Mutation Testing** (Main talk)
 
-Language: German or English
+Language: English
 
-Wir sind momentan dabei, eine der wichtigsten Komponenten in [Neos CMS](https://www.neos.io) mit Event Sourcing neu zu entwickeln. Ich will in diesem Talk zeigen, wie man Event Sourcing in der Praxis anwenden kann.
+With the rise of cyber attacks and an increasing competitive market, it’s even more important to ensure that your application delivers exactly what you had envisioned and you can make changes continuously. By providing mutation testing in your set of tests, you at least have a good indicator where to focus your attention and ensure a successful deployment every time. In this session we’re going to look at Infection, the Mutation Testing Framework for PHP and show with an example application how these mutations can have a negative impact on your application and how you can use Infection to mitigate these risks and improve the quality of your tests and your application source code.
 
-Zuerst wird erklärt, was Event Sourcing und CQRS ist, in welchen Kontexten es Verwendung findet und welche Vor- und Nachteile dieses architekturelle Pattern hat. Danach gibt es eine kurze Einführung in die Architektur von Neos, insbesondere des Content Repository, um die aktuellen Probleme und Schwächen der bisherigen Architektur (ohne Event Sourcing) aufzuzeigen.
-
-Der Hauptteil des Talks ist die konkrete Demonstration von Event Sourcing am Beispiel des Neos Content Repositories; um zu demonstrieren, wie sich dieses architekturelle Pattern auf größere, langlebige Projekte auswirkt.
-
-By Sebastian Kurfürst ([@skurfuerst](https://twitter.com/skurfuerst)) - Sebastian is a member of the Flow and Neos team almost since its inception. He is most known for his work on Fluid, Extbase and Fusion, but has worked on other parts of the source code as well. As co-founder and CTO at Sandstorm he helps to build relevant solutions for clients, helping them to choose the right frontend and backend technologies. In his free time, you'll most likely find spend time with his wife and son, or you'll see him climbing in the Saxon Switzerland.
+By Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - CEO of in2it vof, Belgium
 
 21:30 Uhr (09:15pm) - Community + Socializing
 
@@ -118,6 +114,36 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+<div class="blockspace">
+    <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-04-10-portrino.png" alt="MEETUP III/2019 • portrino • Dresden" class="img-responsive">
+    </a>
+</div>
+
+#### [Meetup III am 10. April 2019 - OSS Contributing & Event Sourced CMS](https://gettogether.community/events/910/meetup-iii-2019/)
+
+<i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstraße 3, Dresden](https://gettogether.community/places/265/) 
+
+*  **Fork, Checkout, Branch, PR, WTF? - OSS Contribution in 3 minutes** (Lightning talk)
+
+  Github is a very cool platform for Open Source Software projects (OSS). Everyone can contribute with just a few clicks. There is no need to fork, branch and create a PR yourself - GitHub will do all those steps for you! All you need is a GitHub account.
+
+  I would like to show how easy this process is with just a browser, you don't even need to install git or an IDE to contribute.
+
+  By Michael Grundkötter ([@Grundi2](https://twitter.com/Grundi2)) - CEO of ujamii GmbH
+
+* **Event Sourcing am Beispiel des Neos Content Repository** (Main talk)
+
+  Wir sind momentan dabei, eine der wichtigsten Komponenten in [Neos CMS](https://www.neos.io) mit Event Sourcing neu zu entwickeln. Ich will in diesem Talk zeigen, wie man Event Sourcing in der Praxis anwenden kann.
+  
+  Zuerst wird erklärt, was Event Sourcing und CQRS ist, in welchen Kontexten es Verwendung findet und welche Vor- und Nachteile dieses architekturelle Pattern hat. Danach gibt es eine kurze Einführung in die Architektur von Neos, insbesondere des Content Repository, um die aktuellen Probleme und Schwächen der bisherigen Architektur (ohne Event Sourcing) aufzuzeigen.
+  
+  Der Hauptteil des Talks ist die konkrete Demonstration von Event Sourcing am Beispiel des Neos Content Repositories; um zu demonstrieren, wie sich dieses architekturelle Pattern auf größere, langlebige Projekte auswirkt.
+  
+  By Sebastian Kurfürst ([@skurfuerst](https://twitter.com/skurfuerst)) - Sebastian is a member of the Flow and Neos team almost since its inception. He is most known for his work on Fluid, Extbase and Fusion, but has worked on other parts of the source code as well. As co-founder and CTO at Sandstorm he helps to build relevant solutions for clients, helping them to choose the right frontend and backend technologies. In his free time, you'll most likely find spend time with his wife and son, or you'll see him climbing in the Saxon Switzerland.
+
+<hr class="blockspace">
 
 <div class="blockspace">
     <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank">

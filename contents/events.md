@@ -7,7 +7,7 @@
     			Alles rund um die phpCE findet Ihr auf der <a href="https://2019.phpce.eu/de/#about" target="_blank" title="phpCE Konferenz Webseite">phpCE Webseite</a>
     		</p><p>	 
     			Die phpCE ist ein Event, dass sich an eine große Gruppe von Software-Entwicklern und PHP-Enthusiasten aus ganz Zentral-Europa und darüber hinaus richtet.
-    			Wir als Verein unterstptzen die diesjährige Ausrichtung. 
+    			Wir als Verein unterstützen die diesjährige Ausrichtung. 
     		</p><p>	 
     			Ab sofort kannst du für die <a href="https://2019.phpce.eu/de/#tickets" target="_blank" title="phpCE Eintrittskarten">phpCE Tickets kaufen</a>. 
     			Komm vorbei und treffe uns und andere aus der Community in Dresden.

@@ -12,7 +12,7 @@ This website is open source, so please feel free to edit and send us a pull requ
 
 Please read our **[contribution guide](.github/CONTRIBUTING.md)** to learn more on how to edit the website and propose changes.
 
-## Want to speak at our user group?
+## You want to speak at our user group?
 
 We're always looking for (lightning) talks for our meetups.
  

@@ -58,17 +58,11 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
-<div class="blockspace">
-    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-05-23-offerista.png" alt="MEETUP IV/2019 • offerista • Dresden" class="img-responsive">
-    </a>
-</div>
+<a href="https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-<a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+#### [Meetup VI am 13. August 2019 - IaC mit Pulumi](https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/)
 
-#### [Meetup IV am 23. Mai 2019 - GraphQL + Doctrine + Mutation testing](https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/)
-
-<i class="fa fa-map-marker"></i> [Offerista GmbH, Schützenplatz 14, Dresden](https://gettogether.community/places/314/) 
+<i class="fa fa-map-marker"></i> [K11 Ersatzteilshop GmbH, Alaunstr. 9, Dresden](https://gettogether.community/places/533/) 
 
 **Programm / Program**
 
@@ -76,27 +70,19 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 19:00 Uhr (07:00pm) - User group + Host Intro
 
-19:30 Uhr (07:30pm) - **Practical GraphQL with Symfony and Doctrine** (Lightning talk)
+19:30 Uhr (07:30pm) - **Infrastructure as a real code with Pulumi** (Main talk)
 
-Language: English
+Language: German
 
-GraphQL is an interesting way of exposing data for client applications. Allows for highly customised data transfers based on requirements of the consumer, let it be some other system or web site. Aim of this talk would be to present the basic concepts of GraphQL and show example implementation of data retrieval, data mutations and handling lists of data in Symfony Framework.
+“Infrastructure as Code” (IaC) heißt das Zauberwort, wenn es darum geht Software-defined Infrastructure für massiv skalierbare und hoch verfügbare Cloud-Anwendungen automatisierbar und revisionierbar bereitzustellen. Werkzeuge wie z.B. Ansible, Chef, Puppet, Terraform und ARM Templates erfordern das Erlernen einer weiteren speziellen Sprache (DSL) oder basieren auf JSON/YAML Templating. Wir glauben, dass die Verwendung einer bekannten Programmiersprache, wie JavaScript oder Python, in Verbindung mit echter “Infrastructure as Code”-Funktionalität eine interessante Kombination darstellt, die wir im Folgenden auf Basis von “Pulumi” näher vorstellen wollen.
 
-I propose lightning talk, where basic concepts are described and example code shown and demonstrated, there are possible some more in-depth topics, the question is, whether to extend it to full talk, which I am not sure, if there are enough interesting things.
+https://www.pulumi.com
 
-By Miro Hudak - 20+ years of experience in software development (C#, PHP, Java, ObjC/Swift) for corporate and private clients
+In der Live-Demo wollen wir - beginnend mit einer einfachen Web App - einen ersten Infrastruktur-Stack programmieren. Darauf aufbauend soll gezeigt werden, wie leicht man sich wiederverwendbare Infrastruktur-Komponenten erstellen kann. Die komplett automatisierte Provisionierung eines Kubernetes Clusters samt Deployment einer umfangreichen Cloud Native Applikation sollen die Möglichkeiten der Verwendung einer General Purpose Programmiersprache wie z.B. JavaScript aufzeigen.
 
-20:15 Uhr (08:15pm) - Short break
+By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv) 
 
-20:30 Uhr (08:30pm) - **Mutation Testing** (Main talk)
-
-Language: English
-
-With the rise of cyber attacks and an increasing competitive market, it’s even more important to ensure that your application delivers exactly what you had envisioned and you can make changes continuously. By providing mutation testing in your set of tests, you at least have a good indicator where to focus your attention and ensure a successful deployment every time. In this session we’re going to look at Infection, the Mutation Testing Framework for PHP and show with an example application how these mutations can have a negative impact on your application and how you can use Infection to mitigate these risks and improve the quality of your tests and your application source code.
-
-By Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - CEO of in2it vof, Belgium
-
-21:30 Uhr (09:15pm) - Community + Socializing
+20:30 Uhr (08:30pm) - **Community + Socializing**
 
 <hr class="blockspace">
 
@@ -109,6 +95,24 @@ By Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - CEO of in2
 <hr class="blockspace">
 
 ### Vergangene Events
+
+<div class="blockspace">
+    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-05-23-offerista.png" alt="MEETUP IV/2019 • offerista • Dresden" class="img-responsive">
+    </a>
+</div>
+
+#### [Meetup IV am 23. Mai 2019 - GraphQL + Doctrine + Mutation testing](https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/)
+
+<i class="fa fa-map-marker"></i> [Offerista GmbH, Schützenplatz 14, Dresden](https://gettogether.community/places/314/) 
+
+- **Practical GraphQL with Symfony and Doctrine** (Lightning talk)  
+  By Miro Hudak
+
+- **Mutation Testing** (Main talk)  
+  By Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - CEO of in2it vof, Belgium
+
+<hr class="blockspace">
 
 <div class="blockspace">
     <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank">

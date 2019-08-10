@@ -74,13 +74,63 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
+<a href="https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+
+#### [Meetup VI am 13. August 2019 - IaC mit Pulumi](https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/)
+
+<i class="fa fa-map-marker"></i> [K11 Ersatzteilshop GmbH, Alaunstr. 9, Dresden](https://gettogether.community/places/533/) 
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+19:00 Uhr (07:00pm) - User group + Host Intro
+
+19:30 Uhr (07:30pm) - **Infrastructure as a real code with Pulumi** (Main talk)
+
+Language: German
+
+“Infrastructure as Code” (IaC) heißt das Zauberwort, wenn es darum geht Software-defined Infrastructure für massiv skalierbare und hoch verfügbare Cloud-Anwendungen automatisierbar und revisionierbar bereitzustellen. Werkzeuge wie z.B. Ansible, Chef, Puppet, Terraform und ARM Templates erfordern das Erlernen einer weiteren speziellen Sprache (DSL) oder basieren auf JSON/YAML Templating. Wir glauben, dass die Verwendung einer bekannten Programmiersprache, wie JavaScript oder Python, in Verbindung mit echter “Infrastructure as Code”-Funktionalität eine interessante Kombination darstellt, die wir im Folgenden auf Basis von “Pulumi” näher vorstellen wollen.
+
+https://www.pulumi.com
+
+In der Live-Demo wollen wir - beginnend mit einer einfachen Web App - einen ersten Infrastruktur-Stack programmieren. Darauf aufbauend soll gezeigt werden, wie leicht man sich wiederverwendbare Infrastruktur-Komponenten erstellen kann. Die komplett automatisierte Provisionierung eines Kubernetes Clusters samt Deployment einer umfangreichen Cloud Native Applikation sollen die Möglichkeiten der Verwendung einer General Purpose Programmiersprache wie z.B. JavaScript aufzeigen.
+
+By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv) 
+
+20:30 Uhr (08:30pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
+Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
+<hr class="blockspace">
+
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
+### <a name="event-calendar"></a>Event Kalender 2018
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+&nbsp;
+
 <div class="blockspace">
     <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
         <img src="@baseUrl@/images/events/meetups/2019-05-23-offerista.png" alt="MEETUP IV/2019 • offerista • Dresden" class="img-responsive">
     </a>
 </div>
-
-<a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
 #### [Meetup IV am 23. Mai 2019 - GraphQL + Doctrine + Mutation testing](https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/)
 
@@ -115,30 +165,6 @@ By Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - CEO of in2
 21:30 Uhr (09:15pm) - Community + Socializing
 
 <hr class="blockspace">
-
-### Call for Papers (CFP) - Always open!
-
-Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
-Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
-
-<hr class="blockspace">
-
-### Ein Meetup hosten?
-
-Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
-### <a name="event-calendar"></a>Event Kalender 2018
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
-
-&nbsp;
 
 <div class="blockspace">
     <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank">

@@ -7,31 +7,6 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-## Kommt zur phpCE 2019 nach Dresden!
- 
-<div class="row blockspace">
-   <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10">
-	  <p>
-		 Dieses Jahr findet die phpCE in Dresden statt und Ihr seid alle eingeladen!
-		 Alles rund um die phpCE findet Ihr auf der <a href="https://2019.phpce.eu/de/#about" target="_blank" title="phpCE Konferenz Webseite">phpCE Webseite</a>
-	  </p><p>     
-		 Die phpCE ist ein Event, dass sich an eine große Gruppe von Software-Entwicklern und PHP-Enthusiasten aus ganz Zentral-Europa und darüber hinaus richtet.
-		 Wir als Verein unterstützen die diesjährige Ausrichtung. 
-	  </p><p>     
-		 Ab sofort kannst du für die <a href="https://2019.phpce.eu/de/#tickets" target="_blank" title="phpCE Eintrittskarten">phpCE Tickets kaufen</a>. 
-		 Komm vorbei und treffe uns und andere aus der Community in Dresden.
-	  </p>
-   </div>
-   <div class="hidden-xs col-sm-3 col-md-2 col-lg-2">
-	  <img src="@baseUrl@/images/coops/phpce-logo.png" alt="Logo phpCE - php Central Europe" class="img-responsive pull-right">
-   </div>
-   <div class="hidden-xs blockspace">
-	  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tYXyP2kLYuI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   </div>
-</div>
-
-<hr class="blockspace">
-
 ## Wir sagen Danke!
 
 <div class="row">
@@ -57,6 +32,12 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 <hr class="blockspace">
 
 ### Nächstes Event
+
+<div class="blockspace">
+    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-08-13-meetup.png" alt="MEETUP VI/2019 • K11 Ersatzteile GmbH • Dresden" class="img-responsive">
+    </a>
+</div>
 
 <a href="https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 

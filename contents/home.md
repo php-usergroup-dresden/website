@@ -7,43 +7,13 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-## Wir sagen Danke!
-
-<div class="row">
-	<div class="col-xs-12 col-sm-6">
-		<h3>Für die erfolgreichen<br>PHP Developer Days 2018</h3>
-		<p>Der Dank gebührt allen Beteiligten und besonders </p>
-		<ul>
-			<li>Unseren Workshop- und Conference-Gästen</li>
-			<li>Den 7 Workshop Trainern</li>
-			<li>Den 11 Conference Speaker</li>
-			<li>Unseren Sponsoren</li>
-			<li>Den PHP Usergroups, die uns unterstützten</li>
-        </ul>
-        <i class="fa fa-twitter"></i> Follow <a href="https://twitter.com/PHPDD"><b>@PHPDD</b></a> - Hashtag: <a href="https://twitter.com/#PHPDD18"><b>#PHPDD18</b></a>
-	</div>
-	<div class="col-xs-12 col-sm-6">
-		<img src="@baseUrl@/images/events/phpdd18/thanks.png" alt="PHP Developer Days 2018: 21. und 22. September" class="img-responsive"/>
-	</div>
-</div>
-
-[Schaut euch dir Bilder-Galerie vom Event an.](https://drive.google.com/open?id=1uT1DVKt_zBhP1DSZlzCXFBsxxwA7mEDG)
-
-<hr class="blockspace">
-
 ### Nächstes Event
 
-<div class="blockspace">
-    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-08-13-meetup.png" alt="MEETUP VI/2019 • K11 Ersatzteile GmbH • Dresden" class="img-responsive">
-    </a>
-</div>
+<a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-<a href="https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
+#### [Meetup VI am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
-#### [Meetup VI am 13. August 2019 - IaC mit Pulumi](https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/)
-
-<i class="fa fa-map-marker"></i> [K11 Ersatzteilshop GmbH, Alaunstr. 9, Dresden](https://gettogether.community/places/533/) 
+<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01099 Dresden](https://gettogether.community/places/539/) 
 
 **Programm / Program**
 
@@ -51,19 +21,30 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 19:00 Uhr (07:00pm) - User group + Host Intro
 
-19:30 Uhr (07:30pm) - **Infrastructure as a real code with Pulumi** (Main talk)
+19:30 Uhr (07:30pm) - **Open** (Lightning talk)
+
+20:00 Uhr (08:00pm) - **Event Sourcing** (Main talk)
+
+by [Ronny Hartenstein](https://twitter.com/rhflow_de)
 
 Language: German
+ 
+20:45 Uhr (08:45pm) - **Community + Socializing**
 
-“Infrastructure as Code” (IaC) heißt das Zauberwort, wenn es darum geht Software-defined Infrastructure für massiv skalierbare und hoch verfügbare Cloud-Anwendungen automatisierbar und revisionierbar bereitzustellen. Werkzeuge wie z.B. Ansible, Chef, Puppet, Terraform und ARM Templates erfordern das Erlernen einer weiteren speziellen Sprache (DSL) oder basieren auf JSON/YAML Templating. Wir glauben, dass die Verwendung einer bekannten Programmiersprache, wie JavaScript oder Python, in Verbindung mit echter “Infrastructure as Code”-Funktionalität eine interessante Kombination darstellt, die wir im Folgenden auf Basis von “Pulumi” näher vorstellen wollen.
+### Vergangene Events
 
-https://www.pulumi.com
+<div class="blockspace">
+    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
+        <img src="@baseUrl@/images/events/meetups/2019-08-13-meetup.png" alt="MEETUP VI/2019 • K11 Ersatzteile GmbH • Dresden" class="img-responsive">
+    </a>
+</div>
 
-In der Live-Demo wollen wir - beginnend mit einer einfachen Web App - einen ersten Infrastruktur-Stack programmieren. Darauf aufbauend soll gezeigt werden, wie leicht man sich wiederverwendbare Infrastruktur-Komponenten erstellen kann. Die komplett automatisierte Provisionierung eines Kubernetes Clusters samt Deployment einer umfangreichen Cloud Native Applikation sollen die Möglichkeiten der Verwendung einer General Purpose Programmiersprache wie z.B. JavaScript aufzeigen.
+#### [Meetup VI am 13. August 2019 - IaC mit Pulumi](https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/)
 
-By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv) 
+<i class="fa fa-map-marker"></i> [K11 Ersatzteilshop GmbH, Alaunstr. 9, Dresden](https://gettogether.community/places/533/) 
 
-20:30 Uhr (08:30pm) - **Community + Socializing**
+- **Infrastructure as a real code with Pulumi** (Main talk)
+  By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv) 
 
 <hr class="blockspace">
 
@@ -74,8 +55,6 @@ By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv)
 </div>
 
 <hr class="blockspace">
-
-### Vergangene Events
 
 <div class="blockspace">
     <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">

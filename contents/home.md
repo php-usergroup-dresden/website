@@ -392,8 +392,8 @@ By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv)
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="http://www.fairnet-medien.de" target="_blank" title="fairnet medienagentur">
-				<img src="@baseUrl@/images/sponsors/fairnet-medienagentur.jpg" alt="fairnet medienagentur" class="img-responsive">
+			<a href="https://www.dako.de" target="_blank" title="Dako GmbH">
+				<img src="@baseUrl@/images/sponsors/dako.jpg" alt="Dako GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>

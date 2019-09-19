@@ -29,6 +29,13 @@
     </image:image>
   </url>
   <url>
+    <loc>https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html</loc>
+    <image:image>
+      <image:loc>https://phpug-dresden.org/images/logo.png</image:loc>
+      <image:caption>Xdebug workshop with Derick Rethans</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://phpug-dresden.org/events/2016/jahres-rueckblick.html</loc>
     <image:image>
       <image:loc>https://phpug-dresden.org/images/logo.png</image:loc>

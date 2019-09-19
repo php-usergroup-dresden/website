@@ -107,11 +107,33 @@
 			"template": "templates/events.twig",
 			"contentFile": "events.md",
 			"children": [
+				"/events/2019/xdebug-workshop-with-derick-rethans.html",
 				"/events/2016/jahres-rueckblick.html",
 				"/events/2016/x-mas-issue-bash.html",
 				"/events/2016/php-developer-day.html",
 				"/events/2015/php-developer-day.html"
 			]
+		},
+		"/events/2019/xdebug-workshop-with-derick-rethans.html": {
+			"pageLevel": 3,
+			"navName": "Xdebug workshop with Derick Rethans",
+			"pageTitle": "Xdebug workshop with Derick Rethans",
+			"description": "Xdebug's author Derick Rethans is coming to Dresden",
+			"language": "de",
+			"imageUrl": "/images/logo.png",
+			"tags": [
+				"Derick Rethans",
+				"Workshop",
+				"Xdebug",
+				"Debugging",
+				"PHP",
+				"Events"
+			],
+			"contentType": "markdown",
+			"renderer": "twig",
+			"template": "templates/page.twig",
+			"contentFile": "events/2019/xdebug-workshop.md",
+			"children": []
 		},
 		"/events/2016/jahres-rueckblick.html": {
 			"pageLevel": 3,

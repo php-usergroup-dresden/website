@@ -9,6 +9,21 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
+<hr class="blockspace">
+
+#### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
+
+
+<img src="@baseUrl@/images/events/workshops/xdebug-workshop.png" class="img-responsive"> 
+
+<br>
+
+**<i class="fa fa-calendar"></i> October 4th, 2019** • **<i class="fa fa-map-marker"></i> Fortuneglobe GmbH** • [Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/Yomvjr56P4A7ie6S6)
+
+<a href="@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html" class="btn btn-success btn-lg btn-block">READ MORE...</a>
+
+<hr class="blockspace">
+
 <a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
 #### [Meetup VI am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
@@ -30,6 +45,8 @@ by [Ronny Hartenstein](https://twitter.com/rhflow_de)
 Language: German
  
 20:45 Uhr (08:45pm) - **Community + Socializing**
+
+<hr class="blockspace">
 
 ### Vergangene Events
 

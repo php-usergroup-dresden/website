@@ -11,8 +11,41 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-#### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
+#### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
+<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01099 Dresden](https://gettogether.community/places/539/) 
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+19:00 Uhr (07:00pm) - User group + Host Intro
+
+19:30 Uhr (07:30pm) - **Recap CMS Leadership Summit** (Lightning talk)
+
+Einblicke in Themen, die aktuell  in bei CMS und eCommerce-Systemen diskutiert werden, und wie Google dabei helfen will.
+
+by [Lidia Demin](https://twitter.com/typecat_), webit! Gesellschaft für neue Medien mbH
+
+Language: German or English
+
+20:00 Uhr (08:00pm) - **Event Sourcing** (Main talk)
+
+Üblicherweise bildet man Entity-Relationship-Modelle über das Relationale Modell ab. Mit Event Sourcing gibt es aber auch noch einen anderen Ansatz. Bei Axilaris haben wir nun die ersten zwei Projekt mit diesem Ereignis getriebenen Datenmodell umgesetzt und können aus der Praxis berichten. Spoiler: wir haben bislang alles selbst implementiert.
+Welche Vor- und Nachteile diese beiden Ansätze untereinander haben werde ich aufzeigen. Dabei gehe ich u.a. auf Themen wie Normalisierung, CQRS und Projektionen ein.
+Tatsächlich spielt am Ende auch die Frage eine zentrale Rolle, welcher Ansatz wo passt.
+
+by [Ronny Hartenstein](https://twitter.com/rhflow_de)
+
+Language: German
+ 
+20:45 Uhr (08:45pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+#### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
 
 <img src="@baseUrl@/images/events/workshops/xdebug-workshop.png" class="img-responsive"> 
 
@@ -26,35 +59,13 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
-#### [Meetup VI am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
-
-<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01099 Dresden](https://gettogether.community/places/539/) 
-
-**Programm / Program**
-
-18:30 Uhr (06:30pm) - Doors Open
-
-19:00 Uhr (07:00pm) - User group + Host Intro
-
-19:30 Uhr (07:30pm) - **Open** (Lightning talk)
-
-20:00 Uhr (08:00pm) - **Event Sourcing** (Main talk)
-
-by [Ronny Hartenstein](https://twitter.com/rhflow_de)
-
-Language: German
- 
-20:45 Uhr (08:45pm) - **Community + Socializing**
-
-<hr class="blockspace">
-
-### Vergangene Events
-
 <div class="blockspace">
     <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
         <img src="@baseUrl@/images/events/meetups/2019-08-13-meetup.png" alt="MEETUP VI/2019 • K11 Ersatzteile GmbH • Dresden" class="img-responsive">
     </a>
 </div>
+
+<hr class="blockspace">
 
 #### [Meetup VI am 13. August 2019 - IaC mit Pulumi](https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/)
 

@@ -2062,6 +2062,75 @@
             }
         }
     },
+    "save": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
+            "title": "Xdebug workshop with Derick Rethans",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
+            }
+        }
+    },
+    "your": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
+            "title": "Xdebug workshop with Derick Rethans",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
+            }
+        }
+    },
+    "seat": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
+            "title": "Xdebug workshop with Derick Rethans",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
+            }
+        }
+    },
     "meetup": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -6768,75 +6837,6 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
-            }
-        }
-    },
-    "save": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
-            "title": "Xdebug workshop with Derick Rethans",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
-            }
-        }
-    },
-    "your": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
-            "title": "Xdebug workshop with Derick Rethans",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
-            }
-        }
-    },
-    "seat": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
-            "title": "Xdebug workshop with Derick Rethans",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
             }
         }
     },

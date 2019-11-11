@@ -25,6 +25,8 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
+<a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+
 #### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
 <i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01099 Dresden](https://gettogether.community/places/539/) 

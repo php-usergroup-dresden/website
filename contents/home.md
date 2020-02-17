@@ -9,9 +9,29 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
+<a href="https://gettogether.community/events/4319/meetup-i-2020/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+
+#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
+
+<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+19:00 Uhr (07:00pm) - User group + Host Intro
+
+19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
+
+by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
+
+Language: German or English
+ 
+20:30 Uhr (08:30pm) - **Community + Socializing**
+
 <hr class="blockspace">
 
-<a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+### Vergangene Events
 
 #### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
@@ -44,8 +64,6 @@ Language: German
 20:45 Uhr (08:45pm) - **Community + Socializing**
 
 <hr class="blockspace">
-
-### Vergangene Events
 
 #### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
 

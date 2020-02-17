@@ -25,7 +25,51 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+<a href="https://gettogether.community/events/4319/meetup-i-2020/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+
+#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
+
+<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+19:00 Uhr (07:00pm) - User group + Host Intro
+
+19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
+
+by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
+
+Language: German or English
+ 
+20:30 Uhr (08:30pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
+Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
+<hr class="blockspace">
+
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
+### <a name="event-calendar"></a>Event Kalender 2018
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+&nbsp;
 
 #### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
@@ -59,30 +103,6 @@ Language: German
 
 <hr class="blockspace">
 
-### Call for Papers (CFP) - Always open!
-
-Für unsere Meetups suchen wir immer wieder neue Themen und Redner.
-Du hast dich mit einem Thema intensiv beschäftigt und möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
-
-<hr class="blockspace">
-
-### Ein Meetup hosten?
-
-Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
-### <a name="event-calendar"></a>Event Kalender 2018
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
-
-&nbsp;
-
 #### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
 
 <img src="@baseUrl@/images/events/workshops/xdebug-workshop.png" class="img-responsive"> 
@@ -92,10 +112,6 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 **<i class="fa fa-calendar"></i> October 4th, 2019** • **<i class="fa fa-map-marker"></i> Fortuneglobe GmbH** • [Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/Yomvjr56P4A7ie6S6)
 
 <a href="@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html" class="btn btn-success btn-lg btn-block">READ MORE...</a>
-
-<hr class="blockspace">
-
-<a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
 
 <hr class="blockspace">
 

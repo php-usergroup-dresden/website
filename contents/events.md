@@ -25,11 +25,11 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://gettogether.community/events/4319/meetup-i-2020/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+<a href="https://gettogether.community/events/4320/meetup-ii-2020/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
 
-#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
+#### [Meetup II am 08. April 2020](https://gettogether.community/events/4320/meetup-ii-2020/)
 
-<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 
+<i class="fa fa-map-marker"></i> [move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/eoY98hKnCBM2) 
 
 **Programm / Program**
 
@@ -37,11 +37,7 @@
 
 19:00 Uhr (07:00pm) - User group + Host Intro
 
-19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
-
-by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
-
-Language: German or English
+19:30 Uhr (07:30pm) - **Main talk**
  
 20:30 Uhr (08:30pm) - **Community + Socializing**
 
@@ -70,6 +66,28 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
+
+[Hier der Mitschnitt des Meetups](https://www.youtube.com/watch?v=kipyoRdLNtM)
+
+<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+19:00 Uhr (07:00pm) - User group + Host Intro
+
+19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
+
+by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
+
+Language: German or English
+ 
+20:30 Uhr (08:30pm) - **Community + Socializing**
+
+<hr class="blockspace">
 
 #### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 

@@ -23,8 +23,9 @@ Lade dir einfach hier unseren Mitgliedsantrag herunter, füll ihn aus und sende 
 
 PHP USERGROUP DRESDEN e.V.  
 c/o Holger Woltersdorf  
-Fetscherstr. 36  
-01307 Dresden
+Käthe-Kollwitz-Ufer 76  
+01309 Dresden  
+Germany
 
 **E-Mailadresse:**
 

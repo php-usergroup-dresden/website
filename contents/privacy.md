@@ -205,7 +205,7 @@ Unsere Website verlinkt geplante und durchgeführte (archivierte) Veranstaltunge
 
 ### Ihre Rechte auf Auskunft, Berichtigung, Sperre, Löschung und Widerspruch
 
-Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen. Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu erhalten. Ebenso haben Sie das Recht auf Berichtigung, Sperrung oder, abgesehen von der vorgeschriebenen Datenspeicherung zur Geschäftsabwicklung, Löschung Ihrer personenbezogenen Daten. Bitte wenden Sie sich dazu an unseren TMG Verantwortlichen (Holger Woltersdorf, Fetscherstr. 36, 01307 Dresden).
+Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen. Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu erhalten. Ebenso haben Sie das Recht auf Berichtigung, Sperrung oder, abgesehen von der vorgeschriebenen Datenspeicherung zur Geschäftsabwicklung, Löschung Ihrer personenbezogenen Daten. Bitte wenden Sie sich dazu an unseren TMG Verantwortlichen (Holger Woltersdorf, Käthe-Kollwitz-Ufer 76, 01309 Dresden, Germany).
 
 Damit eine Sperre von Daten jederzeit berücksichtigt werden kann, müssen diese Daten zu Kontrollzwecken in einer Sperrdatei vorgehalten werden. Sie können auch die Löschung der Daten verlangen, soweit keine gesetzliche Archivierungsverpflichtung besteht. Soweit eine solche Verpflichtung besteht, sperren wir Ihre Daten auf Wunsch.
 
@@ -218,6 +218,7 @@ Wir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit
 ### Anbieter und verantwortliche Stelle im Sinne des Datenschutz-Gesetzes
 
 PHP USERGROUP DRESDEN e.V.  
- z.Hd. Holger Woltersdorf   
-Fetscherstr. 36   
-01307 Dresden
+z.Hd. Holger Woltersdorf  
+Käthe-Kollwitz-Ufer 76  
+01307 Dresden  
+Germany

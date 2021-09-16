@@ -9,9 +9,10 @@
 ### Angaben gemäß § 5 TMG
 
 PHP USERGROUP DRESDEN e. V.  
- z. Hd. Holger Woltersdorf   
-Fetscherstr. 36  
-D-01307 Dresden 
+z. Hd. Holger Woltersdorf  
+Käthe-Kollwitz-Ufer 76   
+01309 Dresden  
+Germany
 
 ### Einzeln vertretungsbefugt
 

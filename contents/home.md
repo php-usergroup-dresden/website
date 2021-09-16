@@ -310,7 +310,7 @@ Language: German
 <div class="row blockspace">
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/hwoltersdorf.png" alt="Holger Woltersdorf">
+			<img src="@baseUrl@/images/orgateam/hwoltersdorf.jpg" alt="Holger Woltersdorf">
 			<h4>Holger Woltersdorf</h4>
 			(Vorsitzender)
 		</div>
@@ -324,9 +324,16 @@ Language: German
     </div>
     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/ppaechnatz.jpg" alt="Patrick Pächnatz">
-			<h4>Patrick Pächnatz</h4>
-			(Schatzmeister)
+			<img src="@baseUrl@/images/orgateam/ahippe.png" alt="Alexander Hippe">
+			<h4>Alexander Hippe</h4>
+			(Finanzen)
+		</div>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
+    	<div class="orgamember">
+			<img src="@baseUrl@/images/orgateam/ssgorzaly.jpg" alt="Susans Sgorzaly">
+			<h4>Susans Sgorzaly</h4>
+			(Orgamitglied)
 		</div>
     </div>
     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
@@ -335,13 +342,6 @@ Language: German
 			<h4>Tommy Mühle</h4>
 			(Gründungsmitglied)
     	</div>
-    </div>
-    <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
-    	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/skeil.jpg" alt="Sandro Keil">
-			<h4>Sandro Keil</h4>
-			(Gründungsmitglied)
-		</div>
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
@@ -352,9 +352,9 @@ Language: German
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/ahippe.png" alt="Alexander Hippe">
-			<h4>Alexander Hippe</h4>
-			(Sponsoring)
+			<img src="@baseUrl@/images/orgateam/sschuetze.jpg" alt="Steve Schütze">
+			<h4>Steve Schütze</h4>
+			(Orgamitglied)
 		</div>
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">

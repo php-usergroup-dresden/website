@@ -16,7 +16,7 @@ Germany
 
 ### Einzeln vertretungsbefugt
 
-Holger Woltersdorf, Marcel Führer, Patrick Pächnatz 
+@board_member@
 
 ### Kontakt
 

@@ -83,6 +83,12 @@
                 "phar-handling",
                 "phar-management"
             ],
+            "support": {
+                "docs": "https://github.com/tommy-muehle/tooly-composer-script/blob/master/README.md",
+                "email": "tommy.muehle@gmail.com",
+                "issues": "https://github.com/tommy-muehle/tooly-composer-script/issues",
+                "source": "https://github.com/tommy-muehle/tooly-composer-script/tree/master"
+            },
             "time": "2019-06-24T20:52:52+00:00"
         }
     ],
@@ -94,5 +100,6 @@
     "platform": {
         "php": ">=7.2"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
 }

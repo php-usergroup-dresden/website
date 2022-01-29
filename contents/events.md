@@ -25,8 +25,6 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-<a href="https://gettogether.community/events/4319/meetup-i-2020/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
-
 #### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
 
 <i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 

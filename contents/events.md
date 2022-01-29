@@ -25,23 +25,33 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
+<a href="https://gettogether.community/events/16677/meetup-i2022/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
 
-<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 
+#### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
+
+<img src="@baseUrl@/images/events/meetups/2022-02-10.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> Remote Meeting (Link folgt)
 
 **Programm / Program**
 
 18:30 Uhr (06:30pm) - Doors Open
 
-19:00 Uhr (07:00pm) - User group + Host Intro
+18:40 Uhr (06:40pm) - User group Intro
 
-19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
+18:45 Uhr (06:45pm) - **Deploy PHP Apps with Docker - The Essentials** (Main Talk)
 
-by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
+by [Matthew Setter](https://twitter.com/settermjd)
 
-Language: German or English
- 
-20:30 Uhr (08:30pm) - **Community + Socializing**
+Language: English
+
+So, why deploy with Docker, especially when there are so many other deployment options?
+I'll speak for myself and say that in my experience, after learning enough about Docker, and getting just a few more grey hairs, I've found Docker to be a simpler, more homogeneous way of deploying than I'd been used to in the past, using tools such as Rocketeer, Capistrano, and Rsync over SSH.
+I've found that by using some standardised files and a small set of commands, I can deploy an application almost as easily to production as I can on my local development machine.
+In this talk, I want to share what I've learned about Docker in the hope that what I've learned can help others. Enjoy!
+If you'd like to dive far deeper, I've written a free book called Docker Essentials, which I based this talk on. It covers the topic in a lot more detail than the talk does, yet without going overboard. It's packed with tips, tricks, and pointers that I've learned along the way. If you're interested, you can download a copy, for free, from https://dockeressentials.com.
+
+19:45 Uhr (07:45pm) - **Community + Socializing**
 
 <hr class="blockspace">
 
@@ -59,7 +69,7 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 <hr class="blockspace">
 
 <a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i> In deinen Kalender importieren</a>
-### <a name="event-calendar"></a>Event Kalender 2018
+### <a name="event-calendar"></a>Event Kalender 2022
 
 <div id="calendar"></div>
 
@@ -68,6 +78,26 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst auszuricht
 ### Vergangene Events
 
 &nbsp;
+
+#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
+
+<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/)
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+19:00 Uhr (07:00pm) - User group + Host Intro
+
+19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
+
+by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
+
+Language: German or English
+
+20:30 Uhr (08:30pm) - **Community + Socializing**
+
+<hr class="blockspace">
 
 #### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
@@ -103,7 +133,7 @@ Language: German
 
 #### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
 
-<img src="@baseUrl@/images/events/workshops/xdebug-workshop.png" class="img-responsive"> 
+<img src="@baseUrl@/images/events/workshops/xdebug-workshop.png" class="img-responsive">
 
 <br>
 

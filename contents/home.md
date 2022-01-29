@@ -9,11 +9,41 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
-<a href="https://gettogether.community/events/4319/meetup-i-2020/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+<a href="https://gettogether.community/events/16677/meetup-i2022/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+
+#### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
+
+<img src="@baseUrl@/images/events/meetups/2022-02-10.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> Remote Meeting (Link folgt)
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:40 Uhr (06:40pm) - User group Intro
+
+18:45 Uhr (06:45pm) - **Deploy PHP Apps with Docker - The Essentials** (Main Talk)
+
+by [Matthew Setter](https://twitter.com/settermjd)
+
+Language: English
+
+So, why deploy with Docker, especially when there are so many other deployment options?
+I'll speak for myself and say that in my experience, after learning enough about Docker, and getting just a few more grey hairs, I've found Docker to be a simpler, more homogeneous way of deploying than I'd been used to in the past, using tools such as Rocketeer, Capistrano, and Rsync over SSH.
+I've found that by using some standardised files and a small set of commands, I can deploy an application almost as easily to production as I can on my local development machine.
+In this talk, I want to share what I've learned about Docker in the hope that what I've learned can help others. Enjoy!
+If you'd like to dive far deeper, I've written a free book called Docker Essentials, which I based this talk on. It covers the topic in a lot more detail than the talk does, yet without going overboard. It's packed with tips, tricks, and pointers that I've learned along the way. If you're interested, you can download a copy, for free, from https://dockeressentials.com.
+
+19:45 Uhr (07:45pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Vergangene Events
 
 #### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
 
-<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/) 
+<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/)
 
 **Programm / Program**
 
@@ -26,12 +56,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
 
 Language: German or English
- 
+
 20:30 Uhr (08:30pm) - **Community + Socializing**
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
 
@@ -63,206 +89,6 @@ Language: German
  
 20:45 Uhr (08:45pm) - **Community + Socializing**
 
-<hr class="blockspace">
-
-#### [Xdebug workshop with Derick Rethans](@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html)
-
-<img src="@baseUrl@/images/events/workshops/xdebug-workshop.png" class="img-responsive"> 
-
-<br>
-
-**<i class="fa fa-calendar"></i> October 4th, 2019** • **<i class="fa fa-map-marker"></i> Fortuneglobe GmbH** • [Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/Yomvjr56P4A7ie6S6)
-
-<a href="@baseUrl@/events/2019/xdebug-workshop-with-derick-rethans.html" class="btn btn-success btn-lg btn-block">READ MORE...</a>
-
-<hr class="blockspace">
-
-<a href="https://gettogether.community/events/2034/meetup-vii-2019/" target="_blank" class="btn btn-success btn-lg pull-right">SAVE YOUR SEAT!</a>
-
-<div class="blockspace">
-    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-08-13-meetup.png" alt="MEETUP VI/2019 • K11 Ersatzteile GmbH • Dresden" class="img-responsive">
-    </a>
-</div>
-
-<hr class="blockspace">
-
-#### [Meetup VI am 13. August 2019 - IaC mit Pulumi](https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/)
-
-<i class="fa fa-map-marker"></i> [K11 Ersatzteilshop GmbH, Alaunstr. 9, Dresden](https://gettogether.community/places/533/) 
-
-- **Infrastructure as a real code with Pulumi** (Main talk)
-  By [Lars Martin](https://www.xing.com/profile/Lars_Martin2/cv) 
-
-<hr class="blockspace">
-
-<div class="text-center">
-	<a href="@baseUrl@/events.html" title="Alle Events" class="btn btn-default">
-		<b>Alle Events &amp; Kalender ansehen</b>
-	</a>
-</div>
-
-<hr class="blockspace">
-
-<div class="blockspace">
-    <a href="https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-05-23-offerista.png" alt="MEETUP IV/2019 • offerista • Dresden" class="img-responsive">
-    </a>
-</div>
-
-#### [Meetup IV am 23. Mai 2019 - GraphQL + Doctrine + Mutation testing](https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/)
-
-<i class="fa fa-map-marker"></i> [Offerista GmbH, Schützenplatz 14, Dresden](https://gettogether.community/places/314/) 
-
-- **Practical GraphQL with Symfony and Doctrine** (Lightning talk)  
-  By Miro Hudak
-
-- **Mutation Testing** (Main talk)  
-  By Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - CEO of in2it vof, Belgium
-
-<hr class="blockspace">
-
-<div class="blockspace">
-    <a href="https://gettogether.community/events/910/meetup-iii-2019/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-04-10-portrino.png" alt="MEETUP III/2019 • portrino • Dresden" class="img-responsive">
-    </a>
-</div>
-
-#### [Meetup III am 10. April 2019 - OSS Contributing & Event Sourced CMS](https://gettogether.community/events/910/meetup-iii-2019/)
-
-<i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstraße 3, Dresden](https://gettogether.community/places/265/) 
-
-*  **Fork, Checkout, Branch, PR, WTF? - OSS Contribution in 3 minutes** (Lightning talk)
-
-  Github is a very cool platform for Open Source Software projects (OSS). Everyone can contribute with just a few clicks. There is no need to fork, branch and create a PR yourself - GitHub will do all those steps for you! All you need is a GitHub account.
-
-  I would like to show how easy this process is with just a browser, you don't even need to install git or an IDE to contribute.
-
-  By Michael Grundkötter ([@Grundi2](https://twitter.com/Grundi2)) - CEO of ujamii GmbH
-
-* **Event Sourcing am Beispiel des Neos Content Repository** (Main talk)
-
-  Wir sind momentan dabei, eine der wichtigsten Komponenten in [Neos CMS](https://www.neos.io) mit Event Sourcing neu zu entwickeln. Ich will in diesem Talk zeigen, wie man Event Sourcing in der Praxis anwenden kann.
-  
-  Zuerst wird erklärt, was Event Sourcing und CQRS ist, in welchen Kontexten es Verwendung findet und welche Vor- und Nachteile dieses architekturelle Pattern hat. Danach gibt es eine kurze Einführung in die Architektur von Neos, insbesondere des Content Repository, um die aktuellen Probleme und Schwächen der bisherigen Architektur (ohne Event Sourcing) aufzuzeigen.
-  
-  Der Hauptteil des Talks ist die konkrete Demonstration von Event Sourcing am Beispiel des Neos Content Repositories; um zu demonstrieren, wie sich dieses architekturelle Pattern auf größere, langlebige Projekte auswirkt.
-  
-  By Sebastian Kurfürst ([@skurfuerst](https://twitter.com/skurfuerst)) - Sebastian is a member of the Flow and Neos team almost since its inception. He is most known for his work on Fluid, Extbase and Fusion, but has worked on other parts of the source code as well. As co-founder and CTO at Sandstorm he helps to build relevant solutions for clients, helping them to choose the right frontend and backend technologies. In his free time, you'll most likely find spend time with his wife and son, or you'll see him climbing in the Saxon Switzerland.
-
-<hr class="blockspace">
-
-<div class="blockspace">
-    <a href="https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" target="_blank">
-        <img src="@baseUrl@/images/events/meetups/2019-02-26-tyclipso.png" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive">
-    </a>
-</div>
-
-#### [<i class="fa fa-meetup"></i> Meetup II - OpenID Connect am 26. Februar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/)
-
-<i class="fa fa-map-marker"></i> [Tyclipso, Grundstr. 1, 01326 Dresden](https://goo.gl/maps/koQ3tZ4mzcv) 
-
-* **OpenID Connect** (Lightning Talk)
-
-  Man findet sie auf vielen Webseiten, die Login-Möglichkeiten über Google, Facebook oder Twitter. 
-  Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein 
-  und wie die Integration für den Dienst SwissId realisiert wurde.
-  
-  By Frank Hönisch ([<i class="fa fa-twitter"></i> @frankTTDD](https://twitter.com/frankTTDD))
-  
-  Chefentwickler Backend bei tyclipso.net
-  
-  [View slides](@baseUrl@/downloads/meetups/2019-02-26-OIDC_OAuth2_JWT_JWK_frank_hoenisch_tyclipso.pdf)
-
-* **Make Migration of Legacy Code Fun Again - from Years to Weeks** (Lightning Talk)
-
-  By Tomáš Votruba ([<i class="fa fa-twitter"></i> @votrubaT](https://twitter.com/votrubaT))
-  
-  Learn faster, earn better money and work on projects that are meaningful to you.
-  I help programmers to unlock their inner powers, start believing in themselves and becoming 200 % productive with less wasted energy. 
-
-  [View slides](https://www.tomasvotruba.cz/talks/)
-
-* **Business Metrics with PHP, Prometheus, Grafana & more** (Lightning talk)
-
-  We will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use 
-  PHP to feed it with business metrics from your applications and why you should do so. We will also mention other 
-  data sources and alerting APIs.
-  
-  By Michael Grundkötter ([<i class="fa fa-twitter"></i> @Grundi2](https://twitter.com/Grundi2)) - CEO & Developer at ujamii smart solutions
-  
-  and Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme)) - CIO at FORTUNE SOLUTIONS
-
-<div class="blockspace">
-    <img src="@baseUrl@/images/events/meetups/meetup-2-2019.jpg" alt="MEETUP II/2019 • Tyclipso • Dresden" class="img-responsive img-rounded">
-</div>
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup I - CTF & Security am 14. Januar 2019](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/)
-
-<i class="fa fa-map-marker"></i> [Was hab ich?, Theaterstr. 4, 01067 Dresden](https://goo.gl/maps/EMGpwknVSnL2) 
-
-* **XSS PHP CSP ETC OMG WTF BBQ** (Main Talk)
-  
-  How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about 
-  templating engines, XSS Filters, Content Security Policy and more.
-  
-  By Michal Špaček ([<i class="fa fa-twitter"></i> @spazef0rze](https://twitter.com/spazef0rze))
-
-* **What the flag is CTF?** (Main Talk)
-
-  Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.
-    
-  In this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.
-
-  So you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before.
-
-  By Mallle ([<i class="fa fa-twitter"></i> @eatsleeppwnrpt](https://twitter.com/eatsleeppwnrpt))
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup VIII - GitLab Pipeline & PHP 7.3 am 17. Dezember 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/)
-
-<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://goo.gl/maps/eoY98hKnCBM2) 
-
-* **GitLab Pipeline mit Codeception** (Main Talk)
-
-  By Roland Golla ([<i class="fa fa-twitter"></i> @nevercodealone](https://twitter.com/nevercodealone))
-
-* **What's new in PHP 7.3** (Lightning Talk)
-  
-  By Holger Woltersdorf ([<i class="fa fa-twitter"></i> @hollodotme](https://twitter.com/hollodotme))
-
-<hr class="blockspace">
-
-#### [<i class="fa fa-meetup"></i> Meetup VII / 2018 - Static Code Analysis &amp; Codeception am 12. November 2018](https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306865/)
-
-<i class="fa fa-map-marker"></i> [CHECK24, Prager Straße 2b, 01069 Dresden](https://goo.gl/maps/ZJqof3vbkC92) 
-
-* **Testing with Codeception: Full-stack PHP testing framework** (Main talk)
-  
-  Codeception is a PHP testing framework for Behavior Driven Development, which covers all kinds of tests: unit tests, functional tests and acceptance tests. It is fast and simple in both usage and execution. This talk will give you a introduction to the software testing basics using codeception. It will also cover some stumbling blocks when writing tests, like:
-  
-  - Test code stability against small changes
-  - Data stability
-  - Test structure
-  
-  Last but not least I will give you a short outlook how to make your tests also understandable for product owners.
-  
-  By Susann Sgorzaly ([<i class="fa fa-twitter"></i> @susann_sg](https://twitter.com/susann_sg))
-  
-  [Watch the slides at Slideshare](https://www.slideshare.net/SusannSgorzaly/testing-mit-codeception-fullstack-testing-php-framework)
-
-* **Static Code Analysis in PHP** (Main talk)
-
-  The type system and static code analysis can help us find bugs in our code in a early phase without writing explicit tests.
-  I'll show you the requirements for your code to get the most of static analysis as well as the tools to get you started.
-  
-  By Benjamin Cremer ([<i class="fa fa-twitter"></i> @benjamincremer](https://twitter.com/benjamincremer))
-  
-  [Watch the slides](https://talks.benjamin-cremer.de/phpugdd_sca/#/)
-  
 <hr class="blockspace">
 
 ## <a name="downloads"></a>Downloads

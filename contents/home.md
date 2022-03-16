@@ -7,15 +7,40 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+
 ### Nächstes Event
 
-<a href="https://gettogether.community/events/16677/meetup-i2022/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
+<img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> Remote Meeting (Link folgt)
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:40 Uhr (06:40pm) - User group Intro
+
+18:45 Uhr (06:45pm) - **How good are my tests?** (Main Talk)
+
+by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
+
+Language: German/English
+
+How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question. 
+What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session, 
+I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the 
+quality of your test suite.
+
+19:45 Uhr (07:45pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Vergangene Events
 
 #### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
 
 <img src="@baseUrl@/images/events/meetups/2022-02-10.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-<i class="fa fa-map-marker"></i> Remote Meeting (Link folgt)
 
 **Programm / Program**
 
@@ -38,8 +63,6 @@ If you'd like to dive far deeper, I've written a free book called Docker Essenti
 19:45 Uhr (07:45pm) - **Community + Socializing**
 
 <hr class="blockspace">
-
-### Vergangene Events
 
 #### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
 

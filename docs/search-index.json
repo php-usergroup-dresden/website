@@ -2169,7 +2169,7 @@
             }
         }
     },
-    "link": {
+    "https": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
             "breadcrumb": {
@@ -2183,26 +2183,28 @@
                 "/events.html": "Events"
             }
         },
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
+        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
+            "title": "Xdebug workshop with Derick Rethans",
             "breadcrumb": {
                 "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
-            }
-        }
-    },
-    "folgt": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
+                "/events.html": "Events",
+                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
             }
         },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
+        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
+            "title": "Jahresr\u00fcckblick 2016",
             "breadcrumb": {
                 "/index.html": "Home",
-                "/events.html": "Events"
+                "/events.html": "Events",
+                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
             }
         },
         "https://phpug-dresden.org/events/2016/php-developer-day.html": {
@@ -2211,6 +2213,102 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/hosting.html": {
+            "title": "Meetup hosten",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        },
+        "https://phpug-dresden.org/code-of-conduct.html": {
+            "title": "Verhaltenskodex / Code of Conduct",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/code-of-conduct.html": "Verhaltenskodex / Code of Conduct"
+            }
+        }
+    },
+    "us06web": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "zoom": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "85123885583": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "pwd": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "dew5d2dqz25pceqwotlesmz4sm1xqt09": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
             }
         }
     },
@@ -2664,74 +2762,6 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
-            }
-        }
-    },
-    "https": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
-            "title": "Xdebug workshop with Derick Rethans",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
-            "title": "Jahresr\u00fcckblick 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        },
-        "https://phpug-dresden.org/hosting.html": {
-            "title": "Meetup hosten",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/hosting.html": "Meetup hosten"
-            }
-        },
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
-            }
-        },
-        "https://phpug-dresden.org/code-of-conduct.html": {
-            "title": "Verhaltenskodex / Code of Conduct",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/code-of-conduct.html": "Verhaltenskodex / Code of Conduct"
             }
         }
     },
@@ -39803,6 +39833,16 @@
             }
         }
     },
+    "folgt": {
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        }
+    },
     "werdet": {
         "https://phpug-dresden.org/events/2016/php-developer-day.html": {
             "title": "PHP Developer Day 2016",
@@ -52489,6 +52529,15 @@
         }
     },
     "widerrufen": {
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "link": {
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {

@@ -13,7 +13,7 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-<i class="fa fa-map-marker"></i> Remote Meeting (Link folgt)
+<i class="fa fa-map-marker"></i> [Remote Meeting](https://us06web.zoom.us/j/85123885583?pwd=dEw5d2dqZ25pcEQwOTlESmZ4Sm1xQT09)
 
 **Programm / Program**
 

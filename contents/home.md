@@ -11,6 +11,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 ### Nächstes Event
 
+#### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
+
 <img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
 <i class="fa fa-map-marker"></i> [Remote Meeting](https://us06web.zoom.us/j/85123885583?pwd=dEw5d2dqZ25pcEQwOTlESmZ4Sm1xQT09)

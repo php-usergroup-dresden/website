@@ -1,5 +1,5 @@
 ## Gute Software durch stetige Verbesserung
-   
+
 Der PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusiasten. 
 Unser Ziel ist es, Wissen rund um PHP und Softwareentwicklung im Allgemeinen aufzubauen und zu teilen. 
 Egal ob erfahrene Entwickler/innen, Studenten/innen oder Freiberufler/innen, jeder ist willkommen und kann sich einbringen. 
@@ -7,9 +7,9 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
-
 ### Nächstes Event
+
+<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
 
 #### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
 
@@ -39,6 +39,11 @@ quality of your test suite.
 <hr class="blockspace">
 
 ### Vergangene Events
+
+<!--
+Note: We only keep the latest »3« events on the home page,
+all others are listed on /events.md -> remove redundant entries here
+-->
 
 #### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
 
@@ -113,6 +118,11 @@ by [Ronny Hartenstein](https://twitter.com/rhflow_de)
 Language: German
  
 20:45 Uhr (08:45pm) - **Community + Socializing**
+
+<!--
+Link to events list
+-->
+**<i class="fa fa-calendar"></i> [Übersicht aller geplanten und vergangen Events](events.md)**
 
 <hr class="blockspace">
 

@@ -28,11 +28,9 @@ SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
+#### Meetup III/2022 am 11. Mai 2022
 
-<img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-<i class="fa fa-map-marker"></i> [Remote Meeting](https://us06web.zoom.us/j/85123885583?pwd=dEw5d2dqZ25pcEQwOTlESmZ4Sm1xQT09)
+<i class="fa fa-map-marker"></i> Remote Meeting (*Link folgt in Kürze*)
 
 **Programm / Program**
 
@@ -40,16 +38,18 @@ SAVE YOUR SEAT</a>
 
 18:40 Uhr (06:40pm) - User group Intro
 
-18:45 Uhr (06:45pm) - **How good are my tests?** (Main Talk)
+18:45 Uhr (06:45pm) - **JSON-Schema** (Main Talk)
 
-by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
+by [Ingo Walther](https://twitter.com/waltheringo)
 
-Language: German/English
+Language: German
 
-How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question.
-What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this
-session, I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the
-quality of your test suite.
+Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen.
+So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die
+JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema
+schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen
+kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools
+unterstützen mich dabei?
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
 
@@ -79,7 +79,30 @@ In deinen Kalender importieren</a>
 
 ### Vergangene Events
 
-&nbsp;
+#### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
+
+<img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> [Remote Meeting](https://us06web.zoom.us/j/85123885583?pwd=dEw5d2dqZ25pcEQwOTlESmZ4Sm1xQT09)
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:40 Uhr (06:40pm) - User group Intro
+
+18:45 Uhr (06:45pm) - **How good are my tests?** (Main Talk)
+
+by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
+
+Language: German/English
+
+How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question.
+What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this
+session, I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the
+quality of your test suite.
+
+19:45 Uhr (07:45pm) - **Community + Socializing**
 
 #### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
 
@@ -96,8 +119,6 @@ In deinen Kalender importieren</a>
 by [Matthew Setter](https://twitter.com/settermjd)
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
-
-<hr class="blockspace">
 
 #### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
 

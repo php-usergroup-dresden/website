@@ -1,20 +1,23 @@
 ## Gute Software durch stetige Verbesserung
 
-Der PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusiasten. 
-Unser Ziel ist es, Wissen rund um PHP und Softwareentwicklung im Allgemeinen aufzubauen und zu teilen. 
-Egal ob erfahrene Entwickler/innen, Studenten/innen oder Freiberufler/innen, jeder ist willkommen und kann sich einbringen. 
-Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Workshops und besuchen gemeinsam Konferenzen. 
+Der PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusiasten.
+Unser Ziel ist es, Wissen rund um PHP und Softwareentwicklung im Allgemeinen aufzubauen und zu teilen.
+Egal ob erfahrene Entwickler/innen, Studenten/innen oder Freiberufler/innen, jeder ist willkommen und kann sich
+einbringen.
+Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Workshops und besuchen gemeinsam Konferenzen.
 
 <hr class="blockspace">
 
 ### Nächstes Event
 
-<!-- @TODO - Reactivate »Save your seat« button as soon as gettogether link is available -->
-<!--<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>-->
+<a href="https://gettogether.community/events/19138/meetup-iii2022-json-schema/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+SAVE YOUR SEAT</a>
 
 #### Meetup III/2022 am 11. Mai 2022
 
-<i class="fa fa-map-marker"></i> Remote Meeting (*Link folgt in Kürze*)
+<img src="@baseUrl@/images/events/meetups/2022-05-11.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> [ZOOM Remote Meeting](https://us06web.zoom.us/j/81261087953)
 
 **Programm / Program**
 
@@ -32,7 +35,7 @@ Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen.
 So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die
 JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema
 schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen
-kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools 
+kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools
 unterstützen mich dabei?
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
@@ -40,11 +43,6 @@ unterstützen mich dabei?
 <hr class="blockspace">
 
 ### Vergangene Events
-
-<!--
-Note: We only keep the latest »3« events on the home page,
-all others are listed on /events.md -> remove redundant entries here
--->
 
 #### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
 
@@ -65,7 +63,8 @@ by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
 Language: German/English
 
 How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question.
-What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session,
+What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this
+session,
 I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the
 quality of your test suite.
 
@@ -88,10 +87,16 @@ by [Matthew Setter](https://twitter.com/settermjd)
 Language: English
 
 So, why deploy with Docker, especially when there are so many other deployment options?
-I'll speak for myself and say that in my experience, after learning enough about Docker, and getting just a few more grey hairs, I've found Docker to be a simpler, more homogeneous way of deploying than I'd been used to in the past, using tools such as Rocketeer, Capistrano, and Rsync over SSH.
-I've found that by using some standardised files and a small set of commands, I can deploy an application almost as easily to production as I can on my local development machine.
+I'll speak for myself and say that in my experience, after learning enough about Docker, and getting just a few more
+grey hairs, I've found Docker to be a simpler, more homogeneous way of deploying than I'd been used to in the past,
+using tools such as Rocketeer, Capistrano, and Rsync over SSH.
+I've found that by using some standardised files and a small set of commands, I can deploy an application almost as
+easily to production as I can on my local development machine.
 In this talk, I want to share what I've learned about Docker in the hope that what I've learned can help others. Enjoy!
-If you'd like to dive far deeper, I've written a free book called Docker Essentials, which I based this talk on. It covers the topic in a lot more detail than the talk does, yet without going overboard. It's packed with tips, tricks, and pointers that I've learned along the way. If you're interested, you can download a copy, for free, from https://dockeressentials.com.
+If you'd like to dive far deeper, I've written a free book called Docker Essentials, which I based this talk on. It
+covers the topic in a lot more detail than the talk does, yet without going overboard. It's packed with tips, tricks,
+and pointers that I've learned along the way. If you're interested, you can download a copy, for free,
+from https://dockeressentials.com.
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
 
@@ -113,10 +118,7 @@ Language: German or English
 
 20:30 Uhr (08:30pm) - **Community + Socializing**
 
-<!--
-Link to events list
--->
-**<i class="fa fa-calendar"></i> [Übersicht aller geplanten und vergangen Events](events.md)**
+**<i class="fa fa-calendar"></i> [Übersicht aller geplanten und vergangen Events](@baseUrl@/events.html)**
 
 <hr class="blockspace">
 

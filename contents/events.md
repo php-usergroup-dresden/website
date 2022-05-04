@@ -23,14 +23,16 @@
 
 <hr class="blockspace">
 
-<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://gettogether.community/events/19138/meetup-iii2022-json-schema/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
 #### Meetup III/2022 am 11. Mai 2022
 
-<i class="fa fa-map-marker"></i> Remote Meeting (*Link folgt in Kürze*)
+<img src="@baseUrl@/images/events/meetups/2022-05-11.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> [ZOOM Remote Meeting](https://us06web.zoom.us/j/81261087953)
 
 **Programm / Program**
 
@@ -52,6 +54,8 @@ kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools
 unterstützen mich dabei?
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
+
+<hr class="blockspace">
 
 ### Call for Papers (CFP) - Always open!
 

@@ -1,5 +1,5 @@
 ## Gute Software durch stetige Verbesserung
-   
+
 Der PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusiasten. 
 Unser Ziel ist es, Wissen rund um PHP und Softwareentwicklung im Allgemeinen aufzubauen und zu teilen. 
 Egal ob erfahrene Entwickler/innen, Studenten/innen oder Freiberufler/innen, jeder ist willkommen und kann sich einbringen. 
@@ -7,9 +7,46 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a> 
-
 ### Nächstes Event
+
+<!-- @TODO - Reactivate »Save your seat« button as soon as gettogether link is available -->
+<!--<a href="https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>-->
+
+#### Meetup III/2022 am 11. Mai 2022
+
+<i class="fa fa-map-marker"></i> Remote Meeting (*Link folgt in Kürze*)
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:40 Uhr (06:40pm) - User group Intro
+
+18:45 Uhr (06:45pm) - **JSON-Schema** (Main Talk)
+
+by [Ingo Walther](https://twitter.com/waltheringo)
+
+Language: German
+
+Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen.
+So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die
+JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema
+schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen
+kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools 
+unterstützen mich dabei?
+
+19:45 Uhr (07:45pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+<!--
+Note: We only keep the latest »3« events on the home page,
+all others are listed on /events.md -> remove redundant entries here
+-->
+
+#### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
 
 <img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
@@ -27,16 +64,12 @@ by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
 
 Language: German/English
 
-How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question. 
-What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session, 
-I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the 
+How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question.
+What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session,
+I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the
 quality of your test suite.
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
 
@@ -62,8 +95,6 @@ If you'd like to dive far deeper, I've written a free book called Docker Essenti
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
 
-<hr class="blockspace">
-
 #### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
 
 <i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/)
@@ -82,35 +113,10 @@ Language: German or English
 
 20:30 Uhr (08:30pm) - **Community + Socializing**
 
-#### [Meetup VII am 13. November 2019](https://gettogether.community/events/2034/meetup-vii-2019/)
-
-<i class="fa fa-map-marker"></i> [LOVOO GmbH, Prager Str. 10, 01099 Dresden](https://gettogether.community/places/539/) 
-
-**Programm / Program**
-
-18:30 Uhr (06:30pm) - Doors Open
-
-19:00 Uhr (07:00pm) - User group + Host Intro
-
-19:30 Uhr (07:30pm) - **Recap CMS Leadership Summit** (Lightning talk)
-
-Einblicke in Themen, die aktuell  in bei CMS und eCommerce-Systemen diskutiert werden, und wie Google dabei helfen will.
-
-by [Lidia Demin](https://twitter.com/typecat_), webit! Gesellschaft für neue Medien mbH
-
-Language: German or English
-
-20:00 Uhr (08:00pm) - **Event Sourcing** (Main talk)
-
-Üblicherweise bildet man Entity-Relationship-Modelle über das Relationale Modell ab. Mit Event Sourcing gibt es aber auch noch einen anderen Ansatz. Bei Axilaris haben wir nun die ersten zwei Projekt mit diesem Ereignis getriebenen Datenmodell umgesetzt und können aus der Praxis berichten. Spoiler: wir haben bislang alles selbst implementiert.
-Welche Vor- und Nachteile diese beiden Ansätze untereinander haben werde ich aufzeigen. Dabei gehe ich u.a. auf Themen wie Normalisierung, CQRS und Projektionen ein.
-Tatsächlich spielt am Ende auch die Frage eine zentrale Rolle, welcher Ansatz wo passt.
-
-by [Ronny Hartenstein](https://twitter.com/rhflow_de)
-
-Language: German
- 
-20:45 Uhr (08:45pm) - **Community + Socializing**
+<!--
+Link to events list
+-->
+**<i class="fa fa-calendar"></i> [Übersicht aller geplanten und vergangen Events](events.md)**
 
 <hr class="blockspace">
 

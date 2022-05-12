@@ -23,16 +23,13 @@
 
 <hr class="blockspace">
 
-<a href="https://gettogether.community/events/19138/meetup-iii2022-json-schema/" target="_blank" class="btn btn-lg btn-success" style="float: right">
-SAVE YOUR SEAT</a>
+<a href="#" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Meetup III/2022 am 11. Mai 2022
+#### Meetup IV/2022 am TBA
 
-<img src="@baseUrl@/images/events/meetups/2022-05-11.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-<i class="fa fa-map-marker"></i> [ZOOM Remote Meeting](https://us06web.zoom.us/j/81261087953)
+<i class="fa fa-map-marker"></i> TBA
 
 **Programm / Program**
 
@@ -40,18 +37,7 @@ SAVE YOUR SEAT</a>
 
 18:40 Uhr (06:40pm) - User group Intro
 
-18:45 Uhr (06:45pm) - **JSON-Schema** (Main Talk)
-
-by [Ingo Walther](https://twitter.com/waltheringo)
-
-Language: German
-
-Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen.
-So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die
-JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema
-schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen
-kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools
-unterstützen mich dabei?
+18:45 Uhr (06:45pm) - **TBA** (Main Talk)
 
 19:45 Uhr (07:45pm) - **Community + Socializing**
 
@@ -82,6 +68,29 @@ In deinen Kalender importieren</a>
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### [Meetup III/2022 am 11. Mai 2022](https://gettogether.community/events/19138/meetup-iii2022-json-schema/)
+
+<img src="@baseUrl@/images/events/meetups/2022-05-11.png" class="img-responsive" style="margin: 15px 0 15px 0;">
+
+<i class="fa fa-map-marker"></i> ZOOM Remote Meeting
+
+**JSON-Schema** (Main Talk)
+
+by [Ingo Walther](https://twitter.com/waltheringo)
+
+Language: German
+
+Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen.
+So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die
+JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema
+schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen
+kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools
+unterstützen mich dabei?
+
+**Video vom Meetup auf Youtube: [https://youtu.be/F72-TJA7idU](https://youtu.be/F72-TJA7idU)**
+
+<hr class="blockspace">
 
 #### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
 

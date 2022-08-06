@@ -8,23 +8,57 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+<a href="https://www.meetup.com/php-usergroup-dresden/events/287660380/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+
 ### Nächstes Event
 
-<a href="#" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+#### Summer BBQ 2022 am 25. August 2022
 
-#### Meetup IV/2022 am TBA
+<i class="fa fa-map-marker"></i> [Dachterrasse vom Dresdner Volkshaus am Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/s4CmwXDZYEm3kuTo8)
 
-<i class="fa fa-map-marker"></i> TBA
+<img src="@baseUrl@/images/events/summerbbq2022/SummerBBQ2022.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+Der PHP USERGROUP DRESDEN e.V. wird 6 Jahre alt und möchte das mit seinen Mitgliedern, Freunden und Partnern feiern.
+
+The PHP USERGROUP DRESDEN e.V. becomes 6 years old and wants to celebrate with its members, friends and partners.
 
 **Programm / Program**
 
-18:30 Uhr (06:30pm) - Doors Open
+16:00 Uhr (04:00pm) - Doors Open
 
-18:40 Uhr (06:40pm) - User group Intro
+17:00 Uhr (05:00pm) - **BBQ & Drinks**
 
-18:45 Uhr (06:45pm) - **TBA** (Main Talk)
+19:15 Uhr (07:15pm) - User group Intro
 
-19:45 Uhr (07:45pm) - **Community + Socializing**
+19:35 Uhr (07:35pm) - **The road to more resilience: an introduction to static code analysis** (Main Talk)
+
+In this session I will introduce you to static code analysis, a powerful solution to analyze your Magento modules and
+catch problems without writing an extensive amount of tests or without running the code in production. I will introduce
+you to phpstan - a tool shipped with Magento out-of-the-box - and show you how you can get the most of it for your own
+projects.
+
+by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
+
+Language: German or Englisch
+
+This talk will be streamed online.
+
+20:35 Uhr (08:35pm) - **Community + Socializing**
+
+22:00 Uhr (10:00pm) - Doors closing 
+
+**Wichtiger Hinweis / Important information**
+
+Die Teilnehmerzahl ist begrenzt und wir müssen für Essen und Getränke planen. Reserviere also bitte nur einen Platz,
+wenn du wirklich kommen wirst. Sollte doch etwas dazwischen kommen, gib bitte deinen reservierten Platz wieder frei.
+
+**_Die Anmeldung endet um Mitternacht am 18. August 2022!_**
+
+The number of attendees is limited and we have to plan for food and baverages.
+So please reserve a seat only if you are sure that you will attend the event.
+Should something come up, please release your reserved place.
+
+**_The registration closes at midnight on August 18, 2022!_**
 
 <hr class="blockspace">
 

@@ -2553,6 +2553,201 @@
             }
         }
     },
+    "live": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
+            "title": "Jahresr\u00fcckblick 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        }
+    },
+    "stream": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/call-for-papers.html": {
+            "title": "Call for Papers (CFP)",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/call-for-papers.html": "Call for Papers"
+            }
+        }
+    },
+    "des": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
+            "title": "Jahresr\u00fcckblick 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2015/php-developer-day.html": {
+            "title": "PHP Developer Day 2015",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
+            }
+        },
+        "https://phpug-dresden.org/hosting.html": {
+            "title": "Meetup hosten",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
+        "https://phpug-dresden.org/statutes.html": {
+            "title": "Satzung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/statutes.html": "Satzung"
+            }
+        },
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "vortrags": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/statutes.html": {
+            "title": "Satzung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/statutes.html": "Satzung"
+            }
+        }
+    },
+    "youtu": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "lmwqtd": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "jpcc": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
     "wird": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -2624,6 +2819,299 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "uhr": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        }
+    },
+    "offen": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "sein": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
+            "title": "Jahresr\u00fcckblick 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/call-for-papers.html": {
+            "title": "Call for Papers (CFP)",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/call-for-papers.html": "Call for Papers"
+            }
+        },
+        "https://phpug-dresden.org/statutes.html": {
+            "title": "Satzung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/statutes.html": "Satzung"
+            }
+        }
+    },
+    "talk": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
+            "title": "Jahresr\u00fcckblick 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/call-for-papers.html": {
+            "title": "Call for Papers (CFP)",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/call-for-papers.html": "Call for Papers"
+            }
+        },
+        "https://phpug-dresden.org/hosting.html": {
+            "title": "Meetup hosten",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/hosting.html": "Meetup hosten"
+            }
+        }
+    },
+    "startet": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "the": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/become-member.html": {
+            "title": "Mitglied werden",
+            "breadcrumb": {
+                "/become-member.html": "Mitglied werden"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
+            "title": "Xdebug workshop with Derick Rethans",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
+            "title": "PHP Developer Day 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/imprint.html": {
+            "title": "Impressum",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/imprint.html": "Impressum"
+            }
+        },
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "will": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
+            "title": "Xdebug workshop with Derick Rethans",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
+            }
+        }
+    },
+    "open": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
+            "title": "X-Mas Issue Bash 2016",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events",
+                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
+            }
+        },
+        "https://phpug-dresden.org/call-for-papers.html": {
+            "title": "Call for Papers (CFP)",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/call-for-papers.html": "Call for Papers"
+            }
+        }
+    },
+    "from": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
+            }
+        }
+    },
+    "starts": {
+        "https://phpug-dresden.org/index.html": {
+            "title": "Home",
+            "breadcrumb": {
+                "/index.html": "Home"
+            }
+        },
+        "https://phpug-dresden.org/events.html": {
+            "title": "Events",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/events.html": "Events"
             }
         }
     },
@@ -2969,65 +3457,6 @@
             }
         }
     },
-    "the": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/become-member.html": {
-            "title": "Mitglied werden",
-            "breadcrumb": {
-                "/become-member.html": "Mitglied werden"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
-            "title": "Xdebug workshop with Derick Rethans",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        },
-        "https://phpug-dresden.org/imprint.html": {
-            "title": "Impressum",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/imprint.html": "Impressum"
-            }
-        },
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
-            }
-        }
-    },
     "becomes": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -3293,37 +3722,6 @@
             }
         }
     },
-    "uhr": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        }
-    },
     "00pm": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -3359,36 +3757,6 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
-            }
-        }
-    },
-    "open": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        },
-        "https://phpug-dresden.org/call-for-papers.html": {
-            "title": "Call for Papers (CFP)",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/call-for-papers.html": "Call for Papers"
             }
         }
     },
@@ -3663,51 +4031,6 @@
             }
         }
     },
-    "talk": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
-            "title": "Jahresr\u00fcckblick 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        },
-        "https://phpug-dresden.org/call-for-papers.html": {
-            "title": "Call for Papers (CFP)",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/call-for-papers.html": "Call for Papers"
-            }
-        },
-        "https://phpug-dresden.org/hosting.html": {
-            "title": "Meetup hosten",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/hosting.html": "Meetup hosten"
-            }
-        }
-    },
     "this": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -3766,29 +4089,6 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/privacy.html": "Datenschutz"
-            }
-        }
-    },
-    "will": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2019/xdebug-workshop-with-derick-rethans.html": {
-            "title": "Xdebug workshop with Derick Rethans",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
             }
         }
     },
@@ -7846,21 +8146,6 @@
             }
         }
     },
-    "youtu": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        }
-    },
     "f72": {
         "https://phpug-dresden.org/index.html": {
             "title": "Home",
@@ -9649,21 +9934,6 @@
             "title": "Home",
             "breadcrumb": {
                 "/index.html": "Home"
-            }
-        }
-    },
-    "from": {
-        "https://phpug-dresden.org/index.html": {
-            "title": "Home",
-            "breadcrumb": {
-                "/index.html": "Home"
-            }
-        },
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
             }
         }
     },
@@ -17197,23 +17467,6 @@
             }
         }
     },
-    "live": {
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
-            "title": "Jahresr\u00fcckblick 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
-            }
-        }
-    },
     "demo": {
         "https://phpug-dresden.org/events.html": {
             "title": "Events",
@@ -19139,75 +19392,6 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
-            }
-        }
-    },
-    "des": {
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
-            "title": "Jahresr\u00fcckblick 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/x-mas-issue-bash.html": {
-            "title": "X-Mas Issue Bash 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2015/php-developer-day.html": {
-            "title": "PHP Developer Day 2015",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
-            }
-        },
-        "https://phpug-dresden.org/hosting.html": {
-            "title": "Meetup hosten",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/hosting.html": "Meetup hosten"
-            }
-        },
-        "https://phpug-dresden.org/sponsoring.html": {
-            "title": "Sponsor werden",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/sponsoring.html": "Sponsoring"
-            }
-        },
-        "https://phpug-dresden.org/statutes.html": {
-            "title": "Satzung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/statutes.html": "Satzung"
-            }
-        },
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
             }
         }
     },
@@ -27672,45 +27856,6 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
-            }
-        }
-    },
-    "sein": {
-        "https://phpug-dresden.org/events.html": {
-            "title": "Events",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/jahres-rueckblick.html": {
-            "title": "Jahresr\u00fcckblick 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
-            }
-        },
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        },
-        "https://phpug-dresden.org/call-for-papers.html": {
-            "title": "Call for Papers (CFP)",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/call-for-papers.html": "Call for Papers"
-            }
-        },
-        "https://phpug-dresden.org/statutes.html": {
-            "title": "Satzung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/statutes.html": "Satzung"
             }
         }
     },
@@ -39770,23 +39915,6 @@
             }
         }
     },
-    "vortrags": {
-        "https://phpug-dresden.org/events/2016/php-developer-day.html": {
-            "title": "PHP Developer Day 2016",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/events.html": "Events",
-                "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
-            }
-        },
-        "https://phpug-dresden.org/statutes.html": {
-            "title": "Satzung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/statutes.html": "Satzung"
-            }
-        }
-    },
     "acceleration": {
         "https://phpug-dresden.org/events/2016/php-developer-day.html": {
             "title": "PHP Developer Day 2016",
@@ -44379,15 +44507,6 @@
         }
     },
     "page": {
-        "https://phpug-dresden.org/call-for-papers.html": {
-            "title": "Call for Papers (CFP)",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/call-for-papers.html": "Call for Papers"
-            }
-        }
-    },
-    "stream": {
         "https://phpug-dresden.org/call-for-papers.html": {
             "title": "Call for Papers (CFP)",
             "breadcrumb": {

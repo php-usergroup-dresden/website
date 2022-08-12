@@ -18,6 +18,14 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <img src="@baseUrl@/images/events/summerbbq2022/SummerBBQ2022.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
+**Live-Stream des Vortrags:** [https://youtu.be/lmwqTD_jpcc](https://youtu.be/lmwqTD_jpcc)  
+Der stream wird ab 17:30 Uhr offen sein, der Talk startet um 19:35 Uhr.
+
+**Live-Stream of the talk:** [https://youtu.be/lmwqTD_jpcc](https://youtu.be/lmwqTD_jpcc)  
+The stream will be open from 5:30 PM, the talk starts at 7:35 PM.
+
+<hr class="blockspace">
+
 Der PHP USERGROUP DRESDEN e.V. wird 6 Jahre alt und möchte das mit seinen Mitgliedern, Freunden und Partnern feiern.
 
 The PHP USERGROUP DRESDEN e.V. becomes 6 years old and wants to celebrate with its members, friends and partners.

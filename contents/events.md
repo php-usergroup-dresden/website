@@ -23,65 +23,36 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/287660380/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+<a href="https://www.meetup.com/php-usergroup-dresden/events/289348096/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Summer BBQ 2022 am 25. August 2022
+#### Meetup IV/2022 am 09. November 2022
 
-<i class="fa fa-map-marker"></i> [Dachterrasse vom Dresdner Volkshaus am Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/s4CmwXDZYEm3kuTo8)
+<i class="fa fa-map-marker"></i> [seventhings — Hainstr. 2, 01097 Dresden](https://goo.gl/maps/RsiGJeHwYKw6Pyfq5)
 
-<img src="@baseUrl@/images/events/summerbbq2022/SummerBBQ2022.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-**Live-Stream des Vortrags:** [https://youtu.be/lmwqTD_jpcc](https://youtu.be/lmwqTD_jpcc)  
-Der stream wird ab 17:30 Uhr offen sein, der Talk startet um 19:35 Uhr.
-
-**Live-Stream of the talk:** [https://youtu.be/lmwqTD_jpcc](https://youtu.be/lmwqTD_jpcc)  
-The stream will be open from 5:30 PM, the talk starts at 7:35 PM.
-
-<hr class="blockspace">
-
-Der PHP USERGROUP DRESDEN e.V. wird 6 Jahre alt und möchte das mit seinen Mitgliedern, Freunden und Partnern feiern.
-
-The PHP USERGROUP DRESDEN e.V. becomes 6 years old and wants to celebrate with its members, friends and partners.
+<img src="@baseUrl@/images/events/meetups/2022-11-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
 **Programm / Program**
 
-16:00 Uhr (04:00pm) - Doors Open
+18:30 Uhr (06:30pm) - Doors Open
 
-17:00 Uhr (05:00pm) - **BBQ & Drinks** (Für jeden Geschmack etwas dabei / We serve for every taste)
+18:45 Uhr (06:45pm) - User group intro
 
-19:15 Uhr (07:15pm) - User group Intro
+18:50 Uhr (6:50pm) - Host intro
 
-19:35 Uhr (07:35pm) - **The road to more resilience: an introduction to static code analysis** (Main Talk)
+19:00 Uhr (07:00pm) - **PHPat - Define your application architecture by writing tests** (Main Talk)
 
-In this session I will introduce you to static code analysis, a powerful solution to analyze your Magento modules and
-catch problems without writing an extensive amount of tests or without running the code in production. I will introduce
-you to phpstan - a tool shipped with Magento out-of-the-box - and show you how you can get the most of it for your own
-projects.
+by [Gerd Rönsch](https://www.xing.com/profile/Gerd_Roensch/cv) & [Ralf Junghanns](https://twitter.com/rabbl)
 
-by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
+Language: English
 
-Language: German or Englisch
+PHPat allows you to write tests that verify your applications architecture using PHPUnit-Style tests. This makes it easy
+to introduce architecture requirements step by step and allows for readable custom rules-sets.
+This talk will cover an introduction how to write tests with PHPat and will show complex examples from
+real-world applications.
 
-This talk will be streamed online.
-
-20:35 Uhr (08:35pm) - **Community + Socializing**
-
-22:00 Uhr (10:00pm) - Doors closing
-
-**Wichtiger Hinweis / Important information**
-
-Die Teilnehmerzahl ist begrenzt und wir müssen für Essen und Getränke planen. Reserviere also bitte nur einen Platz, 
-wenn du wirklich kommen wirst. Sollte doch etwas dazwischen kommen, gib bitte deinen reservierten Platz wieder frei.
-
-**_Die Anmeldung endet um Mitternacht am 18. August 2022!_**
-
-The number of attendees is limited and we have to plan for food and baverages. 
-So please reserve a seat only if you are sure that you will attend the event. 
-Should something come up, please release your reserved place.
-
-**_The registration closes at midnight on August 18, 2022!_**
+19:45 Uhr (07:45pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -110,6 +81,31 @@ In deinen Kalender importieren</a>
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### Summer BBQ 2022 am 25. August 2022
+
+<i class="fa fa-map-marker"></i> [Dachterrasse vom Dresdner Volkshaus am Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/s4CmwXDZYEm3kuTo8)
+
+<img src="@baseUrl@/images/events/summerbbq2022/SummerBBQ2022.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+**Recording of the talk:** [https://youtu.be/lmwqTD_jpcc](https://youtu.be/lmwqTD_jpcc)  
+
+<hr class="blockspace">
+
+The PHP USERGROUP DRESDEN e.V. becomes 6 years old and wants to celebrate with its members, friends and partners.
+
+**The road to more resilience: an introduction to static code analysis** (Main Talk)
+
+In this session I will introduce you to static code analysis, a powerful solution to analyze your Magento modules and
+catch problems without writing an extensive amount of tests or without running the code in production. I will introduce
+you to phpstan - a tool shipped with Magento out-of-the-box - and show you how you can get the most of it for your own
+projects.
+
+by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
+
+Language: German or Englisch
+
+<hr class="blockspace">
 
 #### [Meetup III/2022 am 11. Mai 2022](https://gettogether.community/events/19138/meetup-iii2022-json-schema/)
 
@@ -142,11 +138,7 @@ unterstützen mich dabei?
 
 **Programm / Program**
 
-18:30 Uhr (06:30pm) - Doors Open
-
-18:40 Uhr (06:40pm) - User group Intro
-
-18:45 Uhr (06:45pm) - **How good are my tests?** (Main Talk)
+**How good are my tests?** (Main Talk)
 
 by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
 
@@ -157,23 +149,15 @@ What other options do we have? Do we need tests to test the quality of our tests
 session, I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the
 quality of your test suite.
 
-19:45 Uhr (07:45pm) - **Community + Socializing**
-
 #### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
 
 <img src="@baseUrl@/images/events/meetups/2022-02-10.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
 **Programm / Program**
 
-18:30 Uhr (06:30pm) - Doors Open
-
-18:40 Uhr (06:40pm) - User group Intro
-
-18:45 Uhr (06:45pm) - **Deploy PHP Apps with Docker - The Essentials** (Main Talk)
+**Deploy PHP Apps with Docker - The Essentials** (Main Talk)
 
 by [Matthew Setter](https://twitter.com/settermjd)
-
-19:45 Uhr (07:45pm) - **Community + Socializing**
 
 #### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
 
@@ -181,17 +165,11 @@ by [Matthew Setter](https://twitter.com/settermjd)
 
 **Programm / Program**
 
-18:30 Uhr (06:30pm) - Doors Open
-
-19:00 Uhr (07:00pm) - User group + Host Intro
-
-19:30 Uhr (07:30pm) - **Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
+**Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
 
 by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
 
 Language: German or English
-
-20:30 Uhr (08:30pm) - **Community + Socializing**
 
 <hr class="blockspace">
 
@@ -201,11 +179,7 @@ Language: German or English
 
 **Programm / Program**
 
-18:30 Uhr (06:30pm) - Doors Open
-
-19:00 Uhr (07:00pm) - User group + Host Intro
-
-19:30 Uhr (07:30pm) - **Recap CMS Leadership Summit** (Lightning talk)
+**Recap CMS Leadership Summit** (Lightning talk)
 
 Einblicke in Themen, die aktuell in bei CMS und eCommerce-Systemen diskutiert werden, und wie Google dabei helfen will.
 
@@ -213,7 +187,7 @@ by [Lidia Demin](https://twitter.com/typecat_), webit! Gesellschaft für neue Me
 
 Language: German or English
 
-20:00 Uhr (08:00pm) - **Event Sourcing** (Main talk)
+**Event Sourcing** (Main talk)
 
 Üblicherweise bildet man Entity-Relationship-Modelle über das Relationale Modell ab. Mit Event Sourcing gibt es aber
 auch noch einen anderen Ansatz. Bei Axilaris haben wir nun die ersten zwei Projekt mit diesem Ereignis getriebenen
@@ -225,8 +199,6 @@ wo passt.
 by [Ronny Hartenstein](https://twitter.com/rhflow_de)
 
 Language: German
-
-20:45 Uhr (08:45pm) - **Community + Socializing**
 
 <hr class="blockspace">
 

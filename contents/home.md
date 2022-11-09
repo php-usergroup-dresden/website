@@ -18,6 +18,8 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <img src="@baseUrl@/images/events/meetups/2022-11-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
+⚡️ **[Live stream on YouTube](https://youtu.be/nNo5rDs66d8)**
+
 **Programm / Program**
 
 18:30 Uhr (06:30pm) - Doors Open

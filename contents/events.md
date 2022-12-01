@@ -27,6 +27,68 @@
 
 ### <a name="next-event"></a>Nächstes Event
 
+#### Meetup V/2022 am 07. Dezember 2022
+
+<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
+
+<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+⚡️ **[Live stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
+
+**Programm / Program**
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+19:00 Uhr (07:00pm) - Open API Integration mit Symfony (Lightning Talk)
+
+by [Jan Männig](https://twitter.com/janmaennig)
+
+Language: German
+
+Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere Symfony-Projekte integrieren.
+
+19:30 Uhr (07:30pm) - What's new in PHP 8.2 (Lightning Talk)
+
+by ([Holger Woltersdorf](https://twitter.com/hollodotme))
+
+Language: German / English
+
+20:00 Uhr (08:00pm) - Community + Socializing
+
+
+<hr class="blockspace">
+
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner. Du hast dich mit einem Thema intensiv beschäftigt und
+möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als
+Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
+<hr class="blockspace">
+
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
+auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2022
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+
 #### Meetup IV/2022 am 09. November 2022
 
 <i class="fa fa-map-marker"></i> [seventhings — Hainstr. 2, 01097 Dresden](https://goo.gl/maps/RsiGJeHwYKw6Pyfq5)
@@ -56,33 +118,6 @@ real-world applications.
 
 19:45 Uhr (07:45pm) - Community + Socializing
 
-<hr class="blockspace">
-
-### Call for Papers (CFP) - Always open!
-
-Für unsere Meetups suchen wir immer wieder neue Themen und Redner. Du hast dich mit einem Thema intensiv beschäftigt und
-möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als
-Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
-
-<hr class="blockspace">
-
-### Ein Meetup hosten?
-
-Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
-auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2022
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### Summer BBQ 2022 am 25. August 2022
 

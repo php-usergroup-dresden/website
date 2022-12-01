@@ -8,17 +8,17 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/289348096/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+<a href="https://www.meetup.com/php-usergroup-dresden/events/290063481/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
 
 ### Nächstes Event
 
-#### Meetup IV/2022 am 09. November 2022
+#### Meetup V/2022 am 07. Dezember 2022
 
-<i class="fa fa-map-marker"></i> [seventhings — Hainstr. 2, 01097 Dresden](https://goo.gl/maps/RsiGJeHwYKw6Pyfq5)
+<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
 
-<img src="@baseUrl@/images/events/meetups/2022-11-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-⚡️ **[Live stream on YouTube](https://youtu.be/nNo5rDs66d8)**
+⚡️ **[Live stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
 
 **Programm / Program**
 
@@ -28,22 +28,46 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 18:50 Uhr (6:50pm) - Host intro
 
-19:00 Uhr (07:00pm) - **PHPat - Define your application architecture by writing tests** (Main Talk)
+19:00 Uhr (07:00pm) - Open API Integration mit Symfony (Lightning Talk)
+
+by [Jan Männig](https://twitter.com/janmaennig)
+
+Language: German
+
+Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere Symfony-Projekte integrieren.
+
+19:30 Uhr (07:30pm) - What's new in PHP 8.2 (Lightning Talk)
+
+by [Holger Woltersdorf](https://twitter.com/hollodotme)
+
+Language: German / English
+
+20:00 Uhr (08:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+#### Meetup IV/2022 am 09. November 2022
+
+<i class="fa fa-map-marker"></i> [seventhings — Hainstr. 2, 01097 Dresden](https://goo.gl/maps/RsiGJeHwYKw6Pyfq5)
+
+<img src="@baseUrl@/images/events/meetups/2022-11-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+⚡️ **[Live stream on YouTube](https://youtu.be/nNo5rDs66d8)**
+
+**PHPat - Define your application architecture by writing tests** (Main Talk)
 
 by [Gerd Rönsch](https://www.xing.com/profile/Gerd_Roensch/cv) & [Ralf Junghanns](https://twitter.com/rabbl)
 
 Language: English
 
-PHPat allows you to write tests that verify your applications architecture using PHPUnit-Style tests. This makes it easy 
-to introduce architecture requirements step by step and allows for readable custom rules-sets. 
-This talk will cover an introduction how to write tests with PHPat and will show complex examples from 
+PHPat allows you to write tests that verify your applications architecture using PHPUnit-Style tests. This makes it easy
+to introduce architecture requirements step by step and allows for readable custom rules-sets.
+This talk will cover an introduction how to write tests with PHPat and will show complex examples from
 real-world applications.
 
-19:45 Uhr (07:45pm) - Community + Socializing
-
 <hr class="blockspace">
-
-### Vergangene Events
 
 #### Summer BBQ 2022 am 25. August 2022
 

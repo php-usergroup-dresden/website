@@ -12,28 +12,28 @@
 			Hier findest du einen Überblick über all unsere Treffen und größere Developer Days.
 			Wir versuchen unser bestes alle 6 Wochen ein Meetup auf die Beine zu stellen. 
 		</p><p>	 
-			Ab sofort kannst du dich auch der <a href="https://gettogether.community/php-usergroup-dresden-ev-774/" target="_blank" title="PHP USERGROUP DRESDEN auf gettogether.community">PHP USERGROUP DRESDEN auf gettogether.community</a> anschließen. 
-			Dort werden wir alle künftigen Meetups veröffentlichen.
+			Schließ dich unserer Gruppe <a href="https://www.meetup.com/de-DE/php-usergroup-dresden/" target="_blank" title="PHP USERGROUP DRESDEN auf meetup.com">PHP USERGROUP DRESDEN auf meetup.com</a> an. 
+			Dort veröffentlichen wir all unsere künftigen Meetups.
 		</p>
 	</div>
 	<div class="hidden-xs col-sm-3 col-md-2 col-lg-2">
-		<img src="@baseUrl@/images/gettogether-logo.png" class="img-responsive pull-right">
+		<img src="@baseUrl@/images/meetup-logo.jpg" class="img-responsive pull-right" alt="Meetup Community">
 	</div>
 </div>
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/290063481/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291073080/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Meetup V/2022 am 07. Dezember 2022
+#### Meetup I/2023 am 09. Februar 2023
 
-<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
+<i class="fa fa-map-marker"></i> [ostec GmbH — Yenidze, Weißeritzstr. 3, 01067 Dresden](https://goo.gl/maps/Bb5bw9izYiagreHd7)
 
-<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+<img src="@baseUrl@/images/events/meetups/2023-02-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-⚡️ **[Live stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
+⚡️ **[Live stream on YouTube](https://youtube.com/live/WC97uy7sakk?feature=share)**
 
 **Programm / Program**
 
@@ -43,21 +43,23 @@
 
 18:50 Uhr (6:50pm) - Host intro
 
-19:00 Uhr (07:00pm) - Open API Integration mit Symfony (Lightning Talk)
+19:00 Uhr (07:00pm) - **Initiating change: An approach for developers** (Main Talk)
 
-by [Jan Männig](https://twitter.com/janmaennig)
+You notice some things are going wrong in your team.Code-Quality suffers, Code-Reviews are not helpful, the Architecture is a plate of spaghetti, distributed over the wall.You have many ideas how to improve the situation.
 
-Language: German
+But how can I push the team in the right direction?This talk is about:
 
-Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere Symfony-Projekte integrieren.
+- Problematic changes
+- Convincing the team of an idea they hate
+- CI as your Hammer
+- Tools and behaviors
+- Metrics & Celebrate success
 
-19:30 Uhr (07:30pm) - What's new in PHP 8.2 (Lightning Talk)
+by Patrick Heller
 
-by [Holger Woltersdorf](https://twitter.com/hollodotme)
+Language: German/English
 
-Language: German / English
-
-20:00 Uhr (08:00pm) - Community + Socializing
+20:00 Uhr (08:00pm) - **Community + Socializing**
 
 <hr class="blockspace">
 
@@ -87,6 +89,29 @@ In deinen Kalender importieren</a>
 
 ### Vergangene Events
 
+#### Meetup V/2022 am 07. Dezember 2022
+
+<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
+
+<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+⚡️ **[Video stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
+
+**Programm / Program**
+
+Open API Integration mit Symfony (Lightning Talk)
+
+by [Jan Männig](https://twitter.com/janmaennig)
+
+Language: German
+
+Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere Symfony-Projekte integrieren.
+
+What's new in PHP 8.2 (Lightning Talk)
+
+by [Holger Woltersdorf](https://twitter.com/hollodotme)
+
+<hr class="blockspace">
 
 #### Meetup IV/2022 am 09. November 2022
 

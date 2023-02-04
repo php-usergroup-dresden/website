@@ -16,24 +16,24 @@ E-Mail: <sponsoring@phpug-dresden.org>
 ## <a name="sponsors"></a>Sponsoren
 
 <div class="row blockspace">
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://twitter.com/F9T3ch" target="_blank">
-				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
+			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
+				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
-			<a href="https://www.move-elevator.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="Move Elevator GmbH" class="img-responsive">
-			</a>
-		</div>
-	</div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.queo.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/queo.jpg" alt="Queo GmbH" class="img-responsive">
+			<a href="https://www.eos-uptrade.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/eos-uptrade.webp" alt="eos.uptrade GmbH" class="img-responsive">
+			</a>
+		</div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    	<div class="sponsor">
+			<a href="https://twitter.com/F9T3ch" target="_blank">
+				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
@@ -46,36 +46,27 @@ E-Mail: <sponsoring@phpug-dresden.org>
     </div>
 </div>
 <div class="row blockspace">
+	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    	<div class="sponsor">
+			<a href="https://www.move-elevator.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="move elevator GmbH" class="img-responsive">
+			</a>
+		</div>
+	</div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ostec.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/ostec.jpg" alt="ostec GmbH" class="img-responsive">
+				<img src="@baseUrl@/images/sponsors/ostec.webp" alt="ostec GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.php-friends.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/php-friends.jpg" alt="PHP-Friends GmbH" class="img-responsive">
+			<a href="https://www.queo.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/queo.webp" alt="Queo GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
-			<a href="https://www.dako.de" target="_blank" title="Dako GmbH">
-				<img src="@baseUrl@/images/sponsors/dako.jpg" alt="Dako GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
-			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
-				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-</div>
-<div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ujamii.com" target="_blank">

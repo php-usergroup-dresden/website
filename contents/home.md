@@ -8,17 +8,18 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/290063481/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291073080/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+SAVE YOUR SEAT</a>
 
-### Nächstes Event
+### <a name="next-event"></a>Nächstes Event
 
-#### Meetup V/2022 am 07. Dezember 2022
+#### Meetup I/2023 am 09. Februar 2023
 
-<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
+<i class="fa fa-map-marker"></i> [ostec GmbH — Yenidze, Weißeritzstr. 3, 01067 Dresden](https://goo.gl/maps/Bb5bw9izYiagreHd7)
 
-<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+<img src="@baseUrl@/images/events/meetups/2023-02-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-⚡️ **[Live stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
+⚡️ **[Live stream on YouTube](https://youtube.com/live/WC97uy7sakk?feature=share)**
 
 **Programm / Program**
 
@@ -28,25 +29,53 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 18:50 Uhr (6:50pm) - Host intro
 
-19:00 Uhr (07:00pm) - Open API Integration mit Symfony (Lightning Talk)
+19:00 Uhr (07:00pm) - **Initiating change: An approach for developers** (Main Talk)
+
+You notice some things are going wrong in your team.Code-Quality suffers, Code-Reviews are not helpful, the Architecture
+is a plate of spaghetti, distributed over the wall.You have many ideas how to improve the situation.
+
+But how can I push the team in the right direction?This talk is about:
+
+- Problematic changes
+- Convincing the team of an idea they hate
+- CI as your Hammer
+- Tools and behaviors
+- Metrics & Celebrate success
+
+by Patrick Heller
+
+Language: German/English
+
+20:00 Uhr (08:00pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+#### Meetup V/2022 am 07. Dezember 2022
+
+<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
+
+<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+⚡️ **[Video stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
+
+**Programm / Program**
+
+Open API Integration mit Symfony (Lightning Talk)
 
 by [Jan Männig](https://twitter.com/janmaennig)
 
 Language: German
 
-Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere Symfony-Projekte integrieren.
+Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere
+Symfony-Projekte integrieren.
 
-19:30 Uhr (07:30pm) - What's new in PHP 8.2 (Lightning Talk)
+What's new in PHP 8.2 (Lightning Talk)
 
 by [Holger Woltersdorf](https://twitter.com/hollodotme)
 
-Language: German / English
-
-20:00 Uhr (08:00pm) - Community + Socializing
-
 <hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup IV/2022 am 09. November 2022
 
@@ -250,9 +279,9 @@ Language: German or English
     </div>
     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/tmuehle.png" alt="Tommy Mühle">
-			<h4>Tommy Mühle</h4>
-			(Gründungsmitglied)
+			<img src="@baseUrl@/images/orgateam/jmaennig.webp" alt="Jan Männig">
+			<h4>Jan Männig</h4>
+			(Orgamitglied, Hosts)
     	</div>
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
@@ -264,14 +293,14 @@ Language: German or English
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/sschuetze.jpg" alt="Steve Schütze">
-			<h4>Steve Schütze</h4>
-			(Orgamitglied)
+			<img src="@baseUrl@/images/orgateam/groensch.webp" alt="Gerd Rönsch">
+			<h4>Gerd Rönsch</h4>
+			(Orgamitglied, Streaming)
 		</div>
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="https://placehold.it/150/f47c20/000000/?text=Du%3F&" alt="Du?">
+			<img src="https://placehold.it/150/f47c20/000000/?text=Du?" alt="Du?">
 			<h4>Hier könnte<br>dein Name stehen!</h4>
 		</div>
 	</div>
@@ -285,24 +314,24 @@ Language: German or English
 ## <a name="sponsors"></a>Sponsoren
 
 <div class="row blockspace">
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://twitter.com/F9T3ch" target="_blank">
-				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
+			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
+				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
-			<a href="https://www.move-elevator.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="Move Elevator GmbH" class="img-responsive">
-			</a>
-		</div>
-	</div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.queo.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/queo.jpg" alt="Queo GmbH" class="img-responsive">
+			<a href="https://www.eos-uptrade.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/eos-uptrade.webp" alt="eos.uptrade GmbH" class="img-responsive">
+			</a>
+		</div>
+    </div>
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    	<div class="sponsor">
+			<a href="https://twitter.com/F9T3ch" target="_blank">
+				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
@@ -315,36 +344,27 @@ Language: German or English
     </div>
 </div>
 <div class="row blockspace">
+	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+    	<div class="sponsor">
+			<a href="https://www.move-elevator.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="move elevator GmbH" class="img-responsive">
+			</a>
+		</div>
+	</div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ostec.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/ostec.jpg" alt="ostec GmbH" class="img-responsive">
+				<img src="@baseUrl@/images/sponsors/ostec.webp" alt="ostec GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.php-friends.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/php-friends.jpg" alt="PHP-Friends GmbH" class="img-responsive">
+			<a href="https://www.queo.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/queo.webp" alt="Queo GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
-			<a href="https://www.dako.de" target="_blank" title="Dako GmbH">
-				<img src="@baseUrl@/images/sponsors/dako.jpg" alt="Dako GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
-			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
-				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-</div>
-<div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ujamii.com" target="_blank">

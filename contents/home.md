@@ -1,4 +1,4 @@
-## Gute Software durch stetige Verbesserung
+## Gute Software durch stete Verbesserung
 
 Der PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusiasten.
 Unser Ziel ist es, Wissen rund um PHP und Softwareentwicklung im Allgemeinen aufzubauen und zu teilen.
@@ -265,7 +265,7 @@ Language: German or English
     </div>
     <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">
     	<div class="orgamember">
-			<img src="@baseUrl@/images/orgateam/ahippe.png" alt="Alexander Hippe">
+			<img src="@baseUrl@/images/orgateam/ahippe.webp" alt="Alexander Hippe">
 			<h4>Alexander Hippe</h4>
 			(Finanzen)
 		</div>
@@ -281,7 +281,7 @@ Language: German or English
     	<div class="orgamember">
 			<img src="@baseUrl@/images/orgateam/jmaennig.webp" alt="Jan Männig">
 			<h4>Jan Männig</h4>
-			(Orgamitglied, Hosts)
+			(Orgamitglied, Hosts) 
     	</div>
 	</div>
 	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 text-center">

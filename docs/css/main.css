@@ -1,201 +1,205 @@
 * html, body {
-	font-family: "robotoregular", Helvetica, Arial, sans-serif;
+    font-family: "robotoregular", Helvetica, Arial, sans-serif;
 }
 
 a {
-	color: #f47c20;
+    color: #f47c20;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: #d16920;
-	text-decoration: none;
+    color: #d16920;
+    text-decoration: none;
 }
 
-.fa.fa-meetup {
-	color: #da3846;
+.fa-brands.fa-meetup {
+    color: #da3846;
 }
 
-.fa.fa-github {
-	color: #505050;
+.fa-brands.fa-github {
+    color: #505050;
 }
 
-.fa.fa-twitter {
-	color: #4a9ee9;
+.fa-brands.fa-twitter {
+    color: #4a9ee9;
 }
 
-.fa.fa-facebook {
-	color: #415993;
+.fa-brands.fa-facebook {
+    color: #415993;
 }
 
-.fa.fa-xing {
-	color: #2a6366;
+.fa-brands.fa-xing {
+    color: #2a6366;
 }
 
-.fa.fa-github-square {
-	color: #ce2d55;
+.fa-brands.fa-github-square {
+    color: #ce2d55;
 }
 
-.fa.fa-slack {
-	color: #e1ab3b;
+.fa-brands.fa-slack {
+    color: #e1ab3b;
 }
 
-.fa.fa-youtube {
-	color: #000000;
+.fa-brands.fa-youtube {
+    color: #000000;
+}
+
+.fa-brands.fa-mastodon {
+    color: #595aff;
 }
 
 #brandimg {
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 .blockspace {
-	margin: 25px 0;
+    margin: 25px 0;
 }
 
 .speaker {
-	margin-top: 15px;
+    margin-top: 15px;
 }
 
 .speaker > img {
-	margin: 0 auto;
+    margin: 0 auto;
 }
 
 .orgamember {
-	margin: 15px 0;
+    margin: 15px 0;
 }
 
 .orgamember h4 {
-	font-size: larger;
+    font-size: larger;
 }
 
 .sponsor {
-	margin: 15px 0;
+    margin: 15px 0;
 }
 
 .coop {
-	margin: 15px 0;
+    margin: 15px 0;
 }
 
 .img-inline {
-	display: inline-block;
-	margin: 5px;
+    display: inline-block;
+    margin: 5px;
 }
 
 #sidebar {
-	height: 100%;
-	padding-right: 0;
-	padding-top: 30px;
+    height: 100%;
+    padding-right: 0;
+    padding-top: 30px;
 }
 
 #sidebar nav {
-	margin: 0 10px;
+    margin: 0 10px;
 }
 
 #sidebar nav > li > ul {
-	margin: 5px 0;
+    margin: 5px 0;
 }
 
 #sidenav .nav > li.active > a {
-	background-color: #f6f6f6;
+    background-color: #f6f6f6;
 }
 
 #sidenav .nav > li > ul > li {
-	font-size: smaller;
-	padding-left: 15px;
-	border-top: 1px solid #eeeeee;
+    font-size: smaller;
+    padding-left: 15px;
+    border-top: 1px solid #eeeeee;
 }
 
 #socialmedia a {
-	font-size: x-large;
-	margin: 15px 0;
-	display: inline-block;
+    font-size: x-large;
+    margin: 15px 0;
+    display: inline-block;
 }
 
 #swk {
-	padding: 10px 20px;
+    padding: 10px 20px;
 }
 
 #phpce {
-	padding: 10px 20px;
+    padding: 10px 20px;
 }
 
 #code-of-conduct {
-	padding: 10px 20px;
+    padding: 10px 20px;
 }
 
 #calendar {
-	width: 100%;
-	margin: 20px auto 0 auto;
+    width: 100%;
+    margin: 20px auto 0 auto;
 }
 
 #calendar .fc-event,
 #calendar .fc-event-dot {
-	background-color: #ff8c00;
-	border-color: #f47c20;
+    background-color: #ff8c00;
+    border-color: #f47c20;
 }
 
 /* collapsed sidebar styles */
 @media screen and (max-width: 767px) {
 
-	#mainstage > h1 {
-		font-size: x-large;
-	}
+    #mainstage > h1 {
+        font-size: x-large;
+    }
 
-	.row-offcanvas {
-		position: relative;
-		-webkit-transition: all 0.25s ease-out;
-		-moz-transition: all 0.25s ease-out;
-		transition: all 0.25s ease-out;
-	}
+    .row-offcanvas {
+        position: relative;
+        -webkit-transition: all 0.25s ease-out;
+        -moz-transition: all 0.25s ease-out;
+        transition: all 0.25s ease-out;
+    }
 
-	.row-offcanvas-right .sidebar-offcanvas {
-		right: -50.0%;
-	}
+    .row-offcanvas-right .sidebar-offcanvas {
+        right: -50.0%;
+    }
 
-	.row-offcanvas-left .sidebar-offcanvas {
-		left: -50.0%;
-	}
+    .row-offcanvas-left .sidebar-offcanvas {
+        left: -50.0%;
+    }
 
-	.row-offcanvas-right.active {
-		right: 50.0%;
-	}
+    .row-offcanvas-right.active {
+        right: 50.0%;
+    }
 
-	.row-offcanvas-left.active {
-		left: 50.0%;
-	}
+    .row-offcanvas-left.active {
+        left: 50.0%;
+    }
 
-	.sidebar-offcanvas {
-		position: absolute;
-		top: 0;
-		width: 50.0%;
-	}
+    .sidebar-offcanvas {
+        position: absolute;
+        top: 0;
+        width: 50.0%;
+    }
 
-	.btn {
-		font-size: small;
-	}
+    .btn {
+        font-size: small;
+    }
 
-	#sidenav > .btn.blockspace {
-		margin-top: 0;
-	}
+    #sidenav > .btn.blockspace {
+        margin-top: 0;
+    }
 }
 
 table {
-	min-width: 50%;
-	border-collapse: collapse;
-	border: 1px solid #eee
+    min-width: 50%;
+    border-collapse: collapse;
+    border: 1px solid #eee
 }
 
 table th {
-	background-color: #f6f6f6;
+    background-color: #f6f6f6;
 }
 
 table th,
 table td {
-	border: 1px solid #eee;
-	padding: 5px;
+    border: 1px solid #eee;
+    padding: 5px;
 }
 
 table tr:nth-child(even) {
-	background-color: #fafafa;
+    background-color: #fafafa;
 }

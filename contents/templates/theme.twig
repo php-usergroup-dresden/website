@@ -41,10 +41,11 @@
   "sameAs" : [
       "@twitter_url@",
       "@xing_url@",
-      "@gitter_url@",
       "@slackteam_url@",
       "@meetup_url@",
-      "@facebook_url@"
+      "@facebook_url@",
+      "@linkedin_url@",
+      "@mastodon_url@"
     ]
   }
 }{% endspaceless %}</script>
@@ -95,7 +96,7 @@
 	<link rel="stylesheet" href="{{ project.getUrl('/css/webfonts.css') }}">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/twemoji-awesome.css') }}">
 	<link rel="stylesheet" href="{{ project.getUrl('/css/main.css') ~ '?' ~ ('now'|date('YmdHis')) }}">
-	<script src="https://use.fontawesome.com/e89ed69fdb.js" async="async"></script>
+	<script src="https://kit.fontawesome.com/1398486921.js" crossorigin="anonymous"></script>
 	{% block stylesheets %}{% endblock %}
 </head>
 <body>
@@ -143,25 +144,25 @@
 					<div id="socialmedia">
 						<div class="row">
 							<div class="col-xs-3 text-center">
-								<a href="@meetup_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at meetup.com"><i class="fa fa-meetup"></i></a>
+								<a href="@meetup_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at meetup.com"><i class="fa-brands fa-meetup"></i></a>
 							</div>
 							<div class="col-xs-3 text-center">
-								<a href="@twitter_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at twitter"><i class="fa fa-twitter"></i></a>
+								<a href="@twitter_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at twitter"><i class="fa-brands fa-twitter"></i></a>
 							</div>
 							<div class="col-xs-3 text-center">
-								<a href="@facebook_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-facebook"></i></a>
+								<a href="@xing_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa-brands fa-xing"></i></a>
 							</div>
 							<div class="col-xs-3 text-center">
-								<a href="@xing_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at facebook"><i class="fa fa-xing"></i></a>
+								<a href="@slackteam_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa-brands fa-slack"></i></a>
 							</div>
 							<div class="col-xs-3 text-center">
-								<a href="@slackteam_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at slack"><i class="fa fa-slack"></i></a>
+								<a href="@github_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at github"><i class="fa-brands fa-github"></i></a>
 							</div>
 							<div class="col-xs-3 text-center">
-								<a href="@github_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at github"><i class="fa fa-github"></i></a>
+								<a href="@youtube_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at YouTube"><i class="fa-brands fa-youtube"></i></a>
 							</div>
 							<div class="col-xs-3 text-center">
-								<a href="@youtube_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at YouTube"><i class="fa fa-youtube"></i></a>
+								<a rel="me" href="@mastodon_url@" target="_blank" title="PHP USERGROUP DRESDEN e.V. at Mastodon"><i class="fa-brands fa-mastodon"></i></a>
 							</div>
 						</div>
 					</div>

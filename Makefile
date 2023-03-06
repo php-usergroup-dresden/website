@@ -20,6 +20,8 @@ PHP_EXECUTABLE = php
 PHP_OPTIONS = -ddisplay_errors=0 -derror_reporting=22519
 PHP_EXEC = $(PHP_EXECUTABLE) $(PHP_OPTIONS)
 PAGE_GENERATOR_EXEC = $(PHP_EXEC) ./vendor/bin/spg.phar
+LOCAL_SERVER = 127.0.0.1:8087
+DOC_ROOT = ./docs
 
 ## Generate all static files
 generate: generate-pages generate-sitemap generate-search-index
@@ -39,3 +41,8 @@ generate-sitemap:
 generate-search-index:
 	$(PAGE_GENERATOR_EXEC) generate:search-index
 .PHONY: generate-search-index
+
+## Serve local website
+serve:
+	$(PHP_EXECUTABLE) -S $(LOCAL_SERVER) -t $(DOC_ROOT)
+.PHONY: serve

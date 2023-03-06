@@ -8,18 +8,16 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291073080/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291406389/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Meetup I/2023 am 09. Februar 2023
+#### Meetup II/2023 am 22. März 2023
 
-<i class="fa fa-map-marker"></i> [ostec GmbH — Yenidze, Weißeritzstr. 3, 01067 Dresden](https://goo.gl/maps/Bb5bw9izYiagreHd7)
+<i class="fa fa-map-marker"></i> [queo GmbH, Tharandter Str. 13, 01159 Dresden](https://goo.gl/maps/VpdqMqwm91Pubi2y9)
 
-<img src="@baseUrl@/images/events/meetups/2023-02-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-⚡️ **[Live stream on YouTube](https://youtube.com/live/WC97uy7sakk?feature=share)**
+<img src="@baseUrl@/images/events/meetups/2023-03-22.webp" class="img-responsive" style="margin: 35px 0 15px 0;">
 
 **Programm / Program**
 
@@ -29,7 +27,43 @@ SAVE YOUR SEAT</a>
 
 18:50 Uhr (6:50pm) - Host intro
 
-19:00 Uhr (07:00pm) - **Initiating change: An approach for developers** (Main Talk)
+19:00 Uhr (07:00pm) - **Wie kann uns AI als Devs unterstützen?** (Lightning Talk)
+
+Dabei möchte ich explizit auf Github CoPilot und ChatGPT eingehen und ein paar Beispiele vorstellen. 
+Zudem auch zusammen mit den Teilnehmenden ein paar Anfragen ausprobieren.
+
+Language: German
+
+By Sascha Latzkowski ([GitHub](https://github.com/Sa-Lat))
+
+19:40 Uhr (07:40pm) - **SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse** (Main Talk)
+
+Dieser Talk liefert einen Einstieg in die Security-Bewertung mittels statischer Code-Analyse in PHP 
+unter Verwendung des Open Source Frameworks [PsalmPHP](https://psalm.dev) und und setzt dies in Relation mit einigen anderen proprietären 
+Services am Markt. Anhand einfacher Beispiele werden Möglichkeiten, neue Herausforderungen, aber auch die 
+Grenzen von SAST erklärt.
+
+Language: German
+
+By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.linkedin.com/in/oliverhader), [GitHub](https://github.com/ohader))
+
+20:40 Uhr (08:40pm) - **Community + Socializing**
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+#### Meetup I/2023 am 09. Februar 2023
+
+<i class="fa fa-map-marker"></i> [ostec GmbH — Yenidze, Weißeritzstr. 3, 01067 Dresden](https://goo.gl/maps/Bb5bw9izYiagreHd7)
+
+<img src="@baseUrl@/images/events/meetups/2023-02-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+⚡️ **[Video on YouTube](https://youtube.com/live/WC97uy7sakk?feature=share)**
+
+**Programm / Program**
+
+ **Initiating change: An approach for developers** (Main Talk)
 
 You notice some things are going wrong in your team.Code-Quality suffers, Code-Reviews are not helpful, the Architecture
 is a plate of spaghetti, distributed over the wall.You have many ideas how to improve the situation.
@@ -46,11 +80,7 @@ by Patrick Heller
 
 Language: German/English
 
-20:00 Uhr (08:00pm) - **Community + Socializing**
-
 <hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup V/2022 am 07. Dezember 2022
 

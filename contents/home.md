@@ -13,6 +13,36 @@ SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
+#### Meetup III/2023 am 4. Mai 2023
+
+<i class="fa fa-map-marker"></i> [TAG24 Dresden Campus, Ostra-Allee 18, 01067 Dresden](https://goo.gl/maps/rkmM5c2JvLMFo5Py9)
+
+⚡️ **[Livestream YouTube](https://youtube.com/live/omoa4oA8kME)**
+
+<img src="@baseUrl@/images/events/meetups/2023-05-04-performance-driven-development.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+**Programm / Program**
+
+Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+19:00 Uhr (07:00pm) - What is Performance Driven Development and why aren't you doing it? (Main Talk)
+
+by [James Seconde](https://twitter.com/SecondeJ)
+
+Language: English
+
+20:00 Uhr (08:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
+### Vergangene Events
+
 #### Meetup II/2023 am 22. März 2023
 
 <i class="fa fa-map-marker"></i> [queo GmbH, Tharandter Str. 13, 01159 Dresden](https://goo.gl/maps/VpdqMqwm91Pubi2y9)
@@ -29,7 +59,7 @@ SAVE YOUR SEAT</a>
 
 19:00 Uhr (07:00pm) - **Wie kann uns AI als Devs unterstützen?** (Lightning Talk)
 
-Dabei möchte ich explizit auf Github CoPilot und ChatGPT eingehen und ein paar Beispiele vorstellen. 
+Dabei möchte ich explizit auf Github CoPilot und ChatGPT eingehen und ein paar Beispiele vorstellen.
 Zudem auch zusammen mit den Teilnehmenden ein paar Anfragen ausprobieren.
 
 Language: German
@@ -38,9 +68,9 @@ By Sascha Latzkowski ([GitHub](https://github.com/Sa-Lat))
 
 19:40 Uhr (07:40pm) - **SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse** (Main Talk)
 
-Dieser Talk liefert einen Einstieg in die Security-Bewertung mittels statischer Code-Analyse in PHP 
-unter Verwendung des Open Source Frameworks [PsalmPHP](https://psalm.dev) und und setzt dies in Relation mit einigen anderen proprietären 
-Services am Markt. Anhand einfacher Beispiele werden Möglichkeiten, neue Herausforderungen, aber auch die 
+Dieser Talk liefert einen Einstieg in die Security-Bewertung mittels statischer Code-Analyse in PHP
+unter Verwendung des Open Source Frameworks [PsalmPHP](https://psalm.dev) und und setzt dies in Relation mit einigen anderen proprietären
+Services am Markt. Anhand einfacher Beispiele werden Möglichkeiten, neue Herausforderungen, aber auch die
 Grenzen von SAST erklärt.
 
 Language: German
@@ -48,10 +78,6 @@ Language: German
 By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.linkedin.com/in/oliverhader), [GitHub](https://github.com/ohader))
 
 20:40 Uhr (08:40pm) - **Community + Socializing**
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup I/2023 am 09. Februar 2023
 

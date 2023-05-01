@@ -19,7 +19,7 @@ SAVE YOUR SEAT</a>
 
 ⚡️ **[Livestream YouTube](https://youtube.com/live/omoa4oA8kME)**
 
-<img src="@baseUrl@/images/events/meetups/2023-05-04-performance-driven-development.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+<img src="@baseUrl@/images/events/meetups/2023-05-04.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
 **Programm / Program**
 

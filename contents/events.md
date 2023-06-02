@@ -23,35 +23,48 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291073080/" target="_blank" class="btn btn-lg btn-success" style="float: right">SAVE YOUR SEAT</a>
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291406616/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Meetup III/2023 am 4. Mai 2023
+#### Meetup IV/2023 am 8. Juni 2023
 
-<i class="fa fa-map-marker"></i> [TAG24 Dresden Campus, Ostra-Allee 18, 01067 Dresden](https://goo.gl/maps/rkmM5c2JvLMFo5Py9)
+<i class="fa fa-map-marker"></i> [Zalari GmbH, Hermann-Mende-Str. 4, 01099 Dresden](https://goo.gl/maps/3cYc5KeMUPef5t8R9?coh=178573&entry=tt)
 
-⚡️ **[Livestream YouTube](https://youtube.com/live/omoa4oA8kME)**
+<img src="@baseUrl@/images/events/meetups/2023-06-08.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-<img src="@baseUrl@/images/events/meetups/2023-05-04.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+This time we are teaming up with [DresdenJS.io JavaScript User Group](https://www.meetup.com/dresdenjs-io-javascript-user-group)
 
 **Programm / Program**
 
-Programm / Program
+19:00 Uhr (07:00pm) - Doors Open
 
-18:30 Uhr (06:30pm) - Doors Open
+19:15 Uhr (07:15pm) - User group intros
 
-18:45 Uhr (06:45pm) - User group intro
+19:20 Uhr (7:20pm) - Host intro
 
-18:50 Uhr (6:50pm) - Host intro
+19:30 Uhr (07:30pm) - **Building Sustainable Web Applications: Implementing Hexagonal and Layered Architectures in PHP and React** (Lightning Talk)
 
-19:00 Uhr (07:00pm) - What is Performance Driven Development and why aren't you doing it? (Main Talk)
+In the ever-evolving landscape of web application development, building sustainable and robust applications is crucial. This talk explores the implementation of hexagonal and layered architectures in PHP and React, presenting a practical approach to building enterprise web applications which are easy to adapt and maintain.
 
-by [James Seconde](https://twitter.com/SecondeJ)
+Hexagonal architecture, also known as ports and adapters architecture, focuses on decoupling the application’s core logic from external dependencies. By employing hexagonal architecture principles, developers can achieve improved testability, maintainability, and scalability. This talk delves into the core concepts of hexagonal architecture and showcases how it can be seamlessly integrated into PHP projects.
 
-Language: English
+Layered architecture, on the other hand, promotes the separation of concerns by organizing application components into logical layers. This architectural style enables better code organization and modularity, leading to improved code quality and maintainability. By demonstrating real-world examples, this session illustrates how layered architecture can be implemented effectively in React applications, enabling developers to build scalable and maintainable web applications.
 
-20:00 Uhr (08:00pm) - Community + Socializing
+Throughout the talk, attendees will gain practical insights and best practices for implementing hexagonal and layered architectures in PHP and React. Ralf will share code examples, tips, and techniques, providing attendees with actionable knowledge to apply in their own projects. And they will leave with the knowledge and confidence to architect applications that are easier to maintain, test, and scale, ultimately leading to more robust and successful web applications in the long run.
+
+By [Ralf Junghanns](https://junghanns.it)
+
+Language: English / German
+
+20:15 Uhr (8:15pm) - **Flash in aktuellen Browsern verwenden** (Main talk)
+
+Flash ist tot, denken die meisten, aber mit genügend Energie, läuft es noch das alte Flash-Projekt oder wir versuchen es mal mit openfl + haxelib wenigstens. Dazu gibt es etwas Lesematerial und viele gelernte Erfahrungen aus großen Code-Basen und wie man denn nun den Kram in ein paar Jahren noch effizient nutzen kann.
+
+Language: German
+
+21:00 Uhr (09:00pm) - **Community + Socializing**
 
 <hr class="blockspace">
 
@@ -80,6 +93,22 @@ In deinen Kalender importieren</a>
 <hr class="blockspace">
 
 ### Vergangene Events
+
+#### Meetup III/2023 am 4. Mai 2023
+
+<i class="fa fa-map-marker"></i> [TAG24 Dresden Campus, Ostra-Allee 18, 01067 Dresden](https://goo.gl/maps/rkmM5c2JvLMFo5Py9)
+
+⚡️ **[Video on YouTube](https://youtube.com/live/omoa4oA8kME)**
+
+<img src="@baseUrl@/images/events/meetups/2023-05-04.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+What is Performance Driven Development and why aren't you doing it? (Main Talk)
+
+by [James Seconde](https://twitter.com/SecondeJ)
+
+Language: English
+
+<hr class="blockspace">
 
 #### Meetup II/2023 am 22. März 2023
 

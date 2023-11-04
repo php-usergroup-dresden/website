@@ -8,10 +8,77 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291406616/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291406707/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup V/2023 am 13. November 2023
+
+<i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstr. 3, 01067 Dresden](https://maps.app.goo.gl/idbwsznqxzBk2cUWA)
+
+<img src="@baseUrl@/images/events/meetups/2023-11-13.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup V/2023, Nov. 13, Speakers: Oliver Drotbohm, Holger Woltersdorf, Topics: Architekturexplizite Applikationen mit xMolecules, MQTT Best Practices">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - MQTT Best Practices (Lightning Talk)
+
+This talk will give a brief introduction to MQTT, what it is used for and will 
+show you how to apply best practices with an example.
+
+Language: German or English
+
+by Holger Woltersdorf
+
+Holger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on software architect & developer with a 
+focus on building sustainable software while enabling and growing a professional team around it. 
+He has about 25 years of developer and team-lead experience in mobile communication, fashion and food eCommerce, 
+as well as in other industries.
+
+- https://twitter.com/hollodotme
+- https://phpc.social/@hollodotme
+- https://www.linkedin.com/in/holger-woltersdorf/
+- https://github.com/hollodotme
+- https://hollo.me
+
+##### 19:45 Uhr (07:45pm) - Architekturexplizite Applikationen mit xMolecules (Main Talk)
+
+Applikationen basieren üblicherweise auf einem Framework oder einer Entwicklungsplattform. Einige davon erlauben es, 
+architektonische Konzepte auszudrücken. Diese jedoch direkt in Code abzubilden, bleibt meist eine Herausforderung, 
+ebenso wie die Trennung von fachlichem Code und Applikationsframework.
+
+xMolecules ist eine Framework-unabhängige Bibliothek, die es erlaubt, verbreitete, architektonische Konzepte direkt in 
+Code verschiedener Programmiersprachen darzustellen, zu überprüfen, ob Regeln bezüglich der Implementierung dieser 
+eingehalten werden und die nötige technische Integration, sowie entsprechende Dokumentation abzuleiten.
+
+Der Vortrag gibt einen Überblick über die Java-Variante jMolecules, den grundsätzlichen Ansatz und zeigt, wie 
+Entwickler:innen die bereitgestellten Abstraktionen mit Frameworks wie Spring, Jackson und JPA nutzen können. 
+Darüber hinaus diskutieren wir, wie solche Ansätze in einem PHP Port der Bibliothek nutzbar gemacht werden können.
+
+Language: German or English
+
+by Oliver Drotbohm
+
+Oliver Drotbohm ist Teil des Spring Engineering Teams bei VMware. Seine Arbeitsschwerpunkte liegen im Bereich 
+Softwarearchitektur, Domain-Driven Design, REST, Spring und Persistenztechnologien. 
+Sein neues Buch „Modulithic Applications with Spring“ erscheint 2024.
+
+- https://twitter.com/odrotbohm
+- https://chaos.social/@odrotbohm
+- https://github.com/odrotbohm
+- https://www.linkedin.com/in/odrotbohm/
+
+20:45 Uhr (08:45pm) - Community + Socializing
+
+<hr class="blockspace">
+
+### Vergangene Events
 
 #### Meetup IV/2023 am 8. Juni 2023
 
@@ -21,15 +88,7 @@ SAVE YOUR SEAT</a>
 
 This time we are teaming up with [DresdenJS.io JavaScript User Group](https://www.meetup.com/dresdenjs-io-javascript-user-group)
 
-**Programm / Program**
-
-19:00 Uhr (07:00pm) - Doors Open
-
-19:15 Uhr (07:15pm) - User group intros
-
-19:20 Uhr (7:20pm) - Host intro
-
-19:30 Uhr (07:30pm) - **Building Sustainable Web Applications: Implementing Hexagonal and Layered Architectures in PHP and React** (Lightning Talk)
+**Building Sustainable Web Applications: Implementing Hexagonal and Layered Architectures in PHP and React** (Lightning Talk)
 
 In the ever-evolving landscape of web application development, building sustainable and robust applications is crucial. This talk explores the implementation of hexagonal and layered architectures in PHP and React, presenting a practical approach to building enterprise web applications which are easy to adapt and maintain.
 
@@ -41,19 +100,11 @@ Throughout the talk, attendees will gain practical insights and best practices f
 
 By [Ralf Junghanns](https://junghanns.it)
 
-Language: English / German
-
-20:15 Uhr (8:15pm) - **Flash in aktuellen Browsern verwenden** (Main talk)
+**Flash in aktuellen Browsern verwenden** (Main talk)
 
 Flash ist tot, denken die meisten, aber mit genügend Energie, läuft es noch das alte Flash-Projekt oder wir versuchen es mal mit openfl + haxelib wenigstens. Dazu gibt es etwas Lesematerial und viele gelernte Erfahrungen aus großen Code-Basen und wie man denn nun den Kram in ein paar Jahren noch effizient nutzen kann.
 
-Language: German
-
-21:00 Uhr (09:00pm) - **Community + Socializing**
-
 <hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup III/2023 am 4. Mai 2023
 
@@ -77,15 +128,7 @@ Language: English
 
 <img src="@baseUrl@/images/events/meetups/2023-03-22.webp" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-**Programm / Program**
-
-18:30 Uhr (06:30pm) - Doors Open
-
-18:45 Uhr (06:45pm) - User group intro
-
-18:50 Uhr (6:50pm) - Host intro
-
-19:00 Uhr (07:00pm) - **Wie kann uns AI als Devs unterstützen?** (Lightning Talk)
+**Wie kann uns AI als Devs unterstützen?** (Lightning Talk)
 
 Dabei möchte ich explizit auf Github CoPilot und ChatGPT eingehen und ein paar Beispiele vorstellen.
 Zudem auch zusammen mit den Teilnehmenden ein paar Anfragen ausprobieren.
@@ -94,7 +137,7 @@ Language: German
 
 By Sascha Latzkowski ([GitHub](https://github.com/Sa-Lat))
 
-19:40 Uhr (07:40pm) - **SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse** (Main Talk)
+**SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse** (Main Talk)
 
 Dieser Talk liefert einen Einstieg in die Security-Bewertung mittels statischer Code-Analyse in PHP
 unter Verwendung des Open Source Frameworks [PsalmPHP](https://psalm.dev) und und setzt dies in Relation mit einigen anderen proprietären
@@ -105,7 +148,7 @@ Language: German
 
 By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.linkedin.com/in/oliverhader), [GitHub](https://github.com/ohader))
 
-20:40 Uhr (08:40pm) - **Community + Socializing**
+<hr class="blockspace">
 
 #### Meetup I/2023 am 09. Februar 2023
 
@@ -135,156 +178,6 @@ by Patrick Heller
 Language: German/English
 
 <hr class="blockspace">
-
-#### Meetup V/2022 am 07. Dezember 2022
-
-<i class="fa fa-map-marker"></i> [move:elevator — Königsbrücker Str. 76 · Dresden](https://goo.gl/maps/g4dqsT3PAwDiBgrv7)
-
-<img src="@baseUrl@/images/events/meetups/2022-12-07.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-⚡️ **[Video stream on YouTube](https://www.youtube.com/watch?v=qKfDy6z4L_0)**
-
-**Programm / Program**
-
-Open API Integration mit Symfony (Lightning Talk)
-
-by [Jan Männig](https://twitter.com/janmaennig)
-
-Language: German
-
-Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere
-Symfony-Projekte integrieren.
-
-What's new in PHP 8.2 (Lightning Talk)
-
-by [Holger Woltersdorf](https://twitter.com/hollodotme)
-
-<hr class="blockspace">
-
-#### Meetup IV/2022 am 09. November 2022
-
-<i class="fa fa-map-marker"></i> [seventhings — Hainstr. 2, 01097 Dresden](https://goo.gl/maps/RsiGJeHwYKw6Pyfq5)
-
-<img src="@baseUrl@/images/events/meetups/2022-11-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-⚡️ **[Live stream on YouTube](https://youtu.be/nNo5rDs66d8)**
-
-**PHPat - Define your application architecture by writing tests** (Main Talk)
-
-by [Gerd Rönsch](https://www.xing.com/profile/Gerd_Roensch/cv) & [Ralf Junghanns](https://twitter.com/rabbl)
-
-Language: English
-
-PHPat allows you to write tests that verify your applications architecture using PHPUnit-Style tests. This makes it easy
-to introduce architecture requirements step by step and allows for readable custom rules-sets.
-This talk will cover an introduction how to write tests with PHPat and will show complex examples from
-real-world applications.
-
-<hr class="blockspace">
-
-#### Summer BBQ 2022 am 25. August 2022
-
-<i class="fa fa-map-marker"></i> [Dachterrasse vom Dresdner Volkshaus am Schützenplatz 14, 01067 Dresden](https://goo.gl/maps/s4CmwXDZYEm3kuTo8)
-
-<img src="@baseUrl@/images/events/summerbbq2022/SummerBBQ2022.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-**Recording of the talk:** [https://youtu.be/lmwqTD_jpcc](https://youtu.be/lmwqTD_jpcc)
-
-<hr class="blockspace">
-
-The PHP USERGROUP DRESDEN e.V. becomes 6 years old and wants to celebrate with its members, friends and partners.
-
-**Programm / Program**
-
-**The road to more resilience: an introduction to static code analysis** (Main Talk)
-
-In this session I will introduce you to static code analysis, a powerful solution to analyze your Magento modules and
-catch problems without writing an extensive amount of tests or without running the code in production. I will introduce
-you to phpstan - a tool shipped with Magento out-of-the-box - and show you how you can get the most of it for your own
-projects.
-
-by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
-
-<hr class="blockspace">
-
-#### [Meetup III/2022 am 11. Mai 2022](https://gettogether.community/events/19138/meetup-iii2022-json-schema/)
-
-<img src="@baseUrl@/images/events/meetups/2022-05-11.png" class="img-responsive" style="margin: 15px 0 15px 0;">
-
-<i class="fa fa-map-marker"></i> ZOOM Remote Meeting
-
-**JSON-Schema** (Main Talk)
-
-by [Ingo Walther](https://twitter.com/waltheringo)
-
-Language: German
-
-Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen.
-So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die
-JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema
-schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen
-kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools
-unterstützen mich dabei?
-
-**Video vom Meetup auf Youtube: [https://youtu.be/F72-TJA7idU](https://youtu.be/F72-TJA7idU)**
-
-<hr class="blockspace">
-
-#### [Meetup II/2022 am 21. März 2022](https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/)
-
-<img src="@baseUrl@/images/events/meetups/2022-03-21.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-<i class="fa fa-map-marker"></i> [Remote Meeting](https://us06web.zoom.us/j/85123885583?pwd=dEw5d2dqZ25pcEQwOTlESmZ4Sm1xQT09)
-
-**Programm / Program**
-
-**How good are my tests?** (Main Talk)
-
-by [Stephan Hochdörfer](https://twitter.com/shochdoerfer)
-
-Language: German/English
-
-How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question.
-What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this
-session,
-I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the
-quality of your test suite.
-
-#### [Meetup I/2022 am 10. Februar 2022](https://gettogether.community/events/16677/meetup-i2022/)
-
-<img src="@baseUrl@/images/events/meetups/2022-02-10.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-**Programm / Program**
-
-**Deploy PHP Apps with Docker - The Essentials** (Main Talk)
-
-by [Matthew Setter](https://twitter.com/settermjd)
-
-Language: English
-
-So, why deploy with Docker, especially when there are so many other deployment options?
-I'll speak for myself and say that in my experience, after learning enough about Docker, and getting just a few more
-grey hairs, I've found Docker to be a simpler, more homogeneous way of deploying than I'd been used to in the past,
-using tools such as Rocketeer, Capistrano, and Rsync over SSH.
-I've found that by using some standardised files and a small set of commands, I can deploy an application almost as
-easily to production as I can on my local development machine.
-In this talk, I want to share what I've learned about Docker in the hope that what I've learned can help others. Enjoy!
-If you'd like to dive far deeper, I've written a free book called Docker Essentials, which I based this talk on. It
-covers the topic in a lot more detail than the talk does, yet without going overboard. It's packed with tips, tricks,
-and pointers that I've learned along the way. If you're interested, you can download a copy, for free,
-from https://dockeressentials.com.
-
-#### [Meetup I am 25. Februar 2020](https://gettogether.community/events/4319/meetup-i-2020/)
-
-<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://gettogether.community/places/1131/)
-
-**Programm / Program**
-
-**Lessons Learned - Running a Kubernetes cluster for more than two years** (Main talk)
-
-by [Sebastian Kurfürst](https://twitter.com/skurfuerst)
-
-Language: German or English
 
 **<i class="fa fa-calendar"></i> [Übersicht aller geplanten und vergangen Events](@baseUrl@/events.html)**
 

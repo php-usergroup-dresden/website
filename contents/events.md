@@ -23,48 +23,73 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291406616/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291406707/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Meetup IV/2023 am 8. Juni 2023
+#### Meetup V/2023 am 13. November 2023
 
-<i class="fa fa-map-marker"></i> [Zalari GmbH, Hermann-Mende-Str. 4, 01099 Dresden](https://goo.gl/maps/3cYc5KeMUPef5t8R9?coh=178573&entry=tt)
+<i class="fa fa-map-marker"></i> [portrino GmbH, Könneritzstr. 3, 01067 Dresden](https://maps.app.goo.gl/idbwsznqxzBk2cUWA)
 
-<img src="@baseUrl@/images/events/meetups/2023-06-08.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+<img src="@baseUrl@/images/events/meetups/2023-11-13.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup V/2023, Nov. 13, Speakers: Oliver Drotbohm, Holger Woltersdorf, Topics: Architekturexplizite Applikationen mit xMolecules, MQTT Best Practices">
 
-This time we are teaming up with [DresdenJS.io JavaScript User Group](https://www.meetup.com/dresdenjs-io-javascript-user-group)
+##### Programm / Program
 
-**Programm / Program**
+18:30 Uhr (06:30pm) - Doors Open
 
-19:00 Uhr (07:00pm) - Doors Open
+18:45 Uhr (06:45pm) - User group intro
 
-19:15 Uhr (07:15pm) - User group intros
+18:50 Uhr (6:50pm) - Host intro
 
-19:20 Uhr (7:20pm) - Host intro
+##### 19:00 Uhr (07:00pm) - MQTT Best Practices (Lightning Talk)
 
-19:30 Uhr (07:30pm) - **Building Sustainable Web Applications: Implementing Hexagonal and Layered Architectures in PHP and React** (Lightning Talk)
+This talk will give a brief introduction to MQTT, what it is used for and will
+show you how to apply best practices with an example.
 
-In the ever-evolving landscape of web application development, building sustainable and robust applications is crucial. This talk explores the implementation of hexagonal and layered architectures in PHP and React, presenting a practical approach to building enterprise web applications which are easy to adapt and maintain.
+Language: German or English
 
-Hexagonal architecture, also known as ports and adapters architecture, focuses on decoupling the application’s core logic from external dependencies. By employing hexagonal architecture principles, developers can achieve improved testability, maintainability, and scalability. This talk delves into the core concepts of hexagonal architecture and showcases how it can be seamlessly integrated into PHP projects.
+by Holger Woltersdorf
 
-Layered architecture, on the other hand, promotes the separation of concerns by organizing application components into logical layers. This architectural style enables better code organization and modularity, leading to improved code quality and maintainability. By demonstrating real-world examples, this session illustrates how layered architecture can be implemented effectively in React applications, enabling developers to build scalable and maintainable web applications.
+Holger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on software architect & developer with a
+focus on building sustainable software while enabling and growing a professional team around it.
+He has about 25 years of developer and team-lead experience in mobile communication, fashion and food eCommerce,
+as well as in other industries.
 
-Throughout the talk, attendees will gain practical insights and best practices for implementing hexagonal and layered architectures in PHP and React. Ralf will share code examples, tips, and techniques, providing attendees with actionable knowledge to apply in their own projects. And they will leave with the knowledge and confidence to architect applications that are easier to maintain, test, and scale, ultimately leading to more robust and successful web applications in the long run.
+- https://twitter.com/hollodotme
+- https://phpc.social/@hollodotme
+- https://www.linkedin.com/in/holger-woltersdorf/
+- https://github.com/hollodotme
+- https://hollo.me
 
-By [Ralf Junghanns](https://junghanns.it)
+##### 19:45 Uhr (07:45pm) - Architekturexplizite Applikationen mit xMolecules (Main Talk)
 
-Language: English / German
+Applikationen basieren üblicherweise auf einem Framework oder einer Entwicklungsplattform. Einige davon erlauben es,
+architektonische Konzepte auszudrücken. Diese jedoch direkt in Code abzubilden, bleibt meist eine Herausforderung,
+ebenso wie die Trennung von fachlichem Code und Applikationsframework.
 
-20:15 Uhr (8:15pm) - **Flash in aktuellen Browsern verwenden** (Main talk)
+xMolecules ist eine Framework-unabhängige Bibliothek, die es erlaubt, verbreitete, architektonische Konzepte direkt in
+Code verschiedener Programmiersprachen darzustellen, zu überprüfen, ob Regeln bezüglich der Implementierung dieser
+eingehalten werden und die nötige technische Integration, sowie entsprechende Dokumentation abzuleiten.
 
-Flash ist tot, denken die meisten, aber mit genügend Energie, läuft es noch das alte Flash-Projekt oder wir versuchen es mal mit openfl + haxelib wenigstens. Dazu gibt es etwas Lesematerial und viele gelernte Erfahrungen aus großen Code-Basen und wie man denn nun den Kram in ein paar Jahren noch effizient nutzen kann.
+Der Vortrag gibt einen Überblick über die Java-Variante jMolecules, den grundsätzlichen Ansatz und zeigt, wie
+Entwickler:innen die bereitgestellten Abstraktionen mit Frameworks wie Spring, Jackson und JPA nutzen können.
+Darüber hinaus diskutieren wir, wie solche Ansätze in einem PHP Port der Bibliothek nutzbar gemacht werden können.
 
-Language: German
+Language: German or English
 
-21:00 Uhr (09:00pm) - **Community + Socializing**
+by Oliver Drotbohm
+
+Oliver Drotbohm ist Teil des Spring Engineering Teams bei VMware. Seine Arbeitsschwerpunkte liegen im Bereich
+Softwarearchitektur, Domain-Driven Design, REST, Spring und Persistenztechnologien.
+Sein neues Buch „Modulithic Applications with Spring“ erscheint 2024.
+
+- https://twitter.com/odrotbohm
+- https://chaos.social/@odrotbohm
+- https://github.com/odrotbohm
+- https://www.linkedin.com/in/odrotbohm/
+
+20:45 Uhr (08:45pm) - Community + Socializing
 
 <hr class="blockspace">
 
@@ -94,6 +119,30 @@ In deinen Kalender importieren</a>
 
 ### Vergangene Events
 
+#### Meetup IV/2023 am 8. Juni 2023
+
+<i class="fa fa-map-marker"></i> [Zalari GmbH, Hermann-Mende-Str. 4, 01099 Dresden](https://goo.gl/maps/3cYc5KeMUPef5t8R9?coh=178573&entry=tt)
+
+<img src="@baseUrl@/images/events/meetups/2023-06-08.png" class="img-responsive" style="margin: 35px 0 15px 0;">
+
+**Building Sustainable Web Applications: Implementing Hexagonal and Layered Architectures in PHP and React** (Lightning Talk)
+
+In the ever-evolving landscape of web application development, building sustainable and robust applications is crucial. This talk explores the implementation of hexagonal and layered architectures in PHP and React, presenting a practical approach to building enterprise web applications which are easy to adapt and maintain.
+
+Hexagonal architecture, also known as ports and adapters architecture, focuses on decoupling the application’s core logic from external dependencies. By employing hexagonal architecture principles, developers can achieve improved testability, maintainability, and scalability. This talk delves into the core concepts of hexagonal architecture and showcases how it can be seamlessly integrated into PHP projects.
+
+Layered architecture, on the other hand, promotes the separation of concerns by organizing application components into logical layers. This architectural style enables better code organization and modularity, leading to improved code quality and maintainability. By demonstrating real-world examples, this session illustrates how layered architecture can be implemented effectively in React applications, enabling developers to build scalable and maintainable web applications.
+
+Throughout the talk, attendees will gain practical insights and best practices for implementing hexagonal and layered architectures in PHP and React. Ralf will share code examples, tips, and techniques, providing attendees with actionable knowledge to apply in their own projects. And they will leave with the knowledge and confidence to architect applications that are easier to maintain, test, and scale, ultimately leading to more robust and successful web applications in the long run.
+
+By [Ralf Junghanns](https://junghanns.it)
+
+**Flash in aktuellen Browsern verwenden** (Main talk)
+
+Flash ist tot, denken die meisten, aber mit genügend Energie, läuft es noch das alte Flash-Projekt oder wir versuchen es mal mit openfl + haxelib wenigstens. Dazu gibt es etwas Lesematerial und viele gelernte Erfahrungen aus großen Code-Basen und wie man denn nun den Kram in ein paar Jahren noch effizient nutzen kann.
+
+<hr class="blockspace">
+
 #### Meetup III/2023 am 4. Mai 2023
 
 <i class="fa fa-map-marker"></i> [TAG24 Dresden Campus, Ostra-Allee 18, 01067 Dresden](https://goo.gl/maps/rkmM5c2JvLMFo5Py9)
@@ -116,36 +165,23 @@ Language: English
 
 <img src="@baseUrl@/images/events/meetups/2023-03-22.webp" class="img-responsive" style="margin: 35px 0 15px 0;">
 
-**Programm / Program**
-
-18:30 Uhr (06:30pm) - Doors Open
-
-18:45 Uhr (06:45pm) - User group intro
-
-18:50 Uhr (6:50pm) - Host intro
-
-19:00 Uhr (07:00pm) - **Wie kann uns AI als Devs unterstützen?** (Lightning Talk)
+**Wie kann uns AI als Devs unterstützen?** (Lightning Talk)
 
 Dabei möchte ich explizit auf Github CoPilot und ChatGPT eingehen und ein paar Beispiele vorstellen.
 Zudem auch zusammen mit den Teilnehmenden ein paar Anfragen ausprobieren.
 
-Language: German
-
 By Sascha Latzkowski ([GitHub](https://github.com/Sa-Lat))
 
-19:40 Uhr (07:40pm) - **SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse** (Main Talk)
+**SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse** (Main Talk)
 
 Dieser Talk liefert einen Einstieg in die Security-Bewertung mittels statischer Code-Analyse in PHP
 unter Verwendung des Open Source Frameworks [PsalmPHP](https://psalm.dev) und und setzt dies in Relation mit einigen anderen proprietären
 Services am Markt. Anhand einfacher Beispiele werden Möglichkeiten, neue Herausforderungen, aber auch die
 Grenzen von SAST erklärt.
 
-Language: German
-
 By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.linkedin.com/in/oliverhader), [GitHub](https://github.com/ohader))
 
-20:40 Uhr (08:40pm) - **Community + Socializing**
-
+<hr class="blockspace">
 
 #### Meetup I/2023 am 09. Februar 2023
 
@@ -154,8 +190,6 @@ By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.l
 <img src="@baseUrl@/images/events/meetups/2023-02-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
 
 ⚡️ **[Video on YouTube](https://youtube.com/live/WC97uy7sakk?feature=share)**
-
-**Programm / Program**
 
 **Initiating change: An approach for developers** (Main Talk)
 

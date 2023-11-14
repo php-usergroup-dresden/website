@@ -36,16 +36,12 @@ SAVE YOUR SEAT</a>
 
 ##### Programm / Program
 
-18:30 Uhr (06:30pm) - Doors Open
-
-18:45 Uhr (06:45pm) - User group intro
-
-18:50 Uhr (6:50pm) - Host intro
-
-##### 19:00 Uhr (07:00pm) - MQTT Best Practices (Lightning Talk)
+##### MQTT Best Practices (Lightning Talk)
 
 This talk will give a brief introduction to MQTT, what it is used for and will
 show you how to apply best practices with an example.
+
+**Slides:** [https://speakerdeck.com/hollodotme/mqtt-best-practices](https://speakerdeck.com/hollodotme/mqtt-best-practices)
 
 Language: German or English
 
@@ -62,7 +58,7 @@ as well as in other industries.
 - https://github.com/hollodotme
 - https://hollo.me
 
-##### 19:45 Uhr (07:45pm) - Architekturexplizite Applikationen mit xMolecules (Main Talk)
+#####  Architekturexplizite Applikationen mit xMolecules (Main Talk)
 
 Applikationen basieren üblicherweise auf einem Framework oder einer Entwicklungsplattform. Einige davon erlauben es,
 architektonische Konzepte auszudrücken. Diese jedoch direkt in Code abzubilden, bleibt meist eine Herausforderung,
@@ -88,8 +84,6 @@ Sein neues Buch „Modulithic Applications with Spring“ erscheint 2024.
 - https://chaos.social/@odrotbohm
 - https://github.com/odrotbohm
 - https://www.linkedin.com/in/odrotbohm/
-
-20:45 Uhr (08:45pm) - Community + Socializing
 
 <hr class="blockspace">
 

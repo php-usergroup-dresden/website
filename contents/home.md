@@ -8,10 +8,52 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291406707/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/291406726/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### X-MAS Meetup 2023 am 14. Dezember 2023
+
+<i class="fa fa-map-marker"></i> [move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8)
+
+<img src="@baseUrl@/images/events/meetups/2023-12-14.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD X-MAS Meetup 2023, Dec. 13, Speakers: Jan Männig, Holger Woltersdorf, Topics: PDFtk The PDF toolkit in PHP, What's new in PHP 8.3">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - PDFtk — Das PDF toolkit in PHP nutzen (Lighting Talk)
+
+Wie befüllen wir dynamische Formulare, Gutscheine usw. ohne dass wir uns mit Positionen, Schriftgrößen usw. rumärgern zu müssen.
+
+Language: German
+
+By Jan Männig
+
+#### 19:30 Uhr (7:30pm) - What's new in PHP 8.3 (Main Talk)
+
+I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
+
+Language: German or English
+
+By Holger Woltersdorf
+
+Holger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on software architect & developer with a focus on building sustainable software while enabling and growing a professional team around it. He has about 25 years of developer and team-lead experience in mobile communication, fashion and food eCommerce, as well as in other industries.
+
+- https://twitter.com/hollodotme
+- https://phpc.social/@hollodotme
+- https://www.linkedin.com/in/holger-woltersdorf/
+- https://github.com/hollodotme
+- https://hollo.me
+
+##### 20:30 Uhr (08:20pm) - Community + Socializing
+
+<hr class="blockspace">
 
 #### Meetup V/2023 am 13. November 2023
 

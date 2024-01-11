@@ -88,7 +88,7 @@ auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hostin
 <a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
 In deinen Kalender importieren</a>
 
-### <a name="event-calendar"></a>Event Kalender 2022
+### <a name="event-calendar"></a>Event Kalender 2024
 
 <div id="calendar"></div>
 

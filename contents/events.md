@@ -23,10 +23,67 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291406726/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298728988/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup I/2024 — E-Rezept Insights
+
+<i class="fa fa-map-marker"></i> [ostec GmbH, Yenidze, Weißeritzstr. 3, 01067 Dresden](https://maps.app.goo.gl/ooMP9rgqrWDL8VHs9)
+
+<img src="@baseUrl@/images/events/meetups/2024-02-06.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup I/2024, Feb. 6, Speakers: André Gruhn, Topic: E-Rezept Insights">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - E-Rezept Insights (Main Talk)
+
+Ab Anfang 2024 wird das E-Rezept verpflichtend. scanacs bietet für Apotheken die Direktabrechnung von E-Rezepten gegenüber Kostenträgern an. Ich möchte in diesem Talk auf die Komponenten, Formate und den Prozess vom Arzt bis zur Abrechnung gegenüber der Krankenkasse eingehen. Zuletzt werde ich beschreiben wie wir verschiedene E-Rezept Use Cases mittels Gherkin und Codeception in PHP bei scanacs umgesetzt haben.
+
+Language: German
+
+By André Gruhn
+
+- https://scanacs.de/
+- https://www.gematik.de/anwendungen/e-rezept
+- https://www.linkedin.com/in/andr%C3%A9-gruhn-95018279/
+- https://github.com/aWuttig
+
+##### 20:00 Uhr (08:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner. Du hast dich mit einem Thema intensiv beschäftigt und
+möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als
+Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
+<hr class="blockspace">
+
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
+auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2024
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
 
 #### X-MAS Meetup 2023 am 14. Dezember 2023
 
@@ -69,32 +126,6 @@ Holger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on 
 ##### 20:30 Uhr (08:20pm) - Community + Socializing
 
 <hr class="blockspace">
-
-### Call for Papers (CFP) - Always open!
-
-Für unsere Meetups suchen wir immer wieder neue Themen und Redner. Du hast dich mit einem Thema intensiv beschäftigt und
-möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als
-Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
-
-<hr class="blockspace">
-
-### Ein Meetup hosten?
-
-Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
-auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2024
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup V/2023 am 13. November 2023
 

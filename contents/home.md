@@ -8,10 +8,41 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/291406726/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298728988/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup I/2024 — E-Rezept Insights
+
+<i class="fa fa-map-marker"></i> [ostec GmbH, Yenidze, Weißeritzstr. 3, 01067 Dresden](https://maps.app.goo.gl/ooMP9rgqrWDL8VHs9)
+
+<img src="@baseUrl@/images/events/meetups/2024-02-06.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup I/2024, Feb. 6, Speakers: André Gruhn, Topic: E-Rezept Insights">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - E-Rezept Insights (Main Talk)
+
+Ab Anfang 2024 wird das E-Rezept verpflichtend. scanacs bietet für Apotheken die Direktabrechnung von E-Rezepten gegenüber Kostenträgern an. Ich möchte in diesem Talk auf die Komponenten, Formate und den Prozess vom Arzt bis zur Abrechnung gegenüber der Krankenkasse eingehen. Zuletzt werde ich beschreiben wie wir verschiedene E-Rezept Use Cases mittels Gherkin und Codeception in PHP bei scanacs umgesetzt haben.
+
+Language: German
+
+By André Gruhn
+
+- https://scanacs.de/
+- https://www.gematik.de/anwendungen/e-rezept
+- https://www.linkedin.com/in/andr%C3%A9-gruhn-95018279/
+- https://github.com/aWuttig
+
+##### 20:00 Uhr (08:00pm) - Community + Socializing
+
+<hr class="blockspace">
 
 #### X-MAS Meetup 2023 am 14. Dezember 2023
 

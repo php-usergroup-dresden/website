@@ -18,13 +18,6 @@ E-Mail: <sponsoring@phpug-dresden.org>
 <div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
-				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
 			<a href="https://www.eos-uptrade.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/eos-uptrade.webp" alt="eos.uptrade GmbH" class="img-responsive">
 			</a>
@@ -44,8 +37,6 @@ E-Mail: <sponsoring@phpug-dresden.org>
 			</a>
 		</div>
     </div>
-</div>
-<div class="row blockspace">
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="https://www.move-elevator.de" target="_blank">
@@ -53,6 +44,8 @@ E-Mail: <sponsoring@phpug-dresden.org>
 			</a>
 		</div>
 	</div>
+</div>
+<div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ostec.de" target="_blank">
@@ -72,6 +65,11 @@ E-Mail: <sponsoring@phpug-dresden.org>
 			<a href="https://www.ujamii.com" target="_blank">
 				<img src="@baseUrl@/images/sponsors/ujamii.png" alt="ujamii smart solutions" class="img-responsive">
 			</a>
+		</div>
+	</div>
+    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+		<div class="sponsor">
+			&nbsp;
 		</div>
 	</div>
 </div>

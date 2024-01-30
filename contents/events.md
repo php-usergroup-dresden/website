@@ -91,15 +91,9 @@ In deinen Kalender importieren</a>
 
 <img src="@baseUrl@/images/events/meetups/2023-12-14.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD X-MAS Meetup 2023, Dec. 13, Speakers: Jan Männig, Holger Woltersdorf, Topics: PDFtk The PDF toolkit in PHP, What's new in PHP 8.3">
 
-##### Programm / Program
+#### Programm / Program
 
-18:30 Uhr (06:30pm) - Doors Open
-
-18:45 Uhr (06:45pm) - User group intro
-
-18:50 Uhr (6:50pm) - Host intro
-
-##### 19:00 Uhr (07:00pm) - PDFtk — Das PDF toolkit in PHP nutzen (Lighting Talk)
+##### PDFtk — Das PDF toolkit in PHP nutzen (Lighting Talk)
 
 Wie befüllen wir dynamische Formulare, Gutscheine usw. ohne dass wir uns mit Positionen, Schriftgrößen usw. rumärgern zu müssen.
 
@@ -107,7 +101,9 @@ Language: German
 
 By Jan Männig
 
-#### 19:30 Uhr (7:30pm) - What's new in PHP 8.3 (Main Talk)
+##### What's new in PHP 8.3 (Main Talk)
+
+Slides: [https://speakerdeck.com/hollodotme/whats-new-in-php-8-dot-3](https://speakerdeck.com/hollodotme/whats-new-in-php-8-dot-3)
 
 I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
 
@@ -122,8 +118,6 @@ Holger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on 
 - https://www.linkedin.com/in/holger-woltersdorf/
 - https://github.com/hollodotme
 - https://hollo.me
-
-##### 20:30 Uhr (08:20pm) - Community + Socializing
 
 <hr class="blockspace">
 

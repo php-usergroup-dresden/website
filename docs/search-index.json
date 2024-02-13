@@ -31670,6 +31670,13 @@
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "244942028": {

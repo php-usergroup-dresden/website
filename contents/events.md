@@ -23,10 +23,65 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298728988/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/298783154/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup II/2024 — Wie man (un)wartbaren Code schreibt
+
+<i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://maps.app.goo.gl/i6j4p9eJKNQ76uC67)
+
+<img src="@baseUrl@/images/events/meetups/2024-03-20.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup II/2024, March 20, Speakers: Sebastian Kurfürst, Topic: (un)wartbarer Code">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - Wie man (un)wartbaren Code schreibt (Main Talk)
+
+Wie schreibe ich Code, der möglichst "gut" ist? Was bedeutet das überhaupt? Seit ca. 20 Jahren arbeite ich an großen Open Souce Frameworks (anfangs TYPO3, jetzt Neos und Flow) mit. In der Zeit habe ich viel Code produziert, den ich heute nie mehr so schreiben würde - und aus dem wir heute gemeinsam viel lernen können. Ich werde Prinzipien wie Erweiterbarkeit und DRY kritisch diskutieren, zeigen, welche Fehler ich beim Entwickeln von Frameworks so gemacht habe und zeige, mit welchen Prinzipien wir schrittweise unseren Code verbessern können. Das Ganze wird eine gemeinsame Reise in große Codebases. Ich freue mich drauf!
+
+Language: German
+
+By Sebastian Kurfürst
+
+- https://twitter.com/skurfuerst
+- https://sandstorm.de/de/wir/team/sebastian-kurfuerst.html
+
+##### 20:00 Uhr (08:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
+### Call for Papers (CFP) - Always open!
+
+Für unsere Meetups suchen wir immer wieder neue Themen und Redner. Du hast dich mit einem Thema intensiv beschäftigt und
+möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als
+Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
+
+<hr class="blockspace">
+
+### Ein Meetup hosten?
+
+Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
+auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2024
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
 
 #### Meetup I/2024 — E-Rezept Insights
 
@@ -58,32 +113,6 @@ By André Gruhn
 ##### 20:00 Uhr (08:00pm) - Community + Socializing
 
 <hr class="blockspace">
-
-### Call for Papers (CFP) - Always open!
-
-Für unsere Meetups suchen wir immer wieder neue Themen und Redner. Du hast dich mit einem Thema intensiv beschäftigt und
-möchtest dein Wissen mit anderen teilen? Dann erfüllst du schon 90% der Anforderungen, um bei unseren Treffen als
-Speaker aufzutreten. [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/call-for-papers.html)
-
-<hr class="blockspace">
-
-### Ein Meetup hosten?
-
-Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
-auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2024
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### X-MAS Meetup 2023 am 14. Dezember 2023
 

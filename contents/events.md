@@ -32,7 +32,7 @@ SAVE YOUR SEAT</a>
 
 <i class="fa fa-map-marker"></i> [Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden](https://maps.app.goo.gl/i6j4p9eJKNQ76uC67)
 
-<img src="@baseUrl@/images/events/meetups/2024-03-20.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup II/2024, March 20, Speakers: Sebastian Kurfürst, Topic: (un)wartbarer Code">
+<img src="@baseUrl@/images/events/meetups/2024-04-03.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup II/2024, April 3, Speakers: Sebastian Kurfürst, Topic: (un)wartbarer Code">
 
 ##### Programm / Program
 
@@ -42,7 +42,15 @@ SAVE YOUR SEAT</a>
 
 18:50 Uhr (6:50pm) - Host intro
 
-##### 19:00 Uhr (07:00pm) - Wie man (un)wartbaren Code schreibt (Main Talk)
+##### 19:00 Uhr (07:00pm) - Livewire 3 - Modernes Frontend ohne deine PHP Komfortzone zu verlassen (Lightning Talk)
+
+Du möchtest/musst dich immer wieder mit Frontendentwicklung beschäftigen, hast aber keine richtige Lust dich dem schnellen Wandel von Frontendframeworks im JS-Bereich zu unterwerfen. Und außerdem magst du doch viel lieber Backend und PHP. Dann möchte ich dir Livewire 3 vorstellen. Entwickle effizient moderne Webapps mit wenig Javascript und viel PHP.
+
+Language: German
+
+by Michael Pokladek
+
+##### 19:30 Uhr (07:30pm) - Wie man (un)wartbaren Code schreibt (Main Talk)
 
 Wie schreibe ich Code, der möglichst "gut" ist? Was bedeutet das überhaupt? Seit ca. 20 Jahren arbeite ich an großen Open Souce Frameworks (anfangs TYPO3, jetzt Neos und Flow) mit. In der Zeit habe ich viel Code produziert, den ich heute nie mehr so schreiben würde - und aus dem wir heute gemeinsam viel lernen können. Ich werde Prinzipien wie Erweiterbarkeit und DRY kritisch diskutieren, zeigen, welche Fehler ich beim Entwickeln von Frameworks so gemacht habe und zeige, mit welchen Prinzipien wir schrittweise unseren Code verbessern können. Das Ganze wird eine gemeinsame Reise in große Codebases. Ich freue mich drauf!
 

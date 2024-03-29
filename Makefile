@@ -42,6 +42,11 @@ generate-search-index:
 	$(PAGE_GENERATOR_EXEC) generate:search-index
 .PHONY: generate-search-index
 
+## Check links in generated pages locally
+check-links-locally:
+	$(PAGE_GENERATOR_EXEC) check:links -g -b http://127.0.0.1:8087 ./Project.json
+.PHONY: check-links-locally
+
 ## Serve local website
 serve:
 	$(PHP_EXECUTABLE) -S $(LOCAL_SERVER) -t $(DOC_ROOT)

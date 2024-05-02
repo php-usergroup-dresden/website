@@ -23,10 +23,56 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/298783154/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/298783178/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup III/2024 — GreenIT: Was wir nicht messen können, können wir nicht verbessern
+
+<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Bärensteiner Str. 30, 01277 Dresden](https://maps.app.goo.gl/1rcty7wKctMxocKB9
+
+<img src="@baseUrl@/images/events/meetups/2024-05-07.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup III/2024,May 7, Speakers: Sophia Resch, Topic: GreenIT & Speakers: Holger Woltersdorf, Topic: RediSearch">
+
+##### Wichtig / Important
+
+Bitte meldet euch vorab über Meetup an. (Please register in advance via Meetup.)
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - Build super fast & advanced web searches with RediSearch (Lightning Talk)
+
+This lightning talk will introduce you to "RedisSearch" a RedisServer with a search engine plugin. I'll show you how to feed the search with data, how to tweak indexing for better results and how it integrates in a real-world application.
+
+Language: German/English
+
+by Holger Woltersdorf
+
+- https://twitter.com/hollodotme
+- https://phpc.social/@hollodotme
+- https://www.linkedin.com/in/holger-woltersdorf/
+
+##### 19:45 Uhr (07:45pm) - GreenIT: Was wir nicht messen können, können wir nicht verbessern (Main Talk - online hinzugeschalten)
+
+In einer immer digitaleren Welt, die sich gleichzeitig mit den Herausforderungen des menschengemachten Klimawandels auseinandersetzen muss, sollten wir uns als Architekt:innen und Entwickler:innen unserer Verantwortung bewusst werden. IT-Systeme werden komplexer und damit auch energieintensiver. Im Idealfall arbeiten wir schon mit den Konzepten und Patterns von GreenIT, um den ökologischen Fußabdruck dieser Systeme möglichst klein zu halten. Aber wie wissen wir überhaupt, ob unsere Bemühungen zum Erfolg führen?
+
+In diesem Vortrag stelle ich das Impact Framework zum Ermitteln des ökologischen Fußabdruckes von IT-Systemen vor. Ich teile unsere Erfahrungen damit und zeige Unterschiede zur direkten Anwendung des Software Carbon Index (SCI). Dabei gehe ich auf Vorteile und Herausforderungen der Berechnungsmöglichkeiten ein und gebe euch Ideen mit, wie ihr auf Grundlage der so gewonnen Erkenntnisse weiterarbeiten könnt.
+
+Nach dem Vortrag kennt ihr Möglichkeiten, wie ihr das Impact Framework einsetzen könnt, um gemeinsam die Welt ein kleines bisschen grüner zu machen.
+
+Language: German
+
+by Sophia Resch
+
+##### 20:45 Uhr (08:45pm) - Community + Socializing
+
+<hr class="blockspace">
 
 #### Meetup II/2024 — Wie man (un)wartbaren Code schreibt
 

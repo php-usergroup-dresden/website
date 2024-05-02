@@ -30,7 +30,7 @@ SAVE YOUR SEAT</a>
 
 #### Meetup III/2024 — GreenIT: Was wir nicht messen können, können wir nicht verbessern
 
-<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Bärensteiner Str. 30, 01277 Dresden](https://maps.app.goo.gl/1rcty7wKctMxocKB9
+<i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Bärensteiner Str. 30, 01277 Dresden](https://maps.app.goo.gl/1rcty7wKctMxocKB9)
 
 <img src="@baseUrl@/images/events/meetups/2024-05-07.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup III/2024,May 7, Speakers: Sophia Resch, Topic: GreenIT & Speakers: Holger Woltersdorf, Topic: RediSearch">
 

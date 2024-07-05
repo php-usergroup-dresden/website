@@ -65,6 +65,17 @@ by Steve Schütze
 
 <hr class="blockspace">
 
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2024
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
+
 #### Meetup III/2024 — GreenIT: Was wir nicht messen können, können wir nicht verbessern
 
 <i class="fa fa-map-marker"></i> [webit! Gesellschaft für neue Medien mbH, Bärensteiner Str. 30, 01277 Dresden](https://maps.app.goo.gl/1rcty7wKctMxocKB9)
@@ -162,17 +173,6 @@ Du oder Ihr habt die Möglichkeit und Interesse mal ein Meetup selbst
 auszurichten? [<i class="fa fa-lightbulb-o"></i> Mehr Infos...](@baseUrl@/hosting.html)
 
 <hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2024
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup I/2024 — E-Rezept Insights
 

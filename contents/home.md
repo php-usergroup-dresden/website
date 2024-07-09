@@ -8,10 +8,47 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/298783178/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/298783185/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup IV/2024 - PHP - Die kleinen Dinge
+
+<i class="fa fa-map-marker"></i> [seventhings GmbH, Hainstraße 2, 01097 Dresden](https://maps.app.goo.gl/JuXD7eASPH7WuHdt9)
+
+<img src="@baseUrl@/images/events/meetups/2024-07-11.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup IV/2024,July 11, Speakers: Steve Schütze, Topic: PHP - Die kleinen Dinge; Jan Männig, Topic: EventStoreDB">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - EventStoreDB - Eine kurze Einführung (Lightning Talk)
+
+Unter den vielen Bäumen im Wald der Datenbanksysteme bietet sich mit EventStoreDB eine kleine Besonderheit. Speziell für die event getriebene Arbeit entwickelt, wird hier jedes Event unveränderbar gespeichert. Bausteine wie Projektionen, Streams usw. werden "out of the box" mitgeliefert.
+
+Language: German
+
+by Jan Männig
+
+- https://twitter.com/janmaennig
+
+##### 19:45 Uhr (07:45pm) - PHP - Die kleinen Dinge (Main Talk)
+
+Unsere Welt ist kompliziert und vielschichtig. Neue Trends verändern ständig unser Arbeitsleben stetig und doch ist es immer noch PHP, mit dem wir einen Teil unserer Herausforderungen lösen. Ein Feld aus Legacy-Applikationen, an die sich niemand mehr herantraut, und dem neuen "heißen Scheiß", der über soziale Medien so kommuniziert wird, dass man das Gefühl hat, der einzige zu sein, der noch nicht produktiv damit arbeitet. Aber am Ende ist Quellcode, Quellcode. Er will gewartet, verstanden, erweitert, gelöscht oder verändert werden. Und für diese Aufgaben kann man sich das Leben mit kleinen Dingen erleichtern.
+In diesem Talk will ich einige dieser kleinen Dinge vorstellen, die mein Leben als PHP-Entwickler schöner gemacht haben.
+
+Language: German
+
+by Steve Schütze
+
+##### 20:45 Uhr (08:45pm) - Community + Socializing
+
+<hr class="blockspace">
 
 #### Meetup III/2024 — GreenIT: Was wir nicht messen können, können wir nicht verbessern
 

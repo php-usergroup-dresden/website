@@ -23,6 +23,65 @@
 
 <hr class="blockspace">
 
+<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/303335677" target="_blank" class="btn btn-lg btn-success" style="float: right">
+SAVE YOUR SEAT</a>
+
+### <a name="next-event"></a>Nächstes Event
+
+#### Meetup V/2024 - Special with DresdenJS
+
+<i class="fa fa-map-marker"></i> [Zalari GmbH, Hermann-Mende-Straße 4, 01099 Dresden](https://maps.app.goo.gl/KM3pER9YexdQWDAy7)
+
+###### This time we are teaming up with DresdenJS.io JavaScript User Group!
+
+<!--<img src="@baseUrl@/images/events/meetups/2024-07-11.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup IV/2024,July 11, Speakers: Steve Schütze, Topic: PHP - Die kleinen Dinge; Jan Männig, Topic: EventStoreDB">-->
+
+##### Programm / Program
+
+19:00 Uhr (07:00pm) - Doors Open
+
+19:15 Uhr (07:15pm) - User group intro
+
+19:20 Uhr (7:20pm) - Host intro
+
+##### 19:30 Uhr (07:30pm) - PHP im Browser - aber richtig! (Main Talk)
+
+PHP im Browser ist doch ein alter Hut - naja ganz so alt vielleicht auch noch nicht aber mit modernen Technologien, wie WebAssembly kann man tatsächlich PHP direkt im Browser laufen lassen. Was man damit alles anstellen kann, und ob das wirklich sinnvoll ist (spoiler: YES!) verrät uns Christian!
+
+Language: German
+by Christian Ulbrich (Zalari GmbH)
+
+##### 20:30 Uhr (8:30pm) - faster - a showcase buffet talk about improving tedious development tasks (Main talk)
+
+its a talk about speeding up your local development process. this is not a talk about being faster with vim, but rather a personal setup in the terminal in order to get rid of tedious tasks and showcase a small selection of tools and how to combine them to make the best of it. this includes simple scripts to switch between php versions without interaction, implementing githooks globally and showcasing zsh features which blows alias out of the water :)
+tools/topics covered so far:
+
+* fzf
+* entr
+* zsh
+* githooks
+* leveraging simple bash scripts
+
+Language: German
+by Richard Heine
+
+##### 21:30 Uhr (09:30pm) - Community + Socializing
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2024
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
+
+### Vergangene Events
+
+<hr class="blockspace">
+
 <a href="https://www.meetup.com/php-usergroup-dresden/events/298783185/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
@@ -64,17 +123,6 @@ by Steve Schütze
 ##### 20:45 Uhr (08:45pm) - Community + Socializing
 
 <hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2024
-
-<div id="calendar"></div>
-
-<hr class="blockspace">
-
-### Vergangene Events
 
 #### Meetup III/2024 — GreenIT: Was wir nicht messen können, können wir nicht verbessern
 

@@ -23,10 +23,51 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/303335677" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298783255" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### X-MAS Special 2024 — What's new in PHP 8.4
+
+<i class="fa fa-map-marker"></i> [move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8)
+
+<img src="@baseUrl@/images/events/meetups/2024-12-12.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup IV/2024,July 11, Speakers: Holger Woltersdorf, Topic: What's new in PHP 8.4; Carsten Kästler, Topic: Postman - API - Environment über Scripting">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - Postman - API - Environment über Scripting (Lightning Talk)
+
+Ich spreche über das API-Tool Postman. Ich möchte zeigen, wie wir die Environment-Variablen für komplexe Projekte über Scripting in Postman dynamische ermitteln. Unsere Lösung soll zum Austausch zum Thema Scripting in Postman und dynamische Parameter anregen.
+
+Language: German 
+By Carsten Kästler
+
+##### 19:45 Uhr (07:45pm) - What's new in PHP 8.4 (Main Talk)
+
+I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
+
+Language: German or English 
+By Holger Woltersdorf
+
+##### 20:45 Uhr (08:45pm) - Community + Socializing
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2024
+
+<div id="calendar"></div>
+
+<hr class="blockspace">
 
 #### Meetup V/2024 - Special with DresdenJS
 
@@ -66,15 +107,6 @@ Language: German
 by Richard Heine
 
 ##### 21:30 Uhr (09:30pm) - Community + Socializing
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2024
-
-<div id="calendar"></div>
 
 <hr class="blockspace">
 

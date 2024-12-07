@@ -53,8 +53,6 @@ By Carsten Kästler
 
 I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
 
-I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
-
 Language: German or English
 By Holger Woltersdorf
 

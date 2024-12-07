@@ -8,10 +8,44 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/303335677" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298783255" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### X-MAS Special 2024 — What's new in PHP 8.4
+
+<i class="fa fa-map-marker"></i> [move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8)
+
+<img src="@baseUrl@/images/events/meetups/2024-12-12.webp" class="img-responsive" style="margin: 25px 0 15px 0;" alt="PHPUGDD Meetup IV/2024,July 11, Speakers: Holger Woltersdorf, Topic: What's new in PHP 8.4; Carsten Kästler, Topic: Postman - API - Environment über Scripting">
+
+##### Programm / Program
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - Postman - API - Environment über Scripting (Lightning Talk)
+
+Ich spreche über das API-Tool Postman. Ich möchte zeigen, wie wir die Environment-Variablen für komplexe Projekte über Scripting in Postman dynamische ermitteln. Unsere Lösung soll zum Austausch zum Thema Scripting in Postman und dynamische Parameter anregen.
+
+Language: German
+By Carsten Kästler
+
+##### 19:45 Uhr (07:45pm) - What's new in PHP 8.4 (Main Talk)
+
+I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
+
+I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
+
+Language: German or English
+By Holger Woltersdorf
+
+##### 20:45 Uhr (08:45pm) - Community + Socializing
+
+<hr class="blockspace">
 
 #### Meetup V/2024 - Special with DresdenJS
 
@@ -369,35 +403,6 @@ Grenzen von SAST erklärt.
 Language: German
 
 By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.linkedin.com/in/oliverhader), [GitHub](https://github.com/ohader))
-
-<hr class="blockspace">
-
-#### Meetup I/2023 am 09. Februar 2023
-
-<i class="fa fa-map-marker"></i> [ostec GmbH — Yenidze, Weißeritzstr. 3, 01067 Dresden](https://goo.gl/maps/Bb5bw9izYiagreHd7)
-
-<img src="@baseUrl@/images/events/meetups/2023-02-09.png" class="img-responsive" style="margin: 35px 0 15px 0;">
-
-⚡️ **[Video on YouTube](https://youtube.com/live/WC97uy7sakk?feature=share)**
-
-**Programm / Program**
-
- **Initiating change: An approach for developers** (Main Talk)
-
-You notice some things are going wrong in your team.Code-Quality suffers, Code-Reviews are not helpful, the Architecture
-is a plate of spaghetti, distributed over the wall.You have many ideas how to improve the situation.
-
-But how can I push the team in the right direction?This talk is about:
-
-- Problematic changes
-- Convincing the team of an idea they hate
-- CI as your Hammer
-- Tools and behaviors
-- Metrics & Celebrate success
-
-by Patrick Heller
-
-Language: German/English
 
 <hr class="blockspace">
 

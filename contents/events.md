@@ -21,12 +21,14 @@
 	</div>
 </div>
 
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
+
+### <a name="event-calendar"></a>Event Kalender 2025
+
+<div id="calendar"></div>
+
 <hr class="blockspace">
-
-<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298783255" target="_blank" class="btn btn-lg btn-success" style="float: right">
-SAVE YOUR SEAT</a>
-
-### <a name="next-event"></a>Nächstes Event
 
 #### X-MAS Special 2024 — What's new in PHP 8.4
 
@@ -46,26 +48,17 @@ SAVE YOUR SEAT</a>
 
 Ich spreche über das API-Tool Postman. Ich möchte zeigen, wie wir die Environment-Variablen für komplexe Projekte über Scripting in Postman dynamische ermitteln. Unsere Lösung soll zum Austausch zum Thema Scripting in Postman und dynamische Parameter anregen.
 
-Language: German 
+Language: German
 By Carsten Kästler
 
 ##### 19:45 Uhr (07:45pm) - What's new in PHP 8.4 (Main Talk)
 
 I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
 
-Language: German or English 
+Language: German or English
 By Holger Woltersdorf
 
 ##### 20:45 Uhr (08:45pm) - Community + Socializing
-
-<hr class="blockspace">
-
-<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
-In deinen Kalender importieren</a>
-
-### <a name="event-calendar"></a>Event Kalender 2024
-
-<div id="calendar"></div>
 
 <hr class="blockspace">
 

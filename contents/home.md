@@ -8,11 +8,6 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/de-DE/php-usergroup-dresden/events/298783255" target="_blank" class="btn btn-lg btn-success" style="float: right">
-SAVE YOUR SEAT</a>
-
-### <a name="next-event"></a>Nächstes Event
-
 #### X-MAS Special 2024 — What's new in PHP 8.4
 
 <i class="fa fa-map-marker"></i> [move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8)

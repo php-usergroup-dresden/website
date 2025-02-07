@@ -8,6 +8,32 @@ Wir veranstalten regelmäßig Meetups, organisieren uns für Ausflüge zu Worksh
 
 <hr class="blockspace">
 
+#### Meetup I/2025 - "Fish Bowl"-Diskussion über aktuelle Tools, Trends usw.
+
+<i class="fa fa-map-marker"></i> [queo GmbH, Tharandter Str. 13 , 01159 Dresden](https://maps.app.goo.gl/im7j7sFbxo2fCZAt9)
+
+##### Programm / Program
+
+17:30 Uhr (06:30pm) - Mitgliederversammlung des „Php Usergroup Dresden e.V.“ (exklusiv für Mitglieder)
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:00 Uhr (07:00pm) - "Fish Bowl"-Diskussion über aktuelle Tools, Trends usw.
+
+Eine Diskussionsrunde über neue Trends, Technologien und den eigenen virtuellen Werkzeugkasten wird uns bei diesem Meetup beschäftigen. Als PHP UG Dresden setzen wir dieses Jahr verstärkt auf die Förderung des Austauschs innerhalb der Community.
+
+Neben den neu eingeführten Stammtischen werden wir auch das erste Meetup des Jahres im Zeichen des gemeinsamen Wissenstransfers durchführen. Passend dazu findet vorab die Mitgliederversammlung des „Php Usergroup Dresden e.V.“ statt.
+
+Language: German
+
+##### 20:30 Uhr (08:30pm) - Community + Socializing
+
+<hr class="blockspace">
+
 #### X-MAS Special 2024 — What's new in PHP 8.4
 
 <i class="fa fa-map-marker"></i> [move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8)

@@ -36,12 +36,6 @@
             "type": "library",
             "extra": {
                 "tools": {
-                    "phpunit": {
-                        "url": "https://phar.phpunit.de/phpunit-5.7.27.phar"
-                    },
-                    "phpcpd": {
-                        "url": "https://phar.phpunit.de/phpcpd-2.0.4.phar"
-                    },
                     "phpcs": {
                         "url": "https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar",
                         "force-replace": true
@@ -50,6 +44,12 @@
                         "url": "http://static.phpmd.org/php/latest/phpmd.phar",
                         "fallback-url": "https://github.com/jakzal/phpmd/releases/download/2.6.0-jakzal-2/phpmd.phar",
                         "force-replace": true
+                    },
+                    "phpcpd": {
+                        "url": "https://phar.phpunit.de/phpcpd-2.0.4.phar"
+                    },
+                    "phpunit": {
+                        "url": "https://phar.phpunit.de/phpunit-5.7.27.phar"
                     },
                     "security-checker": {
                         "url": "http://get.sensiolabs.org/security-checker.phar",
@@ -101,5 +101,5 @@
         "php": ">=7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }

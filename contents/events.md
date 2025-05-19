@@ -21,6 +21,48 @@
 	</div>
 </div>
 
+<hr class="blockspace">
+
+<a href="https://www.meetup.com/php-usergroup-dresden/events/306095609/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+SAVE YOUR SEAT</a>
+
+### <a name="next-event"></a>Nächstes Event
+
+#### Meetup II/2025 - Meetup II/2025 - Agentic Applications with Symfony
+
+<i class="fa fa-map-marker"></i> [Tyclipso GmbH, Grundstraße 1, 01326 Dresden](https://maps.app.goo.gl/4kP3DtuHxGJSA18TA)
+
+##### Programm / Program
+
+##### 18:30 Uhr (06:30pm) - Doors Open
+
+##### 18:45 Uhr (06:45pm) - User group intro
+
+##### 18:50 Uhr (06:50pm) - Host intro
+
+##### 19:05 Uhr (07:05pm) - Vertical Slice Architecture: From Layers to Features
+
+Lightning Talk by Sebastian Gierth
+Language: English
+
+##### 19:40 Uhr (07:40pm) - Visitor pattern - the most misunderstood pattern of'em all
+
+Lightning Talk by Thomas Meschke
+Language: English
+
+##### 20:05 Uhr (08:05pm) - Agentic Applications with Symfony
+
+A chat interface is by far not all what you could build with Symfony and Large Language Models. And agentic applications are the next level of integrating AI - not only in your code, but also in your business.
+
+Let's have a look together on some basic concepts and hands-on examples of letting AI take over more responsibilities in a well-defined and automated manner.
+
+Main Talk by Christopher Hertel
+Language: English
+
+##### 21:00 Uhr (09:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
 <a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
 In deinen Kalender importieren</a>
 

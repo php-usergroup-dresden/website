@@ -28,7 +28,7 @@ SAVE YOUR SEAT</a>
 ##### 19:05 Uhr (07:05pm) - Vertical Slice Architecture: From Layers to Features
 
 Lightning Talk by Sebastian Gierth
-Language: English
+Language: German
 
 ##### 19:40 Uhr (07:40pm) - Visitor pattern - the most misunderstood pattern of'em all
 

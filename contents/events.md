@@ -23,10 +23,43 @@
 
 <hr class="blockspace">
 
-<a href="https://www.meetup.com/php-usergroup-dresden/events/306095609/" target="_blank" class="btn btn-lg btn-success" style="float: right">
+<a href="https://www.meetup.com/php-usergroup-dresden/events/306095636/" target="_blank" class="btn btn-lg btn-success" style="float: right">
 SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
+
+#### Meetup III/2025 - X-MAS Special 2025 — What's new in PHP 8.5
+
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/u876QrJzz2c8WaPz8)
+
+##### Programm / Program
+
+##### 18:30 Uhr (06:30pm) - Doors Open
+
+##### 18:45 Uhr (06:45pm) - User group intro
+
+##### 18:50 Uhr (06:50pm) - Host intro
+
+##### 19:05 Uhr (07:05pm) - Docs As Code - Documentation that's fun
+
+Dokumentation muss nicht trocken und langweilig sein! In diesem Lightning Talk zeige ich, wie moderne „Docs as Code“-Ansätze Entwickler:innen das Leben leichter machen. Wir werfen einen Blick auf AsciiDoc, erzeugen lebendige Diagramme mit PlantUML und strukturieren Architekturwissen mit arc42.
+
+Lightning Talk by Michael Pokladek
+Language: Deutsch
+
+##### 19:45 Uhr (07:45pm) - What's new in PHP 8.5 (Main Talk)
+
+I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.
+
+Main Talk by Holger Woltersdorf
+Language: German or English
+
+##### 21:00 Uhr (09:00pm) - Community + Socializing
+
+<hr class="blockspace">
+
+<a href="@calendar_url@" target="_blank" title="iCal Export" class="btn btn-success btn-sm pull-right"><i class="fa fa-calendar"></i>
+In deinen Kalender importieren</a>
 
 #### Meetup II/2025 - Meetup II/2025 - Agentic Applications with Symfony
 

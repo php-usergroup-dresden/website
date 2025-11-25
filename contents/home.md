@@ -13,7 +13,7 @@ SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
-#### Meetup III/2025 - X-MAS Special 2025 — What's new in PHP 8.5
+#### Meetup III/2025 - X-MAS Special 2025 — What's new in PHP 8.5 am 17.12.2025
 
 <i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/u876QrJzz2c8WaPz8)
 

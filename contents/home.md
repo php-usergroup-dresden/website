@@ -13,6 +13,25 @@ SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
+#### PHP Stammtisch I/2026 am 16.02.2026
+
+<i class="fa fa-map-marker"></i> [Arjun Dresden, Bischofsweg 7, 01097 Dresden](https://www.google.com/maps/place/Arjun's+Bistro+Lieferservice/@51.0716753,13.7499646,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4709cf3d39021ff7:0x91d0aaa3795577da!8m2!3d51.0716753!4d13.7499646!16s%2Fg%2F11bw44qf5l?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D)
+
+##### Programm / Program
+
+##### 19:00 Uhr (07:00pm) - Community + Socializing
+
+Der nächste PHP-Stammtisch der PHP Usergroup Dresden steht an!
+Wir treffen uns am 16.02.2026 im Arjun Dresden, um in gemütlicher Runde über aktuelle Themen rund um PHP, moderne Webentwicklung und den Einsatz von KI zu sprechen.
+
+Der Stammtisch ist bewusst offen und ungezwungen gehalten: Ob neue Features, Best Practices, Tools, Frameworks oder ganz konkrete Herausforderungen aus dem Arbeitsalltag – bringt eure Fragen, Probleme und Erfahrungen mit. Der Austausch untereinander steht im Mittelpunkt, ganz ohne Vorträge oder feste Agenda.
+
+Egal ob Einsteiger:in oder langjähriger Profi – alle sind willkommen, die Lust auf gute Gespräche, neue Impulse und einen entspannten Abend mit Gleichgesinnten haben.
+
+Wir freuen uns auf euch!
+
+<hr class="blockspace">
+
 #### Meetup III/2025 - X-MAS Special 2025 — What's new in PHP 8.5 am 17.12.2025
 
 <i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/u876QrJzz2c8WaPz8)

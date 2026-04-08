@@ -13,6 +13,31 @@ SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
+
+#### PHP MeetUp I/2026 "Fish Bowl" Diskussion am 14.04.2026
+
+<i class="fa fa-map-marker"></i> [move:elevator, Königsbrücker Str. 76, 01099 Dresden](https://maps.app.goo.gl/u876QrJzz2c8WaPz8)
+
+##### Programm / Program
+
+17:30 Uhr (06:30pm) - Mitgliederversammlung des „Php Usergroup Dresden e.V.“ (exklusiv für Mitglieder)
+
+18:30 Uhr (06:30pm) - Doors Open
+
+18:45 Uhr (06:45pm) - User group intro
+
+18:50 Uhr (6:50pm) - Host intro
+
+##### 19:05 Uhr (07:05pm) - "Fish Bowl"-Diskussion
+
+Gemeinsam beleuchten wir die Zukunft von PHP und Softwareentwicklung im Zeitalter von KI. Sind KI-Agenten bereits die nächste Abstraktionsschicht? Welche Rolle bleibt Entwickler:innen – und welche neuen Möglichkeiten entstehen?
+
+Bringt eure Perspektiven, Fragen und Erfahrungen mit und gestaltet die Diskussion aktiv mit! 🚀
+
+##### 20:45 Uhr (08:45pm) - Community + Socializing
+
+<hr class="blockspace">
+
 #### PHP Stammtisch I/2026 am 16.02.2026
 
 <i class="fa fa-map-marker"></i> [Arjun Dresden, Bischofsweg 7, 01097 Dresden](https://www.google.com/maps/place/Arjun's+Bistro+Lieferservice/@51.0716753,13.7499646,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4709cf3d39021ff7:0x91d0aaa3795577da!8m2!3d51.0716753!4d13.7499646!16s%2Fg%2F11bw44qf5l?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D)

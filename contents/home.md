@@ -13,6 +13,23 @@ SAVE YOUR SEAT</a>
 
 ### <a name="next-event"></a>Nächstes Event
 
+#### PHP Stammtisch II/2026 am 29.05.2026
+
+<i class="fa fa-map-marker"></i> [Im KGV Erdenglück Garten 210, Weixdorfer Straße, 01129 Dresden](https://maps.app.goo.gl/zhmxjBmguKeVYpyu7)
+
+##### Programm / Program
+
+##### 19:00 Uhr (07:00pm) - Grillen + Community + Socializing
+
+Der nächste PHP-Stammtisch der PHP Usergroup Dresden steht an!
+Wir treffen uns am 29.05.2026 im Gartenverein KGV Erdenglück im Garten 210 zum gemeinsamen grillen. Ein Lidl befindet sich in der Nähe.
+Bringt bitte eure eigenen Getränke und Nahrung mit. Hoffen wir auf gutes Wetter.
+
+Achtung: Bei schlechtem Wetter (Regen) findet das Treffen im Lokal Fortschritt statt!
+
+Wir freuen uns auf euch!
+
+<hr class="blockspace">
 
 #### PHP MeetUp I/2026 "Fish Bowl" Diskussion am 14.04.2026
 

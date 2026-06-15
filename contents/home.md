@@ -670,13 +670,6 @@ By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.l
 <div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.cusatimedia.de" target="_blank" title="cusati media GmbH">
-				<img src="@baseUrl@/images/sponsors/cusati-media.png" alt="cusati media GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
 			<a href="https://twitter.com/F9T3ch" target="_blank">
 				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
@@ -696,8 +689,6 @@ By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.l
 			</a>
 		</div>
 	</div>
-</div>
-<div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="https://www.queo.de" target="_blank">
@@ -705,6 +696,8 @@ By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.l
 			</a>
 		</div>
     </div>
+</div>
+<div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
 		<div class="sponsor">
 			<a href="https://www.ujamii.com" target="_blank">

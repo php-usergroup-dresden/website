@@ -677,31 +677,15 @@ By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.l
     </div>
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
-			<a href="https://www.eos-uptrade.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/eos-uptrade.webp" alt="eos.uptrade GmbH" class="img-responsive">
-			</a>
-		</div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-    	<div class="sponsor">
 			<a href="https://twitter.com/F9T3ch" target="_blank">
 				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>
     </div>
 	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-		<div class="sponsor">
-			<a href="https://inside.lovoo.com" target="_blank">
-				<img src="@baseUrl@/images/sponsors/lovoo.jpg" alt="LOVOO" class="img-responsive">
-			</a>
-		</div>
-    </div>
-</div>
-<div class="row blockspace">
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="https://www.move-elevator.de" target="_blank">
-				<img src="@baseUrl@/images/sponsors/moveelevator.png" alt="move elevator GmbH" class="img-responsive">
+				<img src="@baseUrl@/images/sponsors/move-elevator.png" alt="move elevator GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
@@ -712,6 +696,8 @@ By Oliver Hader ([Twitter](https://twitter.com/ohader), [LinkedIn](https://www.l
 			</a>
 		</div>
 	</div>
+</div>
+<div class="row blockspace">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
     	<div class="sponsor">
 			<a href="https://www.queo.de" target="_blank">

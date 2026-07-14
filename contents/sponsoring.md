@@ -16,21 +16,21 @@ E-Mail: <sponsoring@phpug-dresden.org>
 ## <a name="sponsors"></a>Sponsoren
 
 <div class="row blockspace">
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
 		<div class="sponsor">
 			<a href="https://twitter.com/F9T3ch" target="_blank">
 				<img src="@baseUrl@/images/sponsors/fortune-solutions.png" alt="FORTUNE SOLUTIONS - a Unit of Fortuneglobe GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
 		<div class="sponsor">
 			<a href="https://www.move-elevator.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/move-elevator.png" alt="move elevator GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
 		<div class="sponsor">
 			<a href="https://www.ostec.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/ostec.webp" alt="ostec GmbH" class="img-responsive">
@@ -39,23 +39,25 @@ E-Mail: <sponsoring@phpug-dresden.org>
 	</div>
 </div>
 <div class="row blockspace">
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
 		<div class="sponsor">
 			<a href="https://www.queo.de" target="_blank">
 				<img src="@baseUrl@/images/sponsors/queo.webp" alt="Queo GmbH" class="img-responsive">
 			</a>
 		</div>
 	</div>
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
+		<div class="sponsor">
+			<a href="https://www.mpowr-it.de" target="_blank">
+				<img src="@baseUrl@/images/sponsors/mpowr-it.webp" alt="MPOWR IT — The Systems and Software Architects" class="img-responsive">
+			</a>
+		</div>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center">
 		<div class="sponsor">
 			<a href="https://www.ujamii.com" target="_blank">
 				<img src="@baseUrl@/images/sponsors/ujamii.png" alt="ujamii smart solutions" class="img-responsive">
 			</a>
-		</div>
-	</div>
-	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
-		<div class="sponsor">
-			&nbsp;
 		</div>
 	</div>
 </div>

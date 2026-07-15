@@ -68,6 +68,13 @@
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -843,6 +850,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -1281,6 +1295,13 @@
             "breadcrumb": {
                 "/index.html": "Home"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "entwickler": {
@@ -1341,6 +1362,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -1731,6 +1759,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/newsletter-archive.html": {
             "title": "Newsletter Archiv",
             "breadcrumb": {
@@ -1966,6 +2001,13 @@
                 "/events.html": "Events",
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "besuchen": {
@@ -2011,6 +2053,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/statutes.html": {
@@ -2758,6 +2807,13 @@
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "gartenverein": {
@@ -2862,6 +2918,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -3103,6 +3166,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -3658,6 +3728,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -4014,6 +4091,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -4446,6 +4530,13 @@
                 "/events.html": "Events"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -4610,6 +4701,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/newsletter-archive.html": {
             "title": "Newsletter Archiv",
             "breadcrumb": {
@@ -4727,6 +4825,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/statutes.html": {
@@ -6361,6 +6466,13 @@
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "konkrete": {
@@ -6457,6 +6569,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/statutes.html": {
@@ -6899,6 +7018,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/newsletter-archive.html": {
@@ -7894,6 +8020,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -8051,6 +8184,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -9435,6 +9575,13 @@
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "let": {
@@ -9788,6 +9935,13 @@
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "tharandter": {
@@ -10059,6 +10213,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/downloads.html": {
             "title": "Downloads / Formulare",
             "breadcrumb": {
@@ -10101,6 +10262,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -11967,6 +12135,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -13345,6 +13520,13 @@
                 "/events.html": "Events"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -13899,6 +14081,13 @@
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -14121,6 +14310,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -16096,6 +16292,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -16265,6 +16468,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "systeme": {
@@ -16279,6 +16489,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -16363,6 +16580,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -17026,6 +17250,13 @@
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -17157,6 +17388,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/newsletter-archive.html": {
@@ -17892,6 +18130,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/imprint.html": {
             "title": "Impressum",
             "breadcrumb": {
@@ -18106,6 +18351,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -18447,6 +18699,13 @@
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -18675,6 +18934,13 @@
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/newsletter-archive.html": {
             "title": "Newsletter Archiv",
             "breadcrumb": {
@@ -18816,6 +19082,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -19235,6 +19508,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "codebases": {
@@ -19496,6 +19776,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -21570,6 +21857,13 @@
                 "/call-for-papers.html": "Call for Papers"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/statutes.html": {
             "title": "Satzung",
             "breadcrumb": {
@@ -22246,6 +22540,13 @@
                 "/events.html": "Events"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -22760,6 +23061,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "teams": {
@@ -22782,6 +23090,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -28624,6 +28939,13 @@
                 "/index.html": "Home",
                 "/call-for-papers.html": "Call for Papers"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "erf": {
@@ -29435,6 +29757,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -31075,6 +31404,13 @@
                 "/events.html": "Events",
                 "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "lidia": {
@@ -31425,6 +31761,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -32137,6 +32480,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "bekannten": {
@@ -32412,6 +32762,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -32868,6 +33225,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -33943,6 +34307,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "insbesondere": {
@@ -34313,6 +34684,13 @@
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "helping": {
@@ -34515,6 +34893,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/statutes.html": {
@@ -35222,6 +35607,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -36903,6 +37295,13 @@
                 "/events.html": "Events",
                 "/events/2019/xdebug-workshop-with-derick-rethans.html": "Xdebug workshop with Derick Rethans"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "feldmann": {
@@ -37435,6 +37834,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/events.html": "Events"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -44217,6 +44623,13 @@
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {
@@ -44638,6 +45051,13 @@
                 "/hosting.html": "Meetup hosten"
             }
         },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
         "https://phpug-dresden.org/imprint.html": {
             "title": "Impressum",
             "breadcrumb": {
@@ -44941,6 +45361,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -45564,6 +45991,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/jahres-rueckblick.html": "Jahresr\u00fcckblick 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/statutes.html": {
@@ -47981,6 +48415,13 @@
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "konkret": {
@@ -48279,6 +48720,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/x-mas-issue-bash.html": "X-Mas Issue Bash 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -48627,6 +49075,13 @@
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "nikolaus": {
@@ -48754,6 +49209,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -50015,6 +50477,13 @@
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "lernt": {
@@ -50075,6 +50544,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -50298,6 +50774,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2016/php-developer-day.html": "PHP Developer Day 2016"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -51921,6 +52404,13 @@
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "service": {
@@ -52118,6 +52608,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -52492,6 +52989,13 @@
                 "/index.html": "Home",
                 "/events.html": "Events",
                 "/events/2015/php-developer-day.html": "PHP Developer Day 2015"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         },
         "https://phpug-dresden.org/privacy.html": {
@@ -54292,6 +54796,13 @@
                 "/index.html": "Home",
                 "/call-for-papers.html": "Call for Papers"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "bezug": {
@@ -54775,6 +55286,13 @@
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
             }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
         }
     },
     "ufe": {
@@ -54783,6 +55301,13 @@
             "breadcrumb": {
                 "/index.html": "Home",
                 "/hosting.html": "Meetup hosten"
+            }
+        },
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
             }
         }
     },
@@ -56006,6 +56531,441 @@
         }
     },
     "kontaktiere": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "growth": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "digitalagentur": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "wachstum": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "planbar": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "erfahrung": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "flexibel": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "leistungsstark": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "modularen": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "plattform": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
+        "https://phpug-dresden.org/imprint.html": {
+            "title": "Impressum",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/imprint.html": "Impressum"
+            }
+        },
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "optimale": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "individuelles": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "softwarearchitekten": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "komplexit": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "entwicklungsprozessen": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "beherrschbar": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "fundierte": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "technologieentscheidungen": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "startpunkt": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "produktive": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "nimmt": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "experimenten": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "produktiver": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "creation": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "methodik": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "praktisch": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        },
+        "https://phpug-dresden.org/privacy.html": {
+            "title": "Datenschutzerkl\u00e4rung",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/privacy.html": "Datenschutz"
+            }
+        }
+    },
+    "umsetzen": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "kraft": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "vereint": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "vorantreibt": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "bestandteile": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "arbeitsweise": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "inhabergef": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "hrtes": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "puls": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "kombiniert": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "nachhaltige": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "wertsch": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "pfung": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "analysieren": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "prozesse": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "automatisieren": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "schneller": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "fehlerquoten": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "sinken": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "umsatzpotenziale": {
+        "https://phpug-dresden.org/sponsoring.html": {
+            "title": "Sponsor werden",
+            "breadcrumb": {
+                "/index.html": "Home",
+                "/sponsoring.html": "Sponsoring"
+            }
+        }
+    },
+    "sichtbar": {
         "https://phpug-dresden.org/sponsoring.html": {
             "title": "Sponsor werden",
             "breadcrumb": {
@@ -59101,22 +60061,6 @@
             }
         }
     },
-    "plattform": {
-        "https://phpug-dresden.org/imprint.html": {
-            "title": "Impressum",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/imprint.html": "Impressum"
-            }
-        },
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
-            }
-        }
-    },
     "streitbeilegung": {
         "https://phpug-dresden.org/imprint.html": {
             "title": "Impressum",
@@ -60972,15 +61916,6 @@
         }
     },
     "begriff": {
-        "https://phpug-dresden.org/privacy.html": {
-            "title": "Datenschutzerkl\u00e4rung",
-            "breadcrumb": {
-                "/index.html": "Home",
-                "/privacy.html": "Datenschutz"
-            }
-        }
-    },
-    "praktisch": {
         "https://phpug-dresden.org/privacy.html": {
             "title": "Datenschutzerkl\u00e4rung",
             "breadcrumb": {

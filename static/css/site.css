@@ -445,7 +445,8 @@ blockquote {
 
 .team-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+    /* 8.75rem lets six members plus the "Du?" card share one row at full container width. */
+    grid-template-columns: repeat(auto-fill, minmax(8.75rem, 1fr));
     gap: 1.5rem 1rem;
     text-align: center;
 }

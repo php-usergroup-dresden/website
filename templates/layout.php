@@ -26,7 +26,8 @@ $logo = $today->format('m') === '12' ? '/images/logo-xmas.png' : '/images/phpugd
     <meta property="og:description" content="<?= $this->e($description ?? $site['description']) ?>">
     <meta property="og:url" content="<?= $this->e($canonical) ?>">
     <meta property="og:image" content="<?= $this->e($site['baseUrl']) ?>/images/logo_500x500.png">
-    <meta name="theme-color" content="#ee7203">
+    <meta name="theme-color" content="#1e2140">
+    <link rel="preload" href="/fonts/recursive-latin.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" href="/images/phpugdd-logo.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/images/favicons/apple-icon-180x180.png">

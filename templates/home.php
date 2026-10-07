@@ -11,9 +11,22 @@
 $next = $upcoming[0] ?? null;
 ?>
 <section class="hero">
+    <?php /*
+     * A meander of PHP code flowing like the Elbe through Dresden. Purely decorative.
+     * Both bands use pixel coordinates without viewBox scaling, so text and lines keep their size on every screen
+     * and are only cropped at the sides; paths run to x=3000 to cover wide monitors.
+     */ ?>
+    <svg class="hero__band hero__band--code" aria-hidden="true" focusable="false">
+        <path id="elbe-code" d="M-40 52 C 260 30, 520 74, 820 50 S 1400 28, 1700 48 S 2400 70, 3000 44" fill="none"/>
+        <text class="hero__code"><textPath href="#elbe-code"><tspan class="tok-kw">&lt;?php declare</tspan>(strict_types=1); <tspan class="tok-var">$dresden</tspan>-&gt;meetup(<tspan class="tok-kw">fn</tspan> (Talk <tspan class="tok-var">$talk</tspan>) =&gt; <tspan class="tok-var">$talk</tspan>-&gt;share()); <tspan class="tok-kw">match</tspan> (<tspan class="tok-var">$you</tspan>) { <tspan class="tok-str">'curious'</tspan> =&gt; <tspan class="tok-str">'welcome'</tspan> }; <tspan class="tok-var">$elbe</tspan>?-&gt;flow(); <tspan class="tok-kw">foreach</tspan> (<tspan class="tok-var">$meetups</tspan> <tspan class="tok-kw">as</tspan> <tspan class="tok-var">$meetup</tspan>) { <tspan class="tok-var">$meetup</tspan>-&gt;learn(); }</textPath></text>
+    </svg>
+    <svg class="hero__band hero__band--flow" aria-hidden="true" focusable="false">
+        <path class="hero__flow hero__flow--1" d="M-40 34 C 260 14, 500 56, 800 36 S 1380 12, 1700 32 S 2400 54, 3000 28"/>
+        <path class="hero__flow hero__flow--2" d="M-40 54 C 280 34, 520 76, 820 56 S 1400 32, 1720 52 S 2420 74, 3000 48"/>
+        <path class="hero__flow hero__flow--3" d="M-40 74 C 300 54, 540 96, 840 76 S 1420 52, 1740 72 S 2440 94, 3000 68"/>
+    </svg>
     <div class="container hero__inner">
         <div class="hero__text">
-            <p class="eyebrow">PHP USERGROUP DRESDEN e.V.</p>
             <h1><?= $this->e($site['tagline']) ?></h1>
             <p class="lead">
                 Wir sind eine Community von PHP-Enthusiasten aus Dresden. Ob erfahrene Entwickler:innen, Studierende
@@ -28,7 +41,7 @@ $next = $upcoming[0] ?? null;
         </div>
 
         <aside class="hero__next" aria-labelledby="next-event">
-            <h2 id="next-event" class="eyebrow">Nächstes Event</h2>
+            <h2 id="next-event" class="hero__label">Nächstes Event</h2>
             <?php if ($next !== null): ?>
                 <p class="hero__date"><?= $this->e($this->date($next->date)) ?><?= $next->time !== '' ? ', ' . $this->e($next->time) . ' Uhr' : '' ?></p>
                 <p class="hero__title"><a href="/events.html#<?= $this->e($next->date) ?>"><?= $this->e($next->title) ?></a></p>
@@ -70,13 +83,13 @@ $next = $upcoming[0] ?? null;
             <h2>Zuletzt bei uns</h2>
             <a href="/events.html#past">Alle vergangenen Events</a>
         </div>
-        <ul class="card-grid">
+        <ul class="recent-list">
             <?php foreach ($recent as $event): ?>
-                <li class="card">
-                    <p class="muted small"><time datetime="<?= $this->e($event->date) ?>"><?= $this->e($this->date($event->date, false)) ?></time></p>
-                    <h3 class="card__title"><a href="/events.html#<?= $this->e($event->date) ?>"><?= $this->e($event->title) ?></a></h3>
+                <li class="recent-list__item">
+                    <time class="recent-list__date" datetime="<?= $this->e($event->date) ?>"><?= $this->e($this->date($event->date, false)) ?></time>
+                    <h3 class="recent-list__title"><a href="/events.html#<?= $this->e($event->date) ?>"><?= $this->e($event->title) ?></a></h3>
                     <?php if ($event->talks !== []): ?>
-                        <ul class="plain-list small">
+                        <ul class="plain-list recent-list__talks">
                             <?php foreach ($event->talks as $talk): ?>
                                 <li><?= $this->e($talk->title) ?><?php if ($talk->speaker !== ''): ?> <span class="muted">– <?= $this->e($talk->speaker) ?></span><?php endif ?></li>
                             <?php endforeach ?>

@@ -1,0 +1,44 @@
+[
+    {
+        "name": "move elevator GmbH",
+        "url": "https://www.move-elevator.de",
+        "logo": "/images/sponsors/move-elevator.png",
+        "claim": "we.move:growth",
+        "description": "Wir sind die Digitalagentur, die dein Wachstum planbar macht. Wie wir das machen? Mit 100 Expert:innen, über 25 Jahren Erfahrung und einem klaren System."
+    },
+    {
+        "name": "FORTUNE SOLUTIONS – a Unit of Fortuneglobe GmbH",
+        "url": "https://twitter.com/F9T3ch",
+        "logo": "/images/sponsors/fortune-solutions.png",
+        "claim": "INNOVATIVE SOFTWARE SOLUTIONS",
+        "description": "FLEXIBEL — LEISTUNGSSTARK — SKALIERBAR  \nMit der eigenen modularen Plattform bietet Ihnen die FORTUNE SOLUTIONS die optimale Architektur für ihr individuelles E-Business."
+    },
+    {
+        "name": "MPOWR IT — The Systems and Software Architects",
+        "url": "https://www.mpowr-it.de",
+        "logo": "/images/sponsors/mpowr-it.webp",
+        "claim": "Erfahrene System- und Softwarearchitekten aus Dresden",
+        "description": "Wir helfen IT-Teams in Unternehmen dabei, technische Komplexität in Software, Infrastruktur und Entwicklungsprozessen beherrschbar zu machen und fundierte Architektur- und Technologieentscheidungen zu treffen."
+    },
+    {
+        "name": "ostec GmbH",
+        "url": "https://www.ostec.de",
+        "logo": "/images/sponsors/ostec.webp",
+        "claim": "Startpunkt für produktive KI-Software im Unternehmen",
+        "description": "ostec nimmt Sie mit auf die Reise von KI-Experimenten zu produktiver KI. Keine Theorie-Workshops, sondern Co-Creation mit Methodik und ganz viel gemeinsam praktisch umsetzen."
+    },
+    {
+        "name": "queo group",
+        "url": "https://www.queo.de",
+        "logo": "/images/sponsors/queo.webp",
+        "claim": "queo group",
+        "description": "Wir glauben an die Kraft einer gemeinsamen Richtung, die uns alle vereint und vorantreibt. Gemeinsam planen, Lösungen finden und aus Fehlern lernen sind zentrale Bestandteile unserer Arbeitsweise. Als inhabergeführtes Unternehmen setzen wir auf Veränderung am Puls der Zeit, kombiniert mit Verantwortung für nachhaltige Wertschöpfung."
+    },
+    {
+        "name": "ujamii smart solutions",
+        "url": "https://www.ujamii.com",
+        "logo": "/images/sponsors/ujamii.png",
+        "claim": "Engineering digital progress.",
+        "description": "Wir analysieren Prozesse, integrieren Systeme und automatisieren Abläufe – damit Teams schneller arbeiten, Fehlerquoten sinken und Umsatzpotenziale sichtbar werden."
+    }
+]

@@ -34,10 +34,11 @@ final readonly class Build
             $pages[$page['path']] = ['page', ['title' => $this->titleOf($body, $page['path']), 'body' => $body, 'description' => $page['description'] ?? null]];
         }
 
+        $externalLinks = new ExternalLinks((string) parse_url($content->site['baseUrl'], PHP_URL_HOST));
         foreach ($pages as $path => [$template, $vars]) {
             $vars = ['description' => null, ...$vars, 'path' => $path];
             $html = $renderer->render('layout', [...$vars, 'main' => $renderer->render($template, $vars)]);
-            $this->write($path, $html);
+            $this->write($path, $externalLinks->openInNewWindow($html));
         }
 
         $calendar = new Calendar($content->site['name'], $content->site['baseUrl']);

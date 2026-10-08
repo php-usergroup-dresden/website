@@ -91,6 +91,18 @@ a:hover {
     text-decoration-thickness: 2px;
 }
 
+/* External links open in a new window (set by the build); announce it visually and to screen readers. */
+a[target="_blank"]::after {
+    content: "\00a0↗" / " (öffnet in neuem Fenster)";
+    text-decoration: none;
+    display: inline-block;
+}
+
+.logo-grid a[target="_blank"]::after,
+.sponsor__logo[target="_blank"]::after {
+    content: none;
+}
+
 :focus-visible {
     outline: 3px solid var(--focus);
     outline-offset: 3px;

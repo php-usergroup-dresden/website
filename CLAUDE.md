@@ -35,6 +35,8 @@ Deployment: `.github/workflows/deploy.yml` runs tests + build and deploys `publi
   raw HTML block until the next blank line.
 - `src/Build.php` – orchestrates: reset `public/`, copy `static/`, render generated pages (`/`, `/events.html`,
   `/talks.html`, `/sponsoring.html`, `/404.html`) and Markdown pages, write `events.ics` and `sitemap.xml`.
+  Every rendered page passes through `ExternalLinks`, which adds `target="_blank" rel="noopener"` to links on other
+  hosts – templates and content never set `target` themselves.
 - `templates/*.php` – plain PHP templates; inside them `$this` is the `Renderer` (`e()` escapes, `md()` renders
   Markdown, `date()` formats German dates, `partial()` includes `templates/partials/*`). Every page is wrapped by
   `layout.php`. Always escape data with `$this->e()`.

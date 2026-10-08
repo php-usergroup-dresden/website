@@ -1,6 +1,6 @@
 # Impressum
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 PHP USERGROUP DRESDEN e. V.  
 z. Hd. Holger Woltersdorf  
@@ -24,7 +24,7 @@ Eintragung im Vereinsregister
 Registergericht: Dresden  
 Registernummer: VR 9725
 
-## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
 Holger Woltersdorf, Marcel Führer
 

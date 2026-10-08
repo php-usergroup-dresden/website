@@ -8,7 +8,7 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
-Den rechtlichen Rahmen für den Datenschutz bilden das Bundesdatenschutzgesetz (BDSG), das Telemediengesetz (TMG) sowie die EU-Datenschutz Grundverordnung (DSGVO).
+Den rechtlichen Rahmen für den Datenschutz bilden das Bundesdatenschutzgesetz (BDSG), das Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG) sowie die EU-Datenschutz-Grundverordnung (DSGVO).
 
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf. (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
@@ -44,10 +44,9 @@ Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffe
 
 - Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte
 - Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern
-- Reichweitenmessung/Marketing
 - Sicherheitsmaßnahmen
 
-## Verwendete Brgrifflichkeiten
+## Verwendete Begrifflichkeiten
 
 „Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
 
@@ -67,7 +66,7 @@ Sofern wir Dritte mit der Verarbeitung von Daten auf Grundlage eines sog. „Auf
 
 ## Übermittlungen in Drittländer
 
-Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU) oder des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an Dritte geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der besonderen Voraussetzungen der Art. 44 ff. DSGVO verarbeiten. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch das „Privacy Shield“) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen (so genannte „Standardvertragsklauseln“).
+Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU) oder des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an Dritte geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der besonderen Voraussetzungen der Art. 44 ff. DSGVO verarbeiten. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch den Angemessenheitsbeschluss der EU-Kommission zum „EU-US Data Privacy Framework“ für dort zertifizierte Unternehmen) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen (so genannte „Standardvertragsklauseln“).
 
 ## Rechte der betroffenen Personen
 
@@ -85,7 +84,7 @@ Sie haben ferner gem. Art. 77 DSGVO das Recht, eine Beschwerde bei der zuständi
 
 Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem Nutzer (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies, bzw. „Session-Cookies“ oder „transiente Cookies“, werden Cookies bezeichnet, die gelöscht werden, nachdem ein Nutzer ein Onlineangebot verlässt und seinen Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Staus gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbietern als dem Verantwortlichen, der das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).
 
-Wir können temporäre und permanente Cookies einsetzen und klären hierüber im Rahmen unserer Datenschutzerklärung auf.
+Diese Webseite setzt keine Cookies ein. Cookies können jedoch von Dritt-Anbietern gesetzt werden, wenn Sie deren verlinkte Angebote aufrufen.
 
 Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
 
@@ -97,13 +96,13 @@ Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO ge
 
 Nach gesetzlichen Vorgaben in Deutschland erfolgt die Aufbewahrung insbesondere für 6 Jahre gemäß § 257 Abs. 1 HGB (Handelsbücher, Inventare, Eröffnungsbilanzen, Jahresabschlüsse, Handelsbriefe, Buchungsbelege, etc.) sowie für 10 Jahre gemäß § 147 Abs. 1 AO (Bücher, Aufzeichnungen, Lageberichte, Buchungsbelege, Handels- und Geschäftsbriefe, Für Besteuerung relevante Unterlagen, etc.).
 
-Nach gesetzlichen Vorgaben in Österreich erfolgt die Aufbewahrung insbesondere für 7 J gemäß § 132 Abs. 1 BAO (Buchhaltungsunterlagen, Belege/Rechnungen, Konten, Belege, Geschäftspapiere, Aufstellung der Einnahmen und Ausgaben, etc.), für 22 Jahre im Zusammenhang mit Grundstücken und für 10 Jahre bei Unterlagen im Zusammenhang mit elektronisch erbrachten Leistungen, Telekommunikations-, Rundfunk- und Fernsehleistungen, die an Nichtunternehmer in EU-Mitgliedstaaten erbracht werden und für die der Mini-One-Stop-Shop (MOSS) in Anspruch genommen wird.
-
 ## Hosting
 
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
 
 Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
+
+Diese Webseite wird über den Dienst GitHub Pages der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA, bereitgestellt. Beim Aufruf der Webseite speichert GitHub die IP-Adresse der Besucher zu Sicherheitszwecken, auch wenn diese nicht bei GitHub angemeldet sind. Die Verarbeitung erfolgt auf Grundlage unseres berechtigten Interesses an einer sicheren und technisch fehlerfreien Bereitstellung der Webseite gem. Art. 6 Abs. 1 lit. f DSGVO. GitHub ist unter dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub unter: https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement.
 
 ## Administration, Finanzbuchhaltung, Büroorganisation, Kontaktverwaltung
 
@@ -137,11 +136,11 @@ Kündigung/Widerruf - Sie können den Empfang unseres Newsletters jederzeit kün
 
 ## Newsletter - Versanddienstleister
 
-Der Versand der Newsletter erfolgt mittels des Versanddienstleisters „MailChimp“, einer Newsletter-Versandplattform des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA. Die Datenschutzbestimmungen des Versanddienstleisters können Sie hier einsehen: https://mailchimp.com/legal/privacy/.
+Der Versand der Newsletter erfolgt mittels des Versanddienstleisters „Mailchimp“, einer Newsletter-Versandplattform der The Rocket Science Group LLC d/b/a Mailchimp, einem Unternehmen der Intuit Inc., USA. Die Datenschutzbestimmungen des Versanddienstleisters können Sie hier einsehen: https://www.intuit.com/privacy/statement/.
 
 Das Anmeldeformular für den Newsletter im Fußbereich unserer Seiten übermittelt Ihre E-Mail-Adresse erst beim Absenden direkt an MailChimp. Solange Sie das Formular nicht absenden, werden keine Daten an MailChimp übertragen.
 
-The Rocket Science Group LLC d/b/a MailChimp ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäisches Datenschutzniveau einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&status=Active). Der Versanddienstleister wird auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f DSGVO und eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 S. 1 DSGVO eingesetzt.
+The Rocket Science Group LLC d/b/a Mailchimp ist unter dem EU-US Data Privacy Framework zertifiziert. Die Übermittlung Ihrer Daten in die USA erfolgt auf Grundlage des Angemessenheitsbeschlusses der EU-Kommission zu diesem Rahmenwerk (Art. 45 DSGVO). Der Versanddienstleister wird auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f DSGVO und eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 S. 1 DSGVO eingesetzt.
 
 Der Versanddienstleister kann die Daten der Empfänger in pseudonymer Form, d.h. ohne Zuordnung zu einem Nutzer, zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für statistische Zwecke verwenden. Der Versanddienstleister nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder um die Daten an Dritte weiterzugeben.
 
@@ -175,11 +174,11 @@ Unsere Website nutzt Funktionen zur schnellen Anbindung / Verlinkung von SLACK u
 
 ## Verwendung von MEETUP
 
-Unsere Website verlinkt geplante und durchgeführte (archivierte) Veranstaltungen über den Dienstleister MEETUP.com. Betreiber dieses Servcies ist meetup.com, eine hundertprozentige Tochtergesellschaft von WeWork Companies Inc, WeWork HQ, 115 W 18th St., New York, NY 10011, USA. Weiter Informationen zum Datenschutz bei „MEETUP.com" finden Sie in der Datenschutzerklärung des Anbieters unter: https://www.meetup.com/de-DE/privacy/.
+Unsere Website verlinkt geplante und durchgeführte (archivierte) Veranstaltungen über den Dienstleister Meetup (meetup.com). Verantwortlich für die Datenverarbeitung bei Meetup ist die Bending Spoons US Inc., USA. Eine Verbindung zu Meetup wird erst hergestellt, wenn Sie einem Link folgen. Weitere Informationen zum Datenschutz bei Meetup finden Sie in der Datenschutzerklärung des Anbieters unter: https://help.meetup.com/hc/articles/360044422391.
 
 ## Ihre Rechte auf Auskunft, Berichtigung, Sperre, Löschung und Widerspruch
 
-Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen. Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu erhalten. Ebenso haben Sie das Recht auf Berichtigung, Sperrung oder, abgesehen von der vorgeschriebenen Datenspeicherung zur Geschäftsabwicklung, Löschung Ihrer personenbezogenen Daten. Bitte wenden Sie sich dazu an unseren TMG Verantwortlichen (Holger Woltersdorf, Käthe-Kollwitz-Ufer 76, 01309 Dresden, Germany).
+Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen. Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu erhalten. Ebenso haben Sie das Recht auf Berichtigung, Sperrung oder, abgesehen von der vorgeschriebenen Datenspeicherung zur Geschäftsabwicklung, Löschung Ihrer personenbezogenen Daten. Bitte wenden Sie sich dazu an die unten genannte verantwortliche Stelle.
 
 Damit eine Sperre von Daten jederzeit berücksichtigt werden kann, müssen diese Daten zu Kontrollzwecken in einer Sperrdatei vorgehalten werden. Sie können auch die Löschung der Daten verlangen, soweit keine gesetzliche Archivierungsverpflichtung besteht. Soweit eine solche Verpflichtung besteht, sperren wir Ihre Daten auf Wunsch.
 
@@ -194,5 +193,5 @@ Wir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit
 PHP USERGROUP DRESDEN e.V.  
 z.Hd. Holger Woltersdorf  
 Käthe-Kollwitz-Ufer 76  
-01307 Dresden  
+01309 Dresden  
 Germany

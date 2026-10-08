@@ -6,6 +6,62 @@
         "format": "Main Talk"
     },
     {
+        "event": "2026-09-25",
+        "time": "09:30",
+        "title": "Speed is not velocity: AI, complexity, and our role as developer",
+        "speaker": "Sebastian Kurfürst",
+        "format": "Keynote"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "10:15",
+        "title": "Reliable, Reproducible, Immutable",
+        "speaker": "Marco Pivetta (Ocramius)",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "11:15",
+        "title": "The Four Pillars of Observability",
+        "speaker": "Florian Engelhardt",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "13:15",
+        "title": "Develop Faster, Not Harder: Accelerating development with Sylius Stack",
+        "speaker": "Stephan Hochdörfer",
+        "format": "Livecoding"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "14:15",
+        "title": "Serverless PHP with bref.sh",
+        "speaker": "Carsten Windler",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "15:30",
+        "title": "From Events to Insights: Testing and Documenting Event-Based Software",
+        "speaker": "Sebastian Bergmann",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "16:30",
+        "title": "Securing PHP in the LLM age",
+        "speaker": "Volker Dusch",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "17:30",
+        "title": "Free beer and the community",
+        "speaker": "Andreas Heigl",
+        "format": "Talk"
+    },
+    {
         "event": "2025-12-17",
         "time": "19:05",
         "title": "Docs As Code - Documentation that's fun",

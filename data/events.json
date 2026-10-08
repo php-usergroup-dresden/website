@@ -38,6 +38,46 @@
         "description": "Um mal etwas anderes zu machen als Frontal-Unterricht mit Q&A, haben wir dieses Jahr PHP Stammtische in unser Jahresprogramm aufgenommen. In lockerer Atmosphäre wollen wir einen offenen Austausch fördern, von dem alle profitieren. Ob „Bring your own Topic“, einfach zuhören oder quer in die Diskussion mit einsteigen. Alles kann - nichts muss! Wir freuen uns über deine Teilnahme und deinen besonderen Blickwinkel! Einfach vorbeikommen!"
     },
     {
+        "date": "2026-09-25",
+        "time": "08:30",
+        "title": "PHP DEVELOPER DAY 2026 — #PHPDD26",
+        "location": "Gewandhaus Dresden, Ringstraße 1, 01067 Dresden",
+        "url": "https://www.meetup.com/php-usergroup-dresden/events/313235732/",
+        "description": "10 Jahre PHP DEVELOPER DAY Dresden: ein Konferenztag mit Keynote, sieben Talks und viel Community. Moderation: Anke Häslich & Michael Pokladek.",
+        "agenda": [
+            {
+                "time": "08:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "09:00",
+                "title": "Opening"
+            },
+            {
+                "time": "12:00",
+                "title": "Lunch Break"
+            },
+            {
+                "time": "15:00",
+                "title": "Coffee Break"
+            },
+            {
+                "time": "18:15",
+                "title": "Closing"
+            },
+            {
+                "time": "18:45",
+                "title": "Community & Socializing"
+            }
+        ],
+        "links": [
+            {
+                "title": "phpdd.org",
+                "url": "https://phpdd.org/"
+            }
+        ]
+    },
+    {
         "date": "2026-05-29",
         "time": "19:00",
         "title": "PHP Stammtisch II/2026",

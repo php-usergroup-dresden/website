@@ -86,6 +86,8 @@ Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer 
 
 Diese Webseite setzt keine Cookies ein. Cookies können jedoch von Dritt-Anbietern gesetzt werden, wenn Sie deren verlinkte Angebote aufrufen.
 
+Wenn Sie über den Schalter in der Kopfzeile ein helles oder dunkles Design wählen, speichert Ihr Browser diese Auswahl im lokalen Speicher (localStorage) Ihres Geräts. Die Angabe wird nicht an uns übertragen, ist für die von Ihnen ausdrücklich gewünschte Funktion erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG) und kann jederzeit über die Einstellungen Ihres Browsers gelöscht werden.
+
 Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
 
 Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/ erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.

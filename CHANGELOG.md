@@ -9,6 +9,17 @@ and fails if the section is missing.
 
 ## [Unreleased]
 
+## [2.0.1] - 2026-10-08
+
+### Added
+
+- Light/dark toggle in the header. The choice is stored in the browser; without a choice the site follows the system
+  setting.
+
+### Fixed
+
+- The logo in the header is always shown on a white background, so it stays readable in dark mode.
+
 ## [2.0.0] - 2026-10-08
 
 ### Added

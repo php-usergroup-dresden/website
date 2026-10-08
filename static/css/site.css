@@ -30,6 +30,8 @@
     --hero-bg: #1e2140;
     --hero-text: #f2f2fa;
     --hero-muted: #b9bcdb;
+    --label: var(--php);
+    --badge-ink: var(--php);
 
     --font: "Recursive", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
     --font-mono: "Recursive", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -38,8 +40,9 @@
     color-scheme: light dark;
 }
 
+/* Dark tokens: follow the system unless the visitor picked a theme with the header toggle (data-theme on <html>). */
 @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
         --paper: #15172c;
         --surface: #1d2040;
         --surface-alt: #191b35;
@@ -53,7 +56,32 @@
         --link: #aeb3ea;
         --focus: #ff8a1f;
         --hero-bg: #232750;
+        --label: var(--link);
+        --badge-ink: var(--ink);
     }
+}
+
+:root[data-theme="dark"] {
+    --paper: #15172c;
+    --surface: #1d2040;
+    --surface-alt: #191b35;
+    --ink: #ecedf7;
+    --muted: #b4b7d6;
+    --line: #2e3260;
+    --php-light: #8d92cc;
+    --lilac: #2a2e5a;
+    --orange: #ff8a1f;
+    --on-orange: #15172c;
+    --link: #aeb3ea;
+    --focus: #ff8a1f;
+    --hero-bg: #232750;
+    --label: var(--link);
+    --badge-ink: var(--ink);
+    color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+    color-scheme: light;
 }
 
 *,
@@ -310,9 +338,51 @@ blockquote {
     letter-spacing: 0.02em;
 }
 
+/* The logo has dark lettering, so it always sits on white – also in dark mode. */
 .brand img {
+    width: 48px;
+    height: 48px;
+    padding: 4px;
+    border-radius: var(--radius);
+    background: #ffffff;
+}
+
+.theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     width: 44px;
     height: 44px;
+    padding: 0;
+    border: 2px solid var(--line);
+    border-radius: 50%;
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+}
+
+/* Without JavaScript the button cannot work, so the inline script in the layout reveals it. */
+.theme-toggle[hidden] {
+    display: none;
+}
+
+.theme-toggle:hover {
+    border-color: var(--php-light);
+}
+
+.theme-toggle svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Shows the theme the button switches to. */
+.theme-toggle__light,
+:root[data-theme="dark"] .theme-toggle__dark {
+    display: none;
+}
+
+:root[data-theme="dark"] .theme-toggle__light {
+    display: block;
 }
 
 .main-nav {
@@ -343,7 +413,10 @@ blockquote {
     border-bottom-color: var(--orange);
 }
 
-.site-header .button {
+.site-header__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
     margin-left: auto;
 }
 
@@ -354,7 +427,7 @@ blockquote {
         margin-left: auto;
     }
 
-    .site-header .button {
+    .site-header__actions {
         margin-left: 0;
     }
 }
@@ -479,14 +552,8 @@ blockquote {
     margin: 0 0 0.75rem;
     font-size: 1rem;
     font-weight: 700;
-    color: var(--php);
+    color: var(--label);
     letter-spacing: 0;
-}
-
-@media (prefers-color-scheme: dark) {
-    .hero__label {
-        color: var(--link);
-    }
 }
 
 .hero__date {
@@ -657,18 +724,12 @@ blockquote {
 
 .member__placeholder {
     background: var(--lilac);
-    color: var(--php);
+    color: var(--label);
     border: 2px dashed var(--php-light);
     font-family: var(--font-mono);
     font-variation-settings: "MONO" 1;
     font-size: 1.6rem;
     font-weight: 700;
-}
-
-@media (prefers-color-scheme: dark) {
-    .member__placeholder {
-        color: var(--link);
-    }
 }
 
 .member__name {
@@ -777,14 +838,8 @@ blockquote {
     padding: 0.5rem;
     border-radius: var(--radius);
     background: var(--lilac);
-    color: var(--php);
+    color: var(--badge-ink);
     line-height: 1.1;
-}
-
-@media (prefers-color-scheme: dark) {
-    .event__date {
-        color: var(--ink);
-    }
 }
 
 .event__day {
@@ -866,15 +921,9 @@ blockquote {
     padding: 0.05rem 0.6rem;
     border-radius: 3px;
     background: var(--lilac);
-    color: var(--php);
+    color: var(--badge-ink);
     font-size: 0.8rem;
     font-weight: 650;
-}
-
-@media (prefers-color-scheme: dark) {
-    .tag {
-        color: var(--ink);
-    }
 }
 
 .tag--quiet {

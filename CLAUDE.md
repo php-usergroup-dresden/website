@@ -46,7 +46,7 @@ Releases: pushing a tag `vX.Y.Z` creates a GitHub Release whose text is the `## 
   Markdown, `date()` formats German dates, `partial()` includes `templates/partials/*`). Every page is wrapped by
   `layout.php`. Always escape data with `$this->e()`.
 - `static/` – copied verbatim: `css/site.css` (the only stylesheet, design tokens in `:root`, dark mode via
-  `prefers-color-scheme`), images, downloads, newsletter archive, `CNAME`.
+  `prefers-color-scheme` or the header toggle, which sets `data-theme` on `<html>` from an inline script in `layout.php`), images, downloads, newsletter archive, `CNAME`.
 - Existing public URLs (e.g. `/presse.html`, `/events/2016/php-developer-day.html`) must stay stable.
 
 Tests use a tiny runner (`tests/run.php`, assertions in `tests/assert.php`): each `tests/*Test.php` returns an array

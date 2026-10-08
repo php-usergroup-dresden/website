@@ -33,6 +33,28 @@ $logo = $today->format('m') === '12' ? '/images/logo-xmas.png' : '/images/phpugd
     <link rel="apple-touch-icon" href="/images/favicons/apple-icon-180x180.png">
     <link rel="alternate" type="text/calendar" title="Event-Kalender" href="/events.ics">
     <link rel="stylesheet" href="/css/site.css?v=<?= $this->e($assetVersion) ?>">
+    <script>
+        // Light/dark toggle. Runs before the first paint to avoid a flash; a stored choice wins over the system setting.
+        (function () {
+            var root = document.documentElement, stored = null;
+            try { stored = localStorage.getItem('theme'); } catch (e) {}
+            var system = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+            root.dataset.theme = stored === 'light' || stored === 'dark' ? stored : system;
+            document.addEventListener('DOMContentLoaded', function () {
+                var toggle = document.querySelector('.theme-toggle');
+                var label = function () {
+                    toggle.setAttribute('aria-label', root.dataset.theme === 'dark' ? 'Helles Design verwenden' : 'Dunkles Design verwenden');
+                };
+                label();
+                toggle.hidden = false;
+                toggle.addEventListener('click', function () {
+                    root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+                    try { localStorage.setItem('theme', root.dataset.theme); } catch (e) {}
+                    label();
+                });
+            });
+        })();
+    </script>
 </head>
 <body>
 <a class="skip-link" href="#main">Zum Inhalt springen</a>
@@ -50,7 +72,13 @@ $logo = $today->format('m') === '12' ? '/images/logo-xmas.png' : '/images/phpugd
                 <?php endforeach ?>
             </ul>
         </nav>
-        <a class="button button--primary" href="/become-member.html">Mitglied werden</a>
+        <div class="site-header__actions">
+            <button type="button" class="theme-toggle" hidden>
+                <svg class="theme-toggle__dark" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+                <svg class="theme-toggle__light" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+            </button>
+            <a class="button button--primary" href="/become-member.html">Mitglied werden</a>
+        </div>
     </div>
 </header>
 

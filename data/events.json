@@ -1,0 +1,845 @@
+[
+    {
+        "date": "2026-12-16",
+        "time": "18:30",
+        "title": "X-MAS Special 2026 — What's new in PHP",
+        "location": "move:elevator, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://maps.app.goo.gl/u876QrJzz2c8WaPz8",
+        "url": "https://www.meetup.com/php-usergroup-dresden/events/313235708/",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "19:05",
+                "title": "Lightning Talk (tbd.)"
+            },
+            {
+                "time": "21:00",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2026-10-29",
+        "time": "19:00",
+        "title": "PHP-Stammtisch III/2026",
+        "location": "Ort wird noch bekanntgegeben",
+        "url": "https://www.meetup.com/php-usergroup-dresden/events/313235700/",
+        "description": "Um mal etwas anderes zu machen als Frontal-Unterricht mit Q&A, haben wir dieses Jahr PHP Stammtische in unser Jahresprogramm aufgenommen. In lockerer Atmosphäre wollen wir einen offenen Austausch fördern, von dem alle profitieren. Ob „Bring your own Topic“, einfach zuhören oder quer in die Diskussion mit einsteigen. Alles kann - nichts muss! Wir freuen uns über deine Teilnahme und deinen besonderen Blickwinkel! Einfach vorbeikommen!"
+    },
+    {
+        "date": "2026-09-25",
+        "time": "08:30",
+        "title": "PHP DEVELOPER DAY 2026 — #PHPDD26",
+        "location": "Gewandhaus Dresden, Ringstraße 1, 01067 Dresden",
+        "url": "https://www.meetup.com/php-usergroup-dresden/events/313235732/",
+        "description": "10 Jahre PHP DEVELOPER DAY Dresden: ein Konferenztag mit Keynote, sieben Talks und viel Community. Moderation: Anke Häslich & Michael Pokladek.",
+        "agenda": [
+            {
+                "time": "08:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "09:00",
+                "title": "Opening"
+            },
+            {
+                "time": "12:00",
+                "title": "Lunch Break"
+            },
+            {
+                "time": "15:00",
+                "title": "Coffee Break"
+            },
+            {
+                "time": "18:15",
+                "title": "Closing"
+            },
+            {
+                "time": "18:45",
+                "title": "Community & Socializing"
+            }
+        ],
+        "links": [
+            {
+                "title": "phpdd.org",
+                "url": "https://phpdd.org/"
+            }
+        ]
+    },
+    {
+        "date": "2026-05-29",
+        "time": "19:00",
+        "title": "PHP Stammtisch II/2026",
+        "location": "Im KGV Erdenglück Garten 210, Weixdorfer Straße, 01129 Dresden",
+        "map": "https://maps.app.goo.gl/zhmxjBmguKeVYpyu7",
+        "url": "https://www.meetup.com/php-usergroup-dresden/events/306095636/",
+        "description": "Der nächste PHP-Stammtisch der PHP Usergroup Dresden steht an!\nWir treffen uns am 29.05.2026 im Gartenverein KGV Erdenglück im Garten 210 zum gemeinsamen grillen. Ein Lidl befindet sich in der Nähe.\nBringt bitte eure eigenen Getränke und Nahrung mit. Hoffen wir auf gutes Wetter.\n\nAchtung: Bei schlechtem Wetter (Regen) findet das Treffen im Lokal Fortschritt statt!\n\nWir freuen uns auf euch!",
+        "agenda": [
+            {
+                "time": "19:00",
+                "title": "Grillen + Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2026-04-14",
+        "time": "17:30",
+        "title": "PHP MeetUp I/2026 \"Fish Bowl\" Diskussion",
+        "location": "move:elevator, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://maps.app.goo.gl/u876QrJzz2c8WaPz8",
+        "description": "Gemeinsam beleuchten wir die Zukunft von PHP und Softwareentwicklung im Zeitalter von KI. Sind KI-Agenten bereits die nächste Abstraktionsschicht? Welche Rolle bleibt Entwickler:innen – und welche neuen Möglichkeiten entstehen?\n\nBringt eure Perspektiven, Fragen und Erfahrungen mit und gestaltet die Diskussion aktiv mit! 🚀",
+        "agenda": [
+            {
+                "time": "17:30",
+                "title": "Mitgliederversammlung des „Php Usergroup Dresden e.V.“ (exklusiv für Mitglieder)"
+            },
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "19:05",
+                "title": "\"Fish Bowl\"-Diskussion"
+            },
+            {
+                "time": "20:45",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2026-02-16",
+        "time": "19:00",
+        "title": "PHP Stammtisch I/2026",
+        "location": "Arjun Dresden, Bischofsweg 7, 01097 Dresden",
+        "map": "https://www.google.com/maps/place/Arjun's+Bistro+Lieferservice/@51.0716753,13.7499646,746m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4709cf3d39021ff7:0x91d0aaa3795577da!8m2!3d51.0716753!4d13.7499646!16s%2Fg%2F11bw44qf5l?entry=ttu&g_ep=EgoyMDI2MDIwMS4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D",
+        "description": "Der nächste PHP-Stammtisch der PHP Usergroup Dresden steht an!\nWir treffen uns am 16.02.2026 im Arjun Dresden, um in gemütlicher Runde über aktuelle Themen rund um PHP, moderne Webentwicklung und den Einsatz von KI zu sprechen.\n\nDer Stammtisch ist bewusst offen und ungezwungen gehalten: Ob neue Features, Best Practices, Tools, Frameworks oder ganz konkrete Herausforderungen aus dem Arbeitsalltag – bringt eure Fragen, Probleme und Erfahrungen mit. Der Austausch untereinander steht im Mittelpunkt, ganz ohne Vorträge oder feste Agenda.\n\nEgal ob Einsteiger:in oder langjähriger Profi – alle sind willkommen, die Lust auf gute Gespräche, neue Impulse und einen entspannten Abend mit Gleichgesinnten haben.\n\nWir freuen uns auf euch!",
+        "agenda": [
+            {
+                "time": "19:00",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2025-12-17",
+        "time": "18:30",
+        "title": "Meetup III/2025 - X-MAS Special 2025 — What's new in PHP 8.5",
+        "location": "move:elevator, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://maps.app.goo.gl/u876QrJzz2c8WaPz8",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "21:00",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2025-06-12",
+        "time": "18:30",
+        "title": "Meetup II/2025 - Agentic Applications with Symfony",
+        "location": "Tyclipso GmbH, Grundstraße 1, 01326 Dresden",
+        "map": "https://maps.app.goo.gl/4kP3DtuHxGJSA18TA",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "21:00",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2025-02-10",
+        "time": "17:30",
+        "title": "Meetup I/2025 - \"Fish Bowl\"-Diskussion über aktuelle Tools, Trends usw.",
+        "location": "queo GmbH, Tharandter Str. 13 , 01159 Dresden",
+        "map": "https://maps.app.goo.gl/im7j7sFbxo2fCZAt9",
+        "description": "Eine Diskussionsrunde über neue Trends, Technologien und den eigenen virtuellen Werkzeugkasten wird uns bei diesem Meetup beschäftigen. Als PHP UG Dresden setzen wir dieses Jahr verstärkt auf die Förderung des Austauschs innerhalb der Community.\n\nNeben den neu eingeführten Stammtischen werden wir auch das erste Meetup des Jahres im Zeichen des gemeinsamen Wissenstransfers durchführen. Passend dazu findet vorab die Mitgliederversammlung des „Php Usergroup Dresden e.V.“ statt.\n\nLanguage: German",
+        "agenda": [
+            {
+                "time": "17:30",
+                "title": "Mitgliederversammlung des „Php Usergroup Dresden e.V.“ (exklusiv für Mitglieder)"
+            },
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "19:00",
+                "title": "\"Fish Bowl\"-Diskussion über aktuelle Tools, Trends usw."
+            },
+            {
+                "time": "20:30",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2024-12-12",
+        "time": "18:30",
+        "title": "X-MAS Special 2024 — What's new in PHP 8.4",
+        "location": "move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8",
+        "image": "/images/events/meetups/2024-12-12.webp",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "20:45",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2024-11-14",
+        "time": "19:00",
+        "title": "Meetup V/2024 - Special with DresdenJS",
+        "location": "Zalari GmbH, Hermann-Mende-Straße 4, 01099 Dresden",
+        "map": "https://maps.app.goo.gl/KM3pER9YexdQWDAy7",
+        "description": "This time we are teaming up with DresdenJS.io JavaScript User Group!",
+        "agenda": [
+            {
+                "time": "19:00",
+                "title": "Doors Open"
+            },
+            {
+                "time": "19:15",
+                "title": "User group intro"
+            },
+            {
+                "time": "19:20",
+                "title": "Host intro"
+            },
+            {
+                "time": "21:30",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2024-07-11",
+        "time": "18:30",
+        "title": "Meetup IV/2024 - PHP - Die kleinen Dinge",
+        "location": "seventhings GmbH, Hainstraße 2, 01097 Dresden",
+        "map": "https://maps.app.goo.gl/JuXD7eASPH7WuHdt9",
+        "image": "/images/events/meetups/2024-07-11.webp",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "20:45",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2024-05-07",
+        "time": "18:30",
+        "title": "Meetup III/2024 — GreenIT: Was wir nicht messen können, können wir nicht verbessern",
+        "location": "webit! Gesellschaft für neue Medien mbH, Bärensteiner Str. 30, 01277 Dresden",
+        "map": "https://maps.app.goo.gl/1rcty7wKctMxocKB9",
+        "image": "/images/events/meetups/2024-05-07.webp",
+        "description": "Bitte meldet euch vorab über Meetup an. (Please register in advance via Meetup.)",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "20:45",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2024-04-03",
+        "time": "18:30",
+        "title": "Meetup II/2024 — Wie man (un)wartbaren Code schreibt",
+        "location": "Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden",
+        "map": "https://maps.app.goo.gl/i6j4p9eJKNQ76uC67",
+        "image": "/images/events/meetups/2024-04-03.webp",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "20:00",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2024-02-06",
+        "time": "18:30",
+        "title": "Meetup I/2024 — E-Rezept Insights",
+        "location": "ostec GmbH, Yenidze, Weißeritzstr. 3, 01067 Dresden",
+        "map": "https://maps.app.goo.gl/ooMP9rgqrWDL8VHs9",
+        "image": "/images/events/meetups/2024-02-06.webp",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "18:45",
+                "title": "User group intro"
+            },
+            {
+                "time": "18:50",
+                "title": "Host intro"
+            },
+            {
+                "time": "20:00",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2023-12-14",
+        "title": "X-MAS Meetup 2023",
+        "location": "move elevator GmbH, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://maps.app.goo.gl/bwDcoHWTnS3kFgJc8",
+        "image": "/images/events/meetups/2023-12-14.webp"
+    },
+    {
+        "date": "2023-11-13",
+        "title": "Meetup V/2023",
+        "location": "portrino GmbH, Könneritzstr. 3, 01067 Dresden",
+        "map": "https://maps.app.goo.gl/idbwsznqxzBk2cUWA",
+        "image": "/images/events/meetups/2023-11-13.webp"
+    },
+    {
+        "date": "2023-06-08",
+        "title": "Meetup IV/2023",
+        "location": "Zalari GmbH, Hermann-Mende-Str. 4, 01099 Dresden",
+        "map": "https://goo.gl/maps/3cYc5KeMUPef5t8R9?coh=178573&entry=tt",
+        "image": "/images/events/meetups/2023-06-08.png",
+        "description": "This time we are teaming up with [DresdenJS.io JavaScript User Group](https://www.meetup.com/dresdenjs-io-javascript-user-group)"
+    },
+    {
+        "date": "2023-05-04",
+        "title": "Meetup III/2023",
+        "location": "TAG24 Dresden Campus, Ostra-Allee 18, 01067 Dresden",
+        "map": "https://goo.gl/maps/rkmM5c2JvLMFo5Py9",
+        "image": "/images/events/meetups/2023-05-04.png",
+        "links": [
+            {
+                "title": "Video on YouTube",
+                "url": "https://youtube.com/live/omoa4oA8kME"
+            }
+        ]
+    },
+    {
+        "date": "2023-03-22",
+        "title": "Meetup II/2023",
+        "location": "queo GmbH, Tharandter Str. 13, 01159 Dresden",
+        "map": "https://goo.gl/maps/VpdqMqwm91Pubi2y9",
+        "image": "/images/events/meetups/2023-03-22.webp"
+    },
+    {
+        "date": "2023-02-09",
+        "title": "Meetup I/2023",
+        "location": "ostec GmbH — Yenidze, Weißeritzstr. 3, 01067 Dresden",
+        "map": "https://goo.gl/maps/Bb5bw9izYiagreHd7",
+        "image": "/images/events/meetups/2023-02-09.png",
+        "links": [
+            {
+                "title": "Video on YouTube",
+                "url": "https://youtube.com/live/WC97uy7sakk?feature=share"
+            }
+        ]
+    },
+    {
+        "date": "2022-12-07",
+        "title": "Meetup V/2022",
+        "location": "move:elevator — Königsbrücker Str. 76 · Dresden",
+        "map": "https://goo.gl/maps/g4dqsT3PAwDiBgrv7",
+        "image": "/images/events/meetups/2022-12-07.png",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://www.youtube.com/watch?v=qKfDy6z4L_0"
+            }
+        ]
+    },
+    {
+        "date": "2022-11-09",
+        "title": "Meetup IV/2022",
+        "location": "seventhings — Hainstr. 2, 01097 Dresden",
+        "map": "https://goo.gl/maps/RsiGJeHwYKw6Pyfq5",
+        "image": "/images/events/meetups/2022-11-09.png",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://youtu.be/nNo5rDs66d8"
+            }
+        ]
+    },
+    {
+        "date": "2022-08-25",
+        "title": "Summer BBQ 2022",
+        "location": "Dachterrasse vom Dresdner Volkshaus am Schützenplatz 14, 01067 Dresden",
+        "map": "https://goo.gl/maps/s4CmwXDZYEm3kuTo8",
+        "image": "/images/events/summerbbq2022/SummerBBQ2022.png",
+        "description": "The PHP USERGROUP DRESDEN e.V. becomes 6 years old and wants to celebrate with its members, friends and partners.",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://youtu.be/lmwqTD_jpcc"
+            }
+        ]
+    },
+    {
+        "date": "2022-05-11",
+        "title": "Meetup III/2022",
+        "location": "ZOOM Remote Meeting",
+        "url": "https://gettogether.community/events/19138/meetup-iii2022-json-schema/",
+        "image": "/images/events/meetups/2022-05-11.png",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://youtu.be/F72-TJA7idU"
+            }
+        ]
+    },
+    {
+        "date": "2022-03-21",
+        "title": "Meetup II/2022",
+        "location": "Remote Meeting",
+        "map": "https://us06web.zoom.us/j/85123885583?pwd=dEw5d2dqZ25pcEQwOTlESmZ4Sm1xQT09",
+        "url": "https://gettogether.community/events/17829/meetup-ii2022-how-good-are-my-tests/",
+        "image": "/images/events/meetups/2022-03-21.png"
+    },
+    {
+        "date": "2022-02-10",
+        "title": "Meetup I/2022",
+        "url": "https://gettogether.community/events/16677/meetup-i2022/",
+        "image": "/images/events/meetups/2022-02-10.png"
+    },
+    {
+        "date": "2020-02-25",
+        "title": "Meetup I/2020",
+        "location": "Sandstorm Media GmbH, Tatzberg 47, 01307 Dresden",
+        "map": "https://gettogether.community/places/1131/",
+        "url": "https://gettogether.community/events/4319/meetup-i-2020/"
+    },
+    {
+        "date": "2019-11-13",
+        "title": "Meetup VII/2019",
+        "location": "LOVOO GmbH, Prager Str. 10, 01099 Dresden",
+        "map": "https://gettogether.community/places/539/",
+        "url": "https://gettogether.community/events/2034/meetup-vii-2019/"
+    },
+    {
+        "date": "2019-10-04",
+        "title": "Xdebug workshop with Derick Rethans",
+        "time": "10:00",
+        "location": "Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden",
+        "map": "https://goo.gl/maps/Yomvjr56P4A7ie6S6",
+        "image": "/images/events/workshops/xdebug-workshop.png",
+        "links": [
+            {
+                "title": "Mehr lesen",
+                "url": "/events/2019/xdebug-workshop-with-derick-rethans.html"
+            }
+        ]
+    },
+    {
+        "date": "2019-08-13",
+        "title": "Meetup VI/2019 - IaC mit Pulumi",
+        "location": "K11 Ersatzteilshop GmbH, Alaunstr. 9, Dresden",
+        "map": "https://gettogether.community/places/533/",
+        "url": "https://gettogether.community/events/1982/meetup-vi-2019-iac-mit-pulumi/",
+        "image": "/images/events/meetups/2019-08-13-meetup.png",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "19:00",
+                "title": "User group + Host Intro"
+            },
+            {
+                "time": "20:30",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2019-05-23",
+        "title": "Meetup IV/2019 - GraphQL + Doctrine + Mutation testing",
+        "location": "Offerista GmbH, Schützenplatz 14, Dresden",
+        "map": "https://gettogether.community/places/314/",
+        "url": "https://gettogether.community/events/1048/meetup-iv-2019-graphql-doctrine-mutation-testing/",
+        "image": "/images/events/meetups/2019-05-23-offerista.png",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "19:00",
+                "title": "User group + Host Intro"
+            },
+            {
+                "time": "20:15",
+                "title": "Short break"
+            },
+            {
+                "time": "21:30",
+                "title": "Community + Socializing"
+            }
+        ]
+    },
+    {
+        "date": "2019-04-10",
+        "title": "Meetup III/2019 - OSS Contributing & Event Sourced CMS",
+        "location": "portrino GmbH, Könneritzstraße 3, Dresden",
+        "map": "https://gettogether.community/places/265/",
+        "url": "https://gettogether.community/events/910/meetup-iii-2019/",
+        "image": "/images/events/meetups/2019-04-10-portrino.png"
+    },
+    {
+        "date": "2019-02-26",
+        "title": "Meetup II/2019 - OpenID Connect",
+        "location": "Tyclipso, Grundstr. 1, 01326 Dresden",
+        "map": "https://goo.gl/maps/koQ3tZ4mzcv",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/",
+        "image": "/images/events/meetups/2019-02-26-tyclipso.png"
+    },
+    {
+        "date": "2019-01-14",
+        "title": "Meetup I/2019 - CTF & Security",
+        "location": "Was hab ich?, Theaterstr. 4, 01067 Dresden",
+        "map": "https://goo.gl/maps/EMGpwknVSnL2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257738330/"
+    },
+    {
+        "date": "2018-12-17",
+        "title": "Meetup VIII/2018 - GitLab Pipeline & PHP 7.3",
+        "location": "move:elevator, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://goo.gl/maps/eoY98hKnCBM2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306877/",
+        "agenda": [
+            {
+                "time": "18:30",
+                "title": "Doors Open"
+            },
+            {
+                "time": "19:00",
+                "title": "Usergroup and Host Intro"
+            },
+            {
+                "time": "20:15",
+                "title": "Short break"
+            }
+        ]
+    },
+    {
+        "date": "2018-11-12",
+        "title": "Meetup VII/2018 - Static Code Analysis & Codeception",
+        "location": "CHECK24, Prager Straße 2b, 01069 Dresden",
+        "map": "https://goo.gl/maps/ZJqof3vbkC92",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306865/"
+    },
+    {
+        "date": "2018-10-18",
+        "title": "HACKTOBERFEST SPECIAL",
+        "location": "FORTUNEGLOBE, Schützenplatz 14, 01067 Dresden",
+        "map": "https://goo.gl/maps/CNiPFmUs6j52",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/255230136/",
+        "image": "/images/events/meetups/hacktoberfest-2018.png",
+        "description": "This event is about creating pull requests in open-source projects on GitHub. No matter what project or language, everyone is welcome, everyone can contribute.\n\nAll information about HACKTOBERFEST can be found here: [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)"
+    },
+    {
+        "date": "2018-08-22",
+        "title": "Meetup VI/2018 - GIT & Generators",
+        "location": "CHECK24, Prager Straße 2b, 01069 Dresden",
+        "map": "https://goo.gl/maps/ZJqof3vbkC92",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306853/"
+    },
+    {
+        "date": "2018-05-28",
+        "title": "Meetup IV/2018 - Legacy, FP, & VR",
+        "location": "thinkstep AG Tiergartenstraße 32, Dresden",
+        "map": "https://goo.gl/maps/jE2s8DdanD92",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306832/"
+    },
+    {
+        "date": "2018-04-19",
+        "title": "Meetup III/2018 - Testing & CI",
+        "location": "LOVOO GmbH, Prager Str. 10, 01069 Dresden",
+        "map": "https://goo.gl/maps/eQa6SSncdzm",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306797/",
+        "image": "/images/events/meetups/2018-04-19-speakers.jpg"
+    },
+    {
+        "date": "2018-03-07",
+        "title": "Meetup II/2018 - DevOps & Automation",
+        "location": "ITEXIA GmbH, Könneritzstr. 5, 01067 Dresden (1. OG - \"Konferenzraum\")",
+        "map": "https://goo.gl/maps/oUv9Umv58182",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246306710/",
+        "image": "/images/events/meetups/2018-03-07-hall.png"
+    },
+    {
+        "date": "2018-01-23",
+        "title": "Meetup I/2018 - CQRS & Event Sourcing",
+        "location": "cloudsters Dresden, Bautzner Str. 22, 01099 Dresden",
+        "map": "https://goo.gl/4zvHBL",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/246305902/",
+        "image": "/images/events/meetups/2018-01-23-full-house.jpg"
+    },
+    {
+        "date": "2017-12-19",
+        "title": "Meetup IX/2017",
+        "location": "move:elevator, Königsbrücker Str. 76, 01099 Dresden",
+        "map": "https://goo.gl/maps/AnAgn5ETcP32",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/244942028/",
+        "image": "/images/events/meetups/2017-12-19-diversity.jpg"
+    },
+    {
+        "date": "2017-11-23",
+        "title": "Meetup VIII/2017",
+        "location": "Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden, 3. OG",
+        "map": "https://goo.gl/maps/NWiBnD7oAto",
+        "url": "https://www.meetup.com/de-DE/PHP-USERGROUP-DRESDEN/events/244169435",
+        "image": "/images/events/meetups/2017-11-23-api-platform.jpg"
+    },
+    {
+        "date": "2017-10-11",
+        "title": "Meetup VII/2017",
+        "location": "LOGSOL GmbH, Schandauer Straße 34, Dresden, 2. OG · Dresden",
+        "map": "https://goo.gl/maps/L1ETNjZMFKH2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/",
+        "image": "/images/events/meetups/2017-10-11-logsol.jpg"
+    },
+    {
+        "date": "2017-08-24",
+        "title": "Meetup VI/2017",
+        "location": "Fortuneglobe GmbH, Schützenplatz 14, 01067 Dresden",
+        "map": "https://goo.gl/maps/E8Mftqa4iRG2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/241197890/",
+        "image": "/images/events/meetups/2017-08-24-fortuneglobe.jpg"
+    },
+    {
+        "date": "2017-07-17",
+        "title": "Meetup V/2017",
+        "location": "Impact Hub Dresden, Bayrische Str. 8, 01069 Dresden",
+        "map": "https://goo.gl/maps/dn5tZbsjK2B2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/240688349/",
+        "links": [
+            {
+                "title": "Impact Hub Dresden",
+                "url": "http://dresden.impacthub.net"
+            }
+        ]
+    },
+    {
+        "date": "2017-06-08",
+        "title": "Meetup IV/2017",
+        "location": "Check24 - Prager Str. 3, Dresden",
+        "map": "https://goo.gl/maps/ehZupEo24cR2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/239590913/",
+        "image": "/images/events/meetups/2017-06-08-check24.jpg"
+    },
+    {
+        "date": "2017-04-26",
+        "title": "Meetup III/2017 - \"PHP Code Quality Tools\"",
+        "location": "webit! Gesellschaft für neue Medien mbH, Schandauer Str. 34, 01309 Dresden, Deutschland",
+        "map": "https://www.google.com/maps?hl=de&q=webit!+Gesellschaft+f%C3%BCr+neue+Medien+mbH,+Schandauer+Str.+34,+01309+Dresden,+Deutschland&source=calendar",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452/",
+        "image": "/images/events/meetups/2017-04-26-webit.jpg",
+        "description": "Alle Talks dieses Meetups in Kürze auf unserem YouTube-Channel!"
+    },
+    {
+        "date": "2017-03-14",
+        "title": "Meetup II/2017 - \"Dependency Injection\"",
+        "location": "LOVOO in Dresden",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/237348173/",
+        "image": "/images/events/meetups/2017-03-14-dependency-injection-01.jpg",
+        "links": [
+            {
+                "title": "Videos",
+                "url": "https://www.youtube.com/playlist?list=PLW4GAs3yDy3KqcxyIdAy6pivhX2pr76My"
+            }
+        ]
+    },
+    {
+        "date": "2017-01-30",
+        "title": "Meetup I/2017",
+        "location": "Unister in Dresden",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/236498483/",
+        "image": "/images/events/meetups/2017-01-30-exceptions-classic-and-fancy.jpg"
+    },
+    {
+        "date": "2016-12-09",
+        "title": "X-Mas Issue Bash",
+        "time": "17:00",
+        "location": "Cloudsters Dresden, Bautzner Str. 22, 01099 Dresden",
+        "map": "https://goo.gl/maps/r4qppH2zbqB2",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/235414439/",
+        "image": "/images/events/xmib2016/we-are-the-elves.jpg",
+        "agenda": [
+            {
+                "title": "Hands-on-Code Session mit vorhandenen Issues der Teilnehmer"
+            }
+        ],
+        "links": [
+            {
+                "title": "Mehr lesen",
+                "url": "/events/2016/x-mas-issue-bash.html"
+            }
+        ]
+    },
+    {
+        "date": "2016-09-24",
+        "title": "PHP Developer Day",
+        "location": "Scheune, Dresden Neustadt",
+        "image": "/images/events/phpdd16/Scheune_Start-300x200.jpg",
+        "links": [
+            {
+                "title": "Mehr lesen",
+                "url": "/events/2016/php-developer-day.html"
+            },
+            {
+                "title": "Videos",
+                "url": "https://www.youtube.com/playlist?list=PLW4GAs3yDy3J59HfbOOsb56_p0hr_bK9O"
+            }
+        ]
+    },
+    {
+        "date": "2016-08-24",
+        "title": "Meetup",
+        "location": "Cloudsters DD, Dresden Neustadt",
+        "url": "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/232609245/?eventId=232609245"
+    },
+    {
+        "date": "2016-06-29",
+        "title": "Meetup",
+        "location": "Collab & Couch, Dresden Mitte",
+        "url": "http://www.meetup.com/PHP-USERGROUP-DRESDEN/events/231710776/?eventId=231710776",
+        "agenda": [
+            {
+                "title": "Lightning Talk: Alice und Faker"
+            }
+        ]
+    },
+    {
+        "date": "2016-05-20",
+        "title": "Meetup",
+        "location": "SLUB Dresden",
+        "url": "http://www.meetup.com/PHP-USERGROUP-DRESDEN/events/230137843/"
+    },
+    {
+        "date": "2016-02-24",
+        "title": "Meetup",
+        "location": "Queo GmbH, Dresden Löbtau",
+        "url": "http://www.meetup.com/PHP-USERGROUP-DRESDEN/events/228130750/"
+    },
+    {
+        "date": "2015-09-23",
+        "title": "Kick-off und erstes Meetup",
+        "location": "move:elevator GmbH, Dresden Neustadt"
+    },
+    {
+        "date": "2015-07-04",
+        "title": "PHP Developer Day",
+        "location": "Orpheum Dresden",
+        "image": "/images/events/phpdd15/Intro_Alex.jpg",
+        "description": "Die Geburtsstunde der PHP USERGROUP DRESDEN",
+        "links": [
+            {
+                "title": "Mehr lesen",
+                "url": "/events/2015/php-developer-day.html"
+            }
+        ]
+    }
+]

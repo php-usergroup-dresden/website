@@ -1,0 +1,52 @@
+{
+    "name": "PHP USERGROUP DRESDEN e.V.",
+    "baseUrl": "https://phpug-dresden.org",
+    "tagline": "Gute Software durch stete Verbesserung",
+    "description": "Die PHP USERGROUP DRESDEN e.V. ist eine Interessensgemeinschaft von PHP-Enthusiasten. Wir veranstalten regelmäßig Meetups in Dresden.",
+    "register": "VR 9725",
+    "email": "info@phpug-dresden.org",
+    "cfpUrl": "https://github.com/php-usergroup-dresden/talks",
+    "meetupUrl": "https://www.meetup.com/php-usergroup-dresden/",
+    "newsletterAction": "https://phpug-dresden.us11.list-manage.com/subscribe/post?u=8ff315933ee2697519dd5ab74&id=5b5e847216",
+    "nav": [
+        { "title": "Events", "path": "/events.html" },
+        { "title": "Talks", "path": "/talks.html" },
+        { "title": "Call for Papers", "path": "/call-for-papers.html" },
+        { "title": "Hosting", "path": "/hosting.html" },
+        { "title": "Sponsoring", "path": "/sponsoring.html" }
+    ],
+    "footerNav": [
+        { "title": "Code of Conduct", "path": "/code-of-conduct.html" },
+        { "title": "Downloads", "path": "/downloads.html" },
+        { "title": "Presse", "path": "/presse.html" },
+        { "title": "Newsletter-Archiv", "path": "/newsletter-archive.html" },
+        { "title": "Satzung", "path": "/statutes.html" },
+        { "title": "Impressum", "path": "/imprint.html" },
+        { "title": "Datenschutz", "path": "/privacy.html" }
+    ],
+    "social": [
+        { "title": "Meetup", "url": "https://www.meetup.com/php-usergroup-dresden/" },
+        { "title": "Mastodon", "url": "https://phpc.social/@phpugdd", "rel": "me" },
+        { "title": "LinkedIn", "url": "https://www.linkedin.com/company/php-usergroup-dresden/" },
+        { "title": "YouTube", "url": "https://www.youtube.com/channel/UC9RvlzszDfeZ_ILq0JSNHZQ" },
+        { "title": "GitHub", "url": "https://github.com/php-usergroup-dresden" },
+        { "title": "Slack", "url": "https://phpugdd.slack.com/" }
+    ],
+    "pages": [
+        { "path": "/become-member.html", "source": "become-member.md", "description": "Mitglied des PHP USERGROUP DRESDEN e.V. werden." },
+        { "path": "/call-for-papers.html", "source": "call-for-papers.md", "description": "Halte einen Vortrag bei der PHP USERGROUP DRESDEN." },
+        { "path": "/hosting.html", "source": "hosting.md", "description": "Ein Meetup der PHP USERGROUP DRESDEN hosten." },
+        { "path": "/code-of-conduct.html", "source": "code-of-conduct.md" },
+        { "path": "/downloads.html", "source": "downloads.md", "description": "Logos, Bilder und Dokumente des Vereins." },
+        { "path": "/presse.html", "source": "in-the-press.md" },
+        { "path": "/newsletter-archive.html", "source": "newsletter-archive.md" },
+        { "path": "/statutes.html", "source": "statutes.md" },
+        { "path": "/imprint.html", "source": "imprint.md" },
+        { "path": "/privacy.html", "source": "privacy.md" },
+        { "path": "/events/2015/php-developer-day.html", "source": "events/2015/php-developer-day.md" },
+        { "path": "/events/2016/php-developer-day.html", "source": "events/2016/php-developer-day.md" },
+        { "path": "/events/2016/jahres-rueckblick.html", "source": "events/2016/jahres-rueckblick.md" },
+        { "path": "/events/2016/x-mas-issue-bash.html", "source": "events/2016/x-mas-issue-bash.md" },
+        { "path": "/events/2019/xdebug-workshop-with-derick-rethans.html", "source": "events/2019/xdebug-workshop-with-derick-rethans.md" }
+    ]
+}

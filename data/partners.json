@@ -1,0 +1,7 @@
+[
+    { "name": "Softwerkskammer Sachsen", "url": "https://www.softwerkskammer.org/groups/sachsen", "logo": "/images/softwerkskammer.png", "kind": "community" },
+    { "name": "Dresden Community – Code of Conduct", "url": "https://dresden-code-of-conduct.org", "logo": "/images/dresden-community-logo.png", "kind": "community" },
+    { "name": "PHP Magazin", "url": "https://entwickler.de/online/php", "logo": "/images/coops/php-magazin.jpg", "kind": "cooperation" },
+    { "name": "mitp Verlag", "url": "http://www.mitp.de", "logo": "/images/coops/mitp.jpg", "kind": "cooperation" },
+    { "name": "O'Reilly Verlag", "url": "http://www.oreilly.de", "logo": "/images/coops/oreilly.jpg", "kind": "cooperation" }
+]

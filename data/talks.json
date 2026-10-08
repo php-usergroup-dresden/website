@@ -1,0 +1,1216 @@
+[
+    {
+        "event": "2026-12-16",
+        "time": "19:45",
+        "title": "What's new in PHP",
+        "format": "Main Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "09:30",
+        "title": "Speed is not velocity: AI, complexity, and our role as developer",
+        "speaker": "Sebastian Kurfürst",
+        "format": "Keynote"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "10:15",
+        "title": "Reliable, Reproducible, Immutable",
+        "speaker": "Marco Pivetta (Ocramius)",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "11:15",
+        "title": "The Four Pillars of Observability",
+        "speaker": "Florian Engelhardt",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "13:15",
+        "title": "Develop Faster, Not Harder: Accelerating development with Sylius Stack",
+        "speaker": "Stephan Hochdörfer",
+        "format": "Livecoding"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "14:15",
+        "title": "Serverless PHP with bref.sh",
+        "speaker": "Carsten Windler",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "15:30",
+        "title": "From Events to Insights: Testing and Documenting Event-Based Software",
+        "speaker": "Sebastian Bergmann",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "16:30",
+        "title": "Securing PHP in the LLM age",
+        "speaker": "Volker Dusch",
+        "format": "Talk"
+    },
+    {
+        "event": "2026-09-25",
+        "time": "17:30",
+        "title": "Free beer and the community",
+        "speaker": "Andreas Heigl",
+        "format": "Talk"
+    },
+    {
+        "event": "2025-12-17",
+        "time": "19:05",
+        "title": "Docs As Code - Documentation that's fun",
+        "speaker": "Michael Pokladek",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Dokumentation muss nicht trocken und langweilig sein! In diesem Lightning Talk zeige ich, wie moderne „Docs as Code“-Ansätze Entwickler:innen das Leben leichter machen. Wir werfen einen Blick auf AsciiDoc, erzeugen lebendige Diagramme mit PlantUML und strukturieren Architekturwissen mit arc42."
+    },
+    {
+        "event": "2025-12-17",
+        "time": "19:45",
+        "title": "What's new in PHP 8.5",
+        "speaker": "Holger Woltersdorf",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts."
+    },
+    {
+        "event": "2025-06-12",
+        "time": "19:05",
+        "title": "Vertical Slice Architecture: From Layers to Features",
+        "speaker": "Sebastian Gierth",
+        "format": "Lightning Talk",
+        "language": "Deutsch"
+    },
+    {
+        "event": "2025-06-12",
+        "time": "19:40",
+        "title": "Visitor pattern - the most misunderstood pattern of'em all",
+        "speaker": "Thomas Meschke",
+        "format": "Lightning Talk",
+        "language": "Englisch"
+    },
+    {
+        "event": "2025-06-12",
+        "time": "20:05",
+        "title": "Agentic Applications with Symfony",
+        "speaker": "Christopher Hertel",
+        "format": "Main Talk",
+        "language": "Englisch",
+        "abstract": "A chat interface is by far not all what you could build with Symfony and Large Language Models. And agentic applications are the next level of integrating AI - not only in your code, but also in your business.\n\nLet's have a look together on some basic concepts and hands-on examples of letting AI take over more responsibilities in a well-defined and automated manner."
+    },
+    {
+        "event": "2024-12-12",
+        "time": "19:00",
+        "title": "Postman - API - Environment über Scripting",
+        "speaker": "Carsten Kästler",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Ich spreche über das API-Tool Postman. Ich möchte zeigen, wie wir die Environment-Variablen für komplexe Projekte über Scripting in Postman dynamische ermitteln. Unsere Lösung soll zum Austausch zum Thema Scripting in Postman und dynamische Parameter anregen."
+    },
+    {
+        "event": "2024-12-12",
+        "time": "19:45",
+        "title": "What's new in PHP 8.4",
+        "speaker": "Holger Woltersdorf",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts."
+    },
+    {
+        "event": "2024-11-14",
+        "time": "19:30",
+        "title": "PHP im Browser - aber richtig!",
+        "speaker": "Christian Ulbrich",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "PHP im Browser ist doch ein alter Hut - naja ganz so alt vielleicht auch noch nicht aber mit modernen Technologien, wie WebAssembly kann man tatsächlich PHP direkt im Browser laufen lassen. Was man damit alles anstellen kann, und ob das wirklich sinnvoll ist (spoiler: YES!) verrät uns Christian!"
+    },
+    {
+        "event": "2024-11-14",
+        "time": "20:30",
+        "title": "faster - a showcase buffet talk about improving tedious development tasks",
+        "speaker": "Richard Heine",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "its a talk about speeding up your local development process. this is not a talk about being faster with vim, but rather a personal setup in the terminal in order to get rid of tedious tasks and showcase a small selection of tools and how to combine them to make the best of it. this includes simple scripts to switch between php versions without interaction, implementing githooks globally and showcasing zsh features which blows alias out of the water :)\ntools/topics covered so far:\n\n* fzf\n* entr\n* zsh\n* githooks\n* leveraging simple bash scripts"
+    },
+    {
+        "event": "2024-07-11",
+        "time": "19:00",
+        "title": "EventStoreDB - Eine kurze Einführung",
+        "speaker": "Jan Männig",
+        "speakerUrl": "https://twitter.com/janmaennig",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Unter den vielen Bäumen im Wald der Datenbanksysteme bietet sich mit EventStoreDB eine kleine Besonderheit. Speziell für die event getriebene Arbeit entwickelt, wird hier jedes Event unveränderbar gespeichert. Bausteine wie Projektionen, Streams usw. werden \"out of the box\" mitgeliefert."
+    },
+    {
+        "event": "2024-07-11",
+        "time": "19:45",
+        "title": "PHP - Die kleinen Dinge",
+        "speaker": "Steve Schütze",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Unsere Welt ist kompliziert und vielschichtig. Neue Trends verändern ständig unser Arbeitsleben stetig und doch ist es immer noch PHP, mit dem wir einen Teil unserer Herausforderungen lösen. Ein Feld aus Legacy-Applikationen, an die sich niemand mehr herantraut, und dem neuen \"heißen Scheiß\", der über soziale Medien so kommuniziert wird, dass man das Gefühl hat, der einzige zu sein, der noch nicht produktiv damit arbeitet. Aber am Ende ist Quellcode, Quellcode. Er will gewartet, verstanden, erweitert, gelöscht oder verändert werden. Und für diese Aufgaben kann man sich das Leben mit kleinen Dingen erleichtern.\nIn diesem Talk will ich einige dieser kleinen Dinge vorstellen, die mein Leben als PHP-Entwickler schöner gemacht haben."
+    },
+    {
+        "event": "2024-05-07",
+        "time": "19:00",
+        "title": "Build super fast & advanced web searches with RediSearch",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Lightning Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "This lightning talk will introduce you to \"RedisSearch\" a RedisServer with a search engine plugin. I'll show you how to feed the search with data, how to tweak indexing for better results and how it integrates in a real-world application.",
+        "links": [
+            {
+                "title": "phpc.social",
+                "url": "https://phpc.social/@hollodotme"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/holger-woltersdorf/"
+            }
+        ]
+    },
+    {
+        "event": "2024-05-07",
+        "time": "19:45",
+        "title": "GreenIT: Was wir nicht messen können, können wir nicht verbessern",
+        "speaker": "Sophia Resch",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "In einer immer digitaleren Welt, die sich gleichzeitig mit den Herausforderungen des menschengemachten Klimawandels auseinandersetzen muss, sollten wir uns als Architekt:innen und Entwickler:innen unserer Verantwortung bewusst werden. IT-Systeme werden komplexer und damit auch energieintensiver. Im Idealfall arbeiten wir schon mit den Konzepten und Patterns von GreenIT, um den ökologischen Fußabdruck dieser Systeme möglichst klein zu halten. Aber wie wissen wir überhaupt, ob unsere Bemühungen zum Erfolg führen?\n\nIn diesem Vortrag stelle ich das Impact Framework zum Ermitteln des ökologischen Fußabdruckes von IT-Systemen vor. Ich teile unsere Erfahrungen damit und zeige Unterschiede zur direkten Anwendung des Software Carbon Index (SCI). Dabei gehe ich auf Vorteile und Herausforderungen der Berechnungsmöglichkeiten ein und gebe euch Ideen mit, wie ihr auf Grundlage der so gewonnen Erkenntnisse weiterarbeiten könnt.\n\nNach dem Vortrag kennt ihr Möglichkeiten, wie ihr das Impact Framework einsetzen könnt, um gemeinsam die Welt ein kleines bisschen grüner zu machen."
+    },
+    {
+        "event": "2024-04-03",
+        "time": "19:00",
+        "title": "Livewire 3 - Modernes Frontend ohne deine PHP Komfortzone zu verlassen",
+        "speaker": "Michael Pokladek",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Du möchtest/musst dich immer wieder mit Frontendentwicklung beschäftigen, hast aber keine richtige Lust dich dem schnellen Wandel von Frontendframeworks im JS-Bereich zu unterwerfen. Und außerdem magst du doch viel lieber Backend und PHP. Dann möchte ich dir Livewire 3 vorstellen. Entwickle effizient moderne Webapps mit wenig Javascript und viel PHP."
+    },
+    {
+        "event": "2024-04-03",
+        "time": "19:30",
+        "title": "Wie man (un)wartbaren Code schreibt",
+        "speaker": "Sebastian Kurfürst",
+        "speakerUrl": "https://twitter.com/skurfuerst",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Wie schreibe ich Code, der möglichst \"gut\" ist? Was bedeutet das überhaupt? Seit ca. 20 Jahren arbeite ich an großen Open Souce Frameworks (anfangs TYPO3, jetzt Neos und Flow) mit. In der Zeit habe ich viel Code produziert, den ich heute nie mehr so schreiben würde - und aus dem wir heute gemeinsam viel lernen können. Ich werde Prinzipien wie Erweiterbarkeit und DRY kritisch diskutieren, zeigen, welche Fehler ich beim Entwickeln von Frameworks so gemacht habe und zeige, mit welchen Prinzipien wir schrittweise unseren Code verbessern können. Das Ganze wird eine gemeinsame Reise in große Codebases. Ich freue mich drauf!",
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://sandstorm.de/de/wir/team/sebastian-kurfuerst.html"
+            }
+        ]
+    },
+    {
+        "event": "2024-02-06",
+        "time": "19:00",
+        "title": "E-Rezept Insights",
+        "speaker": "André Gruhn",
+        "speakerUrl": "https://www.linkedin.com/in/andr%C3%A9-gruhn-95018279/",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Ab Anfang 2024 wird das E-Rezept verpflichtend. scanacs bietet für Apotheken die Direktabrechnung von E-Rezepten gegenüber Kostenträgern an. Ich möchte in diesem Talk auf die Komponenten, Formate und den Prozess vom Arzt bis zur Abrechnung gegenüber der Krankenkasse eingehen. Zuletzt werde ich beschreiben wie wir verschiedene E-Rezept Use Cases mittels Gherkin und Codeception in PHP bei scanacs umgesetzt haben.",
+        "links": [
+            {
+                "title": "scanacs",
+                "url": "https://scanacs.de/"
+            },
+            {
+                "title": "gematik E-Rezept",
+                "url": "https://www.gematik.de/anwendungen/e-rezept"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/aWuttig"
+            }
+        ]
+    },
+    {
+        "event": "2023-12-14",
+        "title": "PDFtk — Das PDF toolkit in PHP nutzen",
+        "speaker": "Jan Männig",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Wie befüllen wir dynamische Formulare, Gutscheine usw. ohne dass wir uns mit Positionen, Schriftgrößen usw. rumärgern zu müssen."
+    },
+    {
+        "event": "2023-12-14",
+        "title": "What's new in PHP 8.3",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "I'll show you the new features, deprecations and BC breaks of the new PHP release with some comparing code samples and fun facts.\n\nHolger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on software architect & developer with a focus on building sustainable software while enabling and growing a professional team around it. He has about 25 years of developer and team-lead experience in mobile communication, fashion and food eCommerce, as well as in other industries.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/hollodotme/whats-new-in-php-8-dot-3"
+            },
+            {
+                "title": "phpc.social",
+                "url": "https://phpc.social/@hollodotme"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/holger-woltersdorf/"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/hollodotme"
+            },
+            {
+                "title": "Website",
+                "url": "https://hollo.me"
+            }
+        ]
+    },
+    {
+        "event": "2023-11-13",
+        "title": "MQTT Best Practices",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Lightning Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "This talk will give a brief introduction to MQTT, what it is used for and will show you how to apply best practices with an example.\n\nHolger is Co-Founder and CEO at MPOWR IT GmbH. He is an IT consultant, hands-on software architect & developer with a focus on building sustainable software while enabling and growing a professional team around it. He has about 25 years of developer and team-lead experience in mobile communication, fashion and food eCommerce, as well as in other industries.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/hollodotme/mqtt-best-practices"
+            },
+            {
+                "title": "phpc.social",
+                "url": "https://phpc.social/@hollodotme"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/holger-woltersdorf/"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/hollodotme"
+            },
+            {
+                "title": "Website",
+                "url": "https://hollo.me"
+            }
+        ]
+    },
+    {
+        "event": "2023-11-13",
+        "title": "Architekturexplizite Applikationen mit xMolecules",
+        "speaker": "Oliver Drotbohm",
+        "speakerUrl": "https://twitter.com/odrotbohm",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "Applikationen basieren üblicherweise auf einem Framework oder einer Entwicklungsplattform. Einige davon erlauben es, architektonische Konzepte auszudrücken. Diese jedoch direkt in Code abzubilden, bleibt meist eine Herausforderung, ebenso wie die Trennung von fachlichem Code und Applikationsframework.\n\nxMolecules ist eine Framework-unabhängige Bibliothek, die es erlaubt, verbreitete, architektonische Konzepte direkt in Code verschiedener Programmiersprachen darzustellen, zu überprüfen, ob Regeln bezüglich der Implementierung dieser eingehalten werden und die nötige technische Integration, sowie entsprechende Dokumentation abzuleiten.\n\nDer Vortrag gibt einen Überblick über die Java-Variante jMolecules, den grundsätzlichen Ansatz und zeigt, wie Entwickler:innen die bereitgestellten Abstraktionen mit Frameworks wie Spring, Jackson und JPA nutzen können. Darüber hinaus diskutieren wir, wie solche Ansätze in einem PHP Port der Bibliothek nutzbar gemacht werden können.\n\nOliver Drotbohm ist Teil des Spring Engineering Teams bei VMware. Seine Arbeitsschwerpunkte liegen im Bereich Softwarearchitektur, Domain-Driven Design, REST, Spring und Persistenztechnologien. Sein neues Buch „Modulithic Applications with Spring“ erscheint 2024.",
+        "links": [
+            {
+                "title": "chaos.social",
+                "url": "https://chaos.social/@odrotbohm"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/odrotbohm"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/odrotbohm/"
+            }
+        ]
+    },
+    {
+        "event": "2023-06-08",
+        "title": "Building Sustainable Web Applications: Implementing Hexagonal and Layered Architectures in PHP and React",
+        "speaker": "Ralf Junghanns",
+        "speakerUrl": "https://junghanns.it",
+        "format": "Lightning Talk",
+        "abstract": "In the ever-evolving landscape of web application development, building sustainable and robust applications is crucial. This talk explores the implementation of hexagonal and layered architectures in PHP and React, presenting a practical approach to building enterprise web applications which are easy to adapt and maintain.\n\nHexagonal architecture, also known as ports and adapters architecture, focuses on decoupling the application’s core logic from external dependencies. By employing hexagonal architecture principles, developers can achieve improved testability, maintainability, and scalability. This talk delves into the core concepts of hexagonal architecture and showcases how it can be seamlessly integrated into PHP projects.\n\nLayered architecture, on the other hand, promotes the separation of concerns by organizing application components into logical layers. This architectural style enables better code organization and modularity, leading to improved code quality and maintainability. By demonstrating real-world examples, this session illustrates how layered architecture can be implemented effectively in React applications, enabling developers to build scalable and maintainable web applications.\n\nThroughout the talk, attendees will gain practical insights and best practices for implementing hexagonal and layered architectures in PHP and React. Ralf will share code examples, tips, and techniques, providing attendees with actionable knowledge to apply in their own projects. And they will leave with the knowledge and confidence to architect applications that are easier to maintain, test, and scale, ultimately leading to more robust and successful web applications in the long run."
+    },
+    {
+        "event": "2023-06-08",
+        "title": "Flash in aktuellen Browsern verwenden",
+        "speaker": "",
+        "format": "Main Talk",
+        "abstract": "Flash ist tot, denken die meisten, aber mit genügend Energie, läuft es noch das alte Flash-Projekt oder wir versuchen es mal mit openfl + haxelib wenigstens. Dazu gibt es etwas Lesematerial und viele gelernte Erfahrungen aus großen Code-Basen und wie man denn nun den Kram in ein paar Jahren noch effizient nutzen kann."
+    },
+    {
+        "event": "2023-05-04",
+        "title": "What is Performance Driven Development and why aren't you doing it?",
+        "speaker": "James Seconde",
+        "speakerUrl": "https://twitter.com/SecondeJ",
+        "format": "Main Talk",
+        "language": "Englisch"
+    },
+    {
+        "event": "2023-03-22",
+        "title": "Wie kann uns AI als Devs unterstützen?",
+        "speaker": "Sascha Latzkowski",
+        "speakerUrl": "https://github.com/Sa-Lat",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Dabei möchte ich explizit auf Github CoPilot und ChatGPT eingehen und ein paar Beispiele vorstellen.\nZudem auch zusammen mit den Teilnehmenden ein paar Anfragen ausprobieren."
+    },
+    {
+        "event": "2023-03-22",
+        "title": "SAST für PHP Applikationen - Einstieg in Security-Bewertung mittels statischer Code-Analyse",
+        "speaker": "Oliver Hader",
+        "speakerUrl": "https://twitter.com/ohader",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Dieser Talk liefert einen Einstieg in die Security-Bewertung mittels statischer Code-Analyse in PHP unter Verwendung des Open Source Frameworks [PsalmPHP](https://psalm.dev) und und setzt dies in Relation mit einigen anderen proprietären Services am Markt. Anhand einfacher Beispiele werden Möglichkeiten, neue Herausforderungen, aber auch die Grenzen von SAST erklärt.",
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/oliverhader"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/ohader"
+            }
+        ]
+    },
+    {
+        "event": "2023-02-09",
+        "title": "Initiating change: An approach for developers",
+        "speaker": "Patrick Heller",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "You notice some things are going wrong in your team.Code-Quality suffers, Code-Reviews are not helpful, the Architecture\nis a plate of spaghetti, distributed over the wall.You have many ideas how to improve the situation.\n\nBut how can I push the team in the right direction?This talk is about:\n\n- Problematic changes\n- Convincing the team of an idea they hate\n- CI as your Hammer\n- Tools and behaviors\n- Metrics & Celebrate success"
+    },
+    {
+        "event": "2022-12-07",
+        "title": "Open API Integration mit Symfony",
+        "speaker": "Jan Männig",
+        "speakerUrl": "https://twitter.com/janmaennig",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Ich zeige wie wir OpenApi Spezifikation für Validierung, Dokumentation und Abstimmung mit dem Frontend in unsere Symfony-Projekte integrieren."
+    },
+    {
+        "event": "2022-12-07",
+        "title": "What's new in PHP 8.2",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Lightning Talk"
+    },
+    {
+        "event": "2022-11-09",
+        "title": "PHPat - Define your application architecture by writing tests",
+        "speaker": "Gerd Rönsch & Ralf Junghanns",
+        "format": "Main Talk",
+        "language": "Englisch",
+        "abstract": "PHPat allows you to write tests that verify your applications architecture using PHPUnit-Style tests. This makes it easy to introduce architecture requirements step by step and allows for readable custom rules-sets. This talk will cover an introduction how to write tests with PHPat and will show complex examples from real-world applications."
+    },
+    {
+        "event": "2022-08-25",
+        "title": "The road to more resilience: an introduction to static code analysis",
+        "speaker": "Stephan Hochdörfer",
+        "speakerUrl": "https://twitter.com/shochdoerfer",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "In this session I will introduce you to static code analysis, a powerful solution to analyze your Magento modules and catch problems without writing an extensive amount of tests or without running the code in production. I will introduce you to phpstan - a tool shipped with Magento out-of-the-box - and show you how you can get the most of it for your own projects."
+    },
+    {
+        "event": "2022-05-11",
+        "title": "JSON-Schema",
+        "speaker": "Ingo Walther",
+        "speakerUrl": "https://twitter.com/waltheringo",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Immer wieder bietet das Arbeiten mit JSON-Daten einige Herausforderungen. So werden zum Beispiel verhältnismäßig viele Codezeilen nötig um die JSON-Responses einer Fremd-API zu validieren. Wie kann ich mit einem JSON-Schema schnell und einfach JSON-Daten validieren? Welche weiteren Herausforderungen kann ich mit einem JSON-Schema meistern und welche (PHP-) Tools unterstützen mich dabei?"
+    },
+    {
+        "event": "2022-03-21",
+        "title": "How good are my tests?",
+        "speaker": "Stephan Hochdörfer",
+        "speakerUrl": "https://twitter.com/shochdoerfer",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "How to measure the quality of unit tests? Code coverage is not necessarily a good indicator to answer this question. What other options do we have? Do we need tests to test the quality of our tests? In some way, yes we do. In this session, I will introduce you to the concept of mutation-based testing and how this technique can be used to improve the quality of your test suite."
+    },
+    {
+        "event": "2022-02-10",
+        "title": "Deploy PHP Apps with Docker - The Essentials",
+        "speaker": "Matthew Setter",
+        "speakerUrl": "https://twitter.com/settermjd",
+        "format": "Main Talk"
+    },
+    {
+        "event": "2020-02-25",
+        "title": "Lessons Learned - Running a Kubernetes cluster for more than two years",
+        "speaker": "Sebastian Kurfürst",
+        "speakerUrl": "https://twitter.com/skurfuerst",
+        "format": "Main Talk",
+        "language": "Deutsch/Englisch"
+    },
+    {
+        "event": "2019-11-13",
+        "title": "Recap CMS Leadership Summit",
+        "speaker": "Lidia Demin (webit!)",
+        "speakerUrl": "https://twitter.com/typecat_",
+        "format": "Lightning Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "Einblicke in Themen, die aktuell in bei CMS und eCommerce-Systemen diskutiert werden, und wie Google dabei helfen will."
+    },
+    {
+        "event": "2019-11-13",
+        "title": "Event Sourcing",
+        "speaker": "Ronny Hartenstein",
+        "speakerUrl": "https://twitter.com/rhflow_de",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Üblicherweise bildet man Entity-Relationship-Modelle über das Relationale Modell ab. Mit Event Sourcing gibt es aber auch noch einen anderen Ansatz. Bei Axilaris haben wir nun die ersten zwei Projekt mit diesem Ereignis getriebenen Datenmodell umgesetzt und können aus der Praxis berichten. Spoiler: wir haben bislang alles selbst implementiert. Welche Vor- und Nachteile diese beiden Ansätze untereinander haben werde ich aufzeigen. Dabei gehe ich u.a. auf Themen wie Normalisierung, CQRS und Projektionen ein. Tatsächlich spielt am Ende auch die Frage eine zentrale Rolle, welcher Ansatz wo passt."
+    },
+    {
+        "event": "2019-10-04",
+        "title": "Xdebug workshop",
+        "speaker": "Derick Rethans",
+        "time": "10:00",
+        "format": "Workshop",
+        "language": "Englisch",
+        "abstract": "We are very proud to host a workshop about Xdebug with Derick in Dresden! This workshop covers the following topics:\n\n**Morning session - Xdebug essentials:** (10:00am - 12:30pm)\n\n- Setup fur (remote) debugging via web requests and CLI (in PHPStorm)\n- Usage of breakpoints (with conditionals)\n- What is debuggable with Xdebug and what is not\n- Understanding code coverage output / reports\n\n**Afternoon session - Xdebug advanced:** (01:30pm - 04:00pm)\n\n- Stack & Function Traces\n- Profiling with Xdebug (Cachegrind files and configuration options)\n- Code Coverage Whitelist Filter and how to use it with PHPUnit\n- Garbage Collection Stats\n\nDerick Rethans is a PHP internals expert and author of Xdebug. He works as an independent contractor and consultant on PHP extensions and related projects."
+    },
+    {
+        "event": "2019-08-13",
+        "title": "Infrastructure as a real code with Pulumi",
+        "speaker": "Lars Martin",
+        "time": "19:30",
+        "speakerUrl": "https://www.xing.com/profile/Lars_Martin2/cv",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "„Infrastructure as Code\" (IaC) heißt das Zauberwort, wenn es darum geht Software-defined Infrastructure für massiv skalierbare und hoch verfügbare Cloud-Anwendungen automatisierbar und revisionierbar bereitzustellen. Werkzeuge wie z.B. Ansible, Chef, Puppet, Terraform und ARM Templates erfordern das Erlernen einer weiteren speziellen Sprache (DSL) oder basieren auf JSON/YAML Templating. Wir glauben, dass die Verwendung einer bekannten Programmiersprache, wie JavaScript oder Python, in Verbindung mit echter „Infrastructure as Code\"-Funktionalität eine interessante Kombination darstellt, die wir im Folgenden auf Basis von [Pulumi](https://www.pulumi.com) näher vorstellen wollen.\n\nIn der Live-Demo wollen wir - beginnend mit einer einfachen Web App - einen ersten Infrastruktur-Stack programmieren. Darauf aufbauend soll gezeigt werden, wie leicht man sich wiederverwendbare Infrastruktur-Komponenten erstellen kann. Die komplett automatisierte Provisionierung eines Kubernetes Clusters samt Deployment einer umfangreichen Cloud Native Applikation sollen die Möglichkeiten der Verwendung einer General Purpose Programmiersprache wie z.B. JavaScript aufzeigen."
+    },
+    {
+        "event": "2019-05-23",
+        "title": "Practical GraphQL with Symfony and Doctrine",
+        "speaker": "Miro Hudak",
+        "time": "19:30",
+        "format": "Lightning Talk",
+        "language": "Englisch",
+        "abstract": "GraphQL is an interesting way of exposing data for client applications. Allows for highly customised data transfers based on requirements of the consumer, let it be some other system or web site. Aim of this talk would be to present the basic concepts of GraphQL and show example implementation of data retrieval, data mutations and handling lists of data in Symfony Framework.\n\nI propose lightning talk, where basic concepts are described and example code shown and demonstrated, there are possible some more in-depth topics, the question is, whether to extend it to full talk, which I am not sure, if there are enough interesting things."
+    },
+    {
+        "event": "2019-05-23",
+        "title": "Mutation Testing",
+        "speaker": "Michelangelo van Dam (in2it)",
+        "time": "20:30",
+        "speakerUrl": "https://twitter.com/DragonBe",
+        "format": "Main Talk",
+        "language": "Englisch",
+        "abstract": "With the rise of cyber attacks and an increasing competitive market, it's even more important to ensure that your application delivers exactly what you had envisioned and you can make changes continuously. By providing mutation testing in your set of tests, you at least have a good indicator where to focus your attention and ensure a successful deployment every time. In this session we're going to look at Infection, the Mutation Testing Framework for PHP and show with an example application how these mutations can have a negative impact on your application and how you can use Infection to mitigate these risks and improve the quality of your tests and your application source code."
+    },
+    {
+        "event": "2019-04-10",
+        "title": "Fork, Checkout, Branch, PR, WTF? - OSS Contribution in 3 minutes",
+        "speaker": "Michael Grundkötter (ujamii)",
+        "speakerUrl": "https://twitter.com/Grundi2",
+        "format": "Lightning Talk",
+        "abstract": "Github is a very cool platform for Open Source Software projects (OSS). Everyone can contribute with just a few clicks. There is no need to fork, branch and create a PR yourself - GitHub will do all those steps for you! All you need is a GitHub account.\n\nI would like to show how easy this process is with just a browser, you don't even need to install git or an IDE to contribute."
+    },
+    {
+        "event": "2019-04-10",
+        "title": "Event Sourcing am Beispiel des Neos Content Repository",
+        "speaker": "Sebastian Kurfürst (Sandstorm)",
+        "speakerUrl": "https://twitter.com/skurfuerst",
+        "format": "Main Talk",
+        "abstract": "Wir sind momentan dabei, eine der wichtigsten Komponenten in [Neos CMS](https://www.neos.io) mit Event Sourcing neu zu entwickeln. Ich will in diesem Talk zeigen, wie man Event Sourcing in der Praxis anwenden kann.\n\nZuerst wird erklärt, was Event Sourcing und CQRS ist, in welchen Kontexten es Verwendung findet und welche Vor- und Nachteile dieses architekturelle Pattern hat. Danach gibt es eine kurze Einführung in die Architektur von Neos, insbesondere des Content Repository, um die aktuellen Probleme und Schwächen der bisherigen Architektur (ohne Event Sourcing) aufzuzeigen.\n\nDer Hauptteil des Talks ist die konkrete Demonstration von Event Sourcing am Beispiel des Neos Content Repositories; um zu demonstrieren, wie sich dieses architekturelle Pattern auf größere, langlebige Projekte auswirkt."
+    },
+    {
+        "event": "2019-02-26",
+        "title": "OpenID Connect",
+        "speaker": "Frank Hönisch (tyclipso.net)",
+        "speakerUrl": "https://twitter.com/frankTTDD",
+        "format": "Lightning Talk",
+        "abstract": "Man findet sie auf vielen Webseiten, die Login-Möglichkeiten über Google, Facebook oder Twitter. Der Vortrag geht kurz auf die dahinterliegenden Technologien und Protokolle OpenId Connect, OAuth, JWT und JWKS ein und wie die Integration für den Dienst SwissId realisiert wurde.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/meetups/2019-02-26-OIDC_OAuth2_JWT_JWK_frank_hoenisch_tyclipso.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2019-02-26",
+        "title": "Make Migration of Legacy Code Fun Again - from Years to Weeks",
+        "speaker": "Tomáš Votruba",
+        "speakerUrl": "https://twitter.com/votrubaT",
+        "format": "Lightning Talk",
+        "abstract": "Learn faster, earn better money and work on projects that are meaningful to you. I help programmers to unlock their inner powers, start believing in themselves and becoming 200 % productive with less wasted energy.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://www.tomasvotruba.cz/talks/"
+            }
+        ]
+    },
+    {
+        "event": "2019-02-26",
+        "title": "Business Metrics with PHP, Prometheus, Grafana & more",
+        "speaker": "Michael Grundkötter (ujamii) & Holger Woltersdorf (Fortune Solutions)",
+        "format": "Lightning Talk",
+        "abstract": "We will show you how quick you can bring up a prometheus & grafana setup using docker(-compose) and how you can use PHP to feed it with business metrics from your applications and why you should do so. We will also mention other data sources and alerting APIs."
+    },
+    {
+        "event": "2019-01-14",
+        "title": "XSS PHP CSP ETC OMG WTF BBQ",
+        "speaker": "Michal Špaček",
+        "speakerUrl": "https://twitter.com/spazef0rze",
+        "format": "Main Talk",
+        "abstract": "How to defend against XSS in 2019 because manually calling htmlspecialchars() is so 90s. We'll talk about templating engines, XSS Filters, Content Security Policy and more."
+    },
+    {
+        "event": "2019-01-14",
+        "title": "What the flag is CTF?",
+        "speaker": "Mallle",
+        "speakerUrl": "https://twitter.com/eatsleeppwnrpt",
+        "format": "Main Talk",
+        "abstract": "Since 2011 Mallle's CTF-Team Eat, Sleep, Pwn, Repeat organizes a Capture the Flag contest for people at Chaos Communication Congress and from all over the world, where over a thousand teams are competing every year who's getting the most points from captured flags.\n\nIn this talk, he will give you a short overview about what a CTF is, the challenges, the players, the community and how much fun it is to play. After a short introduction of the different topics from reverse engineering, binary exploitation, over crypto(graphy) to web(-security) tasks he will show some of the web-challenges from this year's junior contest and solve them in a live-hacking session.\n\nSo you can get an idea what you are up to when you decide to play, getting a closer look into web issues and see how to solve our challenges even if you never played a CTF before."
+    },
+    {
+        "event": "2018-12-17",
+        "title": "GitLab Pipeline mit Codeception",
+        "speaker": "Roland Golla",
+        "time": "19:30",
+        "speakerUrl": "https://twitter.com/nevercodealone",
+        "format": "Main Talk",
+        "language": "Deutsch",
+        "abstract": "Wir schauen uns die unterschiedlichen Testarten von Never Code Alone mit dem Codeception Framework an. API, Unit und Acceptance Tests. Ich erstelle neue Tests direkt Live in der Session und gehe auf die Vor- und Nachteile ein. Das ganze Pushen wir dann live zu GitLab und schauen uns einen Review Workflow an."
+    },
+    {
+        "event": "2018-12-17",
+        "title": "What's new in PHP 7.3",
+        "speaker": "Holger Woltersdorf",
+        "time": "20:30",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Lightning Talk",
+        "language": "Deutsch/Englisch",
+        "abstract": "Traditional introduction to the new release of PHP 7.3."
+    },
+    {
+        "event": "2018-11-12",
+        "title": "Testing with Codeception: Full-stack PHP testing framework",
+        "speaker": "Susann Sgorzaly",
+        "speakerUrl": "https://twitter.com/susann_sg",
+        "format": "Main Talk",
+        "abstract": "Codeception is a PHP testing framework for Behavior Driven Development, which covers all kinds of tests: unit tests, functional tests and acceptance tests. It is fast and simple in both usage and execution. This talk will give you a introduction to the software testing basics using codeception. It will also cover some stumbling blocks when writing tests, like:\n\n- Test code stability against small changes\n- Data stability\n- Test structure\n\nLast but not least I will give you a short outlook how to make your tests also understandable for product owners.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://www.slideshare.net/SusannSgorzaly/testing-mit-codeception-fullstack-testing-php-framework"
+            }
+        ]
+    },
+    {
+        "event": "2018-11-12",
+        "title": "Static Code Analysis in PHP",
+        "speaker": "Benjamin Cremer",
+        "speakerUrl": "https://twitter.com/benjamincremer",
+        "format": "Main Talk",
+        "abstract": "The type system and static code analysis can help us find bugs in our code in a early phase without writing explicit tests. I'll show you the requirements for your code to get the most of static analysis as well as the tools to get you started.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://talks.benjamin-cremer.de/phpugdd_sca/#/"
+            }
+        ]
+    },
+    {
+        "event": "2018-08-22",
+        "title": "Mastering git – Insights & Tips & Tricks",
+        "speaker": "Sebastian Feldmann",
+        "speakerUrl": "https://twitter.com/movetodevnull",
+        "format": "Main Talk",
+        "abstract": "Git is a powerful source code management system and became the de facto standard for open source projects over the last couple of years. A lot of us are using it every day but are only scratching the surface of its potential. During this talk I will show you some git best practices, demystify some of its power features and share some tips and tricks from beginner to expert level.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://sebastian-feldmann.info/talks/2018/20180822-masterin-git.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2018-08-22",
+        "title": "Marvelous Agents of Yield",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Main Talk",
+        "abstract": "Generators and thus yield are part of PHP since version 5.5. Most of the time it is used as a substitution for a full iterator implementation. But there is way more power to generators! This talk will try to unveil the hidden superpowers of interruptible loops, signals and corporative multitasking. Coincidental movie analogies included.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/hollodotme/marvelous-agents-of-yield"
+            }
+        ]
+    },
+    {
+        "event": "2018-05-28",
+        "title": "Reverse Engineering - Entwickeln gegen eine Blackbox",
+        "speaker": "thinkstep Team",
+        "speakerUrl": "https://twitter.com/thinkstep",
+        "format": "Main Talk",
+        "abstract": "Wir haben ein \"Legacy Projekt\" von einem unserer Dienstleister übernommen. Dieser hat seine eigene Bibliothek eingebunden und mit Sourceguardian verschlüsselt. Daraus ergeben sich jedoch viele Probleme, u.a. können keine PHP Upgrades durchgeführt werden, die Software wird dadurch unflexibel, ist nicht skalierbar und das größte Problem ist die Fehlersuche, da man den Quellcode nicht sehen kann.\nMomentan sind wir dabei, diese Blackbox zu ersetzen. Dazu werden Tests gegen die alten Funktionen geschrieben und die Logik neu implementiert. Ziel ist es, diese Bibliothek abzulösen, um alle notwendigen technischen Updates und Upgrades durchführen zu können.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/cfroehner/reverse-engineering-entwickeln-gegen-eine-blackbox"
+            }
+        ]
+    },
+    {
+        "event": "2018-05-28",
+        "title": "No loops needed - Functional programming in PHP",
+        "speaker": "Alexander Lichter",
+        "speakerUrl": "https://twitter.com/TheAlexLichter",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Funktionales Programmieren wird auch in nicht-funktionalen Sprachen immer beliebter. Nachdem selbst Java funktionale Paradigmen in Form von Lambda-Ausdrücken implementiert hat, steht dem Aufstieg nichts mehr im Weg! Wie das ganze in PHP aussieht, welche Gemeinsamkeiten es mit Lego gibt und warum Schleifen durch funktionales Programmieren (fast) obsolet werden, erfahrt Ihr in diesem Lightning Talk.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://mannil.github.io/fp-in-php/#/"
+            }
+        ]
+    },
+    {
+        "event": "2018-05-28",
+        "title": "Mixed Realities for Web",
+        "speaker": "Carsten Sandtner",
+        "speakerUrl": "https://twitter.com/casarock",
+        "format": "Main Talk",
+        "language": "Englisch",
+        "abstract": "Ok, let's get real: VR in a Web Browser isn't something new! 2017 Firefox rolled out their support for everyone. HTC Vive, Oculus Rift and other Hardware is being supported. You can create VR experiences using your Browser and Javascript. New browser engines are powerful enough to be able to serve the experiences on a open and standardised platform. But what about AR? Or Mixed Realities? Join my session and learn how AR or better said MR is getting into your browsers, too. See how and what the platform is being able to offer and what you could expect in near future.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/casarock/mixed-realities-in-your-browsers"
+            }
+        ]
+    },
+    {
+        "event": "2018-04-19",
+        "title": "From dev to prod with GitLab CI",
+        "speaker": "Stephan Hochdörfer",
+        "speakerUrl": "https://twitter.com/shochdoerfer",
+        "format": "Main Talk",
+        "abstract": "GitLab turned into a DevOps lifecycle platform instead of being \"just\" a web-based Git repository manager. In this session I'll guide you through the process of setting up GitLab and GitLab CI. You will learn some insights on how to configure a GitLab build via the .gitlab-ci.yml file. Together we will take a deep dive into the GitLab CI build pipelines to build and deploy docker containers to your dev, stage and production environments.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://talks.bitexpert.de/phpugdd18-gitlabci/#/"
+            }
+        ]
+    },
+    {
+        "event": "2018-04-19",
+        "title": "Continuous Deployment 2.0: Playtime is Over",
+        "speaker": "Michelangelo van Dam",
+        "speakerUrl": "https://twitter.com/DragonBe",
+        "format": "Main Talk",
+        "abstract": "Continuous Deployment, TDD and Continuous Integration is nothing new anymore and many of you are already veterans deploying multiple times each day code into production. But you're still suffering from cutting corners and doing something quick on production when time is pressing, violating the processes you all worked hard on to get approved.\n\nIn this talk we take this very concept to the next level and show you how we used unconventional ways to deploy faster with less issues and regained control over a 10+ year old legacy application.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://de.slideshare.net/DragonBe/continuous-deployment-20"
+            }
+        ]
+    },
+    {
+        "event": "2018-03-07",
+        "title": "Automate all the things",
+        "speaker": "Sebastian Feldmann",
+        "speakerUrl": "https://twitter.com/movetodevnull",
+        "format": "Main Talk",
+        "abstract": "As your company is growing it is important to have an environment that scales. So spinning up dev environments, updating test systems, ensuring your code quality, running all your tests and releasing your software continuously won't distract you from developing great applications. I will show you how to automate repetitive tasks and how to combine great automation tools like Jenkins, Ant and Ansible and make use of some handy PHP libraries, so you can focus on the things that matter: Writing great software.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://sebastian-feldmann.info/talks/2018/20180307-AutomateAllTheThings.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2018-03-07",
+        "title": "Automation with Ansible",
+        "speaker": "Susann Sgorzaly",
+        "speakerUrl": "https://twitter.com/susann_sg",
+        "format": "Lightning Talk",
+        "language": "Deutsch",
+        "abstract": "Automatisierung? ANSIBLE - Einfach. Sicher. Zuverlässig.\n\nAnsible ist ein Open-Source Werkzeug zur Automatisierung von Deployment-, Konfigurations- und Administrationsprozessen. Die Beschreibung der Aufgaben basiert auf YAML und Jinja Templates. Es lässt sich zudem in Verbindung mit Vagrant und Docker nutzen.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://www.slideshare.net/SusannSgorzaly/automation-with-ansible-90025485"
+            }
+        ]
+    },
+    {
+        "event": "2018-01-23",
+        "title": "TOTAL RECALL - The application that never forgets",
+        "speaker": "Holger Woltersdorf (Fortuneglobe)",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Main Talk",
+        "abstract": "Building an application upon CQRS and Event Sourcing offers three pretty nice benefits.\n\n1. Well structured code and business logic, separated by read and write concerns.\n2. The source of truth - A reliable and recoverable view into the past of your application state.\n3. The opportunity to answer future questions that you don't know about today.\n\nThis talk will give you a basic overview about CQRS & Event Sourcing.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/hollodotme/total-recall-the-application-that-never-forgets-1"
+            }
+        ]
+    },
+    {
+        "event": "2018-01-23",
+        "title": "prooph event store in action",
+        "speaker": "Alexander Miertsch",
+        "speakerUrl": "https://twitter.com/prooph_software",
+        "format": "Main Talk",
+        "abstract": "Domain Events als \"single source of truth\" nutzen, das ist eine der Kernideen von Event Sourcing. Die Grundlage dafür bildet ein Event Store. Mit dem prooph/event-store können PHP Entwickler ihre MySql, MariaDB oder Postgres Datenbank in einen Event Store verwandeln und erhalten Zugriff auf professionelle Tools zur Arbeit mit Domain Events. Der Talk gibt einen Überblick über die Funktionsweisen des prooph/event-store und zeigt welche Vorteile sich daraus für die Software ergeben."
+    },
+    {
+        "event": "2017-12-19",
+        "title": "Symfony Flex in Action",
+        "speaker": "Christian Flothmann (SensioLabs) & Christopher Hertel (SensioLabs)",
+        "format": "Main Talk",
+        "abstract": "Symfony Flex is a revolution in the world of Symfony and changes the way of building applications. A developer needs to focus more on dependencies, but can easily increase productivity and lower the footprint of an application. We accompanied Symfony on the way to the new Flex era and will give you concrete examples how application development now looks like and explain the key concepts.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/el_stoffel/symfony-flex-in-action"
+            },
+            {
+                "title": "Code (flex-mailer)",
+                "url": "https://github.com/sensiolabs-de/flex-mailer"
+            },
+            {
+                "title": "Code (flex-importer)",
+                "url": "https://github.com/sensiolabs-de/flex-importer"
+            },
+            {
+                "title": "Code (flex-meetup)",
+                "url": "https://github.com/sensiolabs-de/flex-meetup"
+            }
+        ]
+    },
+    {
+        "event": "2017-12-19",
+        "title": "What's new in PHP 7.2",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "format": "Lightning Talk",
+        "abstract": "PHP 7.2 was released on November 30th 2017. This talk will give you a short intro to the changes in the new release.",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/hollodotme/whats-new-in-php-7-dot-2"
+            },
+            {
+                "title": "Code",
+                "url": "https://github.com/hollodotme/talk-preps/tree/master/whats-new-in-php72"
+            }
+        ]
+    },
+    {
+        "event": "2017-11-23",
+        "title": "API Platform",
+        "speaker": "Frank Jogeleit",
+        "speakerUrl": "https://twitter.com/FrankJogeleit",
+        "abstract": "Das Frontend unabhängig vom Backend zu entwickeln wird immer mehr gängige Praxis. Ein einfacher Weg Daten zwischen beiden Systemen auszutauschen sind REST APIs. Leider kann schon die Erstellung einfacher CRUD APIs Zeitraubend sein. Gängige Probleme sind die Erstellung eines Objektes inkl. Relationen, die Validierung, Filterung von Listen und die Reduzierung von Properties die Angezeigt werden. Für All diese Standard Probleme bietet API Platform in Symfony Projekten Abhilfe.\n\nIm Vortrag soll diese Lösung vorgestellt werden, von der Installation zur Lösung oben genannten Probleme und weiterer benefits die helfen deutlich Zeit und Nerven zu sparen.",
+        "links": [
+            {
+                "title": "joind.in",
+                "url": "https://joind.in/talk/099e4"
+            },
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/moveelevator/api-platform"
+            }
+        ]
+    },
+    {
+        "event": "2017-10-11",
+        "title": "Paket-Schätzungen",
+        "speaker": "LOGSOL-Team",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/meetups/2017-10-11_packet-schaetzung.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2017-10-11",
+        "title": "There's a slight smell of wet dog in your code",
+        "speaker": "Sebastian Feldmann",
+        "speakerUrl": "https://twitter.com/movetodevnull",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://sebastian-feldmann.info/talks/2017/201711011-slight-smell-of-wet-dog.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2017-08-24",
+        "title": "ENUMS in PHP - An introduction",
+        "speaker": "Tommy Mühle",
+        "speakerUrl": "https://twitter.com/tommy_muehle",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/tommymuehle/enums-an-introduction"
+            }
+        ]
+    },
+    {
+        "event": "2017-08-24",
+        "title": "Der Content-Manager mag den Baum (PHPCR)",
+        "speaker": "Maximilian Berghoff",
+        "speakerUrl": "https://twitter.com/ElectricMaxxx"
+    },
+    {
+        "event": "2017-07-17",
+        "title": "PHPkonf und andere Zufälle",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "abstract": "Ein kurzer Unterhaltungs-Talk über meine erste PHP Konferenz als Speaker im Ausland, das Treffen von bedeutsamen Personen und vielleicht ein paar Lessons learned. (Keine Katzen-Fotos, versprochen!)"
+    },
+    {
+        "event": "2017-07-17",
+        "title": "Defensive Programming (with PHP)",
+        "speaker": "Tommy Mühle",
+        "speakerUrl": "https://twitter.com/tommy_muehle"
+    },
+    {
+        "event": "2017-06-08",
+        "title": "50 Shades of Backup",
+        "speaker": "Sebastian Feldmann",
+        "speakerUrl": "https://twitter.com/movetodevnull"
+    },
+    {
+        "event": "2017-06-08",
+        "title": "Async PHP requests & reactive responses with php-fpm",
+        "speaker": "Holger Woltersdorf",
+        "speakerUrl": "https://twitter.com/hollodotme",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/hollodotme/async-php-requests-and-reactive-responses-with-php-fpm"
+            }
+        ]
+    },
+    {
+        "event": "2017-04-26",
+        "title": "PHPStan",
+        "speaker": "Ondřej Mirtes",
+        "abstract": "Autor von PHPStan."
+    },
+    {
+        "event": "2017-04-26",
+        "title": "A tool that combines PhpCodeSniffer and PHPCsFixer for analysis of coding standards",
+        "speaker": "Tomáš Votruba",
+        "format": "Lightning Talk"
+    },
+    {
+        "event": "2017-04-26",
+        "title": "PHP Inspections (EA Extended)",
+        "speaker": "Vladimir Reznichenko",
+        "abstract": "Autor des PhpStorm-Plugins „PHP Inspections (EA Extended)“."
+    },
+    {
+        "event": "2017-03-14",
+        "title": "Einführung in Dependency Injection",
+        "speaker": "Ralf Junghanns (PHP UG Dresden)",
+        "format": "Lightning Talk"
+    },
+    {
+        "event": "2017-03-14",
+        "title": "Disco - A fresh look at DI",
+        "speaker": "Stephan Hochdörfer (bitExpert)",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://ow.ly/pv8y309VtPd"
+            }
+        ]
+    },
+    {
+        "event": "2017-01-30",
+        "title": "Async PHP worker with RabbitMQ and FastCGI client",
+        "speaker": "Holger Woltersdorf",
+        "format": "Lightning Talk"
+    },
+    {
+        "event": "2017-01-30",
+        "title": "Exception handling - classic and fancy",
+        "speaker": "Tommy Mühle",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://bit.ly/2kzZkjx"
+            }
+        ]
+    },
+    {
+        "event": "2016-12-09",
+        "title": "Open Source - Get involved",
+        "speaker": "Holger Woltersdorf",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://www.slideshare.net/HolgerWoltersdorf/xmas-issue-bash"
+            }
+        ]
+    },
+    {
+        "event": "2016-12-09",
+        "title": "How to commit",
+        "speaker": "Ralf Junghanns",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/meetups/2016-12-09_XMasIssueBash-how-to-commit.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "Library Discovery - Don't reinvent the wheel",
+        "speaker": "Tommy Mühle",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://www.youtube.com/watch?v=3kD9t0GVGGY"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "Deploy shopware to the cloud",
+        "speaker": "Benjamin Cremer",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://www.youtube.com/watch?v=TlqsO9UyCF0"
+            },
+            {
+                "title": "Folien",
+                "url": "http://talks.benjamin-cremer.de/php-developer-day-2016/index.html#/"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "Divide and Conquer - 2 Years of CQRS in Production",
+        "speaker": "Holger Woltersdorf",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://www.youtube.com/watch?v=mMmj56IR8Rw"
+            },
+            {
+                "title": "Folien",
+                "url": "http://www.slideshare.net/HolgerWoltersdorf/divide-and-conquer-2-years-of-cqrs-in-production"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "Accelerate Jenkins - CI/Metrics Build using CLI parallelization and container virtualization",
+        "speaker": "Patrick Pächnatz",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://www.youtube.com/watch?v=d4L5HxzjeXY"
+            },
+            {
+                "title": "Folien",
+                "url": "http://de.slideshare.net/PatrickPaechnatz/jenkins-acceleration"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "Forms Do's and Don'ts",
+        "speaker": "Bernhard Schussek",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/webmozart/symfony2-forms-dos-and-donts"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "A Developers Survival Guide for the Microservice Era",
+        "speaker": "Sebastian Heuer",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/belanur/a-developers-survival-guide-for-the-microservice-era"
+            }
+        ]
+    },
+    {
+        "event": "2016-09-24",
+        "title": "The Way to hassle free Docker PHP Web Stack Deployments",
+        "speaker": "Sandro Keil",
+        "links": [
+            {
+                "title": "Video",
+                "url": "https://www.youtube.com/watch?v=3Fns46Y3Rlk"
+            },
+            {
+                "title": "Folien",
+                "url": "https://sandro-keil.de/slides/the-way-to-hassle-free-docker-php-web-stack-deployments/#/"
+            }
+        ]
+    },
+    {
+        "event": "2016-08-24",
+        "title": "Clean Coder – Was ist ein guter Entwickler?",
+        "speaker": "André Hänsel",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/meetups/2016-08-24_clean-coder.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2016-06-29",
+        "title": "PHAR better tools",
+        "speaker": "Holger Woltersdorf",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://www.slideshare.net/phpindd/phar-better-tools-63598189"
+            }
+        ]
+    },
+    {
+        "event": "2016-05-20",
+        "title": "Akzeptanztests mit Codeception",
+        "speaker": "Marcel Führer",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/mfuehrer82/akzeptanztests-mit-codeception"
+            }
+        ]
+    },
+    {
+        "event": "2016-05-20",
+        "title": "Statische Code-Analyse",
+        "speaker": "Tommy Mühle",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://speakerdeck.com/moveelevator/statische-code-analyse"
+            }
+        ]
+    },
+    {
+        "event": "2016-02-24",
+        "title": "Docker for php developers",
+        "speaker": "Sandro Keil",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://sandro-keil.de/slides/docker-for-php-developers/#/"
+            }
+        ]
+    },
+    {
+        "event": "2016-02-24",
+        "title": "Docker Workbench",
+        "speaker": "Patrick Pächnatz",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://www.slideshare.net/PatrickPaechnatz/docker-workbench"
+            }
+        ]
+    },
+    {
+        "event": "2015-09-23",
+        "title": "CQRS in der Praxis - Newsletter Double Opt-In",
+        "speaker": "Holger Woltersdorf & Tobias Mißner",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "https://www.slideshare.net/phpindd/cqrs-in-der-praxis-newsletter-doubleoptin"
+            }
+        ]
+    },
+    {
+        "event": "2015-07-04",
+        "title": "Development Workflow anhand von WebServices & Atlassian Tools",
+        "speaker": "Tommy Mühle",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/phpdd15/Development-Workflows.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2015-07-04",
+        "title": "Die drei Dimensionen des Testens",
+        "speaker": "Sebastian Bergmann",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/phpdd15/die-drei-dimensionen-des-testens.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2015-07-04",
+        "title": "Symfony2 Anwendungen testen",
+        "speaker": "Sebastian Bergmann",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/phpdd15/symfony2-anwendungen-testen.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2015-07-04",
+        "title": "Eine skalierbare und erweiterbare Suchfunktion",
+        "speaker": "Benjamin Cremer",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "http://talks.benjamin-cremer.de/medd15/#/"
+            }
+        ]
+    },
+    {
+        "event": "2015-07-04",
+        "title": "Ansätze zum Profiling bei PHP-Anwendungen",
+        "speaker": "Steven Schütze",
+        "links": [
+            {
+                "title": "Folien",
+                "url": "/downloads/phpdd15/Profiling.pdf"
+            }
+        ]
+    },
+    {
+        "event": "2015-07-04",
+        "title": "Best-Practice eines Statusmodells mit komplexen Abhängigkeiten",
+        "speaker": "Michael Tränkner"
+    }
+]

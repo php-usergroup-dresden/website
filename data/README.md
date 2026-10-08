@@ -13,7 +13,8 @@ Der Build bricht mit einer verständlichen Fehlermeldung ab, wenn Pflichtfelder 
 unbekanntes Event verweist.
 
 Das Verzeichnis `docs/` wird nicht committet: Nach dem Merge nach `master` baut GitHub Actions die Seite neu und
-veröffentlicht sie auf GitHub Pages. „Nächstes Event“ auf der Startseite springt erst nach einem neuen Build weiter.
+veröffentlicht sie auf GitHub Pages. „Nächstes Event“ auf der Startseite springt mit dem
+täglichen Build (03:00 UTC) weiter.
 
 Felder mit `markdown` erlauben Markdown (Absätze, Listen, Links, **fett**, *kursiv*). Bilder liegen unter
 `static/images/…` und werden mit `/images/…` referenziert.

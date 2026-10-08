@@ -1,12 +1,16 @@
 name: Test, Build & Deploy
 
-# test → build → deploy (GitHub Pages, master only)
+# test → build → deploy (GitHub Pages, master only: push, daily schedule, manual run)
 #             └→ release (GitHub Release from CHANGELOG.md, tags v* only)
 on:
   push:
     branches: [master]
     tags: ['v*']
   pull_request:
+  # Rebuild daily so "Nächstes Event" moves on after an event took place.
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -38,7 +42,7 @@ jobs:
           path: docs
 
   deploy:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
     needs: build
     runs-on: ubuntu-slim
     permissions:

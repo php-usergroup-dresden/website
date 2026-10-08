@@ -19,8 +19,9 @@ make serve                         # build + php -S 127.0.0.1:8000 -t docs
 ```
 
 Deployment: `.github/workflows/test-build-deploy.yml` runs test → build on pushes and pull requests and deploys
-`docs/` to GitHub Pages (source "GitHub Actions") on pushes to `master`. `docs/` is generated and git-ignored – never
-edit or commit it. "Nächstes Event" only advances when the site is rebuilt, i.e. on the next push to `master`.
+`docs/` to GitHub Pages (source "GitHub Actions") from `master` on pushes, daily at 03:00 UTC and on manual runs
+(`workflow_dispatch`). `docs/` is generated and git-ignored – never edit or commit it. The daily rebuild makes
+"Nächstes Event" advance after an event took place.
 
 Releases: pushing a tag `vX.Y.Z` creates a GitHub Release whose text is the `## [X.Y.Z]` section of `CHANGELOG.md`
 (the job fails if the section is missing). Add user-facing changes to `[Unreleased]` in `CHANGELOG.md`.

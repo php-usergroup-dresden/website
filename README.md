@@ -9,14 +9,15 @@ This website is open source, so please feel free to edit and send us a pull requ
 All you need is PHP 8.2 or newer – there are no other dependencies.
 
 ```bash
-php build.php && php -S 127.0.0.1:8000 -t public
+php build.php && php -S 127.0.0.1:8000 -t docs
 ```
 
 - Events, talks, sponsors and the team are maintained in [`data/`](data/README.md) as JSON.
 - Text pages live in `content/` as Markdown.
 - Images and downloads live in `static/`.
 
-Every push to `master` is built and deployed automatically. See the **[contribution guide](.github/CONTRIBUTING.md)**.
+GitHub Pages serves the generated `docs/` directory from `master`, so commit it together with your changes.
+See the **[contribution guide](.github/CONTRIBUTING.md)**.
 
 ## You want to speak at our user group?
 

@@ -11,15 +11,18 @@ do not add packages, frameworks or external resources (fonts, scripts, icon kits
 ## Commands
 
 ```bash
-php build.php                      # build into ./public (gitignored)
-php build.php --today=2025-12-01   # simulate another date (upcoming vs. past events)
+php build.php                      # build into ./docs (committed, served by GitHub Pages)
+php build.php --today=2025-12-01   # simulate another date (upcoming vs. past events) – never commit such a build
 php tests/run.php                  # all tests
 php tests/run.php Markdown         # tests whose file/description contains "Markdown"
-make serve                         # build + php -S 127.0.0.1:8000 -t public
+make serve                         # build + php -S 127.0.0.1:8000 -t docs
 ```
 
-Deployment: `.github/workflows/deploy.yml` runs tests + build and deploys `public/` to GitHub Pages on push to
-`master`, and daily via cron so "Nächstes Event" advances. Generated HTML is never committed.
+Deployment: GitHub Pages serves `docs/` from `master` ("Deploy from a branch"). `docs/` is generated – never edit it by
+hand; after changing `data/`, `content/`, `templates/`, `src/` or `static/`, run `php build.php` and commit `docs/`
+together with the source change. `docs/.nojekyll` (written by the build) stops GitHub from running Jekyll.
+"Nächstes Event" only advances when the site is rebuilt and committed. `.github/workflows/ci.yml` runs tests + build
+on pushes and pull requests but does not deploy.
 
 ## Architecture
 
@@ -33,7 +36,7 @@ Deployment: `.github/workflows/deploy.yml` runs tests + build and deploys `publi
   first `# H1`. `content/sponsoring.md` is only the intro of the generated sponsoring page.
 - `src/Markdown.php` – intentionally small Markdown subset (see class doc). Lines starting with an HTML tag form a
   raw HTML block until the next blank line.
-- `src/Build.php` – orchestrates: reset `public/`, copy `static/`, render generated pages (`/`, `/events.html`,
+- `src/Build.php` – orchestrates: reset `docs/`, copy `static/`, render generated pages (`/`, `/events.html`,
   `/talks.html`, `/sponsoring.html`, `/404.html`) and Markdown pages, write `events.ics` and `sitemap.xml`.
   Every rendered page passes through `ExternalLinks`, which adds `target="_blank" rel="noopener"` to links on other
   hosts – templates and content never set `target` themselves.

@@ -6,11 +6,14 @@ Sponsoring-Seite und Kalender (`/events.ics`) werden daraus erzeugt – nichts m
 Nach einer Änderung lokal prüfen:
 
 ```bash
-php build.php && php -S 127.0.0.1:8000 -t public
+php build.php && php -S 127.0.0.1:8000 -t docs
 ```
 
 Der Build bricht mit einer verständlichen Fehlermeldung ab, wenn Pflichtfelder fehlen oder ein Talk auf ein
 unbekanntes Event verweist.
+
+Danach das neu erzeugte Verzeichnis `docs/` zusammen mit der Änderung committen – GitHub Pages veröffentlicht genau
+diesen Ordner. „Nächstes Event“ auf der Startseite springt erst nach einem neuen Build weiter.
 
 Felder mit `markdown` erlauben Markdown (Absätze, Listen, Links, **fett**, *kursiv*). Bilder liegen unter
 `static/images/…` und werden mit `/images/…` referenziert.

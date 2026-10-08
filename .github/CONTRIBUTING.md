@@ -17,12 +17,13 @@ You only need PHP 8.2 or newer.
 
    ```bash
    php tests/run.php
-   php build.php && php -S 127.0.0.1:8000 -t public
+   php build.php && php -S 127.0.0.1:8000 -t docs
    ```
 
    Open http://127.0.0.1:8000. The build stops with a clear message if data is missing or inconsistent.
-4. Commit only your source changes – `public/` is generated and ignored.
-5. Create a pull request. After merging, GitHub Actions builds and deploys the site automatically.
+4. Commit your source changes **together with the regenerated `docs/` directory**. GitHub Pages serves `docs/`
+   directly, so a change only goes live once `docs/` is rebuilt. Never edit files in `docs/` by hand.
+5. Create a pull request. The site is live as soon as it is merged into `master`.
 
 ## Pull requests
 

@@ -1,0 +1,21 @@
+name: Tests & Build
+
+# Deployment happens through GitHub Pages ("Deploy from a branch", master /docs).
+# This workflow only makes sure the tests pass and the site builds from the current data.
+on:
+  push:
+    branches: [master]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # PHP comes preinstalled on the GitHub runner image, no setup action needed.
+      - run: php --version
+      - run: php tests/run.php
+      - run: php build.php

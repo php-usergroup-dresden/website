@@ -12,8 +12,8 @@ php build.php && php -S 127.0.0.1:8000 -t docs
 Der Build bricht mit einer verständlichen Fehlermeldung ab, wenn Pflichtfelder fehlen oder ein Talk auf ein
 unbekanntes Event verweist.
 
-Danach das neu erzeugte Verzeichnis `docs/` zusammen mit der Änderung committen – GitHub Pages veröffentlicht genau
-diesen Ordner. „Nächstes Event“ auf der Startseite springt erst nach einem neuen Build weiter.
+Das Verzeichnis `docs/` wird nicht committet: Nach dem Merge nach `master` baut GitHub Actions die Seite neu und
+veröffentlicht sie auf GitHub Pages. „Nächstes Event“ auf der Startseite springt erst nach einem neuen Build weiter.
 
 Felder mit `markdown` erlauben Markdown (Absätze, Listen, Links, **fett**, *kursiv*). Bilder liegen unter
 `static/images/…` und werden mit `/images/…` referenziert.

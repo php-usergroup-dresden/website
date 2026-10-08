@@ -16,7 +16,8 @@ php build.php && php -S 127.0.0.1:8000 -t docs
 - Text pages live in `content/` as Markdown.
 - Images and downloads live in `static/`.
 
-GitHub Pages serves the generated `docs/` directory from `master`, so commit it together with your changes.
+`docs/` is generated and not committed: GitHub Actions builds and deploys the site to GitHub Pages on every push to
+`master`.
 See the **[contribution guide](.github/CONTRIBUTING.md)**.
 
 ## You want to speak at our user group?

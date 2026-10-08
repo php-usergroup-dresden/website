@@ -1,2 +1,0 @@
-# iCalendar (RFC 5545) requires CRLF line endings – keep the generated feed byte for byte.
-docs/events.ics -text

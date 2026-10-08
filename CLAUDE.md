@@ -11,18 +11,19 @@ do not add packages, frameworks or external resources (fonts, scripts, icon kits
 ## Commands
 
 ```bash
-php build.php                      # build into ./docs (committed, served by GitHub Pages)
-php build.php --today=2025-12-01   # simulate another date (upcoming vs. past events) – never commit such a build
+php build.php                      # build into ./docs (generated, not committed)
+php build.php --today=2025-12-01   # simulate another date (upcoming vs. past events)
 php tests/run.php                  # all tests
 php tests/run.php Markdown         # tests whose file/description contains "Markdown"
 make serve                         # build + php -S 127.0.0.1:8000 -t docs
 ```
 
-Deployment: GitHub Pages serves `docs/` from `master` ("Deploy from a branch"). `docs/` is generated – never edit it by
-hand; after changing `data/`, `content/`, `templates/`, `src/` or `static/`, run `php build.php` and commit `docs/`
-together with the source change. `docs/.nojekyll` (written by the build) stops GitHub from running Jekyll.
-"Nächstes Event" only advances when the site is rebuilt and committed. `.github/workflows/ci.yml` runs tests + build
-on pushes and pull requests but does not deploy.
+Deployment: `.github/workflows/test-build-deploy.yml` runs test → build on pushes and pull requests and deploys
+`docs/` to GitHub Pages (source "GitHub Actions") on pushes to `master`. `docs/` is generated and git-ignored – never
+edit or commit it. "Nächstes Event" only advances when the site is rebuilt, i.e. on the next push to `master`.
+
+Releases: pushing a tag `vX.Y.Z` creates a GitHub Release whose text is the `## [X.Y.Z]` section of `CHANGELOG.md`
+(the job fails if the section is missing). Add user-facing changes to `[Unreleased]` in `CHANGELOG.md`.
 
 ## Architecture
 

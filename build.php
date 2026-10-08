@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * Builds the static website into ./docs, which GitHub Pages serves from the master branch.
+ * Builds the static website into ./docs, which GitHub Actions deploys to GitHub Pages.
  *
  *   php build.php                     # build with today's date
  *   php build.php --today=2025-12-01  # pretend another date (decides "upcoming" vs. "past" events)

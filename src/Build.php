@@ -43,7 +43,7 @@ final readonly class Build
             $this->write($path, $externalLinks->openInNewWindow($html));
         }
 
-        // The build date instead of "now" keeps the committed output stable when nothing changed.
+        // The build date instead of "now" keeps the output reproducible when nothing changed.
         $calendar = new Calendar($content->site['name'], $content->site['baseUrl']);
         $this->write('/events.ics', $calendar->render($content->events, $this->today));
         $this->write('/sitemap.xml', $this->sitemap($content->site['baseUrl'], array_diff(array_keys($pages), ['/404.html'])));

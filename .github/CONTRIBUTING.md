@@ -21,9 +21,10 @@ You only need PHP 8.2 or newer.
    ```
 
    Open http://127.0.0.1:8000. The build stops with a clear message if data is missing or inconsistent.
-4. Commit your source changes **together with the regenerated `docs/` directory**. GitHub Pages serves `docs/`
-   directly, so a change only goes live once `docs/` is rebuilt. Never edit files in `docs/` by hand.
-5. Create a pull request. The site is live as soon as it is merged into `master`.
+4. Commit your source changes only – `docs/` is generated and ignored by git. Add a short entry to the
+   `[Unreleased]` section of [`CHANGELOG.md`](../CHANGELOG.md) if visitors will notice the change.
+5. Create a pull request. GitHub Actions runs the tests and the build for it. Once it is merged into `master`, the
+   site is rebuilt and deployed to GitHub Pages automatically.
 
 ## Pull requests
 

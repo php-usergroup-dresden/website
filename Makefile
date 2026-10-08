@@ -1,6 +1,6 @@
 .PHONY: build test serve
 
-## Build the website into ./public
+## Build the website into ./docs
 build:
 	php build.php
 
@@ -10,4 +10,4 @@ test:
 
 ## Build and serve on http://127.0.0.1:8000
 serve: build
-	php -S 127.0.0.1:8000 -t public
+	php -S 127.0.0.1:8000 -t docs

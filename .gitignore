@@ -1,5 +1,4 @@
 .idea/
 .DS_Store
-/public/
 # obsolete Composer tooling of the old static page generator, safe to delete
 /vendor/

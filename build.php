@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /*
- * Builds the static website into ./public.
+ * Builds the static website into ./docs, which GitHub Pages serves from the master branch.
  *
  *   php build.php                     # build with today's date
  *   php build.php --today=2025-12-01  # pretend another date (decides "upcoming" vs. "past" events)
@@ -19,10 +19,10 @@ $timezone = new DateTimeZone('Europe/Berlin');
 
 try {
     $today = new DateTimeImmutable($options['today'] ?? 'today', $timezone);
-    $pages = (new Build(__DIR__, __DIR__ . '/public', $today))->run();
+    $pages = (new Build(__DIR__, __DIR__ . '/docs', $today))->run();
 } catch (InvalidContent $e) {
     fwrite(STDERR, "Fehler in den Inhalten: {$e->getMessage()}\n");
     exit(1);
 }
 
-printf("%d Seiten nach public/ geschrieben.\n", count($pages));
+printf("%d Seiten nach docs/ geschrieben.\n", count($pages));

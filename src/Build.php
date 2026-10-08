@@ -26,6 +26,8 @@ final readonly class Build
 
         $this->resetOutputDir();
         $this->copyDirectory("{$this->rootDir}/static", $this->outputDir);
+        // GitHub Pages publishes the output as-is instead of running Jekyll over it.
+        $this->write('/.nojekyll', '');
 
         $pages = $this->generatedPages($content);
         foreach ($content->site['pages'] ?? [] as $index => $page) {
@@ -41,8 +43,9 @@ final readonly class Build
             $this->write($path, $externalLinks->openInNewWindow($html));
         }
 
+        // The build date instead of "now" keeps the committed output stable when nothing changed.
         $calendar = new Calendar($content->site['name'], $content->site['baseUrl']);
-        $this->write('/events.ics', $calendar->render($content->events, new \DateTimeImmutable('now')));
+        $this->write('/events.ics', $calendar->render($content->events, $this->today));
         $this->write('/sitemap.xml', $this->sitemap($content->site['baseUrl'], array_diff(array_keys($pages), ['/404.html'])));
 
         return array_keys($pages);

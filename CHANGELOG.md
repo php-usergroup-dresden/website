@@ -9,6 +9,8 @@ and fails if the section is missing.
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-10-08
+
 ### Added
 
 - Dependency-free PHP build (PHP ≥ 8.2) with plain PHP templates, a small Markdown renderer and a test suite.

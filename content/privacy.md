@@ -14,11 +14,11 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 ## Allgemeine Informationen zur Einbindung von Diensten und Inhalten Dritter
 
-Unser Angebot umfasst mitunter Inhalte, Dienste und Leistungen anderer Anbieter. Das sind zum Beispiel Karten, die von Google-Maps zur Verfügung gestellt werden, Videos von YouTube sowie Grafiken und Bilder anderer Webseiten. Damit diese Daten im Browser des Nutzers aufgerufen und dargestellt werden können, ist die Übermittlung der IP-Adresse zwingend notwendig. Die Anbieter (im Folgenden als „Dritt-Anbieter“ bezeichnet) nehmen also die IP-Adresse des jeweiligen Nutzers wahr.
+Unsere Webseite bindet keine Inhalte, Schriftarten, Skripte, Videos oder Karten von anderen Anbietern ein. Beim Aufruf unserer Seiten wird daher keine Verbindung zu Servern Dritter hergestellt und keine IP-Adresse an Dritte übermittelt. Eine Ausnahme ist das Absenden des Newsletter-Formulars (siehe „Newsletter – Versanddienstleister“).
 
-Auch wenn wir bemüht sind, ausschließlich Dritt-Anbieter zu nutzen, welche die IP-Adresse nur benötigen, um Inhalte ausliefern zu können, haben wir keinen Einfluss darauf, ob die IP-Adresse möglicherweise gespeichert wird. Dieser Vorgang dient in dem Fall unter anderem statistischen Zwecken. Sofern wir Kenntnis davon haben, dass die IP-Adresse gespeichert wird, weisen wir unsere Nutzer darauf hin.
+Wir verlinken jedoch auf Angebote anderer Anbieter (im Folgenden als „Dritt-Anbieter“ bezeichnet), zum Beispiel auf Karten bei Google Maps, Videos bei YouTube oder Veranstaltungen bei Meetup. Solche Links öffnen sich in einem neuen Fenster. Erst wenn Sie einem Link folgen, wird eine Verbindung zum jeweiligen Dritt-Anbieter hergestellt, der dabei Ihre IP-Adresse wahrnimmt. Auf die Verarbeitung Ihrer Daten durch den Dritt-Anbieter haben wir keinen Einfluss; es gelten dessen Datenschutzbestimmungen.
 
-Weiterführende Hinweise zur Einbindung von Diensten und Inhalten Dritter entnehmen Sie bitte den Kapiteln mit der Kennzeichnung „Verwendung von <Anbieter>“.
+Weiterführende Hinweise zu einzelnen Dritt-Anbietern entnehmen Sie bitte den Kapiteln mit der Kennzeichnung „Verwendung von <Anbieter>“.
 
 ## Allgemeine Prinzipien zur Datensparsamkeit
 
@@ -139,6 +139,8 @@ Kündigung/Widerruf - Sie können den Empfang unseres Newsletters jederzeit kün
 
 Der Versand der Newsletter erfolgt mittels des Versanddienstleisters „MailChimp“, einer Newsletter-Versandplattform des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA. Die Datenschutzbestimmungen des Versanddienstleisters können Sie hier einsehen: https://mailchimp.com/legal/privacy/.
 
+Das Anmeldeformular für den Newsletter im Fußbereich unserer Seiten übermittelt Ihre E-Mail-Adresse erst beim Absenden direkt an MailChimp. Solange Sie das Formular nicht absenden, werden keine Daten an MailChimp übertragen.
+
 The Rocket Science Group LLC d/b/a MailChimp ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäisches Datenschutzniveau einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&status=Active). Der Versanddienstleister wird auf Grundlage unserer berechtigten Interessen gem. Art. 6 Abs. 1 lit. f DSGVO und eines Auftragsverarbeitungsvertrages gem. Art. 28 Abs. 3 S. 1 DSGVO eingesetzt.
 
 Der Versanddienstleister kann die Daten der Empfänger in pseudonymer Form, d.h. ohne Zuordnung zu einem Nutzer, zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für statistische Zwecke verwenden. Der Versanddienstleister nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder um die Daten an Dritte weiterzugeben.
@@ -155,39 +157,17 @@ Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, u
 
 Soweit nicht anders im Rahmen unserer Datenschutzerklärung angegeben, verarbeiten wir die Daten der Nutzer sofern diese mit uns innerhalb der sozialen Netzwerke und Plattformen kommunizieren, z.B. Beiträge auf unseren Onlinepräsenzen verfassen oder uns Nachrichten zusenden.
 
-## Einbindung von Diensten und Inhalten Dritter
+## Schriftarten und Event-Kalender
 
-Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”).
+Die auf dieser Webseite verwendete Schriftart „Recursive“ wird von unserem eigenen Server ausgeliefert. Es besteht dabei keine Verbindung zu Servern von Google oder anderen Anbietern von Schriftarten.
 
-Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
-
-## Verwendung von Twitter
-
-Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Twitter eingebunden, angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Ihr Gefallen betreffend die Inhalte kundtun, den Verfassern der Inhalte oder unsere Beiträge abonnieren können. Sofern die Nutzer Mitglieder der Plattform Twitter sind, kann Twitter den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen. Twitter ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active). Datenschutz-Erklärung: https://twitter.com/de/privacy, Opt-Out: https://twitter.com/personalization.
-
-## Verwendung von Script-Bibliotheken (Google Webfonts / Google Calendar)
-
-Um unsere Inhalte browser-übergreifend korrekt und grafisch ansprechend darzustellen, verwenden wir auf dieser Website Script-Bibliotheken und Schriftbibliotheken wie z. B. Google Webfonts (https://www.google.com/webfonts/). Google Webfonts werden zur Vermeidung mehrfachen Ladens in den Cache Ihres Browsers übertragen. Falls der Browser die Google Webfonts nicht unterstützt oder den Zugriff unterbindet, werden Inhalte in einer Standardschrift angezeigt. Desweiteren verwenden wir zur Unterstützung unserer Aktivitäts-Kommunikation Google-Calendar als Link und Embedded Ressource.
-
-Der Aufruf von Script-Bibliotheken (oder Schrift-Bibliotheken) löst automatisch eine Verbindung zum Betreiber der Bibliothek aus. Dabei ist es theoretisch möglich – aktuell allerdings auch unklar ob und ggf. zu welchen Zwecken – dass Betreiber entsprechender Bibliotheken Daten erheben.
-
-Die Datenschutzrichtlinie des Bibliothek-Betreibers Google finden Sie hier: https://www.google.com/policies/privacy/ sowie hier: https://www.google.com/intl/de_at/cloud/security/gdpr/
-
-## Verwendung von Xing
-
-Unsere Webseite nutzt Funktionen des Netzwerks XING. Anbieter ist die XING AG, Dammtorstraße 29-32, 20354 Hamburg, Deutschland. Bei jedem Abruf einer unserer Seiten, die Funktionen von Xing enthält, wird eine Verbindung zu Servern von Xing hergestellt. Eine Speicherung von personenbezogenen Daten erfolgt dabei nach unserer Kenntnis nicht. Insbesondere werden keine IP-Adressen gespeichert oder das Nutzungsverhalten ausgewertet.
-
-Weitere Information zum Datenschutz und dem Xing Share-Button finden Sie in der Datenschutzerklärung von Xing unter https://www.xing.com/app/share?op=data_protection.
+Unseren Event-Kalender stellen wir als Datei (`/events.ics`) auf unserem eigenen Server bereit. Wenn Sie den Kalender in Ihrer Kalender-Anwendung abonnieren, ruft diese die Datei regelmäßig von unserem Server ab.
 
 ## Verwendung von YouTube-Videos
 
-Auf einigen unserer Webseiten betten/verlinken wir Youtube-Videos ein. Betreiber der entsprechenden Plugins ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Wenn Sie eine Seite mit dem YouTube-Plugin besuchen, wird eine Verbindung zu Servern von Youtube hergestellt. Dabei wird Youtube mitgeteilt, welche Seiten Sie besuchen. Wenn Sie in Ihrem Youtube-Account eingeloggt sind, kann Youtube Ihr Surfverhalten Ihnen persönlich zuzuordnen. Dies verhindern Sie, indem Sie sich vorher aus Ihrem Youtube-Account ausloggen.
+Wir verlinken auf Videos unserer Vorträge bei YouTube. Videos werden auf unserer Webseite nicht eingebettet. Eine Verbindung zu YouTube wird erst hergestellt, wenn Sie einem Link folgen. Anbieter von YouTube ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland.
 
-Wird ein Youtube-Video gestartet, setzt der Anbieter Cookies ein, die Hinweise über das Nutzerverhalten sammeln.
-
-Wer das Speichern von Cookies für das Google-Ad-Programm deaktiviert hat, wird auch beim Anschauen von Youtube-Videos mit keinen solchen Cookies rechnen müssen. Youtube legt aber auch in anderen Cookies nicht-personenbezogene Nutzungsinformationen ab. Möchten Sie dies verhindern, so müssen Sie das Speichern von Cookies im Browser blockieren.
-
-Weitere Informationen zum Datenschutz bei „Youtube“ finden Sie in der Datenschutzerklärung des Anbieters unter: https://www.google.de/intl/de/policies/privacy/.
+Weitere Informationen zum Datenschutz bei „YouTube“ finden Sie in der Datenschutzerklärung des Anbieters unter: https://policies.google.com/privacy.
 
 ## Verwendung von SLACK
 

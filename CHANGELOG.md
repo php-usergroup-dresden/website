@@ -9,6 +9,11 @@ and fails if the section is missing.
 
 ## [Unreleased]
 
+### Changed
+
+- X-MAS Special 2026: new start time (17:30), updated agenda with a discussion about the future of the user group, and
+  a short description.
+
 ## [2.0.1] - 2026-10-08
 
 ### Added
